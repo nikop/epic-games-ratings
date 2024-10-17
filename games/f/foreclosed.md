@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 66.00% | ~185 |
-| Silent Overload | 58.00% | ~162 |
-| Symbiotic Weapon | 52.00% | ~146 |
-| A.I. Training | 44.00% | ~123 |
-| Sniper | 34.00% | ~95 |
-| The Red Herring | 30.00% | ~84 |
-| Telekinesis | 27.00% | ~76 |
-| Sapper | 19.00% | ~53 |
-| Tough Decision | 19.00% | ~53 |
-| Veteran Sniper | 18.00% | ~50 |
-| The Neuro-connector | 15.00% | ~42 |
-| Flatline | 15.00% | ~42 |
-| Mind Over Matter | 15.00% | ~42 |
-| Full and Final Settlement | 14.00% | ~39 |
-| Unstoppable | 14.00% | ~39 |
-| One Click Away | 14.00% | ~39 |
-| Cyborg | 8.00% | ~22 |
-| Lifter | 6.00% | ~17 |
+| Breaking Through | 66.00% | ~190 |
+| Silent Overload | 57.00% | ~164 |
+| Symbiotic Weapon | 52.00% | ~150 |
+| A.I. Training | 44.00% | ~127 |
+| Sniper | 34.00% | ~98 |
+| The Red Herring | 30.00% | ~86 |
+| Telekinesis | 27.00% | ~78 |
+| Sapper | 19.00% | ~55 |
+| Tough Decision | 19.00% | ~55 |
+| Veteran Sniper | 18.00% | ~52 |
+| The Neuro-connector | 15.00% | ~43 |
+| Flatline | 15.00% | ~43 |
+| Mind Over Matter | 15.00% | ~43 |
+| Full and Final Settlement | 14.00% | ~40 |
+| Unstoppable | 14.00% | ~40 |
+| One Click Away | 14.00% | ~40 |
+| Cyborg | 8.00% | ~23 |
+| Lifter | 7.00% | ~20 |
 | Brain-hacker | 6.00% | ~17 |
 | Gravity Bender | 5.00% | ~14 |
-| Hunter | 4.00% | ~11 |
-| Zero Gravity | 4.00% | ~11 |
+| Zero Gravity | 4.00% | ~12 |
+| Hunter | 3.00% | ~9 |
 | No Place to Hide | 2.00% | ~6 |
 | A Voice in the Dark | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 561)  
-Completed: 4 (1.43%) (Ranked 242)  
+Progressed: 288 (Ranked 580)  
+Completed: 4 (1.39%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,6 +108,7 @@ Completed: 4 (1.43%) (Ranked 242)
 | 2024-08-09 | 268 | 4 |
 | 2024-08-20 | 272 | 4 |
 | 2024-09-14 | 280 | 4 |
+| 2024-10-17 | 288 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

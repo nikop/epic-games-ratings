@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 541,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -46,7 +46,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -346,6 +346,11 @@
       "Time": "2024-09-14T14:18:43.2611696+00:00",
       "NumProgressed": 334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:38.6204777+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -381,7 +386,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "chapter2",
@@ -403,9 +408,9 @@
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 97
     },
     {
       "ID": "darkVolepain",
@@ -429,7 +434,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "familyReunion",
@@ -453,7 +458,7 @@
       "Name": "Gotcha",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "iDareYou",
@@ -485,7 +490,7 @@
       "Name": "It\u0027s not cheating",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "meetYourMaker",
@@ -493,7 +498,7 @@
       "Name": "Meet your maker",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "mesmerecital",
@@ -509,7 +514,7 @@
       "Name": "Money talks",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "objection",
@@ -533,7 +538,7 @@
       "Name": "Peaceful protest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "pacifistFanatic",
@@ -549,7 +554,7 @@
       "Name": "Say hello to my little friends",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "sneakInSneakOut",
@@ -565,7 +570,7 @@
       "Name": "Stronk",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "superMothBoy",
@@ -581,15 +586,15 @@
       "Name": "The Bad Place",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "theGoodPlace",
       "SetID": "5bkacmp",
       "Name": "The Good Place",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "theGreatScam",
@@ -611,9 +616,9 @@
       "ID": "theMediumPlace",
       "SetID": "5bkacmp",
       "Name": "The Medium Place",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "theNovice",
@@ -635,9 +640,9 @@
       "ID": "thePolitician",
       "SetID": "5bkacmp",
       "Name": "Elephant in the room",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "theRanger",
@@ -645,7 +650,7 @@
       "Name": "Caged tiger",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 222
     },
     {
       "ID": "theUnionLeader",
@@ -653,7 +658,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "trialByCombat",
@@ -675,16 +680,16 @@
       "ID": "youSssavedMe",
       "SetID": "5bkacmp",
       "Name": "You sssaved me",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
@@ -692,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2024-08-05T09:58:51.1548804+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:43.261169+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:38.6204772+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:24.8151855+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:07.6235758+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:43.261198+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:41.0361749+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:38.620507+00:00"
 }

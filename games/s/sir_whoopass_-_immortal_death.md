@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 95.00% | ~173 |
-| MLG 360 no scope kill! | 95.00% | ~173 |
-| Are you ready to rumble? | 95.00% | ~173 |
-| That's what cheese said! | 91.00% | ~166 |
-| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~160 |
-| I like you...but I have to kill you... | 88.00% | ~160 |
-| Not so hip anymore! | 87.00% | ~158 |
-| Blurry depth perception | 84.00% | ~153 |
-| Nerd | 83.00% | ~151 |
-| Up and down | 81.00% | ~147 |
-| Rolling, Rolling, Rolling | 77.00% | ~140 |
-| Oh, you're up to no gouda! | 67.00% | ~122 |
-| Fire-fighter! | 66.00% | ~120 |
-| Make Love not War-Craft a Mistlefoe | 65.00% | ~118 |
-| Meat grinder | 62.00% | ~113 |
-| You're not going to blow me up! | 57.00% | ~104 |
-| Mushroom soup of the day | 54.00% | ~98 |
-| Butcher | 51.00% | ~93 |
-| Thats disgusting! | 51.00% | ~93 |
-| Spare Ribs | 51.00% | ~93 |
-| Cockadoodledoo! | 51.00% | ~93 |
-| Honk honk! | 50.00% | ~91 |
-| My pants squeak when I walk | 47.00% | ~86 |
-| Surprise!! | 46.00% | ~84 |
-| Self assessed tax return | 45.00% | ~82 |
-| Haemochromatosis | 42.00% | ~76 |
-| Make America Grate Again | 41.00% | ~75 |
-| Karaoke king | 38.00% | ~69 |
-| Pasta Bolognese | 38.00% | ~69 |
-| You are no match for me, Billy! | 37.00% | ~67 |
-| You can't stop me, bro! | 37.00% | ~67 |
-| Catch the bus with me! | 35.00% | ~64 |
-| Meatballs, coming up! | 34.00% | ~62 |
-| I'm going to get a concussion | 34.00% | ~62 |
-| Another one bites the iron | 34.00% | ~62 |
-| Ripe Meat Off The Bone! | 29.00% | ~53 |
-| Kleptomaniac | 29.00% | ~53 |
-| Your daily dose of Vitamin C. | 27.00% | ~49 |
-| Hovering around | 27.00% | ~49 |
-| A Megapint...? | 26.00% | ~47 |
+| Tastes just like chicken! | 96.00% | ~179 |
+| MLG 360 no scope kill! | 96.00% | ~179 |
+| Are you ready to rumble? | 96.00% | ~179 |
+| That's what cheese said! | 92.00% | ~171 |
+| AHHHHHH.....I'M ON FIRE!!! | 89.00% | ~166 |
+| I like you...but I have to kill you... | 89.00% | ~166 |
+| Not so hip anymore! | 88.00% | ~164 |
+| Blurry depth perception | 84.00% | ~156 |
+| Nerd | 83.00% | ~154 |
+| Up and down | 82.00% | ~153 |
+| Rolling, Rolling, Rolling | 78.00% | ~145 |
+| Oh, you're up to no gouda! | 68.00% | ~126 |
+| Fire-fighter! | 67.00% | ~125 |
+| Make Love not War-Craft a Mistlefoe | 66.00% | ~123 |
+| Meat grinder | 62.00% | ~115 |
+| You're not going to blow me up! | 57.00% | ~106 |
+| Mushroom soup of the day | 55.00% | ~102 |
+| Thats disgusting! | 52.00% | ~97 |
+| Spare Ribs | 52.00% | ~97 |
+| Cockadoodledoo! | 52.00% | ~97 |
+| Honk honk! | 51.00% | ~95 |
+| Butcher | 51.00% | ~95 |
+| Surprise!! | 47.00% | ~87 |
+| My pants squeak when I walk | 47.00% | ~87 |
+| Self assessed tax return | 45.00% | ~84 |
+| Haemochromatosis | 43.00% | ~80 |
+| Make America Grate Again | 41.00% | ~76 |
+| Pasta Bolognese | 39.00% | ~73 |
+| You are no match for me, Billy! | 38.00% | ~71 |
+| Karaoke king | 38.00% | ~71 |
+| You can't stop me, bro! | 38.00% | ~71 |
+| Catch the bus with me! | 36.00% | ~67 |
+| Meatballs, coming up! | 34.00% | ~63 |
+| I'm going to get a concussion | 34.00% | ~63 |
+| Another one bites the iron | 34.00% | ~63 |
+| Kleptomaniac | 30.00% | ~56 |
+| Ripe Meat Off The Bone! | 29.00% | ~54 |
+| Your daily dose of Vitamin C. | 27.00% | ~50 |
+| Hovering around | 27.00% | ~50 |
+| A Megapint...? | 26.00% | ~48 |
 | You're not so Big anymore, Boi! | 25.00% | ~46 |
-| I cant stand still! | 24.00% | ~44 |
-| Slimy... yet satisfying | 24.00% | ~44 |
-| Master Butcher | 20.00% | ~36 |
-| Just wing it! | 18.00% | ~33 |
+| I cant stand still! | 24.00% | ~45 |
+| Slimy... yet satisfying | 24.00% | ~45 |
+| Master Butcher | 20.00% | ~37 |
+| Just wing it! | 19.00% | ~35 |
 | Deal with it | 18.00% | ~33 |
-| You're looking mozzare-hella good! | 14.00% | ~25 |
-| Yeehaw!!! | 14.00% | ~25 |
+| You're looking mozzare-hella good! | 14.00% | ~26 |
+| Yeehaw!!! | 13.00% | ~24 |
 | Timber! | 13.00% | ~24 |
 | Free Of Chains | 13.00% | ~24 |
 | Ancient Ruins of Dirty Feet | 12.00% | ~22 |
-| Grumpy Immortal | 12.00% | ~22 |
-| Spoiler alert! | 10.00% | ~18 |
-| Ancient Ruins of Moist Overhangs | 9.00% | ~16 |
-| I want to throw up! | 9.00% | ~16 |
-| I drink, but I'm not a drunk! | 9.00% | ~16 |
+| Grumpy Immortal | 11.00% | ~20 |
+| Spoiler alert! | 10.00% | ~19 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~17 |
+| I want to throw up! | 9.00% | ~17 |
+| I drink, but I'm not a drunk! | 9.00% | ~17 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~15 |
 | Scrambled Eggs | 8.00% | ~15 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~9 |
@@ -68,12 +68,12 @@
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~7 |
 | Ancient Ruins of Stuffed Pantrys | 4.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 4.00% | ~7 |
-| Fifty Shades of Gruyere | 3.00% | ~5 |
-| Ancient Ruins of Empty Echoes | 3.00% | ~5 |
-| Ancient Ruins of Vitamin D Addition | 3.00% | ~5 |
-| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~5 |
-| Ancient Ruins of Inadequate Opportunities | 3.00% | ~5 |
-| Okay... Maybe I'm a bit drunk... | 3.00% | ~5 |
+| Fifty Shades of Gruyere | 3.00% | ~6 |
+| Ancient Ruins of Empty Echoes | 3.00% | ~6 |
+| Ancient Ruins of Vitamin D Addition | 3.00% | ~6 |
+| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~6 |
+| Ancient Ruins of Inadequate Opportunities | 3.00% | ~6 |
+| Okay... Maybe I'm a bit drunk... | 3.00% | ~6 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~4 |
 | Ancient Ruins of Peekaboo | 2.00% | ~4 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~4 |
@@ -87,8 +87,8 @@
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 623)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 186 (Ranked 637)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,3 +166,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 178 | 0 |
 | 2024-08-20 | 180 | 0 |
 | 2024-09-14 | 182 | 0 |
+| 2024-10-17 | 186 | 0 |

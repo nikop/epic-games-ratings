@@ -2,10 +2,10 @@
   "ID": "a038504f2c5a41fa9ae608f72284a96f",
   "Name": "Sophia the Traveler",
   "ProductSlug": "sophia-the-traveler-eeb487",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-04-11T07:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "75pco7c",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:14:50.155915+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:50.1559142+00:00",
   "LastUpdate_AppInfo": "2024-10-11T17:57:26.2650117+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:31.4942634+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:38.759198+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:50.155916+00:00"
 }

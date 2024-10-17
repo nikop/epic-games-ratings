@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Robotic Hero | 33.00% | ~1 |
 | Archer | 0.00% | ~0 |
 | Tough Times | 0.00% | ~0 |
 | Builder | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Status Master | 0.00% | ~0 |
 | Resilient Town | 0.00% | ~0 |
 | Thorny | 0.00% | ~0 |
-| Robotic Hero | 0.00% | ~0 |
 | Deep Explorer | 0.00% | ~0 |
 | Swampland | 0.00% | ~0 |
 | Shivers | 0.00% | ~0 |
@@ -40,10 +40,11 @@
 | Satchel Hero | 0.00% | ~0 |
 | Tote Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,118)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 3 (Ranked 1,143)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-14 | 1 | 0 |
 | 2024-03-21 | 2 | 0 |
+| 2024-10-17 | 3 | 0 |

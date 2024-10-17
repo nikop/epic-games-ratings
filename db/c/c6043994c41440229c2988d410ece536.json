@@ -2,10 +2,10 @@
   "ID": "c6043994c41440229c2988d410ece536",
   "Name": "Elemental Exiles",
   "ProductSlug": "elemental-exiles-8e3386",
-  "Ranking_EOS_Progress": 1024,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1046,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2024-08-20T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2024-09-14T14:21:13.6568037+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:10:53.8362639+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -153,79 +158,79 @@
       "ID": "first_death",
       "SetID": "4icd1a8",
       "Name": "It\u2019s Okay To Fail...",
-      "Percentage": 25,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "unlock_01_reaper",
       "SetID": "4icd1a8",
       "Name": "A Reapers Job is Never Done...",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_02_skeleton_dog",
       "SetID": "4icd1a8",
       "Name": "A Bone to Pick",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_03_nightmare_savant",
       "SetID": "4icd1a8",
       "Name": "The Apocalypse will be Beautiful!",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_07_dumb_fishman",
       "SetID": "4icd1a8",
       "Name": "For the Fish!",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_08_blind_nord_woman",
       "SetID": "4icd1a8",
       "Name": "A Tale of Revenge",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_09_orc_shaman",
       "SetID": "4icd1a8",
       "Name": "Tribal Politics",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "unlock_10_tree_stump",
       "SetID": "4icd1a8",
       "Name": "Branching Out",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "4icd1a8",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-06T08:58:18.9069988+00:00",
   "FirstSeenAchievements": "2024-08-09T18:04:58.0144691+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:13.6568032+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:53.8362634+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:39.1903583+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:30.9350834+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:13.6568175+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:53.109212+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:53.8362774+00:00"
 }

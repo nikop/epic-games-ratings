@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Olydri | 100.00% | ~1 |
+| Ranger | 50.00% | ~1 |
+| Welcome to Olydri | 50.00% | ~1 |
 | Champion of the Coalition | 0.00% | ~0 |
 | Legendary Logs | 0.00% | ~0 |
 | MVP Drek | 0.00% | ~0 |
@@ -34,7 +35,6 @@
 | Great responsibility | 0.00% | ~0 |
 | Green Fingers | 0.00% | ~0 |
 | Nice little earner | 0.00% | ~0 |
-| Ranger | 0.00% | ~0 |
 | Player Killer | 0.00% | ~0 |
 | Hunter | 0.00% | ~0 |
 | Chapter 1 Owned | 0.00% | ~0 |
@@ -78,9 +78,10 @@
 | 2013 and 2017 records | 0.00% | ~0 |
 | Masks off | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,164)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 2 (Ranked 1,168)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-28 | 1 | 0 |
+| 2024-10-17 | 2 | 0 |

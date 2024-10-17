@@ -2,10 +2,10 @@
   "ID": "2b96380a243e4883bb007b67b78b18c1",
   "Name": "SPIRITUS",
   "ProductSlug": "spiritus-b0efa2",
-  "Ranking_EOS_Progress": 1036,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1093,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-10T00:00:00+00:00",
     "PcReleaseDate": "2022-06-08T23:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -61,6 +61,11 @@
     {
       "Time": "2024-01-11T19:05:09.749612+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:32.4798127+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -104,7 +109,7 @@
       "ID": "FirstKill",
       "SetID": "98k75ll",
       "Name": "First Kill",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -112,7 +117,7 @@
       "ID": "GameOver",
       "SetID": "98k75ll",
       "Name": "Game Over",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -120,7 +125,7 @@
       "ID": "Headshot",
       "SetID": "98k75ll",
       "Name": "Headshot!",
-      "Percentage": 57,
+      "Percentage": 67,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -128,7 +133,7 @@
       "ID": "NewGame",
       "SetID": "98k75ll",
       "Name": "Enter the survival horror.",
-      "Percentage": 71,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -136,7 +141,7 @@
       "ID": "Shotgun",
       "SetID": "98k75ll",
       "Name": "Obtain the shotgun",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -144,7 +149,7 @@
       "ID": "SurvivetheHorde",
       "SetID": "98k75ll",
       "Name": "Survive the Horde",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "TheEnd",
       "SetID": "98k75ll",
       "Name": "The End?",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 1
     }
@@ -161,13 +166,13 @@
     {
       "ID": "98k75ll",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:44.2978937+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:32.4798122+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:10.8073291+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:04.3097882+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:44.2979044+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:26.4397067+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:32.4798229+00:00"
 }

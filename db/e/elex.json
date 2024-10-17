@@ -5,10 +5,10 @@
   "Ranking_Rating": 878,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 455,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-17T15:00:00+00:00",
@@ -433,9 +433,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2024-10-09T19:03:06.5824066+00:00",
       "NumProgressed": 719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:32.7781121+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:41.3638159+00:00",
@@ -480,7 +485,7 @@
       "Name": "Big Earner",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "10000ELEXIT",
@@ -488,7 +493,7 @@
       "Name": "Shard hoarder",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "1000ELEXIT",
@@ -496,7 +501,7 @@
       "Name": "The Big G",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "100LOCKSPICKED",
@@ -510,7 +515,7 @@
       "ID": "20FALLTODEATH",
       "SetID": "3koflhj",
       "Name": "Splattermaster",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -528,7 +533,7 @@
       "Name": "Atombouncer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -568,7 +573,7 @@
       "Name": "Pack leader",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "80HOURS",
@@ -582,9 +587,9 @@
       "ID": "ALLBSK",
       "SetID": "3koflhj",
       "Name": "Nature Lover",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ALLCOMBAT",
@@ -592,7 +597,7 @@
       "Name": "Fightmaster",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ALLCRAFT",
@@ -600,7 +605,7 @@
       "Name": "Flexible friend",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ALLKLE",
@@ -624,7 +629,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ALLSURVIVAL",
@@ -632,7 +637,7 @@
       "Name": "Natural Survivor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ALLXP",
@@ -646,9 +651,9 @@
       "ID": "BATTLEPLANS",
       "SetID": "3koflhj",
       "Name": "Prepared",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "CALAAN",
@@ -664,7 +669,7 @@
       "Name": "Cultivator",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CHOSECLAW",
@@ -680,7 +685,7 @@
       "Name": "Acolyte",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CHOSEOUT",
@@ -688,7 +693,7 @@
       "Name": "Runner",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COLLECTDEPT",
@@ -696,7 +701,7 @@
       "Name": "Earner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "EMOCHAOS",
@@ -704,7 +709,7 @@
       "Name": "Flashback",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ENDGAME",
@@ -712,7 +717,7 @@
       "Name": "Visionary",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ENDHUM",
@@ -720,7 +725,7 @@
       "Name": "Pure Rebel",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ENDNEU",
@@ -734,9 +739,9 @@
       "ID": "ENDSYN",
       "SetID": "3koflhj",
       "Name": "Beast of Xacor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FINABE",
@@ -750,9 +755,9 @@
       "ID": "FINDCITY",
       "SetID": "3koflhj",
       "Name": "Survival",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 292
     },
     {
       "ID": "FINDRAY",
@@ -760,7 +765,7 @@
       "Name": "Fencing master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "FINDSMUGGLER",
@@ -776,7 +781,7 @@
       "Name": "Up and Away",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 481
     },
     {
       "ID": "FREEHOM",
@@ -784,7 +789,7 @@
       "Name": "Leader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HUMAN",
@@ -824,7 +829,7 @@
       "Name": "Hunter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KILL300MONSTER",
@@ -848,7 +853,7 @@
       "Name": "Coldhearted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "OLDDUTIES",
@@ -856,15 +861,15 @@
       "Name": "Turned the world upside down.",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ROMANTIC",
       "SetID": "3koflhj",
       "Name": "Romantic",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 51
     },
     {
       "ID": "SHOWDOWN",
@@ -872,22 +877,22 @@
       "Name": "Thicker than Water",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "3koflhj",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
   "FirstSeenAchievements": "2024-02-22T21:03:39.1638587+00:00",
   "LastChanged": "2024-09-27T11:58:59.8582247+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:06.5824061+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:32.7781115+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:07.2158949+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:47.2016867+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:06.5824401+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:08.7988506+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:32.7781452+00:00"
 }

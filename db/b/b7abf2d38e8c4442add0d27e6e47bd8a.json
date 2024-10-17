@@ -2,10 +2,10 @@
   "ID": "b7abf2d38e8c4442add0d27e6e47bd8a",
   "Name": "The Lullaby of Life",
   "ProductSlug": "the-lullaby-of-life-0c5767",
-  "Ranking_EOS_Progress": 918,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 961,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-06T23:00:00+00:00",
     "PcReleaseDate": "2024-04-30T16:00:00+00:00",
@@ -108,17 +108,17 @@
       "ID": "ACH_LVL_COMPLETE_6",
       "SetID": "4ham3ma",
       "Name": "Journey",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LVL_COMPLETE_7",
       "SetID": "4ham3ma",
       "Name": "Life",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SPEED_RUNNER",
@@ -138,8 +138,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:06:02.9588374+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:32.1548936+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:01.0548594+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:12.3104439+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:37.9242479+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:32.1549034+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:19.2357704+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:01.0548698+00:00"
 }

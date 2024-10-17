@@ -2,10 +2,10 @@
   "ID": "b2c22846c4d6454cb73a5cbf5625d76a",
   "Name": "Chronique des Silencieux",
   "ProductSlug": "chronique-des-silencieux-73107c",
-  "Ranking_EOS_Progress": 1078,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1122,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-05T13:00:00+00:00",
     "PcReleaseDate": "2024-01-29T18:00:00+00:00",
@@ -153,8 +153,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:53.3287863+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:12.7613331+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:13.454726+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:38.2792623+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:29.1250678+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:12.7613432+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:51.3394292+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:13.4547351+00:00"
 }

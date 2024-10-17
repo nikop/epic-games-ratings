@@ -2,10 +2,10 @@
   "ID": "92bf624272ba483fba3ffadc78a767eb",
   "Name": "LOEK",
   "ProductSlug": "loek-9e15b3",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1093,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2020-02-10T00:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-09-14T14:15:11.9645204+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:30.1932272+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -45,39 +50,39 @@
       "ID": "Level1",
       "SetID": "5gacn94",
       "Name": "Completed Level 1",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Level2",
       "SetID": "5gacn94",
       "Name": "Completed Level 2",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Level3",
       "SetID": "5gacn94",
       "Name": "Completed Level 3",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Level4",
       "SetID": "5gacn94",
       "Name": "Completed Level 4",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Level5",
       "SetID": "5gacn94",
       "Name": "Completed Level 5",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "Level6",
       "SetID": "5gacn94",
       "Name": "Completed Level 6",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -133,9 +138,9 @@
       "ID": "bronzemaster",
       "SetID": "5gacn94",
       "Name": "Bronze Medal",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "bulletcow",
@@ -165,7 +170,7 @@
       "ID": "defrag",
       "SetID": "5gacn94",
       "Name": "Bloxcraft",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -181,7 +186,7 @@
       "ID": "flickshot",
       "SetID": "5gacn94",
       "Name": "Flickshot",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -197,9 +202,9 @@
       "ID": "goldmaster",
       "SetID": "5gacn94",
       "Name": "Gold Medal",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "helicopter",
@@ -213,7 +218,7 @@
       "ID": "loekdoor",
       "SetID": "5gacn94",
       "Name": "LOEK Door",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "ID": "nophotos",
       "SetID": "5gacn94",
       "Name": "No photos",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -237,15 +242,15 @@
       "ID": "rehab",
       "SetID": "5gacn94",
       "Name": "Weeb Rehab",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "rocketmaster",
       "SetID": "5gacn94",
       "Name": "Rocket Master",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -277,9 +282,9 @@
       "ID": "silvermaster",
       "SetID": "5gacn94",
       "Name": "Silver Medal",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "stefan",
@@ -317,7 +322,7 @@
       "ID": "weeb",
       "SetID": "5gacn94",
       "Name": "Weeb",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -334,14 +339,14 @@
     {
       "ID": "5gacn94",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-28T05:59:34.9656715+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:11.9645249+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:11.9645195+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:30.1932267+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:23.9896902+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:37.6626205+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:11.9654121+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:53.7821741+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:30.193257+00:00"
 }

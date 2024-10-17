@@ -5,33 +5,34 @@ Rating: 4.60 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 80.00% | ~727 |
-| Master of the Spear | 61.00% | ~554 |
-| Master of Storms | 44.00% | ~400 |
-| Make way, coming through | 37.00% | ~336 |
-| Abyssal Descendant | 33.00% | ~300 |
-| Axemaster | 32.00% | ~291 |
-| Necromancer Slayer | 29.00% | ~264 |
-| Mastery Achieved | 27.00% | ~245 |
-| Greedy? | 26.00% | ~236 |
-| Weaver of Frost | 26.00% | ~236 |
-| Titanic Annihilation | 22.00% | ~200 |
-| Treasure Hunter | 17.00% | ~155 |
-| Legendary Armament | 16.00% | ~145 |
-| Ascendant | 14.00% | ~127 |
-| Abyssal Challenger | 13.00% | ~118 |
-| Rock Crusher | 11.00% | ~100 |
-| Apex Overlord | 7.00% | ~64 |
-| The Gauntlet | 5.00% | ~45 |
+| Welcome! | 77.00% | ~772 |
+| Master of the Spear | 63.00% | ~631 |
+| Master of Storms | 47.00% | ~471 |
+| Make way, coming through | 39.00% | ~391 |
+| Abyssal Descendant | 34.00% | ~341 |
+| Axemaster | 34.00% | ~341 |
+| Necromancer Slayer | 31.00% | ~311 |
+| Weaver of Frost | 28.00% | ~281 |
+| Mastery Achieved | 28.00% | ~281 |
+| Greedy? | 27.00% | ~271 |
+| Titanic Annihilation | 23.00% | ~230 |
+| Legendary Armament | 18.00% | ~180 |
+| Treasure Hunter | 18.00% | ~180 |
+| Ascendant | 15.00% | ~150 |
+| Abyssal Challenger | 15.00% | ~150 |
+| Rock Crusher | 13.00% | ~130 |
+| Apex Overlord | 9.00% | ~90 |
+| The Gauntlet | 5.00% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 432)  
-Completed: 28 (3.08%) (Ranked 185)  
+Progressed: 1,002 (Ranked 440)  
+Completed: 33 (3.29%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-08-09 | 394 | 7 |
 | 2024-08-20 | 508 | 8 |
 | 2024-09-14 | 909 | 28 |
+| 2024-10-17 | 1,002 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

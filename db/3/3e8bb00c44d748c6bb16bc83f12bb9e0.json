@@ -2,10 +2,10 @@
   "ID": "3e8bb00c44d748c6bb16bc83f12bb9e0",
   "Name": "The Elder Scrolls IV: Oblivion\u00AE Game of the Year Edition",
   "ProductSlug": "oblivion-f77be8",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-16T15:00:00.707+00:00",
     "PcReleaseDate": "2007-09-11T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-19T11:58:20.9720145+00:00",
   "LastUpdate_AppInfo": "2024-10-11T03:56:57.6226017+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:40.1069565+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:53.5513238+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:22.7075878+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:34.4134366+00:00"
 }

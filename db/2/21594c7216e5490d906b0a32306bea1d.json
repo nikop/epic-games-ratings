@@ -2,10 +2,10 @@
   "ID": "21594c7216e5490d906b0a32306bea1d",
   "Name": "Mineral",
   "ProductSlug": "mineral-dae5b1",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-11-21T00:00:00+00:00",
     "PcReleaseDate": "2024-08-08T07:00:00+00:00",
@@ -23,16 +23,314 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:03.8563337+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:03.8563398+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "COLLECT_ALL",
+      "SetID": "4p2o9oe",
+      "Name": "Collector Master",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_CACTUS",
+      "SetID": "4p2o9oe",
+      "Name": "The Jester\u0027s Cactus",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_EGGS_01",
+      "SetID": "4p2o9oe",
+      "Name": "Phoenix Egg Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_EGGS_08",
+      "SetID": "4p2o9oe",
+      "Name": "Phoenix Egg Master",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_01",
+      "SetID": "4p2o9oe",
+      "Name": "Gem One",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_10",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Finder",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_100",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_20",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Seeker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_40",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Hunter",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_60",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Collector",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_GEM_80",
+      "SetID": "4p2o9oe",
+      "Name": "Gem Expert",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_SHARD_01",
+      "SetID": "4p2o9oe",
+      "Name": "Greater Shard",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_SHARD_02",
+      "SetID": "4p2o9oe",
+      "Name": "Unity Shard",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_SHARD_03",
+      "SetID": "4p2o9oe",
+      "Name": "Duty Shard",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_TOKEN_01",
+      "SetID": "4p2o9oe",
+      "Name": "Lost Worlds",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_TOKEN_02",
+      "SetID": "4p2o9oe",
+      "Name": "Three of Swords",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_TOKEN_03",
+      "SetID": "4p2o9oe",
+      "Name": "Fate of the Dice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_TOKEN_04",
+      "SetID": "4p2o9oe",
+      "Name": "The Spire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ABILITIES",
+      "SetID": "4p2o9oe",
+      "Name": "Ability Master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_FAST",
+      "SetID": "4p2o9oe",
+      "Name": "Buzzing like Bazza",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_01",
+      "SetID": "4p2o9oe",
+      "Name": "Getting Moving",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_05",
+      "SetID": "4p2o9oe",
+      "Name": "Five for Five",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_10",
+      "SetID": "4p2o9oe",
+      "Name": "Cloud 10",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_16",
+      "SetID": "4p2o9oe",
+      "Name": "#16",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_20",
+      "SetID": "4p2o9oe",
+      "Name": "Rocking",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_25",
+      "SetID": "4p2o9oe",
+      "Name": "The Dawn",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_30",
+      "SetID": "4p2o9oe",
+      "Name": "The Dusk",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_40",
+      "SetID": "4p2o9oe",
+      "Name": "Making a Splash",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_46",
+      "SetID": "4p2o9oe",
+      "Name": "At Midnight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_56",
+      "SetID": "4p2o9oe",
+      "Name": "Dark Under",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVELS_CORE",
+      "SetID": "4p2o9oe",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_MIDNIGHT",
+      "SetID": "4p2o9oe",
+      "Name": "Donbenation",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEATH_FAST",
+      "SetID": "4p2o9oe",
+      "Name": "Oh Nash!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NODIE_M01",
+      "SetID": "4p2o9oe",
+      "Name": "The Orb!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAY_ON_8TH",
+      "SetID": "4p2o9oe",
+      "Name": "8th Legend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4p2o9oe",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:03.8563398+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:03.8563334+00:00",
   "LastUpdate_AppInfo": "2024-10-10T13:57:19.5713169+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:02.8202694+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:02.8202694+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:03.8570019+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d62ad943ddbb4d0b8aa4969f31260bc5",
   "Name": "Knight Swap",
   "ProductSlug": "knight-swap-d88239",
-  "Ranking_EOS_Progress": 753,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-29T16:30:00+00:00",
     "PcReleaseDate": "2019-10-22T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 84,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.9,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:07.1043012+00:00",
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:24:15.656986+00:00",
       "NumProgressed": 77,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-10-17T05:12:59.6265443+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:07.104305+00:00",
@@ -67,93 +72,93 @@
       "Name": "A horse with no name",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_100",
       "SetID": "b3jnd7n",
       "Name": "Shadowfax Lord of all horses",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_20",
       "SetID": "b3jnd7n",
       "Name": "Bill the Pony",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_30",
       "SetID": "b3jnd7n",
       "Name": "Loyal Woodpecker\u0027s Sugarfoot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_40",
       "SetID": "b3jnd7n",
       "Name": "The Turim Horse",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_50",
       "SetID": "b3jnd7n",
       "Name": "Riderless Blackjack",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_60",
       "SetID": "b3jnd7n",
       "Name": "The Black Stallion",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_70",
       "SetID": "b3jnd7n",
       "Name": "Bucephalus the Great",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_80",
       "SetID": "b3jnd7n",
       "Name": "Faster than Pegasus",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_90",
       "SetID": "b3jnd7n",
       "Name": "More dangerous than Trojan",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3jnd7n",
       "IsBase": true,
-      "Progressed": 77,
-      "Completed": 3
+      "Progressed": 84,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-10T21:58:07.1469368+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:07.1043049+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:15.6569854+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:59.6265438+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:11.1218919+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:35.3555805+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:15.6569955+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:24.9534979+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:59.6265522+00:00"
 }

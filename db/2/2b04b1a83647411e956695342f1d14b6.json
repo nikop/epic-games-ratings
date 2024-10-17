@@ -2,10 +2,10 @@
   "ID": "2b04b1a83647411e956695342f1d14b6",
   "Name": "The Elder Scrolls III: Morrowind\u00AE Game of the Year Edition",
   "ProductSlug": "morrowind-aa49c4",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-16T15:00:00.719+00:00",
     "PcReleaseDate": "2002-04-29T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-06T03:58:24.5555832+00:00",
   "LastUpdate_AppInfo": "2024-10-11T03:56:57.994465+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:38.6553459+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:40.5802148+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:55.3314023+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:06.4072473+00:00"
 }

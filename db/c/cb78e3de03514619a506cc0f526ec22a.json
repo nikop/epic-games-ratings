@@ -2,10 +2,10 @@
   "ID": "cb78e3de03514619a506cc0f526ec22a",
   "Name": "Doggy Farmer",
   "ProductSlug": "doggy-farmer-915382",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-15T02:10:54.9723771+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:33.2247777+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:20.4188245+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:55.4188897+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:29.7514169+00:00"
 }

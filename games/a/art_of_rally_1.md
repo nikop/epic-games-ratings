@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~431,450 |
-| good drivers have dead flies on the side windows | 34.00% | ~183,366 |
-| keep it tidy | 27.00% | ~145,615 |
-| brail | 27.00% | ~145,615 |
-| car wash | 24.00% | ~129,435 |
-| the artist | 24.00% | ~129,435 |
-| podium | 21.00% | ~113,256 |
-| medium attack | 18.00% | ~97,076 |
-| bicycle race | 7.00% | ~37,752 |
-| grocery-getter | 6.00% | ~32,359 |
-| autopilot | 5.00% | ~26,966 |
-| where is the stage? | 4.00% | ~21,573 |
-| night ride | 4.00% | ~21,573 |
-| snorkel | 4.00% | ~21,573 |
-| rwd only | 3.00% | ~16,179 |
-| food tour: pasta | 3.00% | ~16,179 |
-| to finish first, first you must finish | 2.00% | ~10,786 |
-| perkele | 2.00% | ~10,786 |
-| turbo | 2.00% | ~10,786 |
-| in like a lamb, out like a lion | 2.00% | ~10,786 |
-| if in doubt, flat out! | 2.00% | ~10,786 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~10,786 |
-| mittens | 2.00% | ~10,786 |
-| food tour: pretzel | 2.00% | ~10,786 |
-| espresso | 1.00% | ~5,393 |
-| monster | 1.00% | ~5,393 |
-| parallel universe | 1.00% | ~5,393 |
-| eurobeat | 0.80% | ~4,315 |
-| viking | 0.80% | ~4,315 |
-| oktoberfest | 0.70% | ~3,775 |
-| master of rally | 0.70% | ~3,775 |
-| antilag | 0.70% | ~3,775 |
-| group b | 0.70% | ~3,775 |
-| samir | 0.70% | ~3,775 |
-| parking lot | 0.60% | ~3,236 |
-| maximum attack | 0.60% | ~3,236 |
-| real roads, real fast | 0.50% | ~2,697 |
-| comfy seats | 0.40% | ~2,157 |
-| simulator | 0.20% | ~1,079 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~539 |
-| absolute drift | 0.10% | ~539 |
-| barely keeping it together | 0.10% | ~539 |
-| you're here for a good time, not a long time | 0.10% | ~539 |
+| light attack | 80.00% | ~436,759 |
+| good drivers have dead flies on the side windows | 34.00% | ~185,623 |
+| keep it tidy | 27.00% | ~147,406 |
+| brail | 27.00% | ~147,406 |
+| car wash | 24.00% | ~131,028 |
+| the artist | 24.00% | ~131,028 |
+| podium | 21.00% | ~114,649 |
+| medium attack | 18.00% | ~98,271 |
+| bicycle race | 7.00% | ~38,216 |
+| grocery-getter | 6.00% | ~32,757 |
+| autopilot | 5.00% | ~27,297 |
+| where is the stage? | 4.00% | ~21,838 |
+| night ride | 4.00% | ~21,838 |
+| snorkel | 4.00% | ~21,838 |
+| rwd only | 3.00% | ~16,378 |
+| food tour: pasta | 3.00% | ~16,378 |
+| to finish first, first you must finish | 2.00% | ~10,919 |
+| perkele | 2.00% | ~10,919 |
+| turbo | 2.00% | ~10,919 |
+| in like a lamb, out like a lion | 2.00% | ~10,919 |
+| if in doubt, flat out! | 2.00% | ~10,919 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~10,919 |
+| mittens | 2.00% | ~10,919 |
+| food tour: pretzel | 2.00% | ~10,919 |
+| espresso | 1.00% | ~5,459 |
+| monster | 1.00% | ~5,459 |
+| parallel universe | 1.00% | ~5,459 |
+| eurobeat | 0.80% | ~4,368 |
+| viking | 0.80% | ~4,368 |
+| oktoberfest | 0.70% | ~3,822 |
+| master of rally | 0.70% | ~3,822 |
+| antilag | 0.70% | ~3,822 |
+| group b | 0.70% | ~3,822 |
+| samir | 0.70% | ~3,822 |
+| parking lot | 0.60% | ~3,276 |
+| maximum attack | 0.60% | ~3,276 |
+| real roads, real fast | 0.50% | ~2,730 |
+| comfy seats | 0.40% | ~2,184 |
+| simulator | 0.20% | ~1,092 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~546 |
+| absolute drift | 0.10% | ~546 |
+| barely keeping it together | 0.10% | ~546 |
+| you're here for a good time, not a long time | 0.10% | ~546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,313 (Ranked 53)  
-Completed: 81 (0.02%) (Ranked 540)  
+Progressed: 545,949 (Ranked 53)  
+Completed: 88 (0.02%) (Ranked 570)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,6 +269,7 @@ Completed: 81 (0.02%) (Ranked 540)
 | 2024-06-17 | 518,123 | 61 |
 | 2024-08-09 | 531,105 | 71 |
 | 2024-09-14 | 539,313 | 81 |
+| 2024-10-17 | 545,949 | 88 |
 ## Awards
 Max (Great for Quick Sessions): 136  (Ranked 440)  
 Sum: 868 (Ranked 366)  

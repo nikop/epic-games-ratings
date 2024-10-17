@@ -2,10 +2,10 @@
   "ID": "ef82c088018242d6b9936356b732088a",
   "Name": "Learning Factory",
   "ProductSlug": "learning-factory-4d2213",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-01-26T15:30:00+00:00",
     "PcReleaseDate": "2021-02-18T15:00:00+00:00",
@@ -509,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:09.720621+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.8222682+00:00",
   "LastChanged": "2023-03-31T05:57:09.7206211+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:06.6587009+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:48.582812+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:59.5035353+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:49.5268995+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:06.6587352+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:48.5828498+00:00"
 }

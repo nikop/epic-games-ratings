@@ -2,10 +2,10 @@
   "ID": "08970d9237b0458d92c1ee36bd3dbee3",
   "Name": "Shelter: An Elephant Adventure",
   "ProductSlug": "shelter-an-elephant-adventure-0dd0a0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -99,8 +99,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:15:06.6112381+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:06.611233+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:22.5225679+00:00",
   "LastUpdate_AppInfo": "2024-10-14T21:57:18.5619563+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:05.9979969+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:06.6121007+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:22.5225743+00:00"
 }

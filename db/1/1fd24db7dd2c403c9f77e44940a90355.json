@@ -2,10 +2,10 @@
   "ID": "1fd24db7dd2c403c9f77e44940a90355",
   "Name": "RacerLoop",
   "ProductSlug": "racerloop-4d3ab2",
-  "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-05T10:00:00+00:00",
     "PcReleaseDate": "2024-05-05T10:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10485,
+  "EOS_Progressed": 10761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -60,6 +60,11 @@
       "Time": "2024-10-09T19:05:27.2638469+00:00",
       "NumProgressed": 10485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:16:09.8625747+00:00",
+      "NumProgressed": 10761,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:04.8836982+00:00",
@@ -72,7 +77,7 @@
       "Name": "My treasure",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Acquire_10000_SoftCurrency",
@@ -80,7 +85,7 @@
       "Name": "Give me money",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Build_1_ship",
@@ -88,7 +93,7 @@
       "Name": "MacGyver",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Build_all_ship",
@@ -120,7 +125,7 @@
       "Name": "Welcome to Racer Loop, rookie.",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1184
     },
     {
       "ID": "Draft_50_secs",
@@ -128,7 +133,7 @@
       "Name": "Shadow",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 430
     },
     {
       "ID": "Finish_Race_No_Turbo",
@@ -136,7 +141,7 @@
       "Name": "No tricks",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "Install_1_modules",
@@ -144,7 +149,7 @@
       "Name": "Handyman",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Install_50_modules",
@@ -184,7 +189,7 @@
       "Name": "\u00A1Fly!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Leaderboard_Top1_AnyTrack",
@@ -200,7 +205,7 @@
       "Name": "Almighty ship",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Scraping_10_piece",
@@ -208,7 +213,7 @@
       "Name": "Junkyard",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Speed_Lanes_200_secs",
@@ -216,7 +221,7 @@
       "Name": "More fast",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Takedown_200_rival",
@@ -232,7 +237,7 @@
       "Name": "Competitive",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Takedown_5_rival",
@@ -240,7 +245,7 @@
       "Name": "Agressive",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Unlock_3_ship_slots",
@@ -248,7 +253,7 @@
       "Name": "Upgrade garage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_200_Boost_Recovery",
@@ -256,7 +261,7 @@
       "Name": "Infinity Boost",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_200_EMP",
@@ -296,7 +301,7 @@
       "Name": "Give me more nitro",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_50_Boost_Triggers",
@@ -304,7 +309,7 @@
       "Name": "I love speed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 323
     },
     {
       "ID": "Use_50_EMP",
@@ -312,7 +317,7 @@
       "Name": "Don\u0027t touch me",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_50_black_holes",
@@ -320,7 +325,7 @@
       "Name": "The black hole",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_50_ghost",
@@ -328,7 +333,7 @@
       "Name": "Ghost",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_50_missiles",
@@ -336,7 +341,7 @@
       "Name": "Tank o ship?",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Use_Turbo_200_secs",
@@ -344,7 +349,7 @@
       "Name": "The fastest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "Win_100_Tracks",
@@ -360,7 +365,7 @@
       "Name": "First steps in Career Mode",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "first_chapter_finished",
@@ -368,7 +373,7 @@
       "Name": "Not bad for a rookie",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "fourth_chapter_finished",
@@ -376,7 +381,7 @@
       "Name": "Fourth Chapter finished",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "play_100_events",
@@ -384,7 +389,7 @@
       "Name": "Finish 100 Events",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "second_chapter_finished",
@@ -392,7 +397,7 @@
       "Name": "You learn fast",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "third_chapter_finished",
@@ -400,7 +405,7 @@
       "Name": "Veterane",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "win_100_events",
@@ -408,21 +413,21 @@
       "Name": "Win 100 Events",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "cc5egp4",
       "IsBase": true,
-      "Progressed": 10485,
+      "Progressed": 10761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-07T12:59:02.7851793+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:04.8836981+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:05:27.2638463+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:09.8625744+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:09.8071032+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:55.6688045+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:05:27.2638738+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:22.1353777+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:09.8626028+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 675,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 640,
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Completed": 539,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -553,7 +553,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 2299,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -5018,6 +5018,11 @@
       "Time": "2024-09-14T14:21:03.5953477+00:00",
       "NumProgressed": 2299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:10:43.6792152+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5029,7 +5034,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -5069,7 +5074,7 @@
       "Name": "Comrade Yogi",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DOUBLE_AGENT",
@@ -5077,7 +5082,7 @@
       "Name": "Double agent",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 325
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -5085,7 +5090,7 @@
       "Name": "Atom Agent",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2276
     },
     {
       "ID": "EXPERT_1",
@@ -5101,15 +5106,15 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 372
     },
     {
       "ID": "GHOSTBUSTER",
       "SetID": "bf13m8j",
       "Name": "Ghostbuster",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -5117,7 +5122,7 @@
       "Name": "Grave Robber",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 372
     },
     {
       "ID": "HEAD_BURST_1",
@@ -5125,7 +5130,7 @@
       "Name": "Head Burst",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 348
     },
     {
       "ID": "INDY_1",
@@ -5133,7 +5138,7 @@
       "Name": "Indy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "KORALOV",
@@ -5149,7 +5154,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "LOVE_GURU_1",
@@ -5157,7 +5162,7 @@
       "Name": "Love Guru",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -5181,7 +5186,7 @@
       "Name": "One HIT wonder",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 743
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -5189,7 +5194,7 @@
       "Name": "One shot, one kill",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 557
     },
     {
       "ID": "PACIFIST",
@@ -5205,7 +5210,7 @@
       "Name": "Paranoia",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 325
     },
     {
       "ID": "PRIVATE_EYE",
@@ -5213,7 +5218,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -5221,7 +5226,7 @@
       "Name": "Protection racket",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "RELICTS",
@@ -5245,7 +5250,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "SAVANT_1",
@@ -5253,7 +5258,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 232
     },
     {
       "ID": "SECRET_ROOM",
@@ -5261,7 +5266,7 @@
       "Name": "Secret room",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "SHOG",
@@ -5277,7 +5282,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "TRAVELER_1",
@@ -5285,7 +5290,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 511
     },
     {
       "ID": "VVE",
@@ -5293,7 +5298,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "WANDERER_1",
@@ -5301,7 +5306,7 @@
       "Name": "Wanderer",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 697
     },
     {
       "ID": "WISHMASTER_1",
@@ -5309,22 +5314,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 2299,
+      "Progressed": 2322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-10-12T09:58:09.4868037+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:03.5953472+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:43.6792148+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:44.0986235+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:58.1367215+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:03.5953942+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:43.6792724+00:00"
 }

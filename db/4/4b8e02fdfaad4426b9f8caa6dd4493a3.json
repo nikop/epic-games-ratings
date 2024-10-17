@@ -2,10 +2,10 @@
   "ID": "4b8e02fdfaad4426b9f8caa6dd4493a3",
   "Name": "The Jackbox Survey Scramble",
   "ProductSlug": "the-jackbox-survey-scramble-8cfeb4",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-24T05:00:00+00:00",
     "PcReleaseDate": "2024-10-24T05:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "873ob76",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:05.3852488+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:05.3852421+00:00",
   "LastUpdate_AppInfo": "2024-10-11T18:57:10.1865125+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:14.4443279+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:36.6197691+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:05.3852505+00:00"
 }

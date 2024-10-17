@@ -6,54 +6,54 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~3,152 |
-| Returning Home: Quick Learner | 27.00% | ~1,737 |
-| Level: Charlie's Circuits | 22.00% | ~1,415 |
-| Level: Rising Markets | 9.00% | ~579 |
-| Level: Extra Life | 7.00% | ~450 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~450 |
-| Peddler | 7.00% | ~450 |
-| Data Churn Type I | 7.00% | ~450 |
-| Millionaire | 6.00% | ~386 |
-| Data Churn Type II | 5.00% | ~322 |
-| Speedy | 5.00% | ~322 |
-| Extra Life: Wish Granted | 4.00% | ~257 |
-| High Five! | 4.00% | ~257 |
-| Modular Progress | 4.00% | ~257 |
-| Campaign: Lesson Learned | 3.00% | ~193 |
-| Level: Bet On Bots | 3.00% | ~193 |
-| Modular Performance | 3.00% | ~193 |
-| Salesperson | 3.00% | ~193 |
-| Level: Merry-Go-Around | 2.00% | ~129 |
-| Charlies's Circuits: Artist | 2.00% | ~129 |
-| Modular Peak | 2.00% | ~129 |
-| Accountant | 2.00% | ~129 |
-| Data Churn Type III | 2.00% | ~129 |
-| Multi-Millionaire | 2.00% | ~129 |
-| Contender | 2.00% | ~129 |
-| Trophy Collector | 2.00% | ~129 |
-| Module Maniac | 2.00% | ~129 |
-| Overproducer | 2.00% | ~129 |
-| Natural Talent | 2.00% | ~129 |
-| Level: A Happy Taskforce | 1.00% | ~64 |
-| Level: Topple The Top | 1.00% | ~64 |
-| Level: The Machinery | 1.00% | ~64 |
-| Bet On Bots: Safety First | 1.00% | ~64 |
-| Extra Life: Knowledge Cap | 1.00% | ~64 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~64 |
-| Entrepreneur | 1.00% | ~64 |
-| Data Churn Type IV | 1.00% | ~64 |
-| Keen Eye | 1.00% | ~64 |
+| Level: Returning Home | 49.00% | ~3,176 |
+| Returning Home: Quick Learner | 27.00% | ~1,750 |
+| Level: Charlie's Circuits | 22.00% | ~1,426 |
+| Level: Rising Markets | 9.00% | ~583 |
+| Level: Extra Life | 7.00% | ~454 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~454 |
+| Peddler | 7.00% | ~454 |
+| Data Churn Type I | 7.00% | ~454 |
+| Millionaire | 6.00% | ~389 |
+| Data Churn Type II | 5.00% | ~324 |
+| Speedy | 5.00% | ~324 |
+| Extra Life: Wish Granted | 4.00% | ~259 |
+| High Five! | 4.00% | ~259 |
+| Modular Progress | 4.00% | ~259 |
+| Campaign: Lesson Learned | 3.00% | ~194 |
+| Level: Bet On Bots | 3.00% | ~194 |
+| Modular Performance | 3.00% | ~194 |
+| Salesperson | 3.00% | ~194 |
+| Level: Merry-Go-Around | 2.00% | ~130 |
+| Charlies's Circuits: Artist | 2.00% | ~130 |
+| Modular Peak | 2.00% | ~130 |
+| Accountant | 2.00% | ~130 |
+| Data Churn Type III | 2.00% | ~130 |
+| Multi-Millionaire | 2.00% | ~130 |
+| Contender | 2.00% | ~130 |
+| Trophy Collector | 2.00% | ~130 |
+| Module Maniac | 2.00% | ~130 |
+| Overproducer | 2.00% | ~130 |
+| Natural Talent | 2.00% | ~130 |
+| Level: A Happy Taskforce | 1.00% | ~65 |
+| Level: Topple The Top | 1.00% | ~65 |
+| Level: The Machinery | 1.00% | ~65 |
+| Bet On Bots: Safety First | 1.00% | ~65 |
+| Extra Life: Knowledge Cap | 1.00% | ~65 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~65 |
+| Entrepreneur | 1.00% | ~65 |
+| Data Churn Type IV | 1.00% | ~65 |
+| Keen Eye | 1.00% | ~65 |
 | Tycoon | 0.90% | ~58 |
+| Trendsetter | 0.80% | ~52 |
 | Merry-Go-Around: Self-Made | 0.70% | ~45 |
 | Bet On Bots: Inspector's Favorite | 0.70% | ~45 |
-| Trendsetter | 0.70% | ~45 |
 | Level: Eye In The Sky | 0.60% | ~39 |
-| Campaign: Man vs. Machine | 0.50% | ~32 |
 | Level: Heating-Up | 0.50% | ~32 |
 | A Happy Taskforce: Interior Designer | 0.50% | ~32 |
 | CEO | 0.50% | ~32 |
 | Rockstar | 0.50% | ~32 |
+| Campaign: Man vs. Machine | 0.40% | ~26 |
 | The Machinery: Goal Orientated | 0.40% | ~26 |
 | Super Rich | 0.40% | ~26 |
 | Champion | 0.30% | ~19 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,433 (Ranked 280)  
-Completed: 1 (0.02%) (Ranked 540)  
+Progressed: 6,482 (Ranked 291)  
+Completed: 1 (0.02%) (Ranked 570)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -365,6 +365,7 @@ Completed: 1 (0.02%) (Ranked 540)
 | 2024-06-17 | 6,307 | 1 |
 | 2024-08-09 | 6,383 | 1 |
 | 2024-09-14 | 6,433 | 1 |
+| 2024-10-17 | 6,482 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

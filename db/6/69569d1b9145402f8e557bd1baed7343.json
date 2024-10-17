@@ -2,10 +2,10 @@
   "ID": "69569d1b9145402f8e557bd1baed7343",
   "Name": "The End of the Sun",
   "ProductSlug": "the-end-of-the-sun-1f25f4",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-13T13:11:34.5712596+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:53.9301243+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:55.6695769+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:04.0636944+00:00"
 }

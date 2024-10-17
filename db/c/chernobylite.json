@@ -2,13 +2,13 @@
   "ID": "640854c119af44d39a5bcf98edb6cd60",
   "Name": "Chernobylite",
   "ProductSlug": "chernobylite",
-  "Ranking_Rating": 1164,
+  "Ranking_Rating": 1163,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-07-28T10:00:00+00:00",
     "PcReleaseDate": "2019-10-16T15:00:00+00:00",
@@ -619,8 +619,8 @@
   "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7523636+00:00",
   "LastChanged": "2024-10-12T09:57:53.8691701+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:17.2072451+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:01.4536719+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.747476+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:36.7577166+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:17.2072479+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:01.4536761+00:00"
 }

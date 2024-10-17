@@ -2,10 +2,10 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 407,
-  "Ranking_EOS_Completed": 471,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Completed": 495,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2552,9 +2552,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -2647,8 +2647,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:56.4942752+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:45.6942216+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:14.9759249+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:01.8316008+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:56.4942994+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:57.2616814+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:45.6942475+00:00"
 }

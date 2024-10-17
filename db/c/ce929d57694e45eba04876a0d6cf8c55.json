@@ -2,10 +2,10 @@
   "ID": "ce929d57694e45eba04876a0d6cf8c55",
   "Name": "Amigo Kebab Simulator",
   "ProductSlug": "amigo-kebab-simulator-daf6c0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-04-03T17:00:00+00:00",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-15T17:05:11.4365358+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:02.7370146+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:47.3556844+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:13:36.1903495+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:47.178121+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:02.7370326+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:08.6735251+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:47.3556988+00:00"
 }

@@ -7,22 +7,23 @@
 | Cabbage in the Baggage | 33.00% | ~18 |
 | Greengrocer | 33.00% | ~18 |
 | Seven Days of Endless Adventure | 27.00% | ~15 |
+| Masu-ter Angler | 20.00% | ~11 |
 | It's Alive! | 20.00% | ~11 |
 | Go-Getter | 20.00% | ~11 |
 | River Cleaner | 20.00% | ~11 |
-| Masu-ter Angler | 18.00% | ~10 |
 | Handyman Extraordinaire | 18.00% | ~10 |
 | Seven Days of Endless Adventure - Déjà Vu | 15.00% | ~8 |
 | Just Hoverin' Along | 13.00% | ~7 |
 | What's That Smell? | 13.00% | ~7 |
 | A New Time | 11.00% | ~6 |
+| My Fair Ladybug | 11.00% | ~6 |
 | Farm Life! | 11.00% | ~6 |
 | DJ Superstar | 11.00% | ~6 |
 | Dragonfly Whiz | 9.00% | ~5 |
-| My Fair Ladybug | 9.00% | ~5 |
 | Love Is in the Air! | 9.00% | ~5 |
 | Did Someone Order Ramen? | 9.00% | ~5 |
 | Top-Notch Journalist | 9.00% | ~5 |
+| Brachio Battler | 9.00% | ~5 |
 | That Was a Snap! | 7.00% | ~4 |
 | Ptera Pal | 7.00% | ~4 |
 | Stego Stooge | 7.00% | ~4 |
@@ -30,7 +31,6 @@
 | The Holly Grail | 5.00% | ~3 |
 | Biwa Be Mine | 5.00% | ~3 |
 | Ice Fishing | 5.00% | ~3 |
-| Brachio Battler | 5.00% | ~3 |
 | Asso Bridge Enthusiast | 5.00% | ~3 |
 | Beetle Savant | 4.00% | ~2 |
 | Veggie Virtuoso | 4.00% | ~2 |
@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 793)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 55 (Ranked 823)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

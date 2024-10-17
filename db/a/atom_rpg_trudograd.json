@@ -5,10 +5,10 @@
   "Ranking_Rating": 656,
   "Ranking_Popularity": 671,
   "Ranking_PopularitySum": 695,
-  "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -318,7 +318,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1696,
+  "EOS_Progressed": 1715,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2438,6 +2438,11 @@
       "Time": "2024-09-14T14:20:52.4305656+00:00",
       "NumProgressed": 1696,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:10:31.1902306+00:00",
+      "NumProgressed": 1715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2465,7 +2470,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ATOM_QUIT",
@@ -2545,7 +2550,7 @@
       "Name": "Household",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2577,15 +2582,15 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LUCKY_GOOSE",
       "SetID": "62d2oh4",
       "Name": "Goose Sacrifice",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
@@ -2601,7 +2606,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "OLD_FRIEND",
@@ -2609,7 +2614,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "POSITRONIUM",
@@ -2639,9 +2644,9 @@
       "ID": "SECOND_THOUGHT",
       "SetID": "62d2oh4",
       "Name": "Second Thought",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "SHADOW_OVER_TRUDOGRAD",
@@ -2681,7 +2686,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2689,7 +2694,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2697,14 +2702,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1475
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1696,
+      "Progressed": 1715,
       "Completed": 0
     }
   ],
@@ -2712,8 +2717,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-09-17T19:57:28.0459113+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:52.430565+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:31.1902299+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:39.1733883+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:31.7137434+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:52.4305906+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:53.8901586+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:31.1902689+00:00"
 }

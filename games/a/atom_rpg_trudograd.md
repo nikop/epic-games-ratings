@@ -5,14 +5,14 @@ Rating: 4.53 (Ranked 656)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 86.00% | ~1,459 |
-| Household | 6.00% | ~102 |
-| An Old Friend | 6.00% | ~102 |
-| Lot 49 | 5.00% | ~85 |
-| Viva La Revolution | 5.00% | ~85 |
-| Atomic Soda | 4.00% | ~68 |
-| Mysterious Knife | 4.00% | ~68 |
-| Walking Fortress | 4.00% | ~68 |
+| Fresh Prince of Trudograd | 86.00% | ~1,475 |
+| Household | 6.00% | ~103 |
+| An Old Friend | 6.00% | ~103 |
+| Lot 49 | 5.00% | ~86 |
+| Viva La Revolution | 5.00% | ~86 |
+| Atomic Soda | 4.00% | ~69 |
+| Mysterious Knife | 4.00% | ~69 |
+| Walking Fortress | 4.00% | ~69 |
 | Freelance Police | 3.00% | ~51 |
 | The Great and Powerful | 3.00% | ~51 |
 | Shadow over Trudograd | 3.00% | ~51 |
@@ -27,9 +27,9 @@ Rating: 4.53 (Ranked 656)
 | Sixth Sense | 0.60% | ~10 |
 | Admiral | 0.40% | ~7 |
 | Incompetence | 0.40% | ~7 |
-| Goose Sacrifice | 0.40% | ~7 |
-| Second Thought | 0.40% | ~7 |
 | Holy Mountain | 0.30% | ~5 |
+| Goose Sacrifice | 0.30% | ~5 |
+| Second Thought | 0.30% | ~5 |
 | Sick Freak | 0.30% | ~5 |
 | Goodbye ATOM | 0.20% | ~3 |
 | Bronzovka | 0.20% | ~3 |
@@ -38,8 +38,8 @@ Rating: 4.53 (Ranked 656)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,696 (Ranked 389)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,715 (Ranked 401)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,6 +245,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 1,671 | 0 |
 | 2024-08-20 | 1,680 | 0 |
 | 2024-09-14 | 1,696 | 0 |
+| 2024-10-17 | 1,715 | 0 |
 ## Awards
 Max (Character Customization): 29  (Ranked 671)  
 Sum: 29 (Ranked 695)  

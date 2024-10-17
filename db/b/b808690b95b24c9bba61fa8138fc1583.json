@@ -2,10 +2,10 @@
   "ID": "b808690b95b24c9bba61fa8138fc1583",
   "Name": "Crypto Mining Simulator",
   "ProductSlug": "crypto-mining-simulator-7ce423",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-20T22:00:00+00:00",
     "PcReleaseDate": "2023-11-20T22:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2023-11-21T02:25:26.8358007+00:00",
   "LastUpdate_AppInfo": "2024-10-11T17:57:26.6075009+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:38.1776518+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:22:55.8110776+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:29.8065625+00:00"
 }

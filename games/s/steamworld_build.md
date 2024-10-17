@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 88.00% | ~341 |
-| Digging a Hole | 81.00% | ~314 |
-| It's Yours, My Friend | 76.00% | ~295 |
-| Conducted Trade | 70.00% | ~272 |
-| Going Places | 66.00% | ~256 |
-| Aristocratic | 64.00% | ~248 |
-| Tutti Frutti | 59.00% | ~229 |
-| Slotting Machine | 48.00% | ~186 |
-| Systematic | 48.00% | ~186 |
-| Gotta Go Fast | 45.00% | ~175 |
-| Mine Sweeper | 45.00% | ~175 |
-| Roll Out | 39.00% | ~151 |
-| Up, Up And Away! | 37.00% | ~144 |
-| Dopa-Miner | 35.00% | ~136 |
-| Botropolis | 30.00% | ~116 |
-| Whoa! | 30.00% | ~116 |
-| Steam Powered | 22.00% | ~85 |
-| Steaming Rich | 22.00% | ~85 |
-| Manic Mechanic | 20.00% | ~78 |
-| Room To Spare | 16.00% | ~62 |
-| Click 'Em All | 11.00% | ~43 |
-| Accustomed Customer | 6.00% | ~23 |
+| Mathematic | 88.00% | ~354 |
+| Digging a Hole | 81.00% | ~326 |
+| It's Yours, My Friend | 76.00% | ~306 |
+| Conducted Trade | 70.00% | ~281 |
+| Going Places | 67.00% | ~269 |
+| Aristocratic | 64.00% | ~257 |
+| Tutti Frutti | 59.00% | ~237 |
+| Systematic | 49.00% | ~197 |
+| Slotting Machine | 48.00% | ~193 |
+| Mine Sweeper | 46.00% | ~185 |
+| Gotta Go Fast | 45.00% | ~181 |
+| Roll Out | 40.00% | ~161 |
+| Up, Up And Away! | 38.00% | ~153 |
+| Dopa-Miner | 36.00% | ~145 |
+| Botropolis | 31.00% | ~125 |
+| Whoa! | 31.00% | ~125 |
+| Steam Powered | 23.00% | ~92 |
+| Steaming Rich | 23.00% | ~92 |
+| Manic Mechanic | 20.00% | ~80 |
+| Room To Spare | 17.00% | ~68 |
+| Click 'Em All | 11.00% | ~44 |
+| Accustomed Customer | 7.00% | ~28 |
 | Stack Overflow | 4.00% | ~16 |
 | I'm A Lumberbot | 3.00% | ~12 |
 | Interstellar Performance | 3.00% | ~12 |
 | Real Purdy | 3.00% | ~12 |
-| Nothing But Road | 0.30% | ~1 |
-| Yup. | 0.30% | ~1 |
+| Nothing But Road | 0.20% | ~1 |
+| Yup. | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 525)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 402 (Ranked 536)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 380 | 0 |
 | 2024-08-20 | 383 | 0 |
 | 2024-09-14 | 388 | 0 |
+| 2024-10-17 | 402 | 0 |

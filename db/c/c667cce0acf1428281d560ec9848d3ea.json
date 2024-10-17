@@ -2,10 +2,10 @@
   "ID": "c667cce0acf1428281d560ec9848d3ea",
   "Name": "Set Sail",
   "ProductSlug": "set-sail-54510f",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T15:57:21.3834708+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:49.5938473+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:23.1727808+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:11.6033314+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:53.2968448+00:00"
 }

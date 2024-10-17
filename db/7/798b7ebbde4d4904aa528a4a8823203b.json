@@ -2,10 +2,10 @@
   "ID": "798b7ebbde4d4904aa528a4a8823203b",
   "Name": "Lost in Space: Madness",
   "ProductSlug": "lost-in-space-cf76ae",
-  "Ranking_EOS_Progress": 968,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 958,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-19T19:00:00+00:00",
     "PcReleaseDate": "2023-12-17T20:30:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
       "Time": "2024-09-14T14:15:14.7075704+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:34.5711702+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:02:03.6803031+00:00",
@@ -50,7 +55,7 @@
       "Name": "Attention!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "CUP1",
@@ -72,15 +77,15 @@
       "ID": "DEAD",
       "SetID": "4hea6a1",
       "Name": "We all die!",
-      "Percentage": 33,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "END1",
       "SetID": "4hea6a1",
       "Name": "Contact lost",
-      "Percentage": 33,
+      "Percentage": 23,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -176,7 +181,7 @@
       "ID": "RAZUM",
       "SetID": "4hea6a1",
       "Name": "Do you see this too?...",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -217,13 +222,13 @@
     {
       "ID": "4hea6a1",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:02:03.680303+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:14.70757+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:34.5711699+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:22.5167437+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:25.8341554+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:14.7075867+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:34.5711833+00:00"
 }

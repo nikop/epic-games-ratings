@@ -6,103 +6,103 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 23.00% | ~458 |
-| Me and My Familiar | 22.00% | ~438 |
-| This Too Shall Pass | 18.00% | ~358 |
-| Cutthroat Competitors | 18.00% | ~358 |
-| Daybreak | 18.00% | ~358 |
-| Passing Shadow | 17.00% | ~338 |
-| Gotta Ca... Must Collect All of Them | 16.00% | ~319 |
-| How Romantic! | 16.00% | ~319 |
-| Completing the Look | 10.00% | ~199 |
-| A Mythic Menagerie | 9.00% | ~179 |
-| War Endured | 9.00% | ~179 |
-| Who's Counting? | 8.00% | ~159 |
-| Core Failure | 8.00% | ~159 |
-| Pyrrhic Victory | 7.00% | ~139 |
-| Thematic Divergence | 6.00% | ~119 |
-| Echoes Die | 6.00% | ~119 |
-| Plague Doctor | 5.00% | ~100 |
-| A Story of Heroes | 5.00% | ~100 |
-| Let Me Get My Chisel | 4.00% | ~80 |
-| Chain Reaction | 4.00% | ~80 |
-| Everfading | 4.00% | ~80 |
-| Another Tale to Tell | 4.00% | ~80 |
-| Turncoat | 4.00% | ~80 |
-| We Emerge Changed | 3.00% | ~60 |
-| Worldwalker | 3.00% | ~60 |
-| Legends Never Die | 3.00% | ~60 |
-| In Soil, In Smoke | 3.00% | ~60 |
-| A Hunger, Sated | 3.00% | ~60 |
-| Wingknight's Prowess | 3.00% | ~60 |
-| All My Birds, Safely Home | 3.00% | ~60 |
-| Bears are Scary | 3.00% | ~60 |
-| Astrology | 3.00% | ~60 |
-| No Time for Clawmonsters | 3.00% | ~60 |
+| The Cost of Heroism | 24.00% | ~486 |
+| Me and My Familiar | 23.00% | ~466 |
+| This Too Shall Pass | 19.00% | ~385 |
+| Cutthroat Competitors | 19.00% | ~385 |
+| Passing Shadow | 18.00% | ~364 |
+| Daybreak | 18.00% | ~364 |
+| Gotta Ca... Must Collect All of Them | 17.00% | ~344 |
+| How Romantic! | 17.00% | ~344 |
+| Completing the Look | 10.00% | ~202 |
+| A Mythic Menagerie | 9.00% | ~182 |
+| War Endured | 9.00% | ~182 |
+| Who's Counting? | 8.00% | ~162 |
+| Core Failure | 8.00% | ~162 |
+| Thematic Divergence | 7.00% | ~142 |
+| Pyrrhic Victory | 7.00% | ~142 |
+| Echoes Die | 7.00% | ~142 |
+| Let Me Get My Chisel | 5.00% | ~101 |
+| Plague Doctor | 5.00% | ~101 |
+| Chain Reaction | 5.00% | ~101 |
+| A Story of Heroes | 5.00% | ~101 |
+| Turncoat | 5.00% | ~101 |
+| In Soil, In Smoke | 4.00% | ~81 |
+| Everfading | 4.00% | ~81 |
+| Another Tale to Tell | 4.00% | ~81 |
+| No Time for Clawmonsters | 4.00% | ~81 |
+| We Emerge Changed | 3.00% | ~61 |
+| Worldwalker | 3.00% | ~61 |
+| Legends Never Die | 3.00% | ~61 |
+| A Hunger, Sated | 3.00% | ~61 |
+| Wingknight's Prowess | 3.00% | ~61 |
+| All My Birds, Safely Home | 3.00% | ~61 |
+| Bears are Scary | 3.00% | ~61 |
+| Astrology | 3.00% | ~61 |
+| Tempest | 3.00% | ~61 |
 | Storied Past | 2.00% | ~40 |
 | Empty the Caves | 2.00% | ~40 |
 | Drauvenslayers | 2.00% | ~40 |
 | Back into the Sea | 2.00% | ~40 |
 | Bonebreakers | 2.00% | ~40 |
 | No More Nightmares | 2.00% | ~40 |
-| War-Ender | 2.00% | ~40 |
 | Fight Like a Bird | 2.00% | ~40 |
 | Grillmaster | 2.00% | ~40 |
 | Some Say I'm Too Flashy | 2.00% | ~40 |
 | Into Mulch | 2.00% | ~40 |
 | I'm Not Smiling | 2.00% | ~40 |
-| Tempest | 2.00% | ~40 |
 | Lochias's Hunger | 2.00% | ~40 |
 | The Power of Friendship | 1.00% | ~20 |
+| War-Ender | 1.00% | ~20 |
 | Solid as the Hills | 1.00% | ~20 |
 | Symbiosis | 1.00% | ~20 |
 | Thwack! | 1.00% | ~20 |
-| Neverbefore | 1.00% | ~2 |
-| Outset | 1.00% | ~2 |
+| A Temperamental Shrub | 1.00% | ~20 |
+| Luthin the Mirrormaster | 1.00% | ~3 |
+| Head Chef | 1.00% | ~3 |
+| Granny Gloomfire | 1.00% | ~3 |
+| The Gardener | 1.00% | ~3 |
+| The Umbercryst Martyr | 1.00% | ~3 |
+| Admiral of the Air | 1.00% | ~3 |
+| Starwing | 1.00% | ~3 |
+| The Twins | 1.00% | ~3 |
+| King Carrion | 1.00% | ~3 |
+| Neverbefore | 1.00% | ~3 |
+| Outset | 1.00% | ~3 |
+| The Collector | 1.00% | ~3 |
+| The Shredder | 1.00% | ~3 |
+| The Monstrous | 1.00% | ~3 |
 | A Lowly Crust of Beef | 0.90% | ~18 |
-| Head Chef | 0.90% | ~2 |
-| Granny Gloomfire | 0.90% | ~2 |
-| The Gardener | 0.90% | ~2 |
-| Admiral of the Air | 0.90% | ~2 |
-| The Twins | 0.90% | ~2 |
-| The Monstrous | 0.90% | ~2 |
-| A Temperamental Shrub | 0.80% | ~16 |
-| Malthides, Brute Toxinist | 0.80% | ~2 |
+| Malthides, Brute Toxinist | 0.90% | ~2 |
+| The Riftspore Apostle | 0.90% | ~2 |
+| The Relentless | 0.90% | ~2 |
 | Uur, Ancient Amalgam | 0.80% | ~2 |
-| Luthin the Mirrormaster | 0.80% | ~2 |
+| Gracnaw's Dragon | 0.80% | ~2 |
+| The Glorysword Clayn | 0.80% | ~2 |
 | The Horn Grownup | 0.80% | ~2 |
-| The Umbercryst Martyr | 0.80% | ~2 |
-| The Riftspore Apostle | 0.80% | ~2 |
-| Starwing | 0.80% | ~2 |
-| King Carrion | 0.80% | ~2 |
-| The Relentless | 0.80% | ~2 |
-| The Collector | 0.80% | ~2 |
-| The Shredder | 0.80% | ~2 |
+| Party Wagon | 0.80% | ~2 |
+| Ollend the Abductor | 0.80% | ~2 |
+| Symbiotic Advisor | 0.80% | ~2 |
+| The Lethal | 0.80% | ~2 |
+| The Virulent | 0.80% | ~2 |
 | Overwhelming Monstrosity | 0.70% | ~14 |
 | Bogmother | 0.70% | ~2 |
-| Gracnaw's Dragon | 0.70% | ~2 |
-| The Glorysword Clayn | 0.70% | ~2 |
-| Party Wagon | 0.70% | ~2 |
-| Symbiotic Advisor | 0.70% | ~2 |
+| The Doorman | 0.70% | ~2 |
+| The Unscathed | 0.70% | ~2 |
+| Pathbeater | 0.70% | ~2 |
 | We Call That Mortificient! | 0.60% | ~12 |
-| Ollend the Abductor | 0.60% | ~1 |
-| The Doorman | 0.60% | ~1 |
-| The Unscathed | 0.60% | ~1 |
-| The Lethal | 0.60% | ~1 |
-| Pathbeater | 0.60% | ~1 |
-| The Virulent | 0.60% | ~1 |
-| Peacemaker | 0.50% | ~10 |
 | The Bulwark | 0.50% | ~1 |
-| The Hurricane | 0.40% | ~1 |
-| Making Tracks | 0.30% | ~1 |
+| Peacemaker | 0.40% | ~8 |
+| Making Tracks | 0.40% | ~1 |
+| The Hurricane | 0.30% | ~1 |
 | The Artist | 0.30% | ~1 |
 | The Hardy | 0.30% | ~1 |
-| Seasoned Traveler | 0.20% | ~0 |
+| Seasoned Traveler | 0.20% | ~1 |
 | The Survivor | 0.10% | ~0 |
 | Waymaster | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,991 (Ranked 369)  
-Completed: 9 (0.45%) (Ranked 366)  
+Progressed: 2,024 (Ranked 385)  
+Completed: 10 (0.49%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,6 +331,7 @@ Completed: 9 (0.45%) (Ranked 366)
 | 2024-08-09 | 1,949 | 9 |
 | 2024-08-20 | 1,962 | 9 |
 | 2024-09-14 | 1,991 | 9 |
+| 2024-10-17 | 2,024 | 10 |
 ## Awards
 Max (Character Customization): 37  (Ranked 631)  
 Sum: 37 (Ranked 683)  

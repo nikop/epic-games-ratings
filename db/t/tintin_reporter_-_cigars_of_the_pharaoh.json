@@ -2,10 +2,10 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 566,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
-  "EOS_Completed": 2,
+  "EOS_Progressed": 280,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2023-11-13T19:06:54.9992767+00:00",
@@ -699,6 +699,11 @@
       "Time": "2024-09-14T14:15:21.5585898+00:00",
       "NumProgressed": 271,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:06:44.6233164+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -709,89 +714,89 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 221
     },
     {
       "ID": "Achievement10",
       "SetID": "9fa3l5n",
       "Name": "In the Name of the Law",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement11",
       "SetID": "9fa3l5n",
       "Name": "Au Revoir, Abudin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "Achievement13",
       "SetID": "9fa3l5n",
       "Name": "The Eyes!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement14",
       "SetID": "9fa3l5n",
       "Name": "Keep the Doctor Away",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 85,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement18",
       "SetID": "9fa3l5n",
       "Name": "Cookie Accomplished",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 85,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement2",
@@ -799,15 +804,15 @@
       "Name": "A Loyal Friend",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "Achievement20",
       "SetID": "9fa3l5n",
       "Name": "The Corporal\u0027s Golden Boy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement21",
@@ -815,63 +820,63 @@
       "Name": "Eyes Shut",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement22",
       "SetID": "9fa3l5n",
       "Name": "Flying Ace",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 85,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement23",
       "SetID": "9fa3l5n",
       "Name": "Punctual",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement24",
       "SetID": "9fa3l5n",
       "Name": "A Diagnosis",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement25",
       "SetID": "9fa3l5n",
       "Name": "Trials of Kih-Oskh",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement26",
       "SetID": "9fa3l5n",
       "Name": "Mummy Nightmare",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement27",
       "SetID": "9fa3l5n",
       "Name": "Escaping War",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement28",
       "SetID": "9fa3l5n",
       "Name": "Jungle Runner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement29",
@@ -885,9 +890,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "Achievement30",
@@ -895,7 +900,7 @@
       "Name": "Mountain Runner",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement31",
@@ -911,23 +916,23 @@
       "Name": "The Pharaoh\u0027s New Clothes",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement33",
       "SetID": "9fa3l5n",
       "Name": "Barking Dog",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement34",
       "SetID": "9fa3l5n",
       "Name": "Cat Lover",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement35",
@@ -935,7 +940,7 @@
       "Name": "Subtlety",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement36",
@@ -949,71 +954,71 @@
       "ID": "Achievement37",
       "SetID": "9fa3l5n",
       "Name": "Threat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 101
     },
     {
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "Achievement6",
       "SetID": "9fa3l5n",
       "Name": "The Curse of Kih-Oskh",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement7",
       "SetID": "9fa3l5n",
       "Name": "It\u0027s a Deal!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 271,
-      "Completed": 2
+      "Progressed": 280,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:21.558589+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:44.6233158+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:19.0550827+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:42.2783792+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:21.5586129+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:01.095658+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:44.6233535+00:00"
 }

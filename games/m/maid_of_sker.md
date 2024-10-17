@@ -1,43 +1,43 @@
 # Maid of Sker
 [Store](https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e)  
 [View Rawdata](../../db/m/maid_of_sker.json)  
-Rating: 4.12 (Ranked 1,210)  
+Rating: 4.12 (Ranked 1,209)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 28.00% | ~59,406 |
-| Animal Lover | 16.00% | ~33,946 |
-| Don't Breathe | 15.00% | ~31,825 |
-| Wales Interactive | 7.00% | ~14,852 |
-| Smooth Operator | 6.00% | ~12,730 |
-| Easy Listening | 5.00% | ~10,608 |
-| Perfect Harmony! | 5.00% | ~10,608 |
-| Rapturous Applause! | 5.00% | ~10,608 |
-| Bull in a China Shop | 4.00% | ~8,487 |
-| Chief Butler | 4.00% | ~8,487 |
-| Sker Explorer | 1.00% | ~2,122 |
-| The Long Night | 0.70% | ~1,485 |
-| Ending on a High Note | 0.40% | ~849 |
-| Phonic Boom | 0.30% | ~636 |
-| Axe of Kindness | 0.20% | ~424 |
-| Hard Times | 0.20% | ~424 |
-| In Darkness | 0.20% | ~424 |
-| Maids of Sker | 0.20% | ~424 |
-| Axeman | 0.10% | ~212 |
-| Dodgy Geezer | 0.10% | ~212 |
-| Head of the Hotel | 0.10% | ~212 |
-| Hell at the Hotel | 0.10% | ~212 |
-| In Complete Darkness | 0.10% | ~212 |
-| Life Saver | 0.10% | ~212 |
-| Luddite | 0.10% | ~212 |
-| Make Love, Not War | 0.10% | ~212 |
-| Nightmare at the Hotel | 0.10% | ~212 |
-| Nuisance Caller | 0.10% | ~212 |
-| Scholar | 0.10% | ~212 |
-| The Longest Night | 0.10% | ~212 |
+| Choking Hazard | 29.00% | ~66,505 |
+| Animal Lover | 17.00% | ~38,985 |
+| Don't Breathe | 15.00% | ~34,399 |
+| Wales Interactive | 7.00% | ~16,053 |
+| Rapturous Applause! | 6.00% | ~13,760 |
+| Smooth Operator | 6.00% | ~13,760 |
+| Easy Listening | 5.00% | ~11,466 |
+| Perfect Harmony! | 5.00% | ~11,466 |
+| Bull in a China Shop | 4.00% | ~9,173 |
+| Chief Butler | 4.00% | ~9,173 |
+| Sker Explorer | 2.00% | ~4,587 |
+| The Long Night | 0.80% | ~1,835 |
+| Ending on a High Note | 0.50% | ~1,147 |
+| Maids of Sker | 0.30% | ~688 |
+| Phonic Boom | 0.30% | ~688 |
+| Axe of Kindness | 0.20% | ~459 |
+| Hard Times | 0.20% | ~459 |
+| In Darkness | 0.20% | ~459 |
+| Axeman | 0.10% | ~229 |
+| Dodgy Geezer | 0.10% | ~229 |
+| Head of the Hotel | 0.10% | ~229 |
+| Hell at the Hotel | 0.10% | ~229 |
+| In Complete Darkness | 0.10% | ~229 |
+| Life Saver | 0.10% | ~229 |
+| Luddite | 0.10% | ~229 |
+| Make Love, Not War | 0.10% | ~229 |
+| Nightmare at the Hotel | 0.10% | ~229 |
+| Nuisance Caller | 0.10% | ~229 |
+| Scholar | 0.10% | ~229 |
+| The Longest Night | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,165 (Ranked 98)  
-Completed: 23 (0.01%) (Ranked 563)  
+Progressed: 229,326 (Ranked 97)  
+Completed: 30 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,6 +160,7 @@ Completed: 23 (0.01%) (Ranked 563)
 | 2024-08-09 | 177,921 | 14 |
 | 2024-08-20 | 191,518 | 19 |
 | 2024-09-14 | 212,165 | 23 |
+| 2024-10-17 | 229,326 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

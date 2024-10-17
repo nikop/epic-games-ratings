@@ -2,10 +2,10 @@
   "ID": "d23b008fda0444588998e65e0de39871",
   "Name": "Gridiron",
   "ProductSlug": "gridiron-7c2634",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2021-07-23T04:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-03-31T01:46:49.5538561+00:00",
   "LastUpdate_AppInfo": "2024-10-10T11:57:13.3961084+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:56.3742649+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:52.5997229+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:52.8694459+00:00"
 }

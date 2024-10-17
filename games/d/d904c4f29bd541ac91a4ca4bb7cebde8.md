@@ -5,42 +5,42 @@ Rating: 4.49 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bubble bath | 70.00% | ~9,381 |
-| Do you all know each other? | 52.00% | ~6,969 |
-| Cola flavor | 39.00% | ~5,226 |
-| Agreed? | 36.00% | ~4,824 |
-| Dreams come true | 34.00% | ~4,556 |
-| I haven’t had enough of it yet | 32.00% | ~4,288 |
-| Moving forward hand in hand | 31.00% | ~4,154 |
-| Make matters worse | 30.00% | ~4,020 |
-| Meet in person | 30.00% | ~4,020 |
-| Pajamas | 29.00% | ~3,886 |
-| I have graduated | 26.00% | ~3,484 |
-| Ouch | 26.00% | ~3,484 |
-| Fitness Expert | 24.00% | ~3,216 |
-| Enduring affection | 23.00% | ~3,082 |
-| Mutual affection | 23.00% | ~3,082 |
-| Your birthday | 23.00% | ~3,082 |
-| Create the future together | 21.00% | ~2,814 |
-| Hit it off | 21.00% | ~2,814 |
-| Merry Christmas! | 20.00% | ~2,680 |
-| No pain! Stubborn head | 19.00% | ~2,546 |
-| I’ll take over, I can handle a lot | 18.00% | ~2,412 |
-| Hard Liquor | 17.00% | ~2,278 |
-| Double happiness | 15.00% | ~2,010 |
-| Scumbag’s encouragement | 15.00% | ~2,010 |
-| The Triumph of Straight Men | 15.00% | ~2,010 |
-| This is willpower | 15.00% | ~2,010 |
-| Alone with Memories | 14.00% | ~1,876 |
-| Role Reversal | 14.00% | ~1,876 |
-| Would you like to drink something else? | 14.00% | ~1,876 |
-| What are you thinking about? | 13.00% | ~1,742 |
-| Love is hard to continue | 12.00% | ~1,608 |
-| Emotions traverse the ends of the earth | 11.00% | ~1,474 |
-| Love’s bond is hard to continue | 11.00% | ~1,474 |
-| Alone and solitary | 9.00% | ~1,206 |
-| The end of a romance | 8.00% | ~1,072 |
-| All nodes unlocked | 2.00% | ~268 |
+| Bubble bath | 70.00% | ~9,745 |
+| Do you all know each other? | 53.00% | ~7,379 |
+| Cola flavor | 39.00% | ~5,430 |
+| Agreed? | 36.00% | ~5,012 |
+| Dreams come true | 34.00% | ~4,733 |
+| I haven’t had enough of it yet | 33.00% | ~4,594 |
+| Moving forward hand in hand | 31.00% | ~4,316 |
+| Make matters worse | 30.00% | ~4,177 |
+| Meet in person | 30.00% | ~4,177 |
+| Pajamas | 29.00% | ~4,037 |
+| I have graduated | 27.00% | ~3,759 |
+| Ouch | 27.00% | ~3,759 |
+| Fitness Expert | 24.00% | ~3,341 |
+| Mutual affection | 24.00% | ~3,341 |
+| Your birthday | 24.00% | ~3,341 |
+| Enduring affection | 23.00% | ~3,202 |
+| Create the future together | 21.00% | ~2,924 |
+| Hit it off | 21.00% | ~2,924 |
+| Merry Christmas! | 20.00% | ~2,784 |
+| No pain! Stubborn head | 20.00% | ~2,784 |
+| I’ll take over, I can handle a lot | 19.00% | ~2,645 |
+| Hard Liquor | 17.00% | ~2,367 |
+| The Triumph of Straight Men | 16.00% | ~2,228 |
+| Double happiness | 15.00% | ~2,088 |
+| Scumbag’s encouragement | 15.00% | ~2,088 |
+| This is willpower | 15.00% | ~2,088 |
+| Alone with Memories | 14.00% | ~1,949 |
+| Role Reversal | 14.00% | ~1,949 |
+| Would you like to drink something else? | 14.00% | ~1,949 |
+| Love is hard to continue | 13.00% | ~1,810 |
+| What are you thinking about? | 13.00% | ~1,810 |
+| Emotions traverse the ends of the earth | 11.00% | ~1,531 |
+| Love’s bond is hard to continue | 11.00% | ~1,531 |
+| Alone and solitary | 9.00% | ~1,253 |
+| The end of a romance | 9.00% | ~1,253 |
+| All nodes unlocked | 2.00% | ~278 |
 | A true curious ghost | 0.00% | ~0 |
 | Curious ghost | 0.00% | ~0 |
 | Not a single one less | 0.00% | ~0 |
@@ -49,8 +49,8 @@ Rating: 4.49 (Ranked 744)
 | Tossing and turning for half a day | 0.00% | ~0 |
 | Tossing and turning for half a day2 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,401 (Ranked 243)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 13,922 (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 12,726 | 0 |
 | 2024-08-20 | 12,974 | 0 |
 | 2024-09-14 | 13,401 | 0 |
+| 2024-10-17 | 13,922 | 0 |
 ## Awards
 Max (Character Customization): 29  (Ranked 671)  
 Sum: 29 (Ranked 695)  

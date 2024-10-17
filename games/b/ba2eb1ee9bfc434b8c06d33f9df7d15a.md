@@ -5,23 +5,23 @@ Rating: 4.10 (Ranked 1,224)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Extra Deadly | 11.00% | ~11,864 |
-| The Call To Adventure | 8.00% | ~8,628 |
-| Power Thief! | 6.00% | ~6,471 |
-| Creature Comforts | 4.00% | ~4,314 |
-| Knowledge is Power | 4.00% | ~4,314 |
-| The Path to Greatness | 2.00% | ~2,157 |
-| Devastatingly Deadly | 2.00% | ~2,157 |
-| Ring Out Your Dead! | 2.00% | ~2,157 |
-| Meteoric Rise | 0.90% | ~971 |
-| Exceptionally Deadly | 0.20% | ~216 |
-| Crossing The Threshold | 0.10% | ~108 |
-| Golden Fortune | 0.10% | ~108 |
-| Major Arcana | 0.10% | ~108 |
-| Going for the Gold | 0.10% | ~108 |
-| Prestigious Effort | 0.10% | ~108 |
-| The Harder They Fall | 0.10% | ~108 |
-| Never Give Up | 0.10% | ~108 |
+| Extra Deadly | 10.00% | ~11,438 |
+| The Call To Adventure | 8.00% | ~9,150 |
+| Power Thief! | 6.00% | ~6,863 |
+| Creature Comforts | 4.00% | ~4,575 |
+| Knowledge is Power | 4.00% | ~4,575 |
+| The Path to Greatness | 2.00% | ~2,288 |
+| Devastatingly Deadly | 2.00% | ~2,288 |
+| Ring Out Your Dead! | 2.00% | ~2,288 |
+| Meteoric Rise | 0.80% | ~915 |
+| Exceptionally Deadly | 0.20% | ~229 |
+| The Harder They Fall | 0.20% | ~229 |
+| Crossing The Threshold | 0.10% | ~114 |
+| Golden Fortune | 0.10% | ~114 |
+| Major Arcana | 0.10% | ~114 |
+| Going for the Gold | 0.10% | ~114 |
+| Prestigious Effort | 0.10% | ~114 |
+| Never Give Up | 0.10% | ~114 |
 | Celestial Fortune | 0.00% | ~0 |
 | Victory or Death! | 0.00% | ~0 |
 | Fortunate Champion | 0.00% | ~0 |
@@ -32,12 +32,13 @@ Rating: 4.10 (Ranked 1,224)
 | Gladiator | 0.00% | ~0 |
 | Never Surrender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,850 (Ranked 138)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 114,380 (Ranked 136)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-09-14 | 107,850 | 0 |
+| 2024-10-17 | 114,380 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

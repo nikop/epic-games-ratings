@@ -5,34 +5,34 @@ Rating: 3.74 (Ranked 1,317)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 30.00% | ~799 |
-| Catch and Release | 24.00% | ~639 |
-| Home Is Where the Heart Is | 22.00% | ~586 |
-| ICU | 22.00% | ~586 |
-| Wounded Whispers | 22.00% | ~586 |
-| Blood Will Have Blood | 19.00% | ~506 |
-| Ne Plus Ultra | 19.00% | ~506 |
-| Peek-a-boo | 19.00% | ~506 |
-| Fly Fisher | 18.00% | ~479 |
-| Sucks To Be You | 18.00% | ~479 |
-| Throw The First Stone | 17.00% | ~453 |
-| Welcome to the Neighborhood | 16.00% | ~426 |
-| Enter of Your Own Free Will | 15.00% | ~399 |
-| Heart Attack | 15.00% | ~399 |
-| Grounded | 14.00% | ~373 |
-| Skin of Their Teeth | 14.00% | ~373 |
-| Neighborhood Revitalization | 11.00% | ~293 |
-| Bad Wiring | 11.00% | ~293 |
-| Radio Silence | 11.00% | ~293 |
-| Bell-ringer | 8.00% | ~213 |
-| You Clean It Up | 8.00% | ~213 |
-| From the Shadows | 8.00% | ~213 |
-| I Spit On Your Grave | 8.00% | ~213 |
-| Sic Transit Umbra | 7.00% | ~186 |
-| Silence Is Golden | 7.00% | ~186 |
-| Good Morning | 7.00% | ~186 |
-| Harvest’s End | 7.00% | ~186 |
-| Helping Hand | 7.00% | ~186 |
+| I Like My Stakes Rare! | 30.00% | ~801 |
+| Catch and Release | 24.00% | ~641 |
+| Home Is Where the Heart Is | 23.00% | ~614 |
+| ICU | 22.00% | ~587 |
+| Wounded Whispers | 22.00% | ~587 |
+| Blood Will Have Blood | 20.00% | ~534 |
+| Ne Plus Ultra | 20.00% | ~534 |
+| Fly Fisher | 19.00% | ~507 |
+| Peek-a-boo | 19.00% | ~507 |
+| Sucks To Be You | 18.00% | ~480 |
+| Throw The First Stone | 17.00% | ~454 |
+| Enter of Your Own Free Will | 16.00% | ~427 |
+| Welcome to the Neighborhood | 16.00% | ~427 |
+| Heart Attack | 16.00% | ~427 |
+| Grounded | 14.00% | ~374 |
+| Skin of Their Teeth | 14.00% | ~374 |
+| Neighborhood Revitalization | 12.00% | ~320 |
+| Radio Silence | 12.00% | ~320 |
+| Bad Wiring | 11.00% | ~294 |
+| From the Shadows | 9.00% | ~240 |
+| Bell-ringer | 8.00% | ~214 |
+| You Clean It Up | 8.00% | ~214 |
+| I Spit On Your Grave | 8.00% | ~214 |
+| Sic Transit Umbra | 7.00% | ~187 |
+| Silence Is Golden | 7.00% | ~187 |
+| Good Morning | 7.00% | ~187 |
+| Harvest’s End | 7.00% | ~187 |
+| Helping Hand | 7.00% | ~187 |
 | Revelations | 6.00% | ~160 |
 | Contingency Plans | 6.00% | ~160 |
 | Check, Please! | 6.00% | ~160 |
@@ -40,29 +40,29 @@ Rating: 3.74 (Ranked 1,317)
 | Starve the Beast | 5.00% | ~133 |
 | Empty Nest Syndrome | 4.00% | ~107 |
 | Right This Way | 4.00% | ~107 |
+| Nice Try | 4.00% | ~107 |
+| Blacklight Down | 4.00% | ~107 |
 | Curious Finch | 4.00% | ~107 |
 | Neighborhood Watch | 3.00% | ~80 |
-| Nice Try | 3.00% | ~80 |
-| Blacklight Down | 3.00% | ~80 |
 | Good Samaritan | 3.00% | ~80 |
 | Blood Brother | 2.00% | ~53 |
 | Sisterhood | 2.00% | ~53 |
 | What Lies Below | 2.00% | ~53 |
 | Bloody Initiate | 2.00% | ~53 |
 | Under a Bushel | 2.00% | ~53 |
-| Dexterity Save | 2.00% | ~53 |
 | Scream Team | 1.00% | ~27 |
 | Monster Hunters Club | 1.00% | ~27 |
 | Friendgineering | 1.00% | ~27 |
 | So Anyway I Started Blasting | 1.00% | ~27 |
 | Enemy of My Enemy | 1.00% | ~27 |
+| Dexterity Save | 1.00% | ~27 |
 | Bob’s Final Hour | 0.90% | ~24 |
 | Someplace to Be | 0.60% | ~16 |
+| Faith Healer | 0.40% | ~11 |
 | A Cry in the Dark | 0.40% | ~11 |
 | Sepsis | 0.40% | ~11 |
 | Rum Runner | 0.40% | ~11 |
 | Friends 'Til The End | 0.40% | ~11 |
-| Faith Healer | 0.30% | ~8 |
 | Eagle Eyes | 0.30% | ~8 |
 | Ask Not For Whom The Horns Blow | 0.20% | ~5 |
 | Deforestation | 0.00% | ~0 |
@@ -72,8 +72,8 @@ Rating: 3.74 (Ranked 1,317)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,663 (Ranked 345)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 2,669 (Ranked 360)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,6 +241,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 2,627 | 0 |
 | 2024-08-20 | 2,654 | 0 |
 | 2024-09-14 | 2,663 | 0 |
+| 2024-10-17 | 2,669 | 0 |
 ## Awards
 Max (Great Boss Battles): 53  (Ranked 574)  
 Sum: 53 (Ranked 651)  

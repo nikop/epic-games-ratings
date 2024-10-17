@@ -6,23 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 1.00% | ~1,486 |
-| Biggest Communism Builder | 0.90% | ~1,338 |
-| The World's Most Laughable Centrist | 0.80% | ~1,189 |
-| Il Coppo Del'Arte! | 0.70% | ~1,040 |
-| Baddest Hustler In The Neoliberal Hood | 0.70% | ~1,040 |
-| Hyperstellar Law Official | 0.70% | ~1,040 |
-| Gurdi-Ball Is Lit | 0.70% | ~1,040 |
-| Recruit Detective Kim Kitsuragi | 0.60% | ~892 |
-| Literally The Sorriest Cop On Earth | 0.50% | ~743 |
-| Truly Rabid *Traditionalist* | 0.50% | ~743 |
-| Unbelievably Boring **** | 0.40% | ~595 |
-| Enemy Of The Physical Realm | 0.40% | ~595 |
-| The Figurines Won't Win Her Back | 0.40% | ~595 |
-| Hardie's Heroes | 0.30% | ~446 |
-| The Opener Of The Eighth Seal | 0.20% | ~297 |
-| The Lawbringer | 0.20% | ~297 |
-| Fairweather t-500 Vitreous Enamel | 0.20% | ~297 |
+| Biggest Communism Builder | 1.00% | ~1,493 |
+| Goodest Of The Good Cops | 1.00% | ~1,493 |
+| The World's Most Laughable Centrist | 1.00% | ~1,493 |
+| Il Coppo Del'Arte! | 0.90% | ~1,344 |
+| Baddest Hustler In The Neoliberal Hood | 0.80% | ~1,194 |
+| Hyperstellar Law Official | 0.80% | ~1,194 |
+| Recruit Detective Kim Kitsuragi | 0.80% | ~1,194 |
+| Gurdi-Ball Is Lit | 0.80% | ~1,194 |
+| Literally The Sorriest Cop On Earth | 0.70% | ~1,045 |
+| Truly Rabid *Traditionalist* | 0.60% | ~896 |
+| Enemy Of The Physical Realm | 0.50% | ~747 |
+| The Figurines Won't Win Her Back | 0.50% | ~747 |
+| Unbelievably Boring **** | 0.40% | ~597 |
+| Hardie's Heroes | 0.40% | ~597 |
+| The Opener Of The Eighth Seal | 0.20% | ~299 |
+| The Lawbringer | 0.20% | ~299 |
+| Bother Kim After Hours | 0.20% | ~299 |
+| Fairweather t-500 Vitreous Enamel | 0.20% | ~299 |
 | Baddest Brow in Town | 0.10% | ~149 |
 | Cause a ****storm | 0.10% | ~149 |
 | Committee of la Responsabilité | 0.10% | ~149 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,611  (23.09.2022)
 | Venture into the HARDCORE | 0.10% | ~149 |
 | The Icebreaker | 0.10% | ~149 |
 | Avowed Inframaterialist | 0.10% | ~149 |
-| Bother Kim After Hours | 0.10% | ~149 |
 | Get Kim to Wear *The Jacket* | 0.10% | ~149 |
 | Leopard Mindset | 0.10% | ~149 |
 | Medal dispenser | 0.10% | ~149 |
@@ -46,14 +46,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 0.10% | ~149 |
 | Real Musor | 0.10% | ~149 |
 | What body? | 0.10% | ~149 |
-| Old Flame | 0.10% | ~2 |
-| Priceless Facade | 0.10% | ~2 |
-| Looks Like Progress | 0.10% | ~2 |
-| Now For A Difficult Provenance | 0.10% | ~2 |
-| Spectres of Hope | 0.10% | ~2 |
+| Old Flame | 0.10% | ~3 |
+| Priceless Facade | 0.10% | ~3 |
+| Looks Like Progress | 0.10% | ~3 |
+| Now For A Difficult Provenance | 0.10% | ~3 |
+| Spectres of Hope | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,633 (Ranked 116)  
-Completed: 33 (0.02%) (Ranked 540)  
+Progressed: 149,301 (Ranked 120)  
+Completed: 33 (0.02%) (Ranked 570)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,6 +342,7 @@ Completed: 33 (0.02%) (Ranked 540)
 | 2024-08-09 | 147,785 | 32 |
 | 2024-08-20 | 148,058 | 32 |
 | 2024-09-14 | 148,633 | 33 |
+| 2024-10-17 | 149,301 | 33 |
 ## Awards
 Max (Character Customization): 869  (Ranked 223)  
 Sum: 1,358 (Ranked 308)  

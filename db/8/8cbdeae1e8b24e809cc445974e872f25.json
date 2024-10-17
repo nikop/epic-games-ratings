@@ -2,10 +2,10 @@
   "ID": "8cbdeae1e8b24e809cc445974e872f25",
   "Name": "Exographer",
   "ProductSlug": "exographer-6a3d57",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1104,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-26T00:00:00+00:00",
     "PcReleaseDate": "2024-09-26T00:00:00+00:00",
@@ -25,17 +25,363 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:10.0946951+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:10.0947021+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Success-BeatGame-Classical",
+      "SetID": "cdodean",
+      "Name": "End of game",
+      "Percentage": 20,
+      "XP": 60,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Success-BeatGame-NoDeath",
+      "SetID": "cdodean",
+      "Name": "Staying alive",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-CompleteChunk-Caves",
+      "SetID": "cdodean",
+      "Name": "Done with the Caves",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-CompleteChunk-Forge",
+      "SetID": "cdodean",
+      "Name": "Done with the Forge",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-CompleteChunk-Meadow",
+      "SetID": "cdodean",
+      "Name": "Done with the Fields",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Success-CompleteChunk-Mountain",
+      "SetID": "cdodean",
+      "Name": "Done with the Cosmics",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Success-CompleteChunk-StormyBorders",
+      "SetID": "cdodean",
+      "Name": "Done with the Borders",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-CompleteChunk-SubBase",
+      "SetID": "cdodean",
+      "Name": "Done with the Depth",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-CompleteRosette",
+      "SetID": "cdodean",
+      "Name": "All pixules",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-Death-Onboarding",
+      "SetID": "cdodean",
+      "Name": "Life is short",
+      "Percentage": 40,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-First-4CardAnalysis",
+      "SetID": "cdodean",
+      "Name": "Square analysis",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-First-Analysis-BosonAspect",
+      "SetID": "cdodean",
+      "Name": "Poweron",
+      "Percentage": 40,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-First-Picture-Natitan",
+      "SetID": "cdodean",
+      "Name": "Natitan picture",
+      "Percentage": 40,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-First-Teleport",
+      "SetID": "cdodean",
+      "Name": "Teleport",
+      "Percentage": 80,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Success-GelmaTelescope",
+      "SetID": "cdodean",
+      "Name": "Telescope",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-OneHundredPercent",
+      "SetID": "cdodean",
+      "Name": "Complete the game",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-ReachChunk-Caves",
+      "SetID": "cdodean",
+      "Name": "The Caves",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachChunk-Forge",
+      "SetID": "cdodean",
+      "Name": "The Forge",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachChunk-Meadow",
+      "SetID": "cdodean",
+      "Name": "The Fields",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachChunk-Mountain",
+      "SetID": "cdodean",
+      "Name": "The Cosmics",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachChunk-StormyBorders",
+      "SetID": "cdodean",
+      "Name": "The Borders",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachChunk-SubBase",
+      "SetID": "cdodean",
+      "Name": "The Depth",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-ReachLevel-Emulsive",
+      "SetID": "cdodean",
+      "Name": "Liaup\u2019s secret",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-SecretPassage-GreenhouseAbsurd",
+      "SetID": "cdodean",
+      "Name": "Secret passage",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-TakePicture-Jumping",
+      "SetID": "cdodean",
+      "Name": "Get high",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-TakePicture-WithShgig",
+      "SetID": "cdodean",
+      "Name": "Shgig\u2019s friend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-Unlock-Anti",
+      "SetID": "cdodean",
+      "Name": "Antigram",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Boots",
+      "SetID": "cdodean",
+      "Name": "Gluoboots",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Echeck",
+      "SetID": "cdodean",
+      "Name": "Missing energy",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Glove",
+      "SetID": "cdodean",
+      "Name": "Zediacal glove",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Mass",
+      "SetID": "cdodean",
+      "Name": "Pixulometer",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Photon",
+      "SetID": "cdodean",
+      "Name": "Mediagram",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Shield",
+      "SetID": "cdodean",
+      "Name": "Photosphere",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Timeflow",
+      "SetID": "cdodean",
+      "Name": "Chronogram",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Wwave",
+      "SetID": "cdodean",
+      "Name": "Wedic helmet",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-Unlock-Zoom",
+      "SetID": "cdodean",
+      "Name": "Infinitely small",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-UseThreshold-AssignCard",
+      "SetID": "cdodean",
+      "Name": "Poker player",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Success-UseThreshold-Boots",
+      "SetID": "cdodean",
+      "Name": "Gluon master",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Success-UseThreshold-Glove",
+      "SetID": "cdodean",
+      "Name": "Zediacal master",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Success-UseThreshold-Shield",
+      "SetID": "cdodean",
+      "Name": "Photon master",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Success-UseThreshold-Wwave",
+      "SetID": "cdodean",
+      "Name": "Wedic master",
+      "Percentage": 40,
+      "XP": 30,
+      "UsersEstimate": 2
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "cdodean",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-09-26T18:00:34.4666948+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:10.0947021+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:10.0946944+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:22.3706293+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:22.9640517+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:22.9640517+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:10.09541+00:00"
 }

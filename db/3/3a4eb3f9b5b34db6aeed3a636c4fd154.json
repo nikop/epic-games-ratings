@@ -2,10 +2,10 @@
   "ID": "3a4eb3f9b5b34db6aeed3a636c4fd154",
   "Name": "Quiz Time",
   "ProductSlug": "quiz-time-e4daaa",
-  "Ranking_EOS_Progress": 975,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1023,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 4994,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-06-22T18:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 13,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.43,
+  "EOS_Completed_Percentage": 23.08,
   "EosHistory": [
     {
       "Time": "2023-12-02T18:03:40.8755245+00:00",
@@ -74,6 +74,11 @@
       "Time": "2024-10-09T19:03:00.8747115+00:00",
       "NumProgressed": 14,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-10-17T05:15:31.3406981+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-02T18:03:40.8766538+00:00",
@@ -84,7 +89,7 @@
       "ID": "QUIZ_GEMS_100",
       "SetID": "1329d9o",
       "Name": "Amateur",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -92,7 +97,7 @@
       "ID": "QUIZ_GEMS_200",
       "SetID": "1329d9o",
       "Name": "Quiz Master",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -100,7 +105,7 @@
       "ID": "QUIZ_GEMS_400",
       "SetID": "1329d9o",
       "Name": "Millionaire",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -108,7 +113,7 @@
       "ID": "QUIZ_GEMS_600",
       "SetID": "1329d9o",
       "Name": "Genius Winner",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -116,7 +121,7 @@
       "ID": "QUIZ_GEMS_800",
       "SetID": "1329d9o",
       "Name": "Super Genius Winner",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 200,
       "UsersEstimate": 3
     }
@@ -125,14 +130,14 @@
     {
       "ID": "1329d9o",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 13,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-03-09T07:59:03.8277698+00:00",
   "FirstSeenAchievements": "2023-12-02T18:03:40.8766537+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:00.8747109+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:31.3406974+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:13.4872886+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:19.7916533+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:00.8747175+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:31.3407055+00:00"
 }

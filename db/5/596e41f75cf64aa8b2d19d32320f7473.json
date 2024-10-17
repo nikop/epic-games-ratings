@@ -2,10 +2,10 @@
   "ID": "596e41f75cf64aa8b2d19d32320f7473",
   "Name": "Office Fight",
   "ProductSlug": "office-fight-6556f6",
-  "Ranking_EOS_Progress": 1004,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1046,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-21T13:00:00+00:00",
     "PcReleaseDate": "2024-08-21T13:00:00+00:00",
@@ -197,9 +197,9 @@
       "ID": "ACH_HACK_KARON",
       "SetID": "1cgia82",
       "Name": "Take it offline",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HEADSHOTS_1",
@@ -261,9 +261,9 @@
       "ID": "ACH_KARON_DEFEATED",
       "SetID": "1cgia82",
       "Name": "This is the Manager speaking",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LEGAL_DEFEATED",
@@ -333,9 +333,9 @@
       "ID": "ACH_SCOREMULT_MAXREACHED",
       "SetID": "1cgia82",
       "Name": "Give it 110%",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SHOP_ALLPURCHASED",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2024-09-03T10:59:04.8531121+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:10.8095216+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:10.8094913+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:28.3331326+00:00",
   "LastUpdate_AppInfo": "2024-10-15T08:57:14.2016142+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:11.6613184+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:10.8104005+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:28.3331594+00:00"
 }

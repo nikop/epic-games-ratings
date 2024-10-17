@@ -15,9 +15,9 @@
 | Soldering iron | 22.00% | ~42 |
 | Act 2 | 19.00% | ~36 |
 | Robot Bros | 18.00% | ~35 |
+| Act 3 | 17.00% | ~33 |
 | Cassette | 16.00% | ~31 |
 | Harpoon | 16.00% | ~31 |
-| Act 3 | 16.00% | ~31 |
 | It’s in the Vault | 14.00% | ~27 |
 | Here we go again | 14.00% | ~27 |
 | Flyer | 13.00% | ~25 |
@@ -34,8 +34,8 @@
 | Secret ending | 6.00% | ~12 |
 | Leave me alone | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 613)  
-Completed: 9 (4.69%) (Ranked 147)  
+Progressed: 192 (Ranked 632)  
+Completed: 9 (4.69%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

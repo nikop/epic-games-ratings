@@ -5,10 +5,10 @@
   "Ranking_Rating": 52,
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 273,
-  "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Completed": 476,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -2424,11 +2424,11 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 30777,
-  "EOS_Completed": 35,
+  "EOS_Progressed": 30944,
+  "EOS_Completed": 36,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:34.4921+00:00",
@@ -15714,6 +15714,11 @@
       "Time": "2024-09-14T14:21:02.7388222+00:00",
       "NumProgressed": 30777,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-10-17T05:10:42.6571644+00:00",
+      "NumProgressed": 30944,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 39,
@@ -15723,17 +15728,17 @@
       "ID": "AllAchievements",
       "SetID": "3ojhj46",
       "Name": "Rogue\u0027s Legacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 31
     },
     {
       "ID": "AllBlessings",
       "SetID": "3ojhj46",
       "Name": "Truly Blessed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "AllEquipment",
@@ -15755,9 +15760,9 @@
       "ID": "AllRunes",
       "SetID": "3ojhj46",
       "Name": "Pillow Investments",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "AllScarsBronze",
@@ -15771,25 +15776,25 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "BossBridgeDefeated",
       "SetID": "3ojhj46",
       "Name": "Captain and Crew",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 248
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -15803,9 +15808,9 @@
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 309
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -15819,9 +15824,9 @@
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 124
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -15835,9 +15840,9 @@
       "ID": "BossFinalDefeated",
       "SetID": "3ojhj46",
       "Name": "King and Kin",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 124
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -15851,9 +15856,9 @@
       "ID": "BossForestDefeated",
       "SetID": "3ojhj46",
       "Name": "Harvest and Home",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 217
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -15867,9 +15872,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 124
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -15883,9 +15888,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 155
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -15899,9 +15904,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 155
     },
     {
       "ID": "BoxerBoss",
@@ -15915,9 +15920,9 @@
       "ID": "EnableHouseRules",
       "SetID": "3ojhj46",
       "Name": "No Harm in Looking",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 155
     },
     {
       "ID": "EndTimerFail",
@@ -15981,7 +15986,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "RogueMode",
@@ -16036,21 +16041,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 30777,
-      "Completed": 35
+      "Progressed": 30944,
+      "Completed": 36
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 9707,
-      "Completed": 204
+      "Progressed": 9880,
+      "Completed": 205
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-10-17T02:10:06.6004733+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:02.7388216+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:42.6571641+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:09.18789+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:01.0637497+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:02.7389173+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:30.8506902+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:42.6572801+00:00"
 }

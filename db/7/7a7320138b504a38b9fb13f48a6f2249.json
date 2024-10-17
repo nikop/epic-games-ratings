@@ -2,10 +2,10 @@
   "ID": "7a7320138b504a38b9fb13f48a6f2249",
   "Name": "Silent Hunter 4: Wolves of the Pacific GOLD EDITION",
   "ProductSlug": "silent-hunter-4-wolves-of-the-pacific-gold-edition",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -33,5 +33,5 @@
   "FirstSeen": "2023-12-11T13:07:31.2043853+00:00",
   "LastUpdate_AppInfo": "2024-10-10T23:57:13.4852637+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:24.9778498+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:23.1369871+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:04.0412938+00:00"
 }

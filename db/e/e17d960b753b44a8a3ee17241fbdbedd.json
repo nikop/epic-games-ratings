@@ -2,10 +2,10 @@
   "ID": "e17d960b753b44a8a3ee17241fbdbedd",
   "Name": "Inspector Schmidt - A Bavarian Tale",
   "ProductSlug": "inspector-schmidt-a-bavarian-tale-885f5f",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-02-02T01:00:00+00:00",
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:30.6790017+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:20.0494281+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:54.8924089+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:12.5858301+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:32.132934+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:20.0494443+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:54.8924307+00:00"
 }

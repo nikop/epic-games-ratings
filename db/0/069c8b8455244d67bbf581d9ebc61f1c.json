@@ -2,10 +2,10 @@
   "ID": "069c8b8455244d67bbf581d9ebc61f1c",
   "Name": "TRANSFORMERS: Galactic Trials",
   "ProductSlug": "transformers-galactic-trials-baebe7",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1078,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-11T08:30:00+00:00",
     "PcReleaseDate": "2024-10-11T08:30:00+00:00",
@@ -25,17 +25,203 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:08.5160079+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:08.5160168+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_00",
+      "SetID": "1cin2cj",
+      "Name": "Autobots, Roll Out!",
+      "Percentage": 43,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "1cin2cj",
+      "Name": "Decepticons, Attack!!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "1cin2cj",
+      "Name": "One Shall Stand. One Shall Fall.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "1cin2cj",
+      "Name": "BB, do you copy?",
+      "Percentage": 71,
+      "XP": 25,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "1cin2cj",
+      "Name": "Desire alone is not enough",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "1cin2cj",
+      "Name": "Prime Time",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "1cin2cj",
+      "Name": "Show no mercy.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "1cin2cj",
+      "Name": "Onward to victory!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "1cin2cj",
+      "Name": "Light our darkest hour",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "1cin2cj",
+      "Name": "Open the armory",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "1cin2cj",
+      "Name": "Gotta Roll!",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "1cin2cj",
+      "Name": "Till All Are One",
+      "Percentage": 57,
+      "XP": 25,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "1cin2cj",
+      "Name": "Let\u0027s Fly!",
+      "Percentage": 29,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "1cin2cj",
+      "Name": "More Than Meets the Eye",
+      "Percentage": 29,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "1cin2cj",
+      "Name": "I thought you were made of sterner stuff!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "1cin2cj",
+      "Name": "My first car was an Autobot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "1cin2cj",
+      "Name": "Fueled by Energon",
+      "Percentage": 29,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "1cin2cj",
+      "Name": "Neither impossible, nor impassable!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "1cin2cj",
+      "Name": "Everything I touch is food for my hunger",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "1cin2cj",
+      "Name": "We need Energon and a lot of Luck!",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "1cin2cj",
+      "Name": "The future is built on dreams.",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1cin2cj",
+      "IsBase": true,
+      "Progressed": 7,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-10-12T11:57:19.1786532+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:08.5160167+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:08.5160073+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:55.1672352+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:07.9634066+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:07.9634066+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:08.5169169+00:00"
 }

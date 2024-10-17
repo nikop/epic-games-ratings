@@ -2,10 +2,10 @@
   "ID": "5deb3472640c45f5b47d6d005aa0cb98",
   "Name": "Eternal Strands",
   "ProductSlug": "eternal-strands-36a503",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T22:57:15.2259195+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:49.8288218+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:11.9487574+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:02.9148307+00:00"
 }

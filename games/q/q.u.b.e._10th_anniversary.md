@@ -5,33 +5,33 @@ Rating: 4.40 (Ranked 910)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 43.00% | ~17,526 |
-| Sector 2 | 38.00% | ~15,488 |
-| Sector 3 | 32.00% | ~13,042 |
-| Crush That Cube! | 31.00% | ~12,635 |
-| Sector 4 | 26.00% | ~10,597 |
-| Crush That Ball! | 25.00% | ~10,189 |
-| Sector 5 | 17.00% | ~6,929 |
-| Sector 6 | 14.00% | ~5,706 |
-| Feeling the Blues | 11.00% | ~4,483 |
-| Squished | 10.00% | ~4,076 |
-| Finale | 10.00% | ~4,076 |
-| Sector 7 | 10.00% | ~4,076 |
-| Did That Work? -- No! | 9.00% | ~3,668 |
-| Master Room | 6.00% | ~2,445 |
-| Bronze Trophy | 3.00% | ~1,223 |
-| The Puzzle Master | 3.00% | ~1,223 |
-| Completed It. | 3.00% | ~1,223 |
-| The Collector | 2.00% | ~815 |
-| Master Of The Collectables | 2.00% | ~815 |
-| Gold Trophy | 2.00% | ~815 |
-| Hopefully that's all of them! | 2.00% | ~815 |
-| Phew! | 2.00% | ~815 |
-| Silver Trophy | 2.00% | ~815 |
-| Maxed Out | 2.00% | ~815 |
+| Sector 1 | 43.00% | ~17,895 |
+| Sector 2 | 38.00% | ~15,814 |
+| Sector 3 | 32.00% | ~13,317 |
+| Crush That Cube! | 31.00% | ~12,901 |
+| Sector 4 | 27.00% | ~11,237 |
+| Crush That Ball! | 25.00% | ~10,404 |
+| Sector 5 | 17.00% | ~7,075 |
+| Sector 6 | 15.00% | ~6,243 |
+| Feeling the Blues | 12.00% | ~4,994 |
+| Finale | 11.00% | ~4,578 |
+| Squished | 10.00% | ~4,162 |
+| Sector 7 | 10.00% | ~4,162 |
+| Did That Work? -- No! | 10.00% | ~4,162 |
+| Master Room | 6.00% | ~2,497 |
+| Bronze Trophy | 3.00% | ~1,249 |
+| The Puzzle Master | 3.00% | ~1,249 |
+| Completed It. | 3.00% | ~1,249 |
+| The Collector | 2.00% | ~832 |
+| Master Of The Collectables | 2.00% | ~832 |
+| Gold Trophy | 2.00% | ~832 |
+| Hopefully that's all of them! | 2.00% | ~832 |
+| Phew! | 2.00% | ~832 |
+| Silver Trophy | 2.00% | ~832 |
+| Maxed Out | 2.00% | ~832 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,757 (Ranked 188)  
-Completed: 408 (1.00%) (Ranked 285)  
+Progressed: 41,617 (Ranked 195)  
+Completed: 425 (1.02%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,6 +144,7 @@ Completed: 408 (1.00%) (Ranked 285)
 | 2024-08-09 | 39,733 | 387 |
 | 2024-08-20 | 40,055 | 394 |
 | 2024-09-14 | 40,757 | 408 |
+| 2024-10-17 | 41,617 | 425 |
 ## Awards
 Max (Challenging Puzzles): 44  (Ranked 604)  
 Sum: 44 (Ranked 669)  

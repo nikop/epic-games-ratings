@@ -2,10 +2,10 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -1075,17 +1075,17 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_ACT10",
       "SetID": "2310cb1",
       "Name": "So Close",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_ACT11",
@@ -1115,9 +1115,9 @@
       "ID": "ACH_ACT14",
       "SetID": "2310cb1",
       "Name": "Final Charge",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ACT15",
@@ -1243,9 +1243,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_LOOPER",
@@ -1259,9 +1259,9 @@
       "ID": "ACH_REUINTED",
       "SetID": "2310cb1",
       "Name": "Reunited",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_REWINDTIME",
@@ -1300,8 +1300,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:42.2479806+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:16.1336457+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:14.0014977+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:37.6259702+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:42.2480024+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:59.6674018+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:16.1336662+00:00"
 }

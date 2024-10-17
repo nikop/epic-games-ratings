@@ -2,10 +2,10 @@
   "ID": "9929fd534aae43acb7fd6e8016646ab9",
   "Name": "The Companion",
   "ProductSlug": "the-companion-e07d09",
-  "Ranking_EOS_Progress": 742,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-22T19:00:00+00:00",
     "PcReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-10-09T19:02:06.3553715+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:17.4383048+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-09-14T14:15:11.1428581+00:00",
@@ -50,7 +55,7 @@
       "ID": "CLEAR_ACT1",
       "SetID": "b1ngi8c",
       "Name": "So Refreshing",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -58,9 +63,9 @@
       "ID": "CLEAR_ACT2",
       "SetID": "b1ngi8c",
       "Name": "Is Anyone There?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CLEAR_ACT3",
@@ -74,7 +79,7 @@
       "ID": "CLEAR_ACT4",
       "SetID": "b1ngi8c",
       "Name": "They Rest",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -98,39 +103,39 @@
       "ID": "CLEAR_PROP1",
       "SetID": "b1ngi8c",
       "Name": "They Come",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 30
     },
     {
       "ID": "FIRST_CONTACT",
       "SetID": "b1ngi8c",
       "Name": "They Know",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "TO_THE_TOP",
       "SetID": "b1ngi8c",
       "Name": "A Memorable Place",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "b1ngi8c",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-25T05:59:05.4853402+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:11.142858+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:06.355371+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:17.4383044+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:10.8433073+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:35.1484763+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:06.355402+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:17.438312+00:00"
 }

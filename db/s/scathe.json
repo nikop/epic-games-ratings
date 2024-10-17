@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 471,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Completed": 495,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1289,
+  "EOS_Progressed": 1305,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2981,6 +2981,11 @@
       "Time": "2024-09-14T14:20:48.9306022+00:00",
       "NumProgressed": 1289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:10:27.4538646+00:00",
+      "NumProgressed": 1305,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3104,7 +3109,7 @@
       "Name": "Postal Service",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_PURELY_NOT",
@@ -3231,7 +3236,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 1289,
+      "Progressed": 1305,
       "Completed": 1
     }
   ],
@@ -3239,8 +3244,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:48.9306013+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:27.4538641+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:26.2541592+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:02.6238567+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:48.93063+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:27.453903+00:00"
 }

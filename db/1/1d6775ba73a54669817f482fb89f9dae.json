@@ -2,10 +2,10 @@
   "ID": "1d6775ba73a54669817f482fb89f9dae",
   "Name": "The Oregon Trail",
   "ProductSlug": "the-oregon-trail-60efa0",
-  "Ranking_EOS_Progress": 604,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 614,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-04T07:00:00+00:00",
     "PcReleaseDate": "2022-11-14T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-09-14T14:26:40.0969345+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:06.2067224+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-30T00:02:28.0968811+00:00",
@@ -67,9 +72,9 @@
       "ID": "BandTogether",
       "SetID": "1e2cfoc",
       "Name": "PUTTING THE BAND TOGETHER",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "BetTheRanch",
@@ -83,9 +88,9 @@
       "ID": "BigBlueRiver",
       "SetID": "1e2cfoc",
       "Name": "BIG BLUE RIVER",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 139
     },
     {
       "ID": "CT_GoldenSunset",
@@ -93,7 +98,7 @@
       "Name": "GOLDEN SUNSET",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "CT_MidasTouch",
@@ -101,23 +106,23 @@
       "Name": "MIDAS TOUCH",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "FortBoise",
       "SetID": "1e2cfoc",
       "Name": "FORT BOISE",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 73
     },
     {
       "ID": "FortLaramie",
       "SetID": "1e2cfoc",
       "Name": "FORT LARAMIE",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 128
     },
     {
       "ID": "FrailMonument",
@@ -125,7 +130,7 @@
       "Name": "FRAIL MONUMENT",
       "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "GiveAManAFish",
@@ -133,7 +138,7 @@
       "Name": "GIVE A MAN A FISH",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "InGoodTaste",
@@ -147,25 +152,25 @@
       "ID": "Independence",
       "SetID": "1e2cfoc",
       "Name": "INDEPENDENCE",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 194
     },
     {
       "ID": "IndependenceRock",
       "SetID": "1e2cfoc",
       "Name": "INDEPENDENCE ROCK",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "LewisAndClark",
       "SetID": "1e2cfoc",
       "Name": "LEWIS AND CLARK",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "MakingHerMark",
@@ -173,23 +178,23 @@
       "Name": "MAKING HER MARK",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 82
     },
     {
       "ID": "MeekAsMoses",
       "SetID": "1e2cfoc",
       "Name": "MEEK AS MOSES",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "OregonCity",
       "SetID": "1e2cfoc",
       "Name": "OREGON CITY",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "PacificRailroad",
@@ -203,17 +208,17 @@
       "ID": "PeperonyAndChease",
       "SetID": "1e2cfoc",
       "Name": "PEPERONY AND CHEASE",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "PlayRight",
       "SetID": "1e2cfoc",
       "Name": "PLAY RIGHT",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "SobStory",
@@ -229,7 +234,7 @@
       "Name": "TELEVISION",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "TexasFever",
@@ -245,43 +250,43 @@
       "Name": "TRAIL FOOD",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 102
     },
     {
       "ID": "TrailWildlife",
       "SetID": "1e2cfoc",
       "Name": "TRAIL WILDLIFE",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "YouHaveDiedOfDysentery",
       "SetID": "1e2cfoc",
       "Name": "YOU HAVE DIED OF DYSENTERY",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e2cfoc",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 221,
       "Completed": 0
     },
     {
       "ID": "d8494hk",
       "IsBase": false,
-      "Progressed": 204,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-04T21:57:40.3931333+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:46.7482184+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:40.0969336+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:06.2067217+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:56.5148458+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:46.1461572+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:40.0969498+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:06.2067436+00:00"
 }

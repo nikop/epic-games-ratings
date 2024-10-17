@@ -2,10 +2,10 @@
   "ID": "6b86aaf9e810458f874c7d43eb81e813",
   "Name": "DESOLATIUM",
   "ProductSlug": "desolatium-58c568",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-05T08:00:00+00:00",
     "PcReleaseDate": "2024-04-05T08:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-05-15T15:57:13.268537+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:25.1970289+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:07.4935404+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:10.5958437+00:00",
   "LastUpdate_AppInfo": "2024-10-11T05:57:25.2411388+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:39.5042788+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:07.4935544+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:56.6872435+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:10.5958463+00:00"
 }

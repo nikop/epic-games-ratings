@@ -2,10 +2,10 @@
   "ID": "5cc55bc3565c4c6299971b5a95d9d448",
   "Name": "Their Secrets",
   "ProductSlug": "their-secrets-9a0099",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-19T03:00:00+00:00",
     "PcReleaseDate": "2024-09-19T03:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-09-24T17:07:29.2519066+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:57:10.5253602+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:35.8913965+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:01.0123498+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:15.995437+00:00"
 }

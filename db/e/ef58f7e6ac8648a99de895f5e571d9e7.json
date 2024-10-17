@@ -2,10 +2,10 @@
   "ID": "ef58f7e6ac8648a99de895f5e571d9e7",
   "Name": "Heroes of Latera",
   "ProductSlug": "heroes-of-latera-e89ef8",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1068,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-22T14:54:18+00:00",
     "PcReleaseDate": "2024-09-16T19:00:00+00:00",
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:10:59.0434923+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-09-14T14:21:18.5434584+00:00",
   "TotalAchievements": 11,
   "TotalAchievementsXP": 1000,
@@ -103,17 +109,17 @@
       "ID": "Ben10",
       "SetID": "6ln358i",
       "Name": "Ben 10",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Jump",
       "SetID": "6ln358i",
       "Name": "Jump Jump Jump Around",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Legendary",
@@ -128,14 +134,14 @@
     {
       "ID": "6ln358i",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-24T18:59:27.0939225+00:00",
   "FirstSeenAchievements": "2024-09-14T14:21:18.5434583+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:18.5434563+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:59.0434915+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:56.3731565+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:20.3660561+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:18.5443524+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:59.0435+00:00"
 }

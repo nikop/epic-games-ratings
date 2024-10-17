@@ -2,10 +2,10 @@
   "ID": "b78765716f0f4fa0b9940efc0281ea54",
   "Name": "SeaOrama: World of Shipping",
   "ProductSlug": "seaorama-world-of-shipping-ff5abb",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1015,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-14T16:00:00+00:00",
     "PcReleaseDate": "2023-12-14T16:00:00+00:00",
@@ -24,27 +24,459 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:14:12.8841833+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:14:12.884186+00:00",
+  "TotalAchievements": 53,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1",
+      "SetID": "d29f067",
+      "Name": "Millionaires Club I",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_10",
+      "SetID": "d29f067",
+      "Name": "World Traveler I",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_11",
+      "SetID": "d29f067",
+      "Name": "World Traveler II",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_12",
+      "SetID": "d29f067",
+      "Name": "Pay Back Time",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_13",
+      "SetID": "d29f067",
+      "Name": "Be Number One",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_14",
+      "SetID": "d29f067",
+      "Name": "First In Command",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_15",
+      "SetID": "d29f067",
+      "Name": "As Good As It Gets",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_16",
+      "SetID": "d29f067",
+      "Name": "Best Technology",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_17",
+      "SetID": "d29f067",
+      "Name": "Fully Loaded",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_18",
+      "SetID": "d29f067",
+      "Name": "Outbid All Others",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_19",
+      "SetID": "d29f067",
+      "Name": "Keep Going I",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2",
+      "SetID": "d29f067",
+      "Name": "Millionaires Club II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_20",
+      "SetID": "d29f067",
+      "Name": "Keep Going II",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_21",
+      "SetID": "d29f067",
+      "Name": "Back For Repairs",
+      "Percentage": 14,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_22",
+      "SetID": "d29f067",
+      "Name": "Loyalty",
+      "Percentage": 14,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_23",
+      "SetID": "d29f067",
+      "Name": "There Is Always An Option",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_24",
+      "SetID": "d29f067",
+      "Name": "Traveler I",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_25",
+      "SetID": "d29f067",
+      "Name": "Traveler II",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_26",
+      "SetID": "d29f067",
+      "Name": "Traveler III",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_27",
+      "SetID": "d29f067",
+      "Name": "Traveler IV",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_28",
+      "SetID": "d29f067",
+      "Name": "Traveler V",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_29",
+      "SetID": "d29f067",
+      "Name": "Fully Stacked",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3",
+      "SetID": "d29f067",
+      "Name": "Rising star",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_30",
+      "SetID": "d29f067",
+      "Name": "Regular Customer I",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_31",
+      "SetID": "d29f067",
+      "Name": "Regular Customer II",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_32",
+      "SetID": "d29f067",
+      "Name": "Regular Customer III",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_33",
+      "SetID": "d29f067",
+      "Name": "Leasing I",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_34",
+      "SetID": "d29f067",
+      "Name": "Leasing II",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_35",
+      "SetID": "d29f067",
+      "Name": "Dangerous Waters",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_36",
+      "SetID": "d29f067",
+      "Name": "Good Payer",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_37",
+      "SetID": "d29f067",
+      "Name": "All On Time",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_38",
+      "SetID": "d29f067",
+      "Name": "Overachiever",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_39",
+      "SetID": "d29f067",
+      "Name": "Quality Of Living",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_4",
+      "SetID": "d29f067",
+      "Name": "Well Known",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_40",
+      "SetID": "d29f067",
+      "Name": "The First",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_41",
+      "SetID": "d29f067",
+      "Name": "Getting Experienced",
+      "Percentage": 43,
+      "XP": 15,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_42",
+      "SetID": "d29f067",
+      "Name": "Crew Full Of Three Stars",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_43",
+      "SetID": "d29f067",
+      "Name": "All-Star Crew",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_44",
+      "SetID": "d29f067",
+      "Name": "Only The Largest I",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_45",
+      "SetID": "d29f067",
+      "Name": "Only The Largest II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_46",
+      "SetID": "d29f067",
+      "Name": "Only The Largest III",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_47",
+      "SetID": "d29f067",
+      "Name": "Only The Largest IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_48",
+      "SetID": "d29f067",
+      "Name": "Bulk Carrier Exclusive Fleet",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_49",
+      "SetID": "d29f067",
+      "Name": "Container Exclusive Fleet",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_5",
+      "SetID": "d29f067",
+      "Name": "Expanding",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_50",
+      "SetID": "d29f067",
+      "Name": "Tanker Exclusive Fleet",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_51",
+      "SetID": "d29f067",
+      "Name": "Christening",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_52",
+      "SetID": "d29f067",
+      "Name": "Wear Your Colors",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_53",
+      "SetID": "d29f067",
+      "Name": "First StepEarn $ 5 million",
+      "Percentage": 21,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_6",
+      "SetID": "d29f067",
+      "Name": "Serious Business",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_7",
+      "SetID": "d29f067",
+      "Name": "All Four Types",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_8",
+      "SetID": "d29f067",
+      "Name": "Hard Times",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_9",
+      "SetID": "d29f067",
+      "Name": "With A Little Help...",
+      "Percentage": 14,
+      "XP": 20,
+      "UsersEstimate": 2
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d29f067",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T19:57:39.6106879+00:00",
   "FirstSeenAchievements": "2023-12-07T10:03:17.8516037+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:52.2565178+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:12.8841828+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:25.1019944+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:15.3312671+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:52.2565211+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:37.3611665+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:12.8848486+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 826,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-05T15:00:00+00:00",
     "PcReleaseDate": "2024-09-05T15:00:00+00:00",
@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 253,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -63,6 +63,11 @@
     {
       "Time": "2024-09-14T14:15:11.7172889+00:00",
       "NumProgressed": 44,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:29.8571153+00:00",
+      "NumProgressed": 253,
       "NumCompleted": 0
     }
   ],
@@ -74,121 +79,121 @@
       "ID": "1",
       "SetID": "5fbmb09",
       "Name": "New Toy",
-      "Percentage": 68,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 185
     },
     {
       "ID": "10",
       "SetID": "5fbmb09",
       "Name": "Desert Storm",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "11",
       "SetID": "5fbmb09",
       "Name": "Take the Nerd Down",
-      "Percentage": 34,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 132
     },
     {
       "ID": "12",
       "SetID": "5fbmb09",
       "Name": "The Gun is the Best Hacking Tool",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "13",
       "SetID": "5fbmb09",
       "Name": "Convict freed",
-      "Percentage": 30,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 116
     },
     {
       "ID": "14",
       "SetID": "5fbmb09",
       "Name": "Genuine Professional",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "15",
       "SetID": "5fbmb09",
       "Name": "Castling",
-      "Percentage": 18,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 101
     },
     {
       "ID": "16",
       "SetID": "5fbmb09",
       "Name": "King of The Castle",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "17",
       "SetID": "5fbmb09",
       "Name": "Meeting Cancelled",
-      "Percentage": 14,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 99
     },
     {
       "ID": "18",
       "SetID": "5fbmb09",
       "Name": "Deadly Efficient",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "19",
       "SetID": "5fbmb09",
       "Name": "Employee of the Year",
-      "Percentage": 16,
+      "Percentage": 39,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 99
     },
     {
       "ID": "2",
       "SetID": "5fbmb09",
       "Name": "Full Arsenal",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 15
     },
     {
       "ID": "20",
       "SetID": "5fbmb09",
       "Name": "Sunshine Roof",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "21",
       "SetID": "5fbmb09",
       "Name": "Sniping the Sniper",
-      "Percentage": 5,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 53
     },
     {
       "ID": "22",
       "SetID": "5fbmb09",
       "Name": "Patience is key",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 53
     },
     {
       "ID": "23",
@@ -196,39 +201,39 @@
       "Name": "Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 18
     },
     {
       "ID": "24",
       "SetID": "5fbmb09",
       "Name": "Caravan",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 28
     },
     {
       "ID": "25",
       "SetID": "5fbmb09",
       "Name": "Karma",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "26",
       "SetID": "5fbmb09",
       "Name": "Lethal Business",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 25
     },
     {
       "ID": "27",
       "SetID": "5fbmb09",
       "Name": "Long Live the Queen",
-      "Percentage": 23,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 104
     },
     {
       "ID": "28",
@@ -236,127 +241,127 @@
       "Name": "Fatal Accuracy",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "29",
       "SetID": "5fbmb09",
       "Name": "Discreet",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 13
     },
     {
       "ID": "3",
       "SetID": "5fbmb09",
       "Name": "Better Safe Than Sorry",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "30",
       "SetID": "5fbmb09",
       "Name": "Single Shot Killer",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "31",
       "SetID": "5fbmb09",
       "Name": "Full House",
-      "Percentage": 59,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 180
     },
     {
       "ID": "32",
       "SetID": "5fbmb09",
       "Name": "Thrifty Shooter",
-      "Percentage": 68,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 195
     },
     {
       "ID": "33",
       "SetID": "5fbmb09",
       "Name": "Lock, Stock, and Barrel",
-      "Percentage": 52,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 164
     },
     {
       "ID": "34",
       "SetID": "5fbmb09",
       "Name": "Turret Operator",
-      "Percentage": 2,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 25
     },
     {
       "ID": "35",
       "SetID": "5fbmb09",
       "Name": "Spectre",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 46
     },
     {
       "ID": "36",
       "SetID": "5fbmb09",
       "Name": "Venom",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "37",
       "SetID": "5fbmb09",
       "Name": "One Trick Pony",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "38",
       "SetID": "5fbmb09",
       "Name": "Horseshoes and Hand Grenades",
-      "Percentage": 9,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 83
     },
     {
       "ID": "39",
       "SetID": "5fbmb09",
       "Name": "Quick and Discreet",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 149
     },
     {
       "ID": "4",
       "SetID": "5fbmb09",
       "Name": "Small and Lethal",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 13
     },
     {
       "ID": "40",
       "SetID": "5fbmb09",
       "Name": "Look, but Don\u0027t Touch",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 38
     },
     {
       "ID": "41",
       "SetID": "5fbmb09",
       "Name": "One Shot One Kill",
-      "Percentage": 64,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 187
     },
     {
       "ID": "42",
@@ -370,56 +375,56 @@
       "ID": "43",
       "SetID": "5fbmb09",
       "Name": "Distance Doesn\u0027t Matter",
-      "Percentage": 66,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 195
     },
     {
       "ID": "5",
       "SetID": "5fbmb09",
       "Name": "First Payday",
-      "Percentage": 91,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 238
     },
     {
       "ID": "6",
       "SetID": "5fbmb09",
       "Name": "Full Potential",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "7",
       "SetID": "5fbmb09",
       "Name": "Finders Keepers",
-      "Percentage": 66,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 195
     },
     {
       "ID": "8",
       "SetID": "5fbmb09",
       "Name": "Hoarder",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 15
     },
     {
       "ID": "9",
       "SetID": "5fbmb09",
       "Name": "Mirage",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "5fbmb09",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 253,
       "Completed": 0
     }
   ],
@@ -427,8 +432,8 @@
   "FirstSeenRating": "2024-10-11T13:58:24.6907431+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:11.7172932+00:00",
   "LastChanged": "2024-10-16T13:16:29.012712+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:11.717288+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:29.8571147+00:00",
   "LastUpdate_AppInfo": "2024-10-10T18:57:08.3393044+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:59.7058261+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:11.7179399+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:29.8571442+00:00"
 }

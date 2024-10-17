@@ -2,10 +2,10 @@
   "ID": "451da11e3adf4275ace500815e0453fb",
   "Name": "Summer\u0027s Gone",
   "ProductSlug": "summers-gone-c1ec51",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-05-10T16:00:00+00:00",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2024-06-05T23:57:55.5152398+00:00",
   "FirstSeenAchievements": "2024-06-17T16:18:16.3191594+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:38.653272+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:16.715996+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:53.6886599+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:20.0464853+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:38.6533024+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:42.1367899+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:16.7160231+00:00"
 }

@@ -5,49 +5,49 @@ Rating: 4.55 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 89.00% | ~79 |
-| Lightbulb Seeker | 87.00% | ~77 |
-| Grilled Mouse | 85.00% | ~76 |
-| Lightbulbs Collector | 78.00% | ~69 |
-| Energy Collector | 74.00% | ~66 |
-| East Street Energy | 51.00% | ~45 |
-| Energy Expert | 48.00% | ~43 |
-| Lightbulbs Expert | 46.00% | ~41 |
-| The Old Man and the Café | 42.00% | ~37 |
-| That's one way to travel | 40.00% | ~36 |
-| South Town Energy | 35.00% | ~31 |
-| North Town Energy | 31.00% | ~28 |
-| OK, I heard you!! | 29.00% | ~26 |
-| Photogenic | 28.00% | ~25 |
-| The Girl and the Homework | 27.00% | ~24 |
-| Unlimited Power!! | 25.00% | ~22 |
-| Lightbulb Detective | 24.00% | ~21 |
-| The Ghost and the Lamps | 20.00% | ~18 |
-| The Quiche and the Hair Dryer | 20.00% | ~18 |
-| Cartographer | 20.00% | ~18 |
-| The Woman and the Pizzeria | 19.00% | ~17 |
-| South Square Lightbulbs | 18.00% | ~16 |
-| The Painter and the Lights | 17.00% | ~15 |
-| West Residence Energy | 16.00% | ~14 |
-| At your service | 13.00% | ~12 |
-| West Residence Lightbulbs | 13.00% | ~12 |
-| Riddle Master | 12.00% | ~11 |
-| East Street Lightbulbs | 11.00% | ~10 |
-| Out of service | 9.00% | ~8 |
-| The Garland and the Lightbulbs | 9.00% | ~8 |
-| Lightbulb Master | 8.00% | ~7 |
-| North Town Lightbulbs | 8.00% | ~7 |
-| Deep Lore | 8.00% | ~7 |
-| Lightning fast | 8.00% | ~7 |
-| The Spirit and The Mouse | 7.00% | ~6 |
-| The GA-DX | 6.00% | ~5 |
-| Fabulous! | 6.00% | ~5 |
-| The Woman and the Stars | 4.00% | ~4 |
-| Warm Bed | 2.00% | ~2 |
-| Take a break | 1.00% | ~1 |
+| Grilled Mouse | 70.00% | ~108,476 |
+| Lightbulb Seeker | 60.00% | ~92,979 |
+| Energy Seeker | 56.00% | ~86,780 |
+| Lightbulbs Collector | 44.00% | ~68,185 |
+| Energy Collector | 30.00% | ~46,490 |
+| The Old Man and the Café | 28.00% | ~43,390 |
+| OK, I heard you!! | 22.00% | ~34,092 |
+| East Street Energy | 16.00% | ~24,794 |
+| That's one way to travel | 14.00% | ~21,695 |
+| Energy Expert | 12.00% | ~18,596 |
+| Lightbulbs Expert | 12.00% | ~18,596 |
+| Photogenic | 9.00% | ~13,947 |
+| North Town Energy | 8.00% | ~12,397 |
+| South Town Energy | 8.00% | ~12,397 |
+| The Girl and the Homework | 8.00% | ~12,397 |
+| Cartographer | 6.00% | ~9,298 |
+| Unlimited Power!! | 5.00% | ~7,748 |
+| Lightbulb Detective | 5.00% | ~7,748 |
+| The Ghost and the Lamps | 5.00% | ~7,748 |
+| The Woman and the Pizzeria | 5.00% | ~7,748 |
+| The Quiche and the Hair Dryer | 5.00% | ~7,748 |
+| At your service | 4.00% | ~6,199 |
+| South Square Lightbulbs | 4.00% | ~6,199 |
+| West Residence Energy | 4.00% | ~6,199 |
+| The Painter and the Lights | 4.00% | ~6,199 |
+| Out of service | 3.00% | ~4,649 |
+| The GA-DX | 3.00% | ~4,649 |
+| East Street Lightbulbs | 3.00% | ~4,649 |
+| West Residence Lightbulbs | 3.00% | ~4,649 |
+| Deep Lore | 3.00% | ~4,649 |
+| The Spirit and The Mouse | 3.00% | ~4,649 |
+| The Woman and the Stars | 3.00% | ~4,649 |
+| Riddle Master | 3.00% | ~4,649 |
+| Lightbulb Master | 2.00% | ~3,099 |
+| North Town Lightbulbs | 2.00% | ~3,099 |
+| The Garland and the Lightbulbs | 2.00% | ~3,099 |
+| Lightning fast | 2.00% | ~3,099 |
+| Fabulous! | 1.00% | ~1,550 |
+| Warm Bed | 0.80% | ~1,240 |
+| Take a break | 0.30% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 727)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 154,965 (Ranked 117)  
+Completed: 168 (0.11%) (Ranked 482)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-01-19 | 84 | 0 |
 | 2024-02-22 | 87 | 0 |
 | 2024-03-21 | 89 | 0 |
+| 2024-10-17 | 154,965 | 168 |
 ## Awards
 Max (Easy Puzzles): 70  (Ranked 531)  
 Sum: 70 (Ranked 630)  

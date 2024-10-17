@@ -1,56 +1,56 @@
 # Chronos: Before the Ashes
 [Store](https://store.epicgames.com/en-US/p/chronos-before-the-ashes)  
 [View Rawdata](../../db/c/chronos__before_the_ashes.json)  
-Rating: 4.16 (Ranked 1,183)  
+Rating: 4.16 (Ranked 1,182)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is this safe? | 73.00% | ~194 |
-| Not Your Enemy | 59.00% | ~157 |
-| It Burns! | 53.00% | ~141 |
-| Hard Choices | 50.00% | ~133 |
-| A Hidden Treasure | 46.00% | ~122 |
-| First of Many | 43.00% | ~114 |
-| Stories of Old | 30.00% | ~80 |
-| Rock Wall | 29.00% | ~77 |
-| You Can't Touch This | 29.00% | ~77 |
-| The Bigger They Are… | 28.00% | ~74 |
-| I'll take it! | 27.00% | ~72 |
-| Light our Darkest Hour… | 26.00% | ~69 |
-| All Seeing Eye | 26.00% | ~69 |
-| Do it yourself | 25.00% | ~66 |
-| Riddle me this | 24.00% | ~64 |
-| Point the Sharp End at Enemies | 23.00% | ~61 |
-| Like Thunder | 23.00% | ~61 |
-| Ball and Chain | 23.00% | ~61 |
-| Your Royal Highness | 23.00% | ~61 |
-| Well Read | 23.00% | ~61 |
-| More of a Buckler | 21.00% | ~56 |
-| What Evil Lurks… | 21.00% | ~56 |
-| Many Faces, Few Words | 21.00% | ~56 |
-| Continuance of Life | 21.00% | ~56 |
-| Maximum Power! | 21.00% | ~56 |
-| Worth It | 20.00% | ~53 |
-| What is the Labyrinth? | 19.00% | ~51 |
-| A Small Momento | 19.00% | ~51 |
-| Don't Fear the Reaper | 18.00% | ~48 |
-| Surprisingly Spry | 18.00% | ~48 |
-| Strength in Numbers | 18.00% | ~48 |
-| The Hero's Journey | 17.00% | ~45 |
-| Shouldn't Have Done That | 17.00% | ~45 |
-| A True Adventurer | 15.00% | ~40 |
-| Mirror, Mirror | 14.00% | ~37 |
-| Too Clever | 11.00% | ~29 |
-| With Age Comes Wisdom | 7.00% | ~19 |
-| A Heroic Feat | 5.00% | ~13 |
+| Is this safe? | 74.00% | ~224 |
+| Not Your Enemy | 61.00% | ~185 |
+| It Burns! | 55.00% | ~167 |
+| Hard Choices | 52.00% | ~158 |
+| A Hidden Treasure | 47.00% | ~142 |
+| First of Many | 44.00% | ~133 |
+| Stories of Old | 32.00% | ~97 |
+| Rock Wall | 31.00% | ~94 |
+| You Can't Touch This | 31.00% | ~94 |
+| The Bigger They Are… | 30.00% | ~91 |
+| I'll take it! | 29.00% | ~88 |
+| All Seeing Eye | 28.00% | ~85 |
+| Light our Darkest Hour… | 27.00% | ~82 |
+| Do it yourself | 27.00% | ~82 |
+| Like Thunder | 25.00% | ~76 |
+| Riddle me this | 25.00% | ~76 |
+| Point the Sharp End at Enemies | 24.00% | ~73 |
+| Ball and Chain | 24.00% | ~73 |
+| Your Royal Highness | 23.00% | ~70 |
+| Well Read | 23.00% | ~70 |
+| Continuance of Life | 22.00% | ~67 |
+| More of a Buckler | 21.00% | ~64 |
+| What Evil Lurks… | 21.00% | ~64 |
+| Many Faces, Few Words | 21.00% | ~64 |
+| Maximum Power! | 21.00% | ~64 |
+| Worth It | 20.00% | ~61 |
+| Surprisingly Spry | 19.00% | ~58 |
+| Strength in Numbers | 19.00% | ~58 |
+| A Small Momento | 19.00% | ~58 |
+| Don't Fear the Reaper | 18.00% | ~55 |
+| What is the Labyrinth? | 18.00% | ~55 |
+| The Hero's Journey | 16.00% | ~48 |
+| Shouldn't Have Done That | 16.00% | ~48 |
+| Mirror, Mirror | 15.00% | ~45 |
+| A True Adventurer | 14.00% | ~42 |
+| Too Clever | 11.00% | ~33 |
+| With Age Comes Wisdom | 7.00% | ~21 |
+| A Heroic Feat | 4.00% | ~12 |
 | Old Enough | 1.00% | ~3 |
 | BFA | 1.00% | ~3 |
 | Dedicated Adventurer | 0.00% | ~0 |
 | …The Harder They Fall. | 0.00% | ~0 |
 | Ultimate Power! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 568)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 303 (Ranked 571)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 172 | 0 |
 | 2024-08-09 | 231 | 0 |
 | 2024-09-14 | 266 | 0 |
+| 2024-10-17 | 303 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

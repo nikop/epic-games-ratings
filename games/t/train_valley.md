@@ -6,36 +6,36 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~667 |
-| Close call! | 68.00% | ~605 |
-| Builder | 50.00% | ~444 |
-| Living it large! | 45.00% | ~400 |
-| Collector | 43.00% | ~382 |
-| Pangs of conscience | 43.00% | ~382 |
-| Need to think | 41.00% | ~364 |
-| Completely nuts! | 40.00% | ~356 |
-| Europe | 35.00% | ~311 |
-| Just in time! | 33.00% | ~293 |
-| Madness! | 32.00% | ~284 |
-| Philatelist | 28.00% | ~249 |
-| It's no coincidence. | 27.00% | ~240 |
-| Let's roll! | 26.00% | ~231 |
-| Non Stop! | 26.00% | ~231 |
-| Ouroboros | 24.00% | ~213 |
-| Russia | 21.00% | ~187 |
-| America | 20.00% | ~178 |
-| Foreman | 20.00% | ~178 |
-| Missed it! | 17.00% | ~151 |
-| Sabotage | 15.00% | ~133 |
-| Japan | 13.00% | ~116 |
-| Achtung! | 13.00% | ~116 |
-| Tycoon | 11.00% | ~98 |
-| Woodcutter | 9.00% | ~80 |
-| Engineer | 9.00% | ~80 |
-| Germany | 8.00% | ~71 |
-| Supercrash! | 6.00% | ~53 |
-| Chuck Norris | 6.00% | ~53 |
-| Сhancellor | 5.00% | ~44 |
+| Getting started | 75.00% | ~677 |
+| Close call! | 68.00% | ~614 |
+| Builder | 50.00% | ~452 |
+| Living it large! | 45.00% | ~406 |
+| Collector | 43.00% | ~388 |
+| Pangs of conscience | 43.00% | ~388 |
+| Need to think | 42.00% | ~379 |
+| Completely nuts! | 40.00% | ~361 |
+| Europe | 35.00% | ~316 |
+| Just in time! | 33.00% | ~298 |
+| Madness! | 32.00% | ~289 |
+| Philatelist | 28.00% | ~253 |
+| It's no coincidence. | 27.00% | ~244 |
+| Let's roll! | 26.00% | ~235 |
+| Non Stop! | 26.00% | ~235 |
+| Ouroboros | 24.00% | ~217 |
+| Russia | 21.00% | ~190 |
+| America | 20.00% | ~181 |
+| Foreman | 20.00% | ~181 |
+| Missed it! | 17.00% | ~154 |
+| Sabotage | 15.00% | ~135 |
+| Japan | 13.00% | ~117 |
+| Achtung! | 13.00% | ~117 |
+| Tycoon | 11.00% | ~99 |
+| Woodcutter | 9.00% | ~81 |
+| Engineer | 9.00% | ~81 |
+| Germany | 8.00% | ~72 |
+| Supercrash! | 6.00% | ~54 |
+| Chuck Norris | 6.00% | ~54 |
+| Сhancellor | 5.00% | ~45 |
 | Peacemaker | 4.00% | ~36 |
 | Forgotten | 3.00% | ~27 |
 | Lucky vandal | 3.00% | ~27 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~5 |
 | Vandal | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 889 (Ranked 436)  
-Completed: 2 (0.22%) (Ranked 414)  
+Progressed: 903 (Ranked 450)  
+Completed: 2 (0.22%) (Ranked 437)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,6 +214,7 @@ Completed: 2 (0.22%) (Ranked 414)
 | 2024-08-09 | 863 | 2 |
 | 2024-08-20 | 868 | 2 |
 | 2024-09-14 | 889 | 2 |
+| 2024-10-17 | 903 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

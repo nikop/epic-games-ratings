@@ -2,10 +2,10 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 611,
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 625,
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
-  "EOS_Completed": 9,
+  "EOS_Progressed": 202,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.59,
+  "EOS_Completed_Percentage": 4.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -309,6 +309,11 @@
       "Time": "2024-09-14T14:24:19.8256448+00:00",
       "NumProgressed": 196,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-10-17T05:13:04.3909487+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 21,
@@ -318,7 +323,7 @@
       "ID": "Attuned",
       "SetID": "4nce15l",
       "Name": "Attuned",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -326,33 +331,33 @@
       "ID": "BeginningOfTheEnd",
       "SetID": "4nce15l",
       "Name": "Beginning of the End",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "Bling",
       "SetID": "4nce15l",
       "Name": "Bling",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "Bloodlust",
       "SetID": "4nce15l",
       "Name": "Bloodlust",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "Determined",
       "SetID": "4nce15l",
       "Name": "Determined",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "EmpyreanChampion",
@@ -374,7 +379,7 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 73
     },
@@ -384,7 +389,7 @@
       "Name": "Geared",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GettingItDone",
@@ -392,23 +397,23 @@
       "Name": "Gettin\u0027 It Done",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "MasterCrafter",
       "SetID": "4nce15l",
       "Name": "Master Crafter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "MasterTrader",
       "SetID": "4nce15l",
       "Name": "Master Trader",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "MysteriesOfRin",
@@ -422,7 +427,7 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 57
     },
@@ -430,17 +435,17 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ReadyToRock",
@@ -448,7 +453,7 @@
       "Name": "Ready to Rock",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SideJob",
@@ -456,13 +461,13 @@
       "Name": "Side Job",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 53
     },
@@ -470,7 +475,7 @@
       "ID": "Specialist",
       "SetID": "4nce15l",
       "Name": "Specialist",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 60,
       "UsersEstimate": 59
     },
@@ -478,25 +483,25 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 196,
-      "Completed": 9
+      "Progressed": 202,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:32:22.4007155+00:00",
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:19.8256441+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:04.3909483+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:25.8611644+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:36.9372093+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:19.825659+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:52.6399757+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:04.3909649+00:00"
 }

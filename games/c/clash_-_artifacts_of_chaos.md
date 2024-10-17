@@ -17,7 +17,7 @@
 | The Pride of Moozhaw | 23.00% | ~53 |
 | Omnia Vincit Amor | 23.00% | ~53 |
 | Stilt House | 17.00% | ~39 |
-| Corwid Hill | 13.00% | ~30 |
+| Corwid Hill | 14.00% | ~32 |
 | Armor Collector | 12.00% | ~28 |
 | Dreamwalker | 10.00% | ~23 |
 | Your Training Is Complete | 9.00% | ~21 |
@@ -26,8 +26,8 @@
 | Vivid Dreams | 3.00% | ~7 |
 | Broken Reflection | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 589)  
-Completed: 2 (0.87%) (Ranked 300)  
+Progressed: 230 (Ranked 609)  
+Completed: 2 (0.87%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

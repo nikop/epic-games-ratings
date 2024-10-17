@@ -2,10 +2,10 @@
   "ID": "df9c3614f9e44c0ea9b70d4aa01a1de5",
   "Name": "The Assault: Survivor",
   "ProductSlug": "sleep-45d60e",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 908,
+  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-23T20:00:00+00:00",
     "PcReleaseDate": "2024-06-23T20:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 34.48,
+  "EOS_Completed_Percentage": 33.33,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:35.0472926+00:00",
@@ -43,6 +43,11 @@
       "Time": "2024-09-14T14:27:53.6161219+00:00",
       "NumProgressed": 29,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-10-17T05:15:03.106871+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:35.0472941+00:00",
@@ -53,7 +58,7 @@
       "ID": "Buyer",
       "SetID": "3b2ib0a",
       "Name": "Buyer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 10
     },
@@ -61,7 +66,7 @@
       "ID": "Healing",
       "SetID": "3b2ib0a",
       "Name": "Healing",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 200,
       "UsersEstimate": 23
     },
@@ -69,7 +74,7 @@
       "ID": "MoneyMaker",
       "SetID": "3b2ib0a",
       "Name": "MoneyMaker",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 200,
       "UsersEstimate": 20
     },
@@ -77,7 +82,7 @@
       "ID": "Strongpower",
       "SetID": "3b2ib0a",
       "Name": "Strong power",
-      "Percentage": 86,
+      "Percentage": 83,
       "XP": 200,
       "UsersEstimate": 25
     },
@@ -87,20 +92,20 @@
       "Name": "Together",
       "Percentage": 93,
       "XP": 200,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "3b2ib0a",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:35.0472941+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:53.6161212+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:03.1068705+00:00",
   "LastUpdate_AppInfo": "2024-10-15T05:57:15.5381556+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:03.1449392+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:53.6161283+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:03.1068775+00:00"
 }

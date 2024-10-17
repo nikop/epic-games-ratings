@@ -2,10 +2,10 @@
   "ID": "284a71e3e36b41a18b474e5469060944",
   "Name": "Demise of Nations",
   "ProductSlug": "my-product-e81d20",
-  "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Completed": 423,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-02-02T01:00:00+00:00",
     "PcReleaseDate": "2017-08-08T23:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 362,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -74,6 +74,11 @@
     {
       "Time": "2024-09-14T14:23:37.4275657+00:00",
       "NumProgressed": 357,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:12:15.1254863+00:00",
+      "NumProgressed": 362,
       "NumCompleted": 1
     }
   ],
@@ -135,15 +140,15 @@
       "Name": "Procreation",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_kill_10",
       "SetID": "4ad1fci",
       "Name": "10 Kills",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_kill_100",
@@ -151,7 +156,7 @@
       "Name": "100 Kills",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_kill_1000",
@@ -175,7 +180,7 @@
       "Name": "Territorial Ruler",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_tough_guy",
@@ -189,9 +194,9 @@
       "ID": "com_demiseofnations_app_user_rom_award_local_tutorial",
       "SetID": "4ad1fci",
       "Name": "Tutorial Completed",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_victories_01",
@@ -239,7 +244,7 @@
       "Name": "Played for 1h",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_total_played_24h",
@@ -254,14 +259,14 @@
     {
       "ID": "4ad1fci",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-02T10:57:27.6041536+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.2301509+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:37.4275654+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:15.1254859+00:00",
   "LastUpdate_AppInfo": "2024-10-16T14:57:05.8680711+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:15.2487092+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:37.4275754+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:37.4424381+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:15.1255031+00:00"
 }

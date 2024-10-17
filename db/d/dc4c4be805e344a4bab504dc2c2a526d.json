@@ -2,10 +2,10 @@
   "ID": "dc4c4be805e344a4bab504dc2c2a526d",
   "Name": "Kode Zero",
   "ProductSlug": "cryptoclash-a1acaf",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
     "PcReleaseDate": "2023-09-12T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-17T09:05:08.4749391+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:25.9004414+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:20.4264837+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:28.3143342+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:26.8564395+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:55.0491095+00:00"
 }

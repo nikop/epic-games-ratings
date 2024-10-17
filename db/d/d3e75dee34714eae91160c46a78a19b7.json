@@ -2,10 +2,10 @@
   "ID": "d3e75dee34714eae91160c46a78a19b7",
   "Name": "Burnout Paradise Remastered",
   "ProductSlug": "burnout-paradise-remastered-69da46",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2018-03-16T05:00:00+00:00",
@@ -25,27 +25,483 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:15:01.9971465+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:15:01.9971493+00:00",
+  "TotalAchievements": 56,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "1dlg3fk",
+      "Name": "Lookin\u0027 Good",
+      "Percentage": 97,
+      "XP": 10,
+      "UsersEstimate": 141
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "1dlg3fk",
+      "Name": "Spinnin\u0027 Around",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "1dlg3fk",
+      "Name": "Underachiever",
+      "Percentage": 55,
+      "XP": 20,
+      "UsersEstimate": 80
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "1dlg3fk",
+      "Name": "Learning to Fly",
+      "Percentage": 58,
+      "XP": 10,
+      "UsersEstimate": 84
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "1dlg3fk",
+      "Name": "Duckin\u0027 and Weavin\u0027",
+      "Percentage": 45,
+      "XP": 10,
+      "UsersEstimate": 65
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "1dlg3fk",
+      "Name": "The Show Must Go On",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "1dlg3fk",
+      "Name": "Rampage!",
+      "Percentage": 39,
+      "XP": 10,
+      "UsersEstimate": 57
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "1dlg3fk",
+      "Name": "Must Try Harder",
+      "Percentage": 35,
+      "XP": 20,
+      "UsersEstimate": 51
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "1dlg3fk",
+      "Name": "Parallel Park",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "1dlg3fk",
+      "Name": "Daredevil",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "1dlg3fk",
+      "Name": "Boosting Around the World",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "1dlg3fk",
+      "Name": "Watt?",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 44
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "1dlg3fk",
+      "Name": "Flying Colours",
+      "Percentage": 15,
+      "XP": 40,
+      "UsersEstimate": 22
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "1dlg3fk",
+      "Name": "Millionaires\u0027 Club",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "1dlg3fk",
+      "Name": "Supercharged",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "1dlg3fk",
+      "Name": "Car in a China Shop",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "1dlg3fk",
+      "Name": "Paradise Won",
+      "Percentage": 9,
+      "XP": 60,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "1dlg3fk",
+      "Name": "All Pimped Out",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "1dlg3fk",
+      "Name": "Explorer",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "1dlg3fk",
+      "Name": "Paid and Displayed",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "1dlg3fk",
+      "Name": "Bustin\u0027 Out",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "1dlg3fk",
+      "Name": "Totally Smashed",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "1dlg3fk",
+      "Name": "It\u0027s Showtime",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_30",
+      "SetID": "1dlg3fk",
+      "Name": "Flying High",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_31",
+      "SetID": "1dlg3fk",
+      "Name": "Speed King",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_32",
+      "SetID": "1dlg3fk",
+      "Name": "Crashin\u0027 All Over The World",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_33",
+      "SetID": "1dlg3fk",
+      "Name": "Shopaholic",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_34",
+      "SetID": "1dlg3fk",
+      "Name": "Elite",
+      "Percentage": 1,
+      "XP": 60,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_35",
+      "SetID": "1dlg3fk",
+      "Name": "Criterion Elite",
+      "Percentage": 0.7,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_36",
+      "SetID": "1dlg3fk",
+      "Name": "Online Racer",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_37",
+      "SetID": "1dlg3fk",
+      "Name": "First Win",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_38",
+      "SetID": "1dlg3fk",
+      "Name": "Online Champion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_39",
+      "SetID": "1dlg3fk",
+      "Name": "Online and Kicking",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "1dlg3fk",
+      "Name": "Great Start",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 109
+    },
+    {
+      "ID": "achievement_40",
+      "SetID": "1dlg3fk",
+      "Name": "Firestarter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_41",
+      "SetID": "1dlg3fk",
+      "Name": "Just for Pics",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_42",
+      "SetID": "1dlg3fk",
+      "Name": "Join the Party",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_43",
+      "SetID": "1dlg3fk",
+      "Name": "Party Crasher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_44",
+      "SetID": "1dlg3fk",
+      "Name": "Party Animal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_45",
+      "SetID": "1dlg3fk",
+      "Name": "Block Party",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_46",
+      "SetID": "1dlg3fk",
+      "Name": "Burnout Skills",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_47",
+      "SetID": "1dlg3fk",
+      "Name": "Perfect Party Game",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_48",
+      "SetID": "1dlg3fk",
+      "Name": "Massive Party Game",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_49",
+      "SetID": "1dlg3fk",
+      "Name": "The Right Side of the Law",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "1dlg3fk",
+      "Name": "Misdemeanor",
+      "Percentage": 71,
+      "XP": 10,
+      "UsersEstimate": 103
+    },
+    {
+      "ID": "achievement_50",
+      "SetID": "1dlg3fk",
+      "Name": "The Gang Is Back In Town",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_51",
+      "SetID": "1dlg3fk",
+      "Name": "Golden",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_52",
+      "SetID": "1dlg3fk",
+      "Name": "Smash n\u0027 Grab",
+      "Percentage": 14,
+      "XP": 20,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "achievement_53",
+      "SetID": "1dlg3fk",
+      "Name": "Surf Boards",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "achievement_54",
+      "SetID": "1dlg3fk",
+      "Name": "Island Explorer",
+      "Percentage": 9,
+      "XP": 20,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "achievement_55",
+      "SetID": "1dlg3fk",
+      "Name": "Crash TV Air Time",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "achievement_56",
+      "SetID": "1dlg3fk",
+      "Name": "People Person",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "1dlg3fk",
+      "Name": "Off the Beaten Path",
+      "Percentage": 68,
+      "XP": 10,
+      "UsersEstimate": 99
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "1dlg3fk",
+      "Name": "Bottom of the Class",
+      "Percentage": 80,
+      "XP": 10,
+      "UsersEstimate": 116
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "1dlg3fk",
+      "Name": "Perfect Rage",
+      "Percentage": 41,
+      "XP": 10,
+      "UsersEstimate": 59
+    },
+    {
+      "ID": "achievement_9",
+      "SetID": "1dlg3fk",
+      "Name": "Rising From the Ashes",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 32
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1dlg3fk",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-26T21:57:03.6051663+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:30.3531148+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:51.502603+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:01.997146+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:07.7546685+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:20.0671597+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:51.5026063+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:42.2991932+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:01.9978125+00:00"
 }

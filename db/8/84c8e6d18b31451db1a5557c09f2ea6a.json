@@ -2,10 +2,10 @@
   "ID": "84c8e6d18b31451db1a5557c09f2ea6a",
   "Name": "Jewel Run",
   "ProductSlug": "jewel-run-629837",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-08T09:50:20.259+00:00",
     "PcReleaseDate": "2023-10-19T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-31T14:58:28.4721124+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:58.5860037+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:46.7300521+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:04.3604148+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:08.0382979+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:48.4818068+00:00"
 }

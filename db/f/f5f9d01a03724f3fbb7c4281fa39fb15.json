@@ -2,10 +2,10 @@
   "ID": "f5f9d01a03724f3fbb7c4281fa39fb15",
   "Name": "The Mystery Of The Moon",
   "ProductSlug": "the-mystery-of-the-moon-7f3e48",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-20T16:00:00+00:00",
     "PcReleaseDate": "2023-11-20T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-19T01:43:14.1233469+00:00",
   "LastUpdate_AppInfo": "2024-10-13T13:11:35.1298187+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:05.2773231+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:23.0845635+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:02.7091179+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:59.8051639+00:00"
 }

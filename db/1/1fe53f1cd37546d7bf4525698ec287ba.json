@@ -2,10 +2,10 @@
   "ID": "1fe53f1cd37546d7bf4525698ec287ba",
   "Name": "LiveLink Hub",
   "ProductSlug": "livelink-hub-2ed588",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-11-30T00:00:00+00:00",
     "PcReleaseDate": "2024-11-30T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T19:57:07.5221385+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:32.9517271+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:21.1794407+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:04.4810365+00:00"
 }

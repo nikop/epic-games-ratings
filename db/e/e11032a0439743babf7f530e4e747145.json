@@ -2,10 +2,10 @@
   "ID": "e11032a0439743babf7f530e4e747145",
   "Name": "HyperRogue",
   "ProductSlug": "hyperrogue-57ce19",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-17T08:00:00+00:00",
     "PcReleaseDate": "2015-01-16T00:00:00+00:00",
@@ -2519,8 +2519,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:31.5004688+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:54.1703595+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:03.5276529+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:11.7032603+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:42.475621+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:54.1710808+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:04.6210921+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:03.5283671+00:00"
 }

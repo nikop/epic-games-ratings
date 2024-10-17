@@ -2,10 +2,10 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 613,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 632,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:32.6522125+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:24.2409838+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:30.5717194+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:28.6648761+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:32.6522713+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:14.2827327+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:24.2410078+00:00"
 }

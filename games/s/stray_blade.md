@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 42.00% | ~94 |
-| Tinkerer | 34.00% | ~76 |
-| Welcome to the Club | 22.00% | ~49 |
-| A new World ahead | 17.00% | ~38 |
-| Apprentice | 15.00% | ~34 |
-| Don't Cry Wolf | 13.00% | ~29 |
-| Freezing Cold | 9.00% | ~20 |
-| Can't touch this | 9.00% | ~20 |
-| Expert | 8.00% | ~18 |
+| Self-Defence | 43.00% | ~100 |
+| Tinkerer | 35.00% | ~82 |
+| Welcome to the Club | 24.00% | ~56 |
+| A new World ahead | 18.00% | ~42 |
+| Apprentice | 16.00% | ~37 |
+| Don't Cry Wolf | 15.00% | ~35 |
+| Freezing Cold | 9.00% | ~21 |
+| Can't touch this | 9.00% | ~21 |
 | Searing Heat | 7.00% | ~16 |
-| Craftsmen | 6.00% | ~13 |
-| Locked and Loaded | 6.00% | ~13 |
-| Nothing but the Truth | 6.00% | ~13 |
-| Defeat Tezuth | 5.00% | ~11 |
-| The Golden Flash | 5.00% | ~11 |
-| Changing the World | 5.00% | ~11 |
-| Through Dangers Untold | 4.00% | ~9 |
+| Expert | 7.00% | ~16 |
+| Craftsmen | 6.00% | ~14 |
+| Locked and Loaded | 6.00% | ~14 |
+| Nothing but the Truth | 6.00% | ~14 |
+| Defeat Tezuth | 5.00% | ~12 |
+| The Golden Flash | 5.00% | ~12 |
+| Changing the World | 5.00% | ~12 |
 | Witch | 4.00% | ~9 |
 | The A-Team | 4.00% | ~9 |
 | The Power of the Mountains | 4.00% | ~9 |
 | Sponsor | 3.00% | ~7 |
 | Defeat Ingla | 3.00% | ~7 |
+| Through Dangers Untold | 3.00% | ~7 |
 | Ancient Powers | 3.00% | ~7 |
 | But what of the Acreans? | 3.00% | ~7 |
 | A Deceiving Gift | 3.00% | ~7 |
-| Defeat Uskol | 2.00% | ~4 |
-| Wizard | 2.00% | ~4 |
-| Pathfinder | 2.00% | ~4 |
-| Finally! | 2.00% | ~4 |
-| The End | 2.00% | ~4 |
-| Unveiling the Truth | 2.00% | ~4 |
+| Defeat Uskol | 2.00% | ~5 |
+| Wizard | 2.00% | ~5 |
+| Pathfinder | 2.00% | ~5 |
+| Finally! | 2.00% | ~5 |
+| The End | 2.00% | ~5 |
+| Unveiling the Truth | 2.00% | ~5 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Collector | 1.00% | ~2 |
 | Forest Expert | 1.00% | ~2 |
@@ -57,8 +57,8 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 592)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 233 (Ranked 608)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,6 +179,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 218 | 0 |
 | 2024-08-09 | 221 | 0 |
 | 2024-09-14 | 224 | 0 |
+| 2024-10-17 | 233 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "61bf61eac17e4387b779eac91395aa79",
   "Name": "The Death Into Trouble",
   "ProductSlug": "the-death-into-trouble-271916",
-  "Ranking_EOS_Progress": 1078,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1122,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-19T17:00:00+00:00",
     "PcReleaseDate": "2021-10-22T14:00:00+00:00",
@@ -234,8 +234,8 @@
   ],
   "FirstSeen": "2024-01-21T06:00:35.1961942+00:00",
   "FirstSeenAchievements": "2023-11-26T14:04:51.2664734+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:03.7821175+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:38.0012749+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:14.9866004+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:34.9653373+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:03.782131+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:14.5865493+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:38.0012854+00:00"
 }

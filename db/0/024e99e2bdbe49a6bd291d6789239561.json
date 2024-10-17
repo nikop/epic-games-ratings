@@ -2,10 +2,10 @@
   "ID": "024e99e2bdbe49a6bd291d6789239561",
   "Name": "Dying Light: The Beast",
   "ProductSlug": "dying-light-the-beast-60a36c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "dn3j834",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:24.5954013+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:24.595399+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:21.8745901+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:59.4779509+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:08.2803888+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:21.5901616+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:24.595404+00:00"
 }

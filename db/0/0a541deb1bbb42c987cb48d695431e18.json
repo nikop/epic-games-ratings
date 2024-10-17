@@ -5,10 +5,10 @@
   "Ranking_Rating": 946,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Completed": 539,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2014-10-22T21:00:00+00:00",
@@ -498,7 +498,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4761,
+  "EOS_Progressed": 5693,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -533,6 +533,11 @@
       "Time": "2024-09-14T14:28:00.7321879+00:00",
       "NumProgressed": 4761,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:15:06.8858038+00:00",
+      "NumProgressed": 5693,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:55.4233237+00:00",
@@ -543,33 +548,33 @@
       "ID": "achievement_1",
       "SetID": "560c72a",
       "Name": "Storm bringer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2505
     },
     {
       "ID": "achievement_10",
       "SetID": "560c72a",
       "Name": "Dunn\u0027s pride",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 3714
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_11",
       "SetID": "560c72a",
       "Name": "Braving the storm",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2960
     },
     {
       "ID": "achievement_12",
       "SetID": "560c72a",
       "Name": "Wolves in sheep\u0027s clothing",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 3571
+      "UsersEstimate": 4327
     },
     {
       "ID": "achievement_13",
@@ -577,23 +582,23 @@
       "Name": "The fall of a Titan",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3644
     },
     {
       "ID": "achievement_14",
       "SetID": "560c72a",
       "Name": "Dead by dawn",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2733
     },
     {
       "ID": "achievement_15",
       "SetID": "560c72a",
       "Name": "Guns at dawn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1857
+      "UsersEstimate": 2277
     },
     {
       "ID": "achievement_16",
@@ -601,15 +606,15 @@
       "Name": "Fishing in Baku",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 4333
+      "UsersEstimate": 5181
     },
     {
       "ID": "achievement_17",
       "SetID": "560c72a",
       "Name": "Antediluvian",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1952
+      "UsersEstimate": 2391
     },
     {
       "ID": "achievement_18",
@@ -617,7 +622,7 @@
       "Name": "It was on the way...",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 2904
+      "UsersEstimate": 3473
     },
     {
       "ID": "achievement_19",
@@ -625,7 +630,7 @@
       "Name": "Took a casual look around",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1993
     },
     {
       "ID": "achievement_2",
@@ -633,7 +638,7 @@
       "Name": "A one-man riot",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2903
     },
     {
       "ID": "achievement_20",
@@ -641,15 +646,15 @@
       "Name": "Methodical search",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_21",
       "SetID": "560c72a",
       "Name": "Done some searching",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_22",
@@ -657,7 +662,7 @@
       "Name": "No stone left unturned",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_23",
@@ -665,7 +670,7 @@
       "Name": "Every nook and cranny",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_24",
@@ -673,7 +678,7 @@
       "Name": "Stumbled over it",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4839
     },
     {
       "ID": "achievement_25",
@@ -681,7 +686,7 @@
       "Name": "Wolf",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1594
     },
     {
       "ID": "achievement_26",
@@ -689,7 +694,7 @@
       "Name": "Tombstone",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_27",
@@ -697,7 +702,7 @@
       "Name": "Recon",
       "Percentage": 2,
       "XP": 65,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_28",
@@ -705,7 +710,7 @@
       "Name": "Well placed",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_29",
@@ -713,15 +718,15 @@
       "Name": "Wrecker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_3",
       "SetID": "560c72a",
       "Name": "Terror of the deep",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3814
     },
     {
       "ID": "achievement_30",
@@ -729,39 +734,39 @@
       "Name": "Blood wake",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2448
     },
     {
       "ID": "achievement_31",
       "SetID": "560c72a",
       "Name": "War turtle",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_32",
       "SetID": "560c72a",
       "Name": "Infiltrator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_33",
       "SetID": "560c72a",
       "Name": "Shawshank",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1879
     },
     {
       "ID": "achievement_34",
       "SetID": "560c72a",
       "Name": "For tombstone",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 626
     },
     {
       "ID": "achievement_35",
@@ -769,15 +774,15 @@
       "Name": "For the people",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 1025
     },
     {
       "ID": "achievement_36",
       "SetID": "560c72a",
       "Name": "For the cause",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 1196
     },
     {
       "ID": "achievement_37",
@@ -785,15 +790,15 @@
       "Name": "Patience is a virtue",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_38",
       "SetID": "560c72a",
       "Name": "Turn around...",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_39",
@@ -801,15 +806,15 @@
       "Name": "Won them all",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_4",
       "SetID": "560c72a",
       "Name": "Gladiator",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2562
     },
     {
       "ID": "achievement_40",
@@ -817,7 +822,7 @@
       "Name": ".45 old school",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_41",
@@ -825,15 +830,15 @@
       "Name": "Bomb squad",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_42",
       "SetID": "560c72a",
       "Name": "Call me \u0022Sir\u0022",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_43",
@@ -841,31 +846,31 @@
       "Name": "Fledgling",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_44",
       "SetID": "c7p15fk",
       "Name": "2 Wheels",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_45",
       "SetID": "c7p15fk",
       "Name": "Mini Kamikaze",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_46",
       "SetID": "c7p15fk",
       "Name": "Death From Above",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_47",
@@ -873,7 +878,7 @@
       "Name": "New Superpower",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_48",
@@ -881,7 +886,7 @@
       "Name": "Falling Down",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_49",
@@ -889,7 +894,7 @@
       "Name": "Dirty Job",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_5",
@@ -897,23 +902,23 @@
       "Name": "Above and beyond the call",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_50",
       "SetID": "c7p15fk",
       "Name": "Torched",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_51",
       "SetID": "c7p15fk",
       "Name": "Risky Business",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_52",
@@ -921,7 +926,7 @@
       "Name": "Blind Bomber",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_53",
@@ -929,7 +934,7 @@
       "Name": "The Big Leagues",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_54",
@@ -937,7 +942,7 @@
       "Name": "Killing Me Softly",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_55",
@@ -945,7 +950,7 @@
       "Name": "Spotted",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_56",
@@ -953,7 +958,7 @@
       "Name": "Fly Swatter",
       "Percentage": 0.5,
       "XP": 65,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_57",
@@ -961,7 +966,7 @@
       "Name": "No Parley",
       "Percentage": 0.4,
       "XP": 65,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_58",
@@ -969,7 +974,7 @@
       "Name": "Link Repeater",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_59",
@@ -977,15 +982,15 @@
       "Name": "Bulletproof. Sort Of...",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_6",
       "SetID": "560c72a",
       "Name": "Demolition man",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1904
+      "UsersEstimate": 2334
     },
     {
       "ID": "achievement_60",
@@ -993,15 +998,15 @@
       "Name": "The Metropolitan",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_61",
       "SetID": "c7p15fk",
       "Name": "RC Assassin",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 65,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_62",
@@ -1009,7 +1014,7 @@
       "Name": "Street Fighter",
       "Percentage": 0.1,
       "XP": 65,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_63",
@@ -1017,7 +1022,7 @@
       "Name": "Snowbound",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_64",
@@ -1025,7 +1030,7 @@
       "Name": "Your Titan is Ready",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_65",
@@ -1033,15 +1038,15 @@
       "Name": "Cold Blooded",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_66",
       "SetID": "c7p15fk",
       "Name": "Has science gone too far?",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_67",
@@ -1049,15 +1054,15 @@
       "Name": "King in the North",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_7",
       "SetID": "560c72a",
       "Name": "Guardian of the fleet",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 2220
     },
     {
       "ID": "achievement_8",
@@ -1065,28 +1070,28 @@
       "Name": "Full arsenal",
       "Percentage": 0.6,
       "XP": 65,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_9",
       "SetID": "560c72a",
       "Name": "Fish",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1762
+      "UsersEstimate": 2163
     }
   ],
   "AchievementSets": [
     {
       "ID": "560c72a",
       "IsBase": true,
-      "Progressed": 4761,
+      "Progressed": 5693,
       "Completed": 2
     },
     {
       "ID": "c7p15fk",
       "IsBase": false,
-      "Progressed": 4761,
+      "Progressed": 5693,
       "Completed": 2
     }
   ],
@@ -1094,8 +1099,8 @@
   "FirstSeenRating": "2024-06-14T14:57:16.0878598+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:55.4233236+00:00",
   "LastChanged": "2024-10-15T21:57:34.0932602+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:00.7321872+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:06.8858032+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:12.861156+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:01.7452615+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:00.7322362+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:06.8858523+00:00"
 }

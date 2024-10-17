@@ -2,10 +2,10 @@
   "ID": "877493b28f0a4f319f76d77fd4932a6c",
   "Name": "Make It Stop!",
   "ProductSlug": "make-it-stop-ce2ab0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-08T16:00:00+00:00",
     "PcReleaseDate": "2024-03-08T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-13T03:15:54.2541386+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:09.3373942+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:13.8762254+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:31.4168448+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:54.0318471+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3429f30135c04d78aa9cc421067dd415",
   "Name": "Clad In Iron War of The Pacific 1879",
   "ProductSlug": "clad-in-iron-war-of-the-pacific-1879-68f244",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-22T10:00:00+00:00",
     "PcReleaseDate": "2023-02-22T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-10T21:59:31.5368528+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:23.0739547+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:03.3669629+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:15.2579462+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:34.2930315+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:04.8842509+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b249551ce1c84c6fbbe5b77adfe443cf",
   "Name": "Anarkade",
   "ProductSlug": "anarkade-fd7782",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-23T23:00:00+00:00",
     "PcReleaseDate": "2024-09-23T23:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:15:06.1376226+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:06.1376168+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:21.8576867+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:56.9916+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:44.5443483+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:06.1376241+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:05:51.1622224+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:21.8576917+00:00"
 }

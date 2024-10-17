@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 59.00% | ~236 |
+| A Second Chance | 59.00% | ~235 |
 | Press-ganged | 44.00% | ~176 |
 | The Package | 27.00% | ~108 |
 | Conquered | 21.00% | ~84 |
@@ -25,11 +25,11 @@
 | Strategist | 7.00% | ~28 |
 | Courier | 7.00% | ~28 |
 | Quartermaster | 6.00% | ~24 |
+| Been There | 6.00% | ~24 |
 | Pilgrimage's End | 6.00% | ~24 |
 | Trouble at Fort Larius | 6.00% | ~24 |
 | Potential Unlocked | 5.00% | ~20 |
 | Despised | 5.00% | ~20 |
-| Been There | 5.00% | ~20 |
 | A Terrible Will | 5.00% | ~20 |
 | Spiritual Journey | 5.00% | ~20 |
 | Inquisitions of Discord | 5.00% | ~20 |
@@ -51,6 +51,7 @@
 | Watcher | 2.00% | ~8 |
 | Loremaster | 2.00% | ~8 |
 | Talent Nurtured | 2.00% | ~8 |
+| Ever After | 2.00% | ~8 |
 | Loader | 2.00% | ~8 |
 | Moving At Odd Angles | 2.00% | ~8 |
 | What Lies Below | 2.00% | ~8 |
@@ -60,7 +61,6 @@
 | Glorious leader | 2.00% | ~8 |
 | Voracity Confronted | 2.00% | ~8 |
 | Adept | 1.00% | ~4 |
-| Ever After | 1.00% | ~4 |
 | Forged in Battle | 1.00% | ~4 |
 | Escort | 1.00% | ~4 |
 | Despoiler | 1.00% | ~4 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 399 (Ranked 539)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,6 +234,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 391 | 0 |
 | 2024-09-14 | 397 | 0 |
 | 2024-10-09 | 400 | 0 |
+| 2024-10-17 | 399 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

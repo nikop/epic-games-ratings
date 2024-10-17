@@ -2,10 +2,10 @@
   "ID": "539015909ce942109cddcbfd3006a29b",
   "Name": "THE DARK SIDE OF CECLON",
   "ProductSlug": "the-dark-side-of-ceclon-a226c2",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2025-01-20T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T10:57:10.1054753+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:00.9574339+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:15.8784022+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:30.674444+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:25.7989658+00:00"
 }

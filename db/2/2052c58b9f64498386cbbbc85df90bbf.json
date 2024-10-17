@@ -5,10 +5,10 @@
   "Ranking_Rating": 80,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 593,
-  "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 449,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Completed": 465,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-29T17:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -530,11 +530,11 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 92790,
-  "EOS_Completed": 124,
+  "EOS_Progressed": 95241,
+  "EOS_Completed": 137,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:54.0348879+00:00",
@@ -565,6 +565,11 @@
       "Time": "2024-09-14T14:27:58.1116429+00:00",
       "NumProgressed": 92790,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-10-17T05:15:05.5288751+00:00",
+      "NumProgressed": 95241,
+      "NumCompleted": 137
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:54.0348948+00:00",
@@ -575,9 +580,9 @@
       "ID": "00_meet_rando",
       "SetID": "2lphen6",
       "Name": "The Face of Blood",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11135
+      "UsersEstimate": 12381
     },
     {
       "ID": "01_meet_buzzo",
@@ -585,7 +590,7 @@
       "Name": "Embrace the Joy",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 28765
+      "UsersEstimate": 29525
     },
     {
       "ID": "02_save_buddy",
@@ -593,7 +598,7 @@
       "Name": "Happy Reunion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8572
     },
     {
       "ID": "03_fishcave",
@@ -601,7 +606,7 @@
       "Name": "There\u0027s Something Fishy...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3810
     },
     {
       "ID": "04_randolando",
@@ -609,7 +614,7 @@
       "Name": "The End is Nigh",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "05_joyless",
@@ -617,7 +622,7 @@
       "Name": "Joyless End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "06_joyful",
@@ -625,7 +630,7 @@
       "Name": "Joyful End",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "07_hotelsecret",
@@ -633,7 +638,7 @@
       "Name": "Weekend Getaway",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "08_creed",
@@ -641,7 +646,7 @@
       "Name": "Worth it",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 762
     },
     {
       "ID": "09_selfish",
@@ -649,7 +654,7 @@
       "Name": "Selfish",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "10_kind_of_selfish",
@@ -657,7 +662,7 @@
       "Name": "Kind of Selfish",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "11_selfless",
@@ -665,7 +670,7 @@
       "Name": "Selfless",
       "Percentage": 2,
       "XP": 180,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "12_columbo",
@@ -673,7 +678,7 @@
       "Name": "Bye, I Guess...",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6667
     },
     {
       "ID": "13_roulette",
@@ -681,7 +686,7 @@
       "Name": "I Love You Son.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 952
     },
     {
       "ID": "14_mike",
@@ -689,7 +694,7 @@
       "Name": "10-4 Good Buddy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "15_ewcchamp",
@@ -697,7 +702,7 @@
       "Name": "The Champ is Here!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3810
     },
     {
       "ID": "16_tagchamp",
@@ -705,7 +710,7 @@
       "Name": "Arm-Shock 4 Life!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "17_doctor",
@@ -713,7 +718,7 @@
       "Name": "The Doctor is in the House",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "18_headshot",
@@ -721,15 +726,15 @@
       "Name": "Look on the Brightside",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "19_hairmanity",
       "SetID": "2lphen6",
       "Name": "Really? Hairmanity?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 12063
+      "UsersEstimate": 13334
     },
     {
       "ID": "20_area_1",
@@ -737,7 +742,7 @@
       "Name": "Let\u0027s Find Her",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 45467
+      "UsersEstimate": 46668
     },
     {
       "ID": "21_area_2",
@@ -745,7 +750,7 @@
       "Name": "It\u0027s all falling down",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11135
+      "UsersEstimate": 11429
     },
     {
       "ID": "22_area_3",
@@ -753,7 +758,7 @@
       "Name": "No Turning Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7423
+      "UsersEstimate": 7619
     },
     {
       "ID": "23_potty",
@@ -761,7 +766,7 @@
       "Name": "No...",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6667
     },
     {
       "ID": "24_rangers",
@@ -769,7 +774,7 @@
       "Name": "Salvation Ends",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "25_burningman",
@@ -777,7 +782,7 @@
       "Name": "Hot Snow",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "26_hornman",
@@ -785,7 +790,7 @@
       "Name": "...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 667
     },
     {
       "ID": "27_terry",
@@ -793,7 +798,7 @@
       "Name": "Hint Guy Recruit",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 69592
+      "UsersEstimate": 71431
     },
     {
       "ID": "28_crisp",
@@ -801,7 +806,7 @@
       "Name": "Many Swords Guy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3810
     },
     {
       "ID": "29_rt",
@@ -809,7 +814,7 @@
       "Name": "Dirt Bag Guy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3810
     },
     {
       "ID": "30_rooster",
@@ -817,15 +822,15 @@
       "Name": "Red Hair Guy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7423
+      "UsersEstimate": 7619
     },
     {
       "ID": "31_olan",
       "SetID": "2lphen6",
       "Name": "Drunk Guy",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21342
+      "UsersEstimate": 22858
     },
     {
       "ID": "32_nern",
@@ -833,7 +838,7 @@
       "Name": "Annoying Guy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 31549
+      "UsersEstimate": 32382
     },
     {
       "ID": "33_rage",
@@ -841,7 +846,7 @@
       "Name": "Headbutt Guy",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14846
+      "UsersEstimate": 15239
     },
     {
       "ID": "34_percy",
@@ -849,7 +854,7 @@
       "Name": "Poop Guy",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12063
+      "UsersEstimate": 12381
     },
     {
       "ID": "35_maddog",
@@ -857,7 +862,7 @@
       "Name": "Nipple Guy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "36_shocklord",
@@ -865,7 +870,7 @@
       "Name": "Face First Guy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "37_fardy",
@@ -873,7 +878,7 @@
       "Name": "Violated Guy",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12063
+      "UsersEstimate": 12381
     },
     {
       "ID": "38_queen",
@@ -881,7 +886,7 @@
       "Name": "Lady Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4762
     },
     {
       "ID": "39_carp",
@@ -889,7 +894,7 @@
       "Name": "Fish Guy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "40_harvey",
@@ -897,7 +902,7 @@
       "Name": "Lawyer Fish Guy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3810
     },
     {
       "ID": "41_clint",
@@ -905,7 +910,7 @@
       "Name": "Cool Dude Guy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     },
     {
       "ID": "42_buckets",
@@ -913,7 +918,7 @@
       "Name": "Mysterious Guy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 952
     },
     {
       "ID": "43_buffalo",
@@ -921,7 +926,7 @@
       "Name": "American Guy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6667
     },
     {
       "ID": "44_tigerman",
@@ -929,7 +934,7 @@
       "Name": "Spear Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4762
     },
     {
       "ID": "45_ollie",
@@ -937,7 +942,7 @@
       "Name": "Sweaty Guy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "46_geese",
@@ -945,7 +950,7 @@
       "Name": "Rhyming Bird Guy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "47_dick",
@@ -953,7 +958,7 @@
       "Name": "Party Guy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "48_jack",
@@ -961,7 +966,7 @@
       "Name": "Magic Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4762
     },
     {
       "ID": "49_sonny",
@@ -969,7 +974,7 @@
       "Name": "Powerful Clothesline Guy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "50_yazan",
@@ -977,7 +982,7 @@
       "Name": "Cat Guy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8572
     },
     {
       "ID": "51_beastborn",
@@ -985,7 +990,7 @@
       "Name": "Wild Guy",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 12991
+      "UsersEstimate": 13334
     },
     {
       "ID": "52_fly",
@@ -993,7 +998,7 @@
       "Name": "Bug Guy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2857
     },
     {
       "ID": "53_ajeet",
@@ -1001,7 +1006,7 @@
       "Name": "Poke Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4762
     },
     {
       "ID": "54_garth",
@@ -1009,7 +1014,7 @@
       "Name": "Art Guy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5714
     },
     {
       "ID": "55_bo",
@@ -1017,7 +1022,7 @@
       "Name": "Weird Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4762
     },
     {
       "ID": "56_birdie",
@@ -1025,7 +1030,7 @@
       "Name": "Super Drunk Guy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7423
+      "UsersEstimate": 7619
     },
     {
       "ID": "57_painmode",
@@ -1033,23 +1038,23 @@
       "Name": "Sorry Master",
       "Percentage": 2,
       "XP": 180,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1905
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lphen6",
       "IsBase": true,
-      "Progressed": 92790,
-      "Completed": 124
+      "Progressed": 95241,
+      "Completed": 137
     }
   ],
   "FirstSeen": "2024-04-01T06:00:42.9546024+00:00",
   "FirstSeenRating": "2024-04-28T12:59:32.2146949+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.0348947+00:00",
   "LastChanged": "2024-10-16T22:59:38.473624+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:58.1116423+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:05.5288745+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:10.8271022+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:53.6580189+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:58.1116951+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:15.6432747+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:05.5289135+00:00"
 }

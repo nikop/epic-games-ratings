@@ -5,10 +5,10 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 535,
-  "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-23T14:00:00+00:00",
     "PcReleaseDate": "2024-07-23T14:00:00+00:00",
@@ -680,7 +680,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1946,
+  "EOS_Progressed": 2281,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -705,6 +705,11 @@
       "Time": "2024-09-14T14:28:07.754303+00:00",
       "NumProgressed": 1946,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:10.7307551+00:00",
+      "NumProgressed": 2281,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:45.3315748+00:00",
@@ -717,7 +722,7 @@
       "Name": "Complete Package",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 1751
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH_ALL_TROPHIES",
@@ -725,95 +730,95 @@
       "Name": "Full Cabinet",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_BOARD_LONG_TERM",
       "SetID": "6e4o4hc",
       "Name": "Marathon, Not A Sprint",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 75,
-      "UsersEstimate": 428
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_BOARD_SEASON",
       "SetID": "6e4o4hc",
       "Name": "Bullseye",
-      "Percentage": 29,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 564
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_BOTH_CARS_PERFECT_SETUP",
       "SetID": "6e4o4hc",
       "Name": "Prior Preparation",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 593
     },
     {
       "ID": "ACH_BUILD_UPGRADE_FACILITY",
       "SetID": "6e4o4hc",
       "Name": "Facility Ability",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1665
     },
     {
       "ID": "ACH_CHANGED_LIVERY_MID_SEASON",
       "SetID": "6e4o4hc",
       "Name": "New Style",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_CONSTRUCTORS_CHAMPION",
       "SetID": "6e4o4hc",
       "Name": "Constructors\u0027 Champion",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 253
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_CREATE_CUSTOM_TEAM",
       "SetID": "6e4o4hc",
       "Name": "Crank it up to 11",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1802
     },
     {
       "ID": "ACH_DESIGN_CAR_PART",
       "SetID": "6e4o4hc",
       "Name": "Pen To Paper",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_DRIVERS_CHAMPION",
       "SetID": "6e4o4hc",
       "Name": "Drivers\u0027 Champion",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 253
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_FINISH_FASTEST_LAP",
       "SetID": "6e4o4hc",
       "Name": "It\u0027s Hammertime",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_FINISH_FASTEST_PITSOP",
       "SetID": "6e4o4hc",
       "Name": "Lollipop Master",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_FINISH_GRAND_PRIX",
@@ -821,103 +826,103 @@
       "Name": "Chequered Flag",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 2030
     },
     {
       "ID": "ACH_FINISH_MECHANICAL_FAULT",
       "SetID": "6e4o4hc",
       "Name": "Check Engine Light",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1505
     },
     {
       "ID": "ACH_FINISH_SEASON",
       "SetID": "6e4o4hc",
       "Name": "First of Many",
-      "Percentage": 34,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_FINISH_SEASON_CUSTOM_TEAM",
       "SetID": "6e4o4hc",
       "Name": "The Rookies",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_FIT_CAR_PART",
       "SetID": "6e4o4hc",
       "Name": "Flush Fitment",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH_GRAND_SLAM",
       "SetID": "6e4o4hc",
       "Name": "Grand Slam",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_POLE_POSITION",
       "SetID": "6e4o4hc",
       "Name": "Pole in one!",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_REGULATION_VOTE",
       "SetID": "6e4o4hc",
       "Name": "Cast Your Stone",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_RESEARCH_PROJECT",
       "SetID": "6e4o4hc",
       "Name": "Future Planning",
-      "Percentage": 49,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACH_SIGN_AFFILIATE",
       "SetID": "6e4o4hc",
       "Name": "One for the Future",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_SIGN_STAFF_IMMEDIATE",
       "SetID": "6e4o4hc",
       "Name": "No time, just sign",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_WIN_ALL_CHAMPIONSHIPS",
       "SetID": "6e4o4hc",
       "Name": "The Holy Trinity",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_WIN_GRAND_PRIX",
       "SetID": "6e4o4hc",
       "Name": "Simply Lovely!",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 837
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH_WIN_GRAND_PRIX_10",
@@ -931,40 +936,40 @@
       "ID": "ACH_WIN_PITSTOP_CHAMPION",
       "SetID": "6e4o4hc",
       "Name": "Like Clockwork",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_WIN_SHANGHAI",
       "SetID": "6e4o4hc",
       "Name": "Pearl on the Skyline",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 428
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_WIN_SPRINT",
       "SetID": "6e4o4hc",
       "Name": "The Hare",
-      "Percentage": 31,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_YOUNGEST_WDC",
       "SetID": "6e4o4hc",
       "Name": "The Future is Now",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "6e4o4hc",
       "IsBase": true,
-      "Progressed": 1946,
+      "Progressed": 2281,
       "Completed": 0
     }
   ],
@@ -972,8 +977,8 @@
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
   "LastChanged": "2024-10-16T19:59:11.8707647+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:10.7307547+00:00",
   "LastUpdate_AppInfo": "2024-10-16T11:57:05.6873645+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:11.2137752+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:10.7307735+00:00"
 }

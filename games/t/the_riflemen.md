@@ -5,23 +5,23 @@ Rating: 4.31 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 76.00% | ~103,482 |
-| Head popping I | 5.00% | ~6,808 |
-| It's a piece of cake | 2.00% | ~2,723 |
-| Rifle Master | 0.70% | ~953 |
-| Hang in there | 0.60% | ~817 |
-| Head popping II | 0.30% | ~408 |
-| Bazooka Master | 0.10% | ~136 |
-| Grenade Master | 0.10% | ~136 |
-| Head popping III | 0.10% | ~136 |
-| Knife Master | 0.10% | ~136 |
-| He who laughs last laughs best | 0.10% | ~136 |
-| Shotgun Master | 0.10% | ~136 |
-| Sniper Master | 0.10% | ~136 |
-| Sword Master | 0.10% | ~136 |
+| First blood | 76.00% | ~103,796 |
+| Head popping I | 5.00% | ~6,829 |
+| It's a piece of cake | 2.00% | ~2,731 |
+| Rifle Master | 0.70% | ~956 |
+| Hang in there | 0.60% | ~819 |
+| Head popping II | 0.30% | ~410 |
+| Bazooka Master | 0.10% | ~137 |
+| Grenade Master | 0.10% | ~137 |
+| Head popping III | 0.10% | ~137 |
+| Knife Master | 0.10% | ~137 |
+| He who laughs last laughs best | 0.10% | ~137 |
+| Shotgun Master | 0.10% | ~137 |
+| Sniper Master | 0.10% | ~137 |
+| Sword Master | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,161 (Ranked 123)  
-Completed: 11,761 (8.64%) (Ranked 87)  
+Progressed: 136,574 (Ranked 125)  
+Completed: 11,761 (8.61%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,6 +197,7 @@ Completed: 11,761 (8.64%) (Ranked 87)
 | 2024-08-20 | 133,157 | 11,761 |
 | 2024-09-14 | 134,774 | 11,761 |
 | 2024-10-09 | 136,161 | 11,761 |
+| 2024-10-17 | 136,574 | 11,761 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

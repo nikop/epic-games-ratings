@@ -2,10 +2,10 @@
   "ID": "328e727b886d48ecbc8e00f79e858653",
   "Name": "Exovoid",
   "ProductSlug": "exovoid-4c900f",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-22T00:39:48+00:00",
     "PcReleaseDate": null,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-07T16:58:19.9650194+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:08.5672955+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:55.9176799+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:38.87889+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:47.9357102+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:26.496631+00:00"
 }

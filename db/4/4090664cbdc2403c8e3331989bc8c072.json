@@ -5,10 +5,10 @@
   "Ranking_Rating": 415,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 419,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2018-03-23T08:00:00+00:00",
@@ -150,11 +150,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1069,
-  "EOS_Completed": 4,
+  "EOS_Progressed": 2148,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:16.0834387+00:00",
@@ -180,6 +180,11 @@
       "Time": "2024-09-14T14:27:42.5021317+00:00",
       "NumProgressed": 1069,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-10-17T05:14:54.4690767+00:00",
+      "NumProgressed": 2148,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:16.0834411+00:00",
@@ -190,25 +195,25 @@
       "ID": "achievement_1",
       "SetID": "4l2olin",
       "Name": "Freedom",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 706
+      "UsersEstimate": 1396
     },
     {
       "ID": "achievement_10",
       "SetID": "4l2olin",
       "Name": "Backseat Mechanic",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 845
+      "UsersEstimate": 1654
     },
     {
       "ID": "achievement_11",
       "SetID": "4l2olin",
       "Name": "Take It For A Spin",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_12",
@@ -216,15 +221,15 @@
       "Name": "You Started It",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 107
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_13",
       "SetID": "4l2olin",
       "Name": "The Dip",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_14",
@@ -232,7 +237,7 @@
       "Name": "Home Run",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_2",
@@ -240,7 +245,7 @@
       "Name": "Take A Breather",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_3",
@@ -248,23 +253,23 @@
       "Name": "In Sync",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_4",
       "SetID": "4l2olin",
       "Name": "Timeless Treasure",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_5",
       "SetID": "4l2olin",
       "Name": "No Cheating",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_6",
@@ -272,7 +277,7 @@
       "Name": "Break From Reality",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 417
+      "UsersEstimate": 838
     },
     {
       "ID": "achievement_7",
@@ -280,39 +285,39 @@
       "Name": "Mayday!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_8",
       "SetID": "4l2olin",
       "Name": "Managed Anger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 5
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_9",
       "SetID": "4l2olin",
       "Name": "Live the Dream",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "4l2olin",
       "IsBase": true,
-      "Progressed": 1069,
-      "Completed": 4
+      "Progressed": 2148,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2024-05-11T23:57:23.4944435+00:00",
   "FirstSeenRating": "2024-08-23T21:57:48.7736922+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:16.0834411+00:00",
   "LastChanged": "2024-10-14T21:58:39.350736+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:42.5021311+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:54.4690761+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:25.6518095+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:42.513507+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:42.5021427+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:54.4690857+00:00"
 }

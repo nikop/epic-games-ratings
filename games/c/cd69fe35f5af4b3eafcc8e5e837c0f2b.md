@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Builder | 70.00% | ~63 |
-| Demolisher | 53.00% | ~48 |
-| Improver | 37.00% | ~33 |
-| Expert demolisher | 30.00% | ~27 |
-| Expert builder | 26.00% | ~23 |
-| Preparator | 18.00% | ~16 |
-| Expert improver | 13.00% | ~12 |
-| Storekeeper | 12.00% | ~11 |
-| Master builder | 10.00% | ~9 |
-| Master improver | 9.00% | ~8 |
-| Master demolisher | 9.00% | ~8 |
-| Manager | 9.00% | ~8 |
-| Trainer | 8.00% | ~7 |
-| Architect | 7.00% | ~6 |
-| Rich | 7.00% | ~6 |
-| Hardworking | 6.00% | ~5 |
-| Skilled | 3.00% | ~3 |
+| Builder | 71.00% | ~77 |
+| Demolisher | 55.00% | ~60 |
+| Improver | 39.00% | ~43 |
+| Expert demolisher | 33.00% | ~36 |
+| Expert builder | 28.00% | ~31 |
+| Preparator | 21.00% | ~23 |
+| Expert improver | 17.00% | ~19 |
+| Storekeeper | 14.00% | ~15 |
+| Master builder | 10.00% | ~11 |
+| Master improver | 9.00% | ~10 |
+| Master demolisher | 9.00% | ~10 |
+| Manager | 9.00% | ~10 |
+| Trainer | 8.00% | ~9 |
+| Rich | 7.00% | ~8 |
+| Hardworking | 6.00% | ~7 |
+| Architect | 6.00% | ~7 |
+| Skilled | 4.00% | ~4 |
+| Planner | 3.00% | ~3 |
 | Popular | 2.00% | ~2 |
 | Freeman | 2.00% | ~2 |
-| Planner | 2.00% | ~2 |
-| Quick | 1.00% | ~1 |
-| Diligent | 1.00% | ~1 |
+| Quick | 0.90% | ~1 |
+| Diligent | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 725)  
-Completed: 1 (1.11%) (Ranked 273)  
+Progressed: 109 (Ranked 725)  
+Completed: 1 (0.92%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,3 +36,4 @@ Completed: 1 (1.11%) (Ranked 273)
 | 2024-08-09 | 68 | 0 |
 | 2024-08-20 | 77 | 0 |
 | 2024-09-14 | 90 | 1 |
+| 2024-10-17 | 109 | 1 |

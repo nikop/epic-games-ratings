@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Relight my Cannon | 40.00% | ~51 |
+| Relight my Cannon | 41.00% | ~52 |
+| Glass Act | 39.00% | ~50 |
 | Tour Guide Extraordinaire | 39.00% | ~50 |
-| Glass Act | 38.00% | ~48 |
 | Puzzle Prodigy | 27.00% | ~34 |
 | Explosive End | 25.00% | ~32 |
 | Snitch | 25.00% | ~32 |
@@ -15,16 +15,16 @@
 | Breathless End | 21.00% | ~27 |
 | Bathroom Brawler | 20.00% | ~25 |
 | Codebreaker | 20.00% | ~25 |
+| Flying High | 20.00% | ~25 |
 | Set Sail | 20.00% | ~25 |
-| Flying High | 19.00% | ~24 |
 | Backstory Buff | 17.00% | ~22 |
 | Fool's Gold | 6.00% | ~8 |
 | Key Keeper's Curse | 6.00% | ~8 |
 | Freedum Fighter | 5.00% | ~6 |
 | Escape Artist | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 670)  
-Completed: 4 (3.15%) (Ranked 181)  
+Progressed: 127 (Ranked 695)  
+Completed: 4 (3.15%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

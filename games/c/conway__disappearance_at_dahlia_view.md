@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Ace Detective: McKee | 36.00% | ~4 |
 | Marling | 36.00% | ~4 |
-| Ace Detective: McKee | 27.00% | ~3 |
 | Look Out Below! | 27.00% | ~3 |
 | One Hundred & Eighty | 9.00% | ~1 |
 | Ace Detective: Conway | 9.00% | ~1 |
@@ -19,8 +19,8 @@
 | Observant | 0.00% | ~0 |
 | Profiler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 1,000)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 11 (Ranked 1,040)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

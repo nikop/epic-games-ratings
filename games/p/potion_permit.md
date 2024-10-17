@@ -5,47 +5,47 @@ Rating: 4.02 (Ranked 1,256)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~2,491 |
-| The First Step | 86.00% | ~2,186 |
-| Moonbury Traveller | 63.00% | ~1,601 |
-| Rookie Chemist | 60.00% | ~1,525 |
-| Great Doctor | 50.00% | ~1,271 |
-| Friendly | 47.00% | ~1,195 |
-| Dog Whisperer | 47.00% | ~1,195 |
-| The Capitalist | 44.00% | ~1,118 |
-| K.O.! | 43.00% | ~1,093 |
-| Intermediate Chemist | 40.00% | ~1,017 |
-| Decorative Mind | 33.00% | ~839 |
-| Lumber Specialist | 32.00% | ~813 |
-| Kind-hearted | 27.00% | ~686 |
-| Catch of the Day | 26.00% | ~661 |
-| Amateur Chef | 24.00% | ~610 |
-| Fishing Guru | 22.00% | ~559 |
-| Spark of Love | 20.00% | ~508 |
-| Community Helper | 17.00% | ~432 |
-| Expert Chemist | 15.00% | ~381 |
-| Line Cook | 14.00% | ~356 |
-| Stone Specialist | 14.00% | ~356 |
-| Sociable | 13.00% | ~330 |
-| Ablutomaniac | 12.00% | ~305 |
-| Production Sorter | 12.00% | ~305 |
-| Good Samaritan | 11.00% | ~280 |
-| Acrobatic Adventurer | 11.00% | ~280 |
-| Animal Exterminator | 10.00% | ~254 |
+| Welcome to Moonbury | 98.00% | ~2,502 |
+| The First Step | 86.00% | ~2,196 |
+| Moonbury Traveller | 63.00% | ~1,608 |
+| Rookie Chemist | 60.00% | ~1,532 |
+| Great Doctor | 50.00% | ~1,276 |
+| Friendly | 47.00% | ~1,200 |
+| Dog Whisperer | 47.00% | ~1,200 |
+| The Capitalist | 44.00% | ~1,123 |
+| K.O.! | 43.00% | ~1,098 |
+| Intermediate Chemist | 40.00% | ~1,021 |
+| Decorative Mind | 33.00% | ~842 |
+| Lumber Specialist | 32.00% | ~817 |
+| Kind-hearted | 27.00% | ~689 |
+| Catch of the Day | 26.00% | ~664 |
+| Amateur Chef | 24.00% | ~613 |
+| Fishing Guru | 22.00% | ~562 |
+| Spark of Love | 20.00% | ~511 |
+| Community Helper | 18.00% | ~460 |
+| Expert Chemist | 16.00% | ~408 |
+| Stone Specialist | 15.00% | ~383 |
+| Line Cook | 14.00% | ~357 |
+| Sociable | 13.00% | ~332 |
+| Ablutomaniac | 12.00% | ~306 |
+| Production Sorter | 12.00% | ~306 |
+| Good Samaritan | 11.00% | ~281 |
+| Acrobatic Adventurer | 11.00% | ~281 |
+| Animal Exterminator | 10.00% | ~255 |
 | Plantation Exterminator | 6.00% | ~153 |
 | Adolescent Love | 6.00% | ~153 |
 | Mail Carrier | 6.00% | ~153 |
-| Sous Chef | 5.00% | ~127 |
+| Sous Chef | 5.00% | ~128 |
 | Grape Supplier | 4.00% | ~102 |
 | Being forgetful... | 2.00% | ~51 |
 | Community Advisor | 2.00% | ~51 |
 | Rock Exterminator | 2.00% | ~51 |
 | Tree Exterminator | 2.00% | ~51 |
-| Moonbury Navigator | 1.00% | ~25 |
+| Moonbury Navigator | 1.00% | ~26 |
 | Being a donut... | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,542 (Ranked 350)  
-Completed: 18 (0.71%) (Ranked 322)  
+Progressed: 2,553 (Ranked 362)  
+Completed: 18 (0.71%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,6 +257,7 @@ Completed: 18 (0.71%) (Ranked 322)
 | 2024-08-09 | 2,425 | 17 |
 | 2024-09-14 | 2,504 | 18 |
 | 2024-10-09 | 2,542 | 18 |
+| 2024-10-17 | 2,553 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

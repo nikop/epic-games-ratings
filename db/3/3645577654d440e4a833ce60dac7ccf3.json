@@ -2,10 +2,10 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 762,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -319,6 +319,11 @@
       "Time": "2024-07-24T02:04:23.8602909+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:07.4538346+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T06:03:17.9237808+00:00",
@@ -473,9 +478,9 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MagicCat20",
@@ -521,9 +526,9 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Tower1_RankA",
@@ -593,25 +598,25 @@
       "ID": "Tower4_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Fourth Tower",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Tower4_RankA",
       "SetID": "df8cl74",
       "Name": "The Fourth Tower A Rank",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Tower4_RankS",
       "SetID": "df8cl74",
       "Name": "The Fourth Tower S Rank",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Tower5_Normal",
@@ -674,14 +679,14 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:22.4011448+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:07.4538344+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:15.7872472+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:57.4850732+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:22.4011713+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:07.4539317+00:00"
 }

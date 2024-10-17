@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 121.00% | ~134 |
-| Break no Sweat | 116.00% | ~129 |
-| Every little bit counts | 110.00% | ~122 |
-| Growth | 94.00% | ~104 |
-| Targeting the Enemy | 77.00% | ~85 |
-| Unavoidable | 71.00% | ~79 |
-| Revenge | 70.00% | ~78 |
+| Black Cat's Warning | 122.00% | ~134 |
+| Break no Sweat | 117.00% | ~129 |
+| Every little bit counts | 111.00% | ~122 |
+| Growth | 95.00% | ~104 |
+| Targeting the Enemy | 78.00% | ~86 |
+| Unavoidable | 72.00% | ~79 |
+| Revenge | 71.00% | ~78 |
 | Reunion | 45.00% | ~50 |
 | Elimination | 38.00% | ~42 |
 | Fluke | 38.00% | ~42 |
-| Once Bitten, Twice Shy | 34.00% | ~38 |
-| Victor's Prejudice | 34.00% | ~38 |
-| Excellent Driving Skills | 33.00% | ~37 |
-| Memento | 32.00% | ~36 |
+| Once Bitten, Twice Shy | 35.00% | ~38 |
+| Victor's Prejudice | 35.00% | ~38 |
+| Excellent Driving Skills | 34.00% | ~37 |
+| Memento | 32.00% | ~35 |
 | Fleet-footed | 29.00% | ~32 |
 | Invincible | 28.00% | ~31 |
 | Defeat the AI | 27.00% | ~30 |
 | Neutralize | 26.00% | ~29 |
-| Best in Dragon City | 24.00% | ~27 |
-| Walking into a Trap | 24.00% | ~27 |
-| Unsalvageable | 24.00% | ~27 |
-| Disdain | 23.00% | ~26 |
+| Best in Dragon City | 25.00% | ~28 |
+| Walking into a Trap | 25.00% | ~28 |
+| Disdain | 25.00% | ~28 |
+| Unsalvageable | 25.00% | ~28 |
 | Brain in a Vat | 20.00% | ~22 |
 | Final Battle | 19.00% | ~21 |
 | Outsider's Profit | 19.00% | ~21 |
@@ -37,12 +37,12 @@
 | Still A Chance | 7.00% | ~8 |
 | Achieving Excellence | 7.00% | ~8 |
 | Fashionista | 7.00% | ~8 |
+| Time's Up | 5.00% | ~6 |
 | Limbo | 5.00% | ~6 |
 | Ninja Killer | 5.00% | ~6 |
 | Intel Expert | 5.00% | ~6 |
 | Terrible Weather | 4.00% | ~4 |
 | Unexpected Crisis | 4.00% | ~4 |
-| Time's Up | 4.00% | ~4 |
 | Prowess | 4.00% | ~4 |
 | Greetings | 4.00% | ~4 |
 | Interception | 3.00% | ~3 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 696)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 110 (Ranked 721)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-07-25 | 111 | 0 |
 | 2024-08-09 | 110 | 0 |
 | 2024-08-20 | 111 | 0 |
+| 2024-10-17 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

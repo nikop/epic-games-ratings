@@ -2,10 +2,10 @@
   "ID": "0229686d1f43464eabe959430ba6abaf",
   "Name": "Hitmen Party",
   "ProductSlug": "hitmen-party-28a8dc",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-04-17T22:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "76k4c87",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:06.9265094+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:06.9265053+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:22.3800555+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:25.0733962+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:25.0733962+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:06.9265109+00:00"
 }

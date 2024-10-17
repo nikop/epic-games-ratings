@@ -2,10 +2,10 @@
   "ID": "b7e59e1e6e29496ebc96c9a082c868d8",
   "Name": "Tales of Monkey Island - Chapter 5",
   "ProductSlug": "tales-of-monkey-island-chapter-5-0f74fa",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-07-07T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T03:12:08.8633148+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:35.4843787+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:29.342328+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:57.7193067+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:39.6142857+00:00"
 }

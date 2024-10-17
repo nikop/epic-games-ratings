@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Alaska | 74.00% | ~98 |
-| Careful Trucker | 56.00% | ~74 |
-| A New Home | 53.00% | ~70 |
-| No Hot Dogs for You | 35.00% | ~47 |
-| Like a Glove | 25.00% | ~33 |
-| Santa's Place | 25.00% | ~33 |
-| One Thousand Miles | 20.00% | ~27 |
-| Money Money Money | 18.00% | ~24 |
-| Good Job! | 15.00% | ~20 |
-| Constructor | 14.00% | ~19 |
-| Just In Time | 12.00% | ~16 |
-| Max Pain | 11.00% | ~15 |
-| Pimp My Truck | 11.00% | ~15 |
+| Welcome to Alaska | 75.00% | ~108 |
+| Careful Trucker | 57.00% | ~82 |
+| A New Home | 56.00% | ~81 |
+| No Hot Dogs for You | 35.00% | ~50 |
+| Santa's Place | 26.00% | ~37 |
+| Like a Glove | 25.00% | ~36 |
+| One Thousand Miles | 21.00% | ~30 |
+| Money Money Money | 20.00% | ~29 |
+| Constructor | 15.00% | ~22 |
+| Good Job! | 15.00% | ~22 |
+| Just In Time | 13.00% | ~19 |
+| Max Pain | 13.00% | ~19 |
+| Pimp My Truck | 12.00% | ~17 |
+| IOU | 6.00% | ~9 |
 | Hard Worker | 5.00% | ~7 |
-| IOU | 5.00% | ~7 |
-| Renowned | 5.00% | ~7 |
+| Renowned | 4.00% | ~6 |
 | Licensed | 3.00% | ~4 |
 | Think Tank | 3.00% | ~4 |
 | My Place In Alaska | 2.00% | ~3 |
-| Speed Demon | 2.00% | ~3 |
-| What's Cooking? | 2.00% | ~3 |
-| Truck Shopping | 0.80% | ~1 |
+| Speed Demon | 1.00% | ~1 |
+| What's Cooking? | 1.00% | ~1 |
+| Truck Shopping | 0.70% | ~1 |
 | Arctic Explorer | 0.00% | ~0 |
 | A Place of Memory | 0.00% | ~0 |
 | Grim Reaper | 0.00% | ~0 |
@@ -35,11 +35,12 @@
 | Truckmania | 0.00% | ~0 |
 | Whew! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 665)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 144 (Ranked 675)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 29 | 0 |
 | 2024-08-09 | 113 | 0 |
 | 2024-09-14 | 133 | 0 |
+| 2024-10-17 | 144 | 0 |

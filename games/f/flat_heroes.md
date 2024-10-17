@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 74.00% | ~563 |
-| Snake Eyes | 60.00% | ~457 |
-| Be water, my friend | 58.00% | ~441 |
-| The King of Flat | 46.00% | ~350 |
-| Fireball | 45.00% | ~342 |
-| Hit That Ball | 36.00% | ~274 |
-| Air Slash | 33.00% | ~251 |
-| Eat That Apple | 25.00% | ~190 |
-| Tornado Chaser | 16.00% | ~122 |
-| Bomberman | 12.00% | ~91 |
-| Bubble Party | 9.00% | ~68 |
-| The Colossus | 9.00% | ~68 |
-| Floor is Lava | 7.00% | ~53 |
-| Pim Pam Pum | 7.00% | ~53 |
+| Dash Crash | 74.00% | ~568 |
+| Snake Eyes | 60.00% | ~460 |
+| Be water, my friend | 58.00% | ~445 |
+| Fireball | 46.00% | ~353 |
+| The King of Flat | 46.00% | ~353 |
+| Hit That Ball | 36.00% | ~276 |
+| Air Slash | 33.00% | ~253 |
+| Eat That Apple | 25.00% | ~192 |
+| Tornado Chaser | 16.00% | ~123 |
+| Bomberman | 13.00% | ~100 |
+| Bubble Party | 9.00% | ~69 |
+| The Colossus | 9.00% | ~69 |
+| Floor is Lava | 7.00% | ~54 |
+| Pim Pam Pum | 7.00% | ~54 |
 | Dash Crash - Hero Edition | 5.00% | ~38 |
-| Ambush | 4.00% | ~30 |
+| Ambush | 4.00% | ~31 |
 | Black Belt | 3.00% | ~23 |
 | Snake Eyes - Hero Edition | 2.00% | ~15 |
 | The King of Flat - Hero Edition | 2.00% | ~15 |
@@ -49,8 +49,8 @@
 | Yondu | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 449)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 767 (Ranked 464)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,6 +162,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 754 | 0 |
 | 2024-08-20 | 755 | 0 |
 | 2024-09-14 | 761 | 0 |
+| 2024-10-17 | 767 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~1,068 |
-| Trouble with the swerve | 67.00% | ~723 |
-| Oops, My bad | 66.00% | ~712 |
-| Don't get ahead on yourself | 38.00% | ~410 |
-| I didn't know you where there! | 30.00% | ~324 |
-| Participation trophy | 22.00% | ~237 |
-| Whole again | 12.00% | ~129 |
-| Getting the job done | 8.00% | ~86 |
-| Cash Rules Everything Around Me | 7.00% | ~76 |
-| Risky business | 5.00% | ~54 |
-| Ready to Mingle | 5.00% | ~54 |
-| First one tastes better | 4.00% | ~43 |
-| Better late then never | 4.00% | ~43 |
+| Graduated | 99.00% | ~1,082 |
+| Trouble with the swerve | 67.00% | ~732 |
+| Oops, My bad | 66.00% | ~721 |
+| Don't get ahead on yourself | 38.00% | ~415 |
+| I didn't know you where there! | 30.00% | ~328 |
+| Participation trophy | 22.00% | ~240 |
+| Whole again | 12.00% | ~131 |
+| Getting the job done | 8.00% | ~87 |
+| Cash Rules Everything Around Me | 7.00% | ~77 |
+| Risky business | 5.00% | ~55 |
+| Ready to Mingle | 5.00% | ~55 |
+| First one tastes better | 4.00% | ~44 |
+| Better late then never | 4.00% | ~44 |
 | Better than the pros | 2.00% | ~22 |
 | Fan Boy | 2.00% | ~22 |
 | In the bank | 1.00% | ~11 |
 | American Legend | 1.00% | ~11 |
 | Dedicated tourist | 0.80% | ~9 |
-| Well oiled Veteran | 0.40% | ~4 |
+| Well oiled Veteran | 0.50% | ~5 |
 | For Science! | 0.30% | ~3 |
 | Secure the bag | 0.20% | ~2 |
 | Lightning fast | 0.10% | ~1 |
@@ -38,8 +38,8 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079 (Ranked 418)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,093 (Ranked 433)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 1,027 | 0 |
 | 2024-08-20 | 1,028 | 0 |
 | 2024-09-14 | 1,079 | 0 |
+| 2024-10-17 | 1,093 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

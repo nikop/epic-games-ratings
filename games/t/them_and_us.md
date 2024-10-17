@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~352 |
-| Forced to Kill | 64.00% | ~332 |
-| A Night To Remember | 37.00% | ~192 |
-| Safe...For now? | 29.00% | ~150 |
+| Alone with Them | 68.00% | ~355 |
+| Forced to Kill | 64.00% | ~334 |
+| A Night To Remember | 38.00% | ~198 |
+| Safe...For now? | 29.00% | ~151 |
 | Open Sesame | 25.00% | ~130 |
-| What have I done!? | 18.00% | ~93 |
-| Them and Us | 17.00% | ~88 |
-| OUTRAGE | 17.00% | ~88 |
+| What have I done!? | 18.00% | ~94 |
+| Them and Us | 17.00% | ~89 |
+| OUTRAGE | 17.00% | ~89 |
 | This Coffin Has Your Name On It! | 15.00% | ~78 |
 | Alone In The Dark | 14.00% | ~73 |
-| Parasite Exterminated | 13.00% | ~67 |
-| The Cultists | 13.00% | ~67 |
-| The Forgotten Tower | 13.00% | ~67 |
+| Parasite Exterminated | 13.00% | ~68 |
+| The Cultists | 13.00% | ~68 |
+| The Forgotten Tower | 13.00% | ~68 |
 | Trapped | 11.00% | ~57 |
 | Lover of classics | 10.00% | ~52 |
 | Modern Player | 10.00% | ~52 |
 | The Curse Is Real | 10.00% | ~52 |
 | Rest In Peace | 9.00% | ~47 |
-| What A Mansion | 8.00% | ~41 |
+| What A Mansion | 8.00% | ~42 |
 | Researcher | 6.00% | ~31 |
 | I Am The Gate Keeper! | 6.00% | ~31 |
-| Armed To The Teeth | 4.00% | ~21 |
+| Armed To The Teeth | 5.00% | ~26 |
 | This Mansion Is Clean | 4.00% | ~21 |
 | Back In Time | 2.00% | ~10 |
 | Retro Player | 2.00% | ~10 |
@@ -35,18 +35,18 @@
 | The 5th Element | 2.00% | ~10 |
 | The bus stop | 2.00% | ~10 |
 | Before The Eclipse | 0.60% | ~3 |
+| Survival Hero | 0.60% | ~3 |
 | Box Of Ploutus | 0.40% | ~2 |
 | Die Another Day | 0.40% | ~2 |
 | No Time To Relax | 0.40% | ~2 |
-| Survival Hero | 0.40% | ~2 |
 | Chosen One | 0.20% | ~1 |
 | Dressed to Kill | 0.20% | ~1 |
 | Life Of The Thousand Gods | 0.20% | ~1 |
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518 (Ranked 489)  
-Completed: 1 (0.19%) (Ranked 422)  
+Progressed: 522 (Ranked 506)  
+Completed: 1 (0.19%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 1 (0.19%) (Ranked 422)
 | 2024-08-09 | 513 | 1 |
 | 2024-08-20 | 514 | 1 |
 | 2024-09-14 | 518 | 1 |
+| 2024-10-17 | 522 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

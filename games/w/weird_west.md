@@ -6,62 +6,62 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 98.00% | ~27,325 |
-| Self-Improvement | 49.00% | ~13,663 |
-| Perky | 40.00% | ~11,153 |
-| Let’s Ride | 36.00% | ~10,038 |
-| Dead or Alive | 31.00% | ~8,644 |
-| Welcome to the Weird West | 29.00% | ~8,086 |
-| Full House | 17.00% | ~4,740 |
-| Off the Trail | 14.00% | ~3,904 |
-| Dishonored | 13.00% | ~3,625 |
-| Justice Served | 12.00% | ~3,346 |
-| Chain Reaction | 11.00% | ~3,067 |
-| Rain of Death | 10.00% | ~2,788 |
-| The Great Escape | 10.00% | ~2,788 |
-| Through Their Eyes | 10.00% | ~2,788 |
-| Scholar | 9.00% | ~2,509 |
-| That’s All, Folks | 7.00% | ~1,952 |
-| Here Comes Santa Claus | 6.00% | ~1,673 |
-| Do Not Pass Go… | 5.00% | ~1,394 |
-| Elusive Prey | 5.00% | ~1,394 |
-| Fallen Star | 5.00% | ~1,394 |
-| For Balance | 5.00% | ~1,394 |
-| Turning the Tables | 5.00% | ~1,394 |
-| Winds of War | 5.00% | ~1,394 |
-| Workers' Rights | 5.00% | ~1,394 |
-| Dog Days | 4.00% | ~1,115 |
-| Out on the Ebb Tide | 4.00% | ~1,115 |
-| Gold Digger | 3.00% | ~836 |
-| Loyalty to the Pack | 3.00% | ~836 |
-| Monster Hunter | 3.00% | ~836 |
-| Power Behind the Pulpit | 3.00% | ~836 |
-| Something Wicked This Way Comes… | 3.00% | ~836 |
-| There is Hope | 3.00% | ~836 |
-| Knuckle Sandwich | 3.00% | ~836 |
-| The Philosopher’s Stone | 3.00% | ~836 |
-| Getting the Gang Back Together | 2.00% | ~558 |
-| Healing Old Wounds | 2.00% | ~558 |
-| Eternity Can Wait | 2.00% | ~558 |
-| Mystery Machine | 2.00% | ~558 |
-| This Is Sparta | 2.00% | ~558 |
-| Who You Gonna Call? | 2.00% | ~558 |
-| Ghost Town | 1.00% | ~279 |
-| Lord Inut Sends His Regards | 1.00% | ~279 |
-| Moondrunk | 1.00% | ~279 |
-| What’s in the Box? | 1.00% | ~279 |
-| 'Ma Barker | 0.60% | ~167 |
-| I Kicked a Bird and I Liked it | 0.40% | ~112 |
-| End the world | 0.30% | ~84 |
-| Hog Wild | 0.30% | ~84 |
-| Dirt and Blame | 0.20% | ~56 |
-| Explorer | 0.20% | ~56 |
-| Moon Hunter | 0.20% | ~56 |
-| Winter Has Come | 0.10% | ~28 |
-| Revenant | 0.10% | ~28 |
+| Unforgiven | 98.00% | ~29,104 |
+| Self-Improvement | 49.00% | ~14,552 |
+| Perky | 40.00% | ~11,879 |
+| Let’s Ride | 36.00% | ~10,691 |
+| Dead or Alive | 31.00% | ~9,206 |
+| Welcome to the Weird West | 29.00% | ~8,612 |
+| Full House | 17.00% | ~5,049 |
+| Off the Trail | 15.00% | ~4,455 |
+| Dishonored | 13.00% | ~3,861 |
+| Justice Served | 12.00% | ~3,564 |
+| Chain Reaction | 11.00% | ~3,267 |
+| Rain of Death | 10.00% | ~2,970 |
+| The Great Escape | 10.00% | ~2,970 |
+| Through Their Eyes | 10.00% | ~2,970 |
+| Scholar | 9.00% | ~2,673 |
+| That’s All, Folks | 7.00% | ~2,079 |
+| Here Comes Santa Claus | 6.00% | ~1,782 |
+| Winds of War | 6.00% | ~1,782 |
+| Do Not Pass Go… | 5.00% | ~1,485 |
+| Elusive Prey | 5.00% | ~1,485 |
+| Fallen Star | 5.00% | ~1,485 |
+| For Balance | 5.00% | ~1,485 |
+| Turning the Tables | 5.00% | ~1,485 |
+| Workers' Rights | 5.00% | ~1,485 |
+| Dog Days | 4.00% | ~1,188 |
+| Out on the Ebb Tide | 4.00% | ~1,188 |
+| Gold Digger | 3.00% | ~891 |
+| Loyalty to the Pack | 3.00% | ~891 |
+| Monster Hunter | 3.00% | ~891 |
+| Mystery Machine | 3.00% | ~891 |
+| Power Behind the Pulpit | 3.00% | ~891 |
+| Something Wicked This Way Comes… | 3.00% | ~891 |
+| There is Hope | 3.00% | ~891 |
+| Knuckle Sandwich | 3.00% | ~891 |
+| The Philosopher’s Stone | 3.00% | ~891 |
+| Getting the Gang Back Together | 2.00% | ~594 |
+| Healing Old Wounds | 2.00% | ~594 |
+| Eternity Can Wait | 2.00% | ~594 |
+| This Is Sparta | 2.00% | ~594 |
+| Who You Gonna Call? | 2.00% | ~594 |
+| Ghost Town | 1.00% | ~297 |
+| Lord Inut Sends His Regards | 1.00% | ~297 |
+| Moondrunk | 1.00% | ~297 |
+| What’s in the Box? | 1.00% | ~297 |
+| 'Ma Barker | 0.60% | ~178 |
+| I Kicked a Bird and I Liked it | 0.40% | ~119 |
+| End the world | 0.30% | ~89 |
+| Dirt and Blame | 0.20% | ~59 |
+| Hog Wild | 0.20% | ~59 |
+| Moon Hunter | 0.20% | ~59 |
+| Explorer | 0.10% | ~30 |
+| Winter Has Come | 0.10% | ~30 |
+| Revenant | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,883 (Ranked 204)  
-Completed: 17 (0.06%) (Ranked 490)  
+Progressed: 29,698 (Ranked 207)  
+Completed: 17 (0.06%) (Ranked 518)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,6 +272,7 @@ Completed: 17 (0.06%) (Ranked 490)
 | 2024-08-09 | 23,447 | 14 |
 | 2024-08-20 | 25,118 | 15 |
 | 2024-09-14 | 27,883 | 17 |
+| 2024-10-17 | 29,698 | 17 |
 ## Awards
 Max (Impact the Story): 88  (Ranked 505)  
 Sum: 88 (Ranked 611)  

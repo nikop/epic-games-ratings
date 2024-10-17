@@ -2,10 +2,10 @@
   "ID": "c4aea139154344718c7c6e7ad40f4ebd",
   "Name": "Steal It",
   "ProductSlug": "steal-it-6dff34",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:15.0295147+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:01.7085071+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:43.7863666+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:12.3432667+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:12.8313617+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:01.7085104+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:34.857716+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:43.7863693+00:00"
 }

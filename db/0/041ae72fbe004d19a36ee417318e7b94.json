@@ -2,10 +2,10 @@
   "ID": "041ae72fbe004d19a36ee417318e7b94",
   "Name": "Winter Survival",
   "ProductSlug": "winter-survival-58df2c",
-  "Ranking_EOS_Progress": 558,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-06T17:00:00+00:00",
     "PcReleaseDate": "2024-03-06T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:19:08.5541895+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:14.7153544+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:09:10.5916327+00:00",
@@ -83,7 +88,7 @@
       "Name": "Foodie",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_COOK_02",
@@ -97,9 +102,9 @@
       "ID": "ACH_ENDLESS_HOME",
       "SetID": "nm1bn8",
       "Name": "Home Scenario",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENDLESS_SICK",
@@ -113,17 +118,17 @@
       "ID": "ACH_FUEL_01",
       "SetID": "nm1bn8",
       "Name": "Gas Jockey",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_10",
       "SetID": "nm1bn8",
       "Name": "Level 10",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_15",
@@ -131,7 +136,7 @@
       "Name": "Level 15",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_20",
@@ -139,7 +144,7 @@
       "Name": "Level 20",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_25",
@@ -147,7 +152,7 @@
       "Name": "Level 25",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_30",
@@ -155,15 +160,15 @@
       "Name": "Level 30",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_5",
       "SetID": "nm1bn8",
       "Name": "Level 5",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_LEVEL_ENDLESS_MAX",
@@ -171,7 +176,7 @@
       "Name": "Survivor Supreme",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SHOVEL_01",
@@ -179,31 +184,31 @@
       "Name": "Treasure Hunter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_STORY_01",
       "SetID": "nm1bn8",
       "Name": "Complete \u0022Introduction\u0022 in Story Mode.",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_STORY_02",
       "SetID": "nm1bn8",
       "Name": "Act I",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_TIME_ENDLESS_1",
       "SetID": "nm1bn8",
       "Name": "Survivor I",
-      "Percentage": 61,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_TIME_ENDLESS_100",
@@ -217,7 +222,7 @@
       "ID": "ACH_TIME_ENDLESS_14",
       "SetID": "nm1bn8",
       "Name": "Survivor III",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -225,15 +230,15 @@
       "ID": "ACH_TIME_ENDLESS_30",
       "SetID": "nm1bn8",
       "Name": "Survivor IV",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TIME_ENDLESS_50",
       "SetID": "nm1bn8",
       "Name": "Survivor V",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 110,
       "UsersEstimate": 2
     },
@@ -241,9 +246,9 @@
       "ID": "ACH_TIME_ENDLESS_7",
       "SetID": "nm1bn8",
       "Name": "Survivor II",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_WOLF_FEAR_01",
@@ -251,7 +256,7 @@
       "Name": "Fire Is SCARY?!",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_WOLF_KILL_01",
@@ -259,21 +264,21 @@
       "Name": "Wolflord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "nm1bn8",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-07T21:00:35.3085694+00:00",
   "FirstSeenAchievements": "2024-03-21T17:09:10.5916326+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:08.5541886+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:14.7153538+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:27.1381678+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:03.0083956+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:08.5542054+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:33.7390692+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:14.7153728+00:00"
 }

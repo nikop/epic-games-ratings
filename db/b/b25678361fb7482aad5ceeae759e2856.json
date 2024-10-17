@@ -2,10 +2,10 @@
   "ID": "b25678361fb7482aad5ceeae759e2856",
   "Name": "Drive Me Crazy",
   "ProductSlug": "woweiqingkuang-9b32d5",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-07-12T22:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "112d8ka",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:11.8238403+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:11.8238378+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:20.8143128+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:32.7164333+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:58:32.7164333+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:11.8238415+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.49 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 60.00% | ~1,105 |
-| You're the Expert! | 25.00% | ~460 |
-| Home Cook | 22.00% | ~405 |
-| So Clean You Can Eat Off the Floor | 17.00% | ~313 |
-| French Flair | 15.00% | ~276 |
-| S is for Scrumptious | 14.00% | ~258 |
-| Next Level Cuisine | 8.00% | ~147 |
-| Haute Cuisine | 7.00% | ~129 |
-| Italian Style | 6.00% | ~111 |
-| Well-Stocked Kitchen | 5.00% | ~92 |
-| Sous-Chef | 4.00% | ~74 |
-| Rolling in Dough | 4.00% | ~74 |
-| Culinary Arts | 3.00% | ~55 |
-| Perfectionist | 3.00% | ~55 |
-| Leaning Tower of Pizza | 2.00% | ~37 |
+| The Big Day | 60.00% | ~1,132 |
+| You're the Expert! | 26.00% | ~491 |
+| Home Cook | 23.00% | ~434 |
+| So Clean You Can Eat Off the Floor | 17.00% | ~321 |
+| French Flair | 15.00% | ~283 |
+| S is for Scrumptious | 14.00% | ~264 |
+| Next Level Cuisine | 8.00% | ~151 |
+| Haute Cuisine | 7.00% | ~132 |
+| Italian Style | 7.00% | ~132 |
+| Well-Stocked Kitchen | 5.00% | ~94 |
+| Sous-Chef | 4.00% | ~75 |
+| Rolling in Dough | 4.00% | ~75 |
+| Culinary Arts | 3.00% | ~57 |
+| Perfectionist | 3.00% | ~57 |
+| Leaning Tower of Pizza | 2.00% | ~38 |
 | Eco Warrior | 0.50% | ~9 |
-| The Bigger the Better | 0.40% | ~7 |
+| The Bigger the Better | 0.40% | ~8 |
 | Kitchen Model | 0.20% | ~4 |
 | Chef, Yes Chef! | 0.20% | ~4 |
+| Dream Team | 0.20% | ~4 |
 | Teamwork | 0.10% | ~2 |
 | Codename: Arrabbiata | 0.10% | ~2 |
 | Satisfaction Guaranteed | 0.10% | ~2 |
-| Dream Team | 0.10% | ~2 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
@@ -46,8 +46,8 @@ Rating: 4.49 (Ranked 744)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,842 (Ranked 381)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,887 (Ranked 393)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,6 +288,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 1,737 | 0 |
 | 2024-08-20 | 1,753 | 0 |
 | 2024-09-14 | 1,842 | 0 |
+| 2024-10-17 | 1,887 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

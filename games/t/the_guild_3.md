@@ -1,40 +1,40 @@
 # The Guild 3
 [Store](https://store.epicgames.com/en-US/p/the-guild-3)  
 [View Rawdata](../../db/t/the_guild_3.json)  
-Rating: 4.18 (Ranked 1,164)  
+Rating: 4.18 (Ranked 1,163)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My first attempt | 76.00% | ~607 |
-| This is the end | 63.00% | ~503 |
-| Office bearer | 37.00% | ~296 |
-| The golden spoon | 31.00% | ~248 |
-| Pirates of the European Seas | 15.00% | ~120 |
-| Out-Of-Sync | 11.00% | ~88 |
-| Yes, Master! | 11.00% | ~88 |
-| The cart is creaking... | 9.00% | ~72 |
-| The Ruler am I! | 6.00% | ~48 |
-| Filthy Rich | 5.00% | ~40 |
-| Competitor | 4.00% | ~32 |
-| Witchmaster | 3.00% | ~24 |
-| Magnate | 3.00% | ~24 |
-| I am the Master! | 2.00% | ~16 |
-| Executed | 0.80% | ~6 |
-| Serious Foe | 0.80% | ~6 |
+| My first attempt | 77.00% | ~666 |
+| This is the end | 64.00% | ~554 |
+| Office bearer | 39.00% | ~337 |
+| The golden spoon | 32.00% | ~277 |
+| Pirates of the European Seas | 17.00% | ~147 |
+| Out-Of-Sync | 11.00% | ~95 |
+| Yes, Master! | 11.00% | ~95 |
+| The cart is creaking... | 9.00% | ~78 |
+| The Ruler am I! | 6.00% | ~52 |
+| Competitor | 5.00% | ~43 |
+| Filthy Rich | 5.00% | ~43 |
+| Witchmaster | 3.00% | ~26 |
+| Magnate | 3.00% | ~26 |
+| I am the Master! | 2.00% | ~17 |
+| Serious Foe | 0.80% | ~7 |
+| Executed | 0.70% | ~6 |
 | Courageous | 0.50% | ~4 |
-| Who is this Luther? | 0.40% | ~3 |
-| You want war? You get war! | 0.30% | ~2 |
-| Better than Heracles | 0.30% | ~2 |
+| Who is this Luther? | 0.30% | ~3 |
+| Better than Heracles | 0.30% | ~3 |
+| You want war? You get war! | 0.20% | ~2 |
 | Make it your way! | 0.10% | ~1 |
+| Sandwich maker | 0.10% | ~1 |
 | What is this Prussia? | 0.00% | ~0 |
 | Further than most others | 0.00% | ~0 |
 | Casanova | 0.00% | ~0 |
-| Sandwich maker | 0.00% | ~0 |
 | Proud as a rooster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 445)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 865 (Ranked 453)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,6 +45,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 676 | 0 |
 | 2024-08-20 | 702 | 0 |
 | 2024-09-14 | 799 | 0 |
+| 2024-10-17 | 865 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "b73c0f22d0ab4804a0b9be047aba6a62",
   "Name": "Verse World",
   "ProductSlug": "verse-world-e4d877",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-16T23:00:00+00:00",
     "PcReleaseDate": "2024-09-16T23:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T13:57:20.4150807+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:20.7588022+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:05.4558089+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:20.745692+00:00"
 }

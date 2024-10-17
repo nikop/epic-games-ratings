@@ -5,54 +5,54 @@ Rating: 4.60 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~6,336 |
-| Keep 'Em Coming | 67.00% | ~5,373 |
-| Snatched Out | 66.00% | ~5,293 |
-| Cleaning Lethe, One Nest At A Time | 60.00% | ~4,812 |
-| Call Me Snake | 56.00% | ~4,491 |
-| Something Lurks Under The Hills | 55.00% | ~4,411 |
-| This Was No Papercut | 53.00% | ~4,251 |
-| People Person | 50.00% | ~4,010 |
-| The Shrink Hates Me | 50.00% | ~4,010 |
-| Use The Bumper, That's What It's For | 47.00% | ~3,769 |
-| First Steps Into Madness | 47.00% | ~3,769 |
-| Colonial Barrels | 45.00% | ~3,609 |
-| Harper's Hell | 42.00% | ~3,368 |
-| Making a Stand | 41.00% | ~3,288 |
-| Where It All Begun | 37.00% | ~2,967 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~2,967 |
-| Recouped Investment | 35.00% | ~2,807 |
-| Living Nightmare | 32.00% | ~2,566 |
-| The More The Merrier | 32.00% | ~2,566 |
-| The Darwin Era Was Here | 29.00% | ~2,326 |
-| Omelette Du Fromage | 28.00% | ~2,246 |
-| Deep Into Insanity | 28.00% | ~2,246 |
-| The Passenger | 28.00% | ~2,246 |
-| Come on, You Wanna Live Forever? | 27.00% | ~2,165 |
-| The Spire | 26.00% | ~2,085 |
-| El Riesgo Siempre Vive | 24.00% | ~1,925 |
-| Excavating The Truth | 24.00% | ~1,925 |
-| Abysmal Horrors | 23.00% | ~1,845 |
-| Stuff Of Nightmares | 21.00% | ~1,684 |
-| Frontliner | 21.00% | ~1,684 |
-| The Cable Guy | 21.00% | ~1,684 |
-| One For Every Occasion | 20.00% | ~1,604 |
-| Bandage Lover | 19.00% | ~1,524 |
-| This Went Smoothly | 16.00% | ~1,283 |
-| Regicide | 16.00% | ~1,283 |
-| Flawless Victory | 14.00% | ~1,123 |
-| Heavy Steps | 12.00% | ~962 |
-| Perfect Enhancements | 10.00% | ~802 |
-| Hardened In The Heat Of Battle | 8.00% | ~642 |
-| The True Experience | 6.00% | ~481 |
-| Fair And Square | 3.00% | ~241 |
-| Archivist | 2.00% | ~160 |
-| Perfect Organism | 0.90% | ~72 |
-| Chalk It Up To Experience | 0.90% | ~72 |
-| This Ain't No Picnic | 0.80% | ~64 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~6,408 |
+| Keep 'Em Coming | 67.00% | ~5,435 |
+| Snatched Out | 66.00% | ~5,354 |
+| Cleaning Lethe, One Nest At A Time | 60.00% | ~4,867 |
+| Call Me Snake | 56.00% | ~4,543 |
+| Something Lurks Under The Hills | 55.00% | ~4,462 |
+| This Was No Papercut | 53.00% | ~4,299 |
+| The Shrink Hates Me | 51.00% | ~4,137 |
+| People Person | 50.00% | ~4,056 |
+| First Steps Into Madness | 48.00% | ~3,894 |
+| Use The Bumper, That's What It's For | 47.00% | ~3,813 |
+| Colonial Barrels | 46.00% | ~3,732 |
+| Harper's Hell | 42.00% | ~3,407 |
+| Making a Stand | 41.00% | ~3,326 |
+| Where It All Begun | 38.00% | ~3,083 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~3,001 |
+| Recouped Investment | 35.00% | ~2,839 |
+| Living Nightmare | 33.00% | ~2,677 |
+| The More The Merrier | 33.00% | ~2,677 |
+| The Darwin Era Was Here | 30.00% | ~2,434 |
+| Omelette Du Fromage | 29.00% | ~2,352 |
+| Deep Into Insanity | 29.00% | ~2,352 |
+| The Passenger | 29.00% | ~2,352 |
+| Come on, You Wanna Live Forever? | 27.00% | ~2,190 |
+| The Spire | 27.00% | ~2,190 |
+| El Riesgo Siempre Vive | 24.00% | ~1,947 |
+| Excavating The Truth | 24.00% | ~1,947 |
+| Abysmal Horrors | 24.00% | ~1,947 |
+| Frontliner | 22.00% | ~1,785 |
+| One For Every Occasion | 21.00% | ~1,704 |
+| Stuff Of Nightmares | 21.00% | ~1,704 |
+| The Cable Guy | 21.00% | ~1,704 |
+| Bandage Lover | 19.00% | ~1,541 |
+| Regicide | 17.00% | ~1,379 |
+| This Went Smoothly | 16.00% | ~1,298 |
+| Flawless Victory | 14.00% | ~1,136 |
+| Heavy Steps | 13.00% | ~1,055 |
+| Perfect Enhancements | 10.00% | ~811 |
+| Hardened In The Heat Of Battle | 8.00% | ~649 |
+| The True Experience | 6.00% | ~487 |
+| Fair And Square | 3.00% | ~243 |
+| Archivist | 2.00% | ~162 |
+| Chalk It Up To Experience | 1.00% | ~81 |
+| Perfect Organism | 0.90% | ~73 |
+| This Ain't No Picnic | 0.90% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,020 (Ranked 270)  
-Completed: 10 (0.12%) (Ranked 453)  
+Progressed: 8,112 (Ranked 279)  
+Completed: 11 (0.14%) (Ranked 465)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,6 +274,7 @@ Completed: 10 (0.12%) (Ranked 453)
 | 2024-08-09 | 7,642 | 10 |
 | 2024-08-20 | 7,673 | 10 |
 | 2024-09-14 | 8,020 | 10 |
+| 2024-10-17 | 8,112 | 11 |
 ## Awards
 Max (Great Boss Battles): 146  (Ranked 428)  
 Sum: 146 (Ranked 567)  

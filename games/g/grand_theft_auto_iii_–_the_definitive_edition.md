@@ -1,42 +1,42 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.15 (Ranked 1,187)  
+Rating: 4.15 (Ranked 1,186)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 84.00% | ~12,655 |
-| Disposing of the Evidence | 41.00% | ~6,177 |
-| Without a Scratch | 36.00% | ~5,423 |
-| Wreckless Driving | 31.00% | ~4,670 |
-| A Marked Man | 28.00% | ~4,218 |
-| Street Sweeper | 21.00% | ~3,164 |
-| Liberty City Minute | 19.00% | ~2,862 |
-| Offshore Delivery | 16.00% | ~2,410 |
-| Dirty Money | 15.00% | ~2,260 |
-| Not So Fast | 12.00% | ~1,808 |
-| Right-hand Man | 12.00% | ~1,808 |
-| By a Mile | 11.00% | ~1,657 |
-| A Gift from the King | 8.00% | ~1,205 |
-| Full Artillery | 5.00% | ~753 |
-| Mob Boss | 3.00% | ~452 |
-| Splish Splash | 3.00% | ~452 |
-| Escape Artist | 2.00% | ~301 |
-| Planned Ahead | 2.00% | ~301 |
-| Got This Figured Out | 2.00% | ~301 |
-| Wheels Up | 2.00% | ~301 |
-| Come Out to Play-y-y-y | 2.00% | ~301 |
-| Where To? | 2.00% | ~301 |
-| Man Toyz | 2.00% | ~301 |
-| Playing Doctor | 2.00% | ~301 |
-| Going Rogue | 2.00% | ~301 |
-| Liberty City Secrets | 2.00% | ~301 |
-| Furious First Responder | 1.00% | ~151 |
-| Is That All You've Got? | 1.00% | ~151 |
-| King of Liberty City | 1.00% | ~151 |
+| First Day on the Job | 84.00% | ~12,843 |
+| Disposing of the Evidence | 41.00% | ~6,268 |
+| Without a Scratch | 36.00% | ~5,504 |
+| Wreckless Driving | 31.00% | ~4,740 |
+| A Marked Man | 28.00% | ~4,281 |
+| Street Sweeper | 22.00% | ~3,364 |
+| Liberty City Minute | 19.00% | ~2,905 |
+| Offshore Delivery | 17.00% | ~2,599 |
+| Dirty Money | 15.00% | ~2,293 |
+| Not So Fast | 13.00% | ~1,988 |
+| Right-hand Man | 12.00% | ~1,835 |
+| By a Mile | 11.00% | ~1,682 |
+| A Gift from the King | 8.00% | ~1,223 |
+| Full Artillery | 5.00% | ~764 |
+| Mob Boss | 4.00% | ~612 |
+| Splish Splash | 3.00% | ~459 |
+| Escape Artist | 2.00% | ~306 |
+| Planned Ahead | 2.00% | ~306 |
+| Got This Figured Out | 2.00% | ~306 |
+| Wheels Up | 2.00% | ~306 |
+| Come Out to Play-y-y-y | 2.00% | ~306 |
+| Where To? | 2.00% | ~306 |
+| Man Toyz | 2.00% | ~306 |
+| Playing Doctor | 2.00% | ~306 |
+| Going Rogue | 2.00% | ~306 |
+| Liberty City Secrets | 2.00% | ~306 |
+| Furious First Responder | 1.00% | ~153 |
+| Is That All You've Got? | 1.00% | ~153 |
+| King of Liberty City | 1.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,065 (Ranked 238)  
-Completed: 144 (0.96%) (Ranked 290)  
+Progressed: 15,289 (Ranked 245)  
+Completed: 148 (0.97%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,6 +323,7 @@ Completed: 144 (0.96%) (Ranked 290)
 | 2024-06-17 | 14,198 | 130 |
 | 2024-08-09 | 14,681 | 138 |
 | 2024-09-14 | 15,065 | 144 |
+| 2024-10-17 | 15,289 | 148 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

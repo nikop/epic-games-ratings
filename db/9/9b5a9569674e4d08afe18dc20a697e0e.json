@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -749,6 +749,11 @@
       "Time": "2024-09-14T14:21:26.5807928+00:00",
       "NumProgressed": 245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:07.7508879+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -761,7 +766,7 @@
       "Name": "Adventure awaits",
       "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "BARON",
@@ -769,7 +774,7 @@
       "Name": "Baron",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CHAIR",
@@ -793,7 +798,7 @@
       "Name": "Dragon Cult",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DISCIPLE",
@@ -801,7 +806,7 @@
       "Name": "Disciple",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "DRAGON",
@@ -873,7 +878,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LIBRARY",
@@ -889,23 +894,23 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "MIRROR",
@@ -921,7 +926,7 @@
       "Name": "Moist",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "MOUNTAINEER",
@@ -953,7 +958,7 @@
       "Name": "Savior of the people",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "SKILLED",
@@ -967,9 +972,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "SOUL",
@@ -977,15 +982,15 @@
       "Name": "A restless soul",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "WITCH",
@@ -1008,14 +1013,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:26.5807922+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:07.750887+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:10.6346443+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:18.4557221+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:26.5808197+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:07.7509158+00:00"
 }

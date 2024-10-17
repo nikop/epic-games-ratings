@@ -2,10 +2,10 @@
   "ID": "2f41f7b835bf4008821c8dd59e6111a0",
   "Name": "Pepper Grinder",
   "ProductSlug": "pepper-grinder-48f87f",
-  "Ranking_EOS_Progress": 868,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-28T16:00:01+00:00",
     "PcReleaseDate": "2024-03-28T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 34,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:03:17.4293714+00:00",
@@ -44,6 +44,11 @@
       "Time": "2024-08-09T18:03:06.6165101+00:00",
       "NumProgressed": 32,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:08:17.9286017+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-04-10T06:03:17.4293739+00:00",
@@ -56,15 +61,15 @@
       "Name": "Treasure Hunter",
       "Percentage": 94,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "1-BossComplete",
       "SetID": "6mc99dm",
       "Name": "Beetle Flipper",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "100%Complete",
@@ -80,7 +85,7 @@
       "Name": "No Wormies",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "3-BossComplete",
@@ -88,15 +93,15 @@
       "Name": "Pepper/Mint",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "4-BossComplete",
       "SetID": "6mc99dm",
       "Name": "Emperor Naro",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CarvePumpkin",
@@ -104,13 +109,13 @@
       "Name": "Make A Friend",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CollectSkulls",
       "SetID": "6mc99dm",
       "Name": "Skull Hunter",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -158,7 +163,7 @@
       "ID": "FindMandragora",
       "SetID": "6mc99dm",
       "Name": "Garden Shakedown",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 40,
       "UsersEstimate": 18
     },
@@ -168,7 +173,7 @@
       "Name": "A Dash of Pepper",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TimeAttackW1",
@@ -206,7 +211,7 @@
       "ID": "UnlockAll",
       "SetID": "6mc99dm",
       "Name": "Dedicated Explorer",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 40,
       "UsersEstimate": 14
     },
@@ -214,7 +219,7 @@
       "ID": "UnlockBGs",
       "SetID": "6mc99dm",
       "Name": "Stickerbook World Tour",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -222,7 +227,7 @@
       "ID": "UnlockStage",
       "SetID": "6mc99dm",
       "Name": "A Path Less Traveled",
-      "Percentage": 59,
+      "Percentage": 56,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -230,23 +235,23 @@
       "ID": "UnlockStickerbook",
       "SetID": "6mc99dm",
       "Name": "New Hobby",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "6mc99dm",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 34,
       "Completed": 2
     }
   ],
   "FirstSeen": "2024-03-29T13:58:17.3927569+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:51.1369007+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:24.1746024+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:17.928601+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:35.293216+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:27.5443971+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:24.1746176+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:17.9286198+00:00"
 }

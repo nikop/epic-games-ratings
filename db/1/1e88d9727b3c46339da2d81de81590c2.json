@@ -2,10 +2,10 @@
   "ID": "1e88d9727b3c46339da2d81de81590c2",
   "Name": "Turbo Sloths",
   "ProductSlug": "turbo-sloths-912a73",
-  "Ranking_EOS_Progress": 891,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 925,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-11T15:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "first_in_race_25",
       "SetID": "3h542on",
       "Name": "First in the Race 25",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "first_in_race_5",
@@ -232,9 +232,9 @@
       "ID": "toasted_25",
       "SetID": "3h542on",
       "Name": "Toasted 25",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "toasted_500",
@@ -296,9 +296,9 @@
       "ID": "warbot_killer_50",
       "SetID": "3h542on",
       "Name": "Warbot Killer 50",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -311,8 +311,8 @@
   ],
   "FirstSeen": "2024-04-11T19:59:35.6550698+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:33.190692+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:28.1834504+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:23.0037349+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:18.4301508+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:45.9852037+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:28.1834753+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:06.890832+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:23.0037508+00:00"
 }

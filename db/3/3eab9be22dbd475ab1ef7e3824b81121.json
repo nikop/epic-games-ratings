@@ -2,10 +2,10 @@
   "ID": "3eab9be22dbd475ab1ef7e3824b81121",
   "Name": "I\u0027m in Love With Your Dead Grandmother",
   "ProductSlug": "im-in-love-with-your-dead-grandmother-15e7d4",
-  "Ranking_EOS_Progress": 542,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2024-02-03T17:00:00+00:00",
     "PcReleaseDate": "2024-02-03T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
-  "EOS_Completed": 21,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.31,
+  "EOS_Progressed": 334,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 6.59,
   "EosHistory": [
     {
       "Time": "2023-12-22T01:48:10.9082498+00:00",
@@ -64,6 +64,11 @@
       "Time": "2024-10-09T19:02:23.3918788+00:00",
       "NumProgressed": 333,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-10-17T05:15:21.854157+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 22
     }
   ],
   "AchievementsAdded": "2023-12-22T01:48:10.9093926+00:00",
@@ -76,39 +81,39 @@
       "Name": "Ahah! Take This",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "02",
       "SetID": "637ln4a",
       "Name": "I\u0027m a Honest Fella",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 170
     },
     {
       "ID": "03",
       "SetID": "637ln4a",
       "Name": "A Common Synonym of Serious is Sedate",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 250
     },
     {
       "ID": "04",
       "SetID": "637ln4a",
       "Name": "I\u0027m Not The Impostor",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "05",
       "SetID": "637ln4a",
       "Name": "Let me Check Your Pipes",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "06",
@@ -116,7 +121,7 @@
       "Name": "Grow Your Plumbing Business",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "07",
@@ -130,17 +135,17 @@
       "ID": "08",
       "SetID": "637ln4a",
       "Name": "Arrrg!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "09",
       "SetID": "637ln4a",
       "Name": "Stinky in Here",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "10",
@@ -154,9 +159,9 @@
       "ID": "11",
       "SetID": "637ln4a",
       "Name": "I\u0027m a Fast Boy",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "12",
@@ -171,14 +176,14 @@
     {
       "ID": "637ln4a",
       "IsBase": true,
-      "Progressed": 333,
-      "Completed": 21
+      "Progressed": 334,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2024-05-27T20:58:36.2792977+00:00",
   "FirstSeenAchievements": "2023-12-22T01:48:10.9093926+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:23.3918778+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:21.8541563+00:00",
   "LastUpdate_AppInfo": "2024-10-12T02:06:17.4851063+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:02.7442935+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:23.3918979+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:24.707711+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:21.8541662+00:00"
 }

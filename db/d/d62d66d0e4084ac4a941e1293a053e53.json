@@ -2,10 +2,10 @@
   "ID": "d62d66d0e4084ac4a941e1293a053e53",
   "Name": "Your Chronicle",
   "ProductSlug": "your-chronicle-195c63",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-04-04T15:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "an4k440",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:07.846234+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:07.8462282+00:00",
   "LastUpdate_AppInfo": "2024-10-12T06:57:25.6877566+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:09.3335789+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:09.3335789+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:07.8462357+00:00"
 }

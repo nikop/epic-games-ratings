@@ -5,10 +5,10 @@
   "Ranking_Rating": 1022,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -3010,6 +3010,11 @@
       "Time": "2024-09-14T14:19:11.4064173+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:17.853491+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -3019,9 +3024,9 @@
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "Full house",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 133
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -3037,7 +3042,7 @@
       "Name": "The First King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CHALLENGE_FEWBUTGOOD",
@@ -3083,17 +3088,17 @@
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
       "SetID": "6ohhfoc",
       "Name": "The great fire",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
@@ -3117,7 +3122,7 @@
       "Name": "Just Chilling",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "DIE_ALL_TYPEGROUPS",
@@ -3133,7 +3138,7 @@
       "Name": "Ascended",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -3141,7 +3146,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -3149,7 +3154,7 @@
       "Name": "Incredible Strength",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ENDING_TRUE",
@@ -3173,15 +3178,15 @@
       "Name": "Burn and Pillage",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 67
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -3189,7 +3194,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -3203,9 +3208,9 @@
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 200
     },
     {
       "ID": "GOLDMASTER",
@@ -3213,7 +3218,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "PREVENTRIOT",
@@ -3221,7 +3226,7 @@
       "Name": "Hear me out",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "RUIN_CLEAR",
@@ -3229,7 +3234,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "SUMMON_BOSS",
@@ -3243,17 +3248,17 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 800
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 117
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -3269,7 +3274,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UNLOCKALLACHIEVEMENTS",
@@ -3285,7 +3290,7 @@
       "Name": "The Council",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -3309,7 +3314,7 @@
       "Name": "The Stranded King",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -3333,7 +3338,7 @@
       "Name": "The Mad",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -3357,7 +3362,7 @@
       "Name": "Like the dream",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WINMATCH_DIFF_PACIFIST",
@@ -3365,7 +3370,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -3373,14 +3378,14 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1667,
       "Completed": 0
     }
   ],
@@ -3388,8 +3393,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2024-09-20T09:57:17.2447549+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:11.4064167+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:17.8534904+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:21.5611869+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:12.5707699+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:11.4064545+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:34.7342594+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:17.8535403+00:00"
 }

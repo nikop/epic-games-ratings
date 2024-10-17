@@ -5,9 +5,9 @@ Rating: 4.43 (Ranked 859)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 89.00% | ~511 |
-| Vanquisher of Robots | 79.00% | ~453 |
-| Party | 52.00% | ~298 |
+| Good start! | 89.00% | ~512 |
+| Vanquisher of Robots | 79.00% | ~454 |
+| Party | 52.00% | ~299 |
 | Through the Darkness | 47.00% | ~270 |
 | No Mercy | 44.00% | ~253 |
 | Impossible Cube | 43.00% | ~247 |
@@ -17,9 +17,9 @@ Rating: 4.43 (Ranked 859)
 | He's Seen It All | 31.00% | ~178 |
 | Last Man Standing | 31.00% | ~178 |
 | Great Hero | 31.00% | ~178 |
-| Rookie | 29.00% | ~166 |
-| Campaigning | 26.00% | ~149 |
-| Catch Jonathan_tostar | 26.00% | ~149 |
+| Rookie | 30.00% | ~172 |
+| Campaigning | 26.00% | ~150 |
+| Catch Jonathan_tostar | 26.00% | ~150 |
 | Assemble a Meganewbie | 23.00% | ~132 |
 | Frugal | 22.00% | ~126 |
 | Feed a God | 21.00% | ~121 |
@@ -29,20 +29,20 @@ Rating: 4.43 (Ranked 859)
 | Honorary Cultist | 15.00% | ~86 |
 | Strength and Sorcery | 12.00% | ~69 |
 | Brain and Brawn | 11.00% | ~63 |
-| Omae Wa Mou Shindeiru | 10.00% | ~57 |
+| Omae Wa Mou Shindeiru | 10.00% | ~58 |
 | Experimentalist | 7.00% | ~40 |
 | Soldier | 7.00% | ~40 |
 | Wide Selection | 6.00% | ~34 |
 | Android Power | 6.00% | ~34 |
 | Zombie Lover | 4.00% | ~23 |
-| Shopaholic | 2.00% | ~11 |
-| Full House | 2.00% | ~11 |
+| Shopaholic | 2.00% | ~12 |
+| Full House | 2.00% | ~12 |
 | Munchkin | 1.00% | ~6 |
 | Vet | 0.90% | ~5 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 476)  
-Completed: 1 (0.17%) (Ranked 431)  
+Progressed: 575 (Ranked 493)  
+Completed: 1 (0.17%) (Ranked 453)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 1 (0.17%) (Ranked 431)
 | 2024-06-17 | 549 | 1 |
 | 2024-08-09 | 568 | 1 |
 | 2024-09-14 | 574 | 1 |
+| 2024-10-17 | 575 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

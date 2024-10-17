@@ -2,10 +2,10 @@
   "ID": "1a5d2c6a072a4cbc81fc35b7e6e0af84",
   "Name": "Youtubers Life 2",
   "ProductSlug": "youtubers-life-2-ed3cce",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-05T00:00:00+00:00",
     "PcReleaseDate": "2021-10-18T22:00:00+00:00",
@@ -211,8 +211,8 @@
   ],
   "FirstSeen": "2024-03-10T20:58:48.9770511+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:05.9595836+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:14.234034+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:54.6491179+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:56.2196365+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:09.6509192+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:14.2340452+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:54.6491369+00:00"
 }

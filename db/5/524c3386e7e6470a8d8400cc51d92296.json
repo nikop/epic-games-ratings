@@ -2,10 +2,10 @@
   "ID": "524c3386e7e6470a8d8400cc51d92296",
   "Name": "Legion TD 2",
   "ProductSlug": "legion-td-2-a244b9",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1168,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-09-30T23:00:00+00:00",
@@ -22,16 +22,658 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:13.721544+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:13.7215481+00:00",
+  "TotalAchievements": 78,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_PART_OF_THE_PLAN",
+      "SetID": "9lodag7",
+      "Name": "All Part of the Plan",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_LEGION_FIESTA",
+      "SetID": "9lodag7",
+      "Name": "A Legion Fiesta",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_1_HARD",
+      "SetID": "9lodag7",
+      "Name": "Banana Boy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_2_HARD",
+      "SetID": "9lodag7",
+      "Name": "Tavern Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_3_HARD",
+      "SetID": "9lodag7",
+      "Name": "Heavyweight Champ",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_4_HARD",
+      "SetID": "9lodag7",
+      "Name": "Scourge of the 7 Seas",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_5_HARD",
+      "SetID": "9lodag7",
+      "Name": "Keeper of the Grove",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_6_HARD",
+      "SetID": "9lodag7",
+      "Name": "Frozen Heart",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_7_HARD",
+      "SetID": "9lodag7",
+      "Name": "Eternal Monarch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_COMPLETE",
+      "SetID": "9lodag7",
+      "Name": "Crystal Coast Completed",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_1_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Crystal Coast Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_1_HARD",
+      "SetID": "9lodag7",
+      "Name": "Popstar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_2_HARD",
+      "SetID": "9lodag7",
+      "Name": "Rags to Riches",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_3_HARD",
+      "SetID": "9lodag7",
+      "Name": "Twitch Partner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_4_HARD",
+      "SetID": "9lodag7",
+      "Name": "Michelin Star",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_5_HARD",
+      "SetID": "9lodag7",
+      "Name": "Survival of the Fittest",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_6_HARD",
+      "SetID": "9lodag7",
+      "Name": "Formula 1 Champion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_7_HARD",
+      "SetID": "9lodag7",
+      "Name": "Godwoken",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_COMPLETE",
+      "SetID": "9lodag7",
+      "Name": "Desert Ridge Completed",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_2_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Desert Ridge Victory",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_1_HARD",
+      "SetID": "9lodag7",
+      "Name": "Princess of Thieves",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_2_HARD",
+      "SetID": "9lodag7",
+      "Name": "Legendary Wizard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_3_HARD",
+      "SetID": "9lodag7",
+      "Name": "Gryphon Tamer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_4_HARD",
+      "SetID": "9lodag7",
+      "Name": "Vivacious Ecologist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_5_HARD",
+      "SetID": "9lodag7",
+      "Name": "Frog Tyrant",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_6_HARD",
+      "SetID": "9lodag7",
+      "Name": "Ultimate Supervillain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_7_HARD",
+      "SetID": "9lodag7",
+      "Name": "Chrono Trigger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_COMPLETE",
+      "SetID": "9lodag7",
+      "Name": "Floating Isles Completed",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAMPAIGN_3_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Floating Isles Victory",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CARD_HUNTER",
+      "SetID": "9lodag7",
+      "Name": "Card Hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CLASSIC_GRIND_1",
+      "SetID": "9lodag7",
+      "Name": "The Classic Grind Is Real",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CLASSIC_GRIND_2",
+      "SetID": "9lodag7",
+      "Name": "Classic All Day, Every Day",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMEBACK_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Comeback Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEATH_BY_NATURAL_CAUSES",
+      "SetID": "9lodag7",
+      "Name": "Death by Natural Causes",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUO_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Duo Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLAWLESS_VICTORY",
+      "SetID": "9lodag7",
+      "Name": "Flawless Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GET_REKT",
+      "SetID": "9lodag7",
+      "Name": "Get Rekt",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_MONUMENT",
+      "SetID": "9lodag7",
+      "Name": "Gold Monument",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GUILD_MEMBER",
+      "SetID": "9lodag7",
+      "Name": "Guild Member",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GUILD_SUPPORTER",
+      "SetID": "9lodag7",
+      "Name": "Guild Supporter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARD_CARRY",
+      "SetID": "9lodag7",
+      "Name": "Hard Carry",
+      "Percentage": 0,
+      "XP": 145,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEART_OF_THE_CARDS",
+      "SetID": "9lodag7",
+      "Name": "Heart of the Cards",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HIT_THE_JACKPOT",
+      "SetID": "9lodag7",
+      "Name": "Hit the Jackpot",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOT_STREAK",
+      "SetID": "9lodag7",
+      "Name": "Hot Streak",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IM_HUGE",
+      "SetID": "9lodag7",
+      "Name": "I\u0027m Huge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LORD_OF_THE_LEGION",
+      "SetID": "9lodag7",
+      "Name": "Lord of the Legion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEET_THE_TEAM",
+      "SetID": "9lodag7",
+      "Name": "Meet the Team",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MOST_VALUABLE_PLAYER",
+      "SetID": "9lodag7",
+      "Name": "Most Valuable Player",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOT_EVEN_CLOSE",
+      "SetID": "9lodag7",
+      "Name": "Not Even Close",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NO_TIME_TO_WASTE",
+      "SetID": "9lodag7",
+      "Name": "No Time to Waste",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRO_LEAK",
+      "SetID": "9lodag7",
+      "Name": "Pro-leak!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUB_STOMP",
+      "SetID": "9lodag7",
+      "Name": "Pub Stomp",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RANKED_GRIND_1",
+      "SetID": "9lodag7",
+      "Name": "The Ranked Grind Is Real",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RANKED_GRIND_2",
+      "SetID": "9lodag7",
+      "Name": "Ranked All Day, Every Day",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOW_ME_THE_NUMBERS",
+      "SetID": "9lodag7",
+      "Name": "Show Me the Numbers",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SILVER_MONUMENT",
+      "SetID": "9lodag7",
+      "Name": "Silver Monument",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOLO_CARRY",
+      "SetID": "9lodag7",
+      "Name": "Solo Carry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STUDENT_OF_THE_GAME",
+      "SetID": "9lodag7",
+      "Name": "Student of the Game",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUTORIAL_COMPLETE",
+      "SetID": "9lodag7",
+      "Name": "Tutorial Completed",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WEEKLY_CHALLENGER",
+      "SetID": "9lodag7",
+      "Name": "Weekly Challenger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_ATLANTEAN",
+      "SetID": "9lodag7",
+      "Name": "Atlantean Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_CHAOS",
+      "SetID": "9lodag7",
+      "Name": "Chaos Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_DIVINE",
+      "SetID": "9lodag7",
+      "Name": "Divine Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_ELEMENT",
+      "SetID": "9lodag7",
+      "Name": "Element Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_FORSAKEN",
+      "SetID": "9lodag7",
+      "Name": "Forsaken Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_GROVE",
+      "SetID": "9lodag7",
+      "Name": "Grove Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_HYBRID",
+      "SetID": "9lodag7",
+      "Name": "Hybrid Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_MASTERMIND",
+      "SetID": "9lodag7",
+      "Name": "Mastermind Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_MECH",
+      "SetID": "9lodag7",
+      "Name": "Mech Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_NOMAD",
+      "SetID": "9lodag7",
+      "Name": "Nomad Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_AS_SHRINE",
+      "SetID": "9lodag7",
+      "Name": "Shrine Victory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_BRONZE_AI",
+      "SetID": "9lodag7",
+      "Name": "Bronze AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_DIAMOND_AI",
+      "SetID": "9lodag7",
+      "Name": "Diamond AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_GOLD_AI",
+      "SetID": "9lodag7",
+      "Name": "Gold AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_PLATINUM_AI",
+      "SetID": "9lodag7",
+      "Name": "Platinum AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_SILVER_AI",
+      "SetID": "9lodag7",
+      "Name": "Silver AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_VS_UNRANKED_AI",
+      "SetID": "9lodag7",
+      "Name": "Unranked AI Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORK_WORK",
+      "SetID": "9lodag7",
+      "Name": "Work Work",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "9lodag7",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:13.7215481+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:13.7215437+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:28.6519011+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:59:54.332146+00:00"
+  "LastUpdate_Ratings": "2024-10-17T03:59:54.332146+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:13.7223381+00:00"
 }

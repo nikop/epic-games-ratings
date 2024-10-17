@@ -2,10 +2,10 @@
   "ID": "08d6df03616c42388556ce5fc1366d3d",
   "Name": "WUCHANG: Fallen Feathers",
   "ProductSlug": "wuchang-fallen-feathers-b73462",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T07:57:19.6540966+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:13.6166874+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:33.5420292+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:16.113059+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:44.1207655+00:00"
 }

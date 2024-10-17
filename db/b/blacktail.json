@@ -5,10 +5,10 @@
   "Ranking_Rating": 438,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 431,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Completed": 453,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -3117,6 +3117,11 @@
       "Time": "2024-09-14T14:21:04.3663448+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:10:44.5189646+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 32,
@@ -3128,7 +3133,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BadApple",
@@ -3152,7 +3157,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "DevilDetail",
@@ -3160,15 +3165,15 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "Devoted",
       "SetID": "2aagp3d",
       "Name": "Loremaster",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 12
     },
     {
       "ID": "Extremist",
@@ -3176,7 +3181,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "EyeSpy",
@@ -3184,7 +3189,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Favourite",
@@ -3192,7 +3197,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FisherKing",
@@ -3200,7 +3205,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Goal",
@@ -3216,7 +3221,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GossipGirl",
@@ -3224,7 +3229,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -3240,7 +3245,7 @@
       "Name": "Spirit animal",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LiarLiar",
@@ -3248,7 +3253,7 @@
       "Name": "Liar Liar",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LittleHelper",
@@ -3256,7 +3261,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LostAndFound",
@@ -3272,7 +3277,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "NoMoreWards",
@@ -3288,7 +3293,7 @@
       "Name": "Queen",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Rats",
@@ -3304,15 +3309,15 @@
       "Name": "Slavic squatter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Specialist",
       "SetID": "2aagp3d",
       "Name": "Specialist",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 36
     },
     {
       "ID": "SpringCleaning",
@@ -3320,7 +3325,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "TheGuardian",
@@ -3328,7 +3333,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ToadCharming",
@@ -3344,7 +3349,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "Toxic",
@@ -3368,7 +3373,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "YagaProfessional",
@@ -3383,7 +3388,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1206,
       "Completed": 2
     }
   ],
@@ -3391,8 +3396,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2024-09-26T16:59:24.6749882+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:04.3663445+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:44.5189643+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:10.9455366+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:49.1916381+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:04.3663766+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:05:57.2814533+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:44.5190023+00:00"
 }

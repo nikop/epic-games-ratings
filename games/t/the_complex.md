@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 91.00% | ~1,270 |
-| Blast From The Past | 82.00% | ~1,145 |
-| Kamikaze | 65.00% | ~907 |
-| The Rebel And The Doctor | 57.00% | ~796 |
-| Free Champagne | 52.00% | ~726 |
-| Storage Hunter | 48.00% | ~670 |
-| Beat It | 45.00% | ~628 |
-| Falling For You | 42.00% | ~586 |
-| Lab Rat | 27.00% | ~377 |
-| Stalemate | 24.00% | ~335 |
-| Trust Me For Once | 23.00% | ~321 |
-| Kindar Surprise | 17.00% | ~237 |
-| Deadly Secret | 12.00% | ~168 |
-| MVP - Most Vanishing Person | 12.00% | ~168 |
-| Get Out Of This Alive | 9.00% | ~126 |
-| The Promise | 8.00% | ~112 |
-| People Pleaser | 8.00% | ~112 |
-| The Nano Glitches And The Martyr | 6.00% | ~84 |
-| Second Chances | 6.00% | ~84 |
-| Not A People Person | 4.00% | ~56 |
+| Tough Decision | 91.00% | ~1,293 |
+| Blast From The Past | 83.00% | ~1,179 |
+| Kamikaze | 65.00% | ~924 |
+| The Rebel And The Doctor | 57.00% | ~810 |
+| Free Champagne | 52.00% | ~739 |
+| Storage Hunter | 48.00% | ~682 |
+| Beat It | 45.00% | ~639 |
+| Falling For You | 42.00% | ~597 |
+| Lab Rat | 27.00% | ~384 |
+| Stalemate | 25.00% | ~355 |
+| Trust Me For Once | 24.00% | ~341 |
+| Kindar Surprise | 16.00% | ~227 |
+| Deadly Secret | 12.00% | ~171 |
+| MVP - Most Vanishing Person | 12.00% | ~171 |
+| Get Out Of This Alive | 9.00% | ~128 |
+| The Promise | 8.00% | ~114 |
+| People Pleaser | 8.00% | ~114 |
+| The Nano Glitches And The Martyr | 6.00% | ~85 |
+| Second Chances | 6.00% | ~85 |
+| Not A People Person | 4.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,396 (Ranked 398)  
-Completed: 33 (2.36%) (Ranked 212)  
+Progressed: 1,421 (Ranked 412)  
+Completed: 34 (2.39%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,6 +214,7 @@ Completed: 33 (2.36%) (Ranked 212)
 | 2024-08-09 | 1,359 | 30 |
 | 2024-08-20 | 1,376 | 31 |
 | 2024-09-14 | 1,396 | 33 |
+| 2024-10-17 | 1,421 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

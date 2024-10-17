@@ -6,49 +6,49 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Up and Away | 66.00% | ~475 |
-| Survival | 39.00% | ~280 |
-| The Big G | 22.00% | ~158 |
-| Fencing master | 18.00% | ~129 |
-| Shard hoarder | 11.00% | ~79 |
-| Pack leader | 10.00% | ~72 |
-| Flashback | 10.00% | ~72 |
-| Earner | 9.00% | ~65 |
-| Leader | 9.00% | ~65 |
-| Prepared | 8.00% | ~58 |
+| Up and Away | 66.00% | ~481 |
+| Survival | 40.00% | ~292 |
+| The Big G | 22.00% | ~160 |
+| Fencing master | 18.00% | ~131 |
+| Shard hoarder | 11.00% | ~80 |
+| Pack leader | 10.00% | ~73 |
+| Flashback | 10.00% | ~73 |
+| Prepared | 9.00% | ~66 |
+| Earner | 9.00% | ~66 |
+| Leader | 9.00% | ~66 |
 | Detective | 8.00% | ~58 |
-| Acolyte | 7.00% | ~50 |
-| Hunter | 7.00% | ~50 |
-| Turned the world upside down. | 7.00% | ~50 |
-| Thicker than Water | 7.00% | ~50 |
-| Atombouncer | 6.00% | ~43 |
-| Cultivator | 6.00% | ~43 |
-| Visionary | 6.00% | ~43 |
-| Romantic | 6.00% | ~43 |
+| Acolyte | 7.00% | ~51 |
+| Hunter | 7.00% | ~51 |
+| Turned the world upside down. | 7.00% | ~51 |
+| Romantic | 7.00% | ~51 |
+| Thicker than Water | 7.00% | ~51 |
+| Atombouncer | 6.00% | ~44 |
+| Cultivator | 6.00% | ~44 |
+| Visionary | 6.00% | ~44 |
 | The Third Way | 5.00% | ~36 |
 | Balance of Power | 5.00% | ~36 |
 | Luminary | 4.00% | ~29 |
 | Sewer Rat | 4.00% | ~29 |
 | Calaan | 3.00% | ~22 |
-| Big Earner | 2.00% | ~14 |
-| Fightmaster | 2.00% | ~14 |
-| Flexible friend | 2.00% | ~14 |
-| Hero | 2.00% | ~14 |
-| Natural Survivor | 2.00% | ~14 |
-| Runner | 2.00% | ~14 |
-| Pure Rebel | 2.00% | ~14 |
-| Coldhearted | 2.00% | ~14 |
+| Big Earner | 2.00% | ~15 |
+| Fightmaster | 2.00% | ~15 |
+| Flexible friend | 2.00% | ~15 |
+| Hero | 2.00% | ~15 |
+| Natural Survivor | 2.00% | ~15 |
+| Runner | 2.00% | ~15 |
+| Pure Rebel | 2.00% | ~15 |
+| Coldhearted | 2.00% | ~15 |
 | Human | 1.00% | ~7 |
 | Friend or Foe | 1.00% | ~7 |
 | Thief taker | 1.00% | ~7 |
 | Picture Album | 0.80% | ~6 |
 | Beacon of faith | 0.80% | ~6 |
-| Beast of Xacor | 0.70% | ~5 |
+| Beast of Xacor | 0.80% | ~6 |
 | Butcher | 0.70% | ~5 |
-| Splattermaster | 0.60% | ~4 |
+| Splattermaster | 0.50% | ~4 |
 | Tinkerer | 0.40% | ~3 |
+| Nature Lover | 0.40% | ~3 |
 | Safecracker | 0.30% | ~2 |
-| Nature Lover | 0.30% | ~2 |
 | Master criminal | 0.10% | ~1 |
 | Locksmith | 0.00% | ~0 |
 | Careerist | 0.00% | ~0 |
@@ -57,8 +57,8 @@ Number of Ratings: 58  (23.09.2022)
 | Big Game Hunter | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719 (Ranked 455)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 729 (Ranked 469)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 524 | 0 |
 | 2024-09-14 | 626 | 0 |
 | 2024-10-09 | 719 | 0 |
+| 2024-10-17 | 729 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

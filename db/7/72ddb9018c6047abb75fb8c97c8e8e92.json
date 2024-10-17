@@ -2,10 +2,10 @@
   "ID": "72ddb9018c6047abb75fb8c97c8e8e92",
   "Name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
   "ProductSlug": "earth-defense-force-world-brothers-2-23328f",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-26T07:00:00+00:00",
     "PcReleaseDate": "2024-09-26T07:00:00+00:00",
@@ -25,27 +25,347 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:18.149949+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:18.1499612+00:00",
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Trophy001",
+      "SetID": "dfk39kc",
+      "Name": "Welcome to the EDF",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "Trophy002",
+      "SetID": "dfk39kc",
+      "Name": "True Defender",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy003",
+      "SetID": "dfk39kc",
+      "Name": "10% Story Progress",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy004",
+      "SetID": "dfk39kc",
+      "Name": "20% Story Progress",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy005",
+      "SetID": "dfk39kc",
+      "Name": "30% Story Progress",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy006",
+      "SetID": "dfk39kc",
+      "Name": "40% Story Progress",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy007",
+      "SetID": "dfk39kc",
+      "Name": "50% Story Progress",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy008",
+      "SetID": "dfk39kc",
+      "Name": "60% Story Progress",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy009",
+      "SetID": "dfk39kc",
+      "Name": "70% Story Progress",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy010",
+      "SetID": "dfk39kc",
+      "Name": "72% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy011",
+      "SetID": "dfk39kc",
+      "Name": "74% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy012",
+      "SetID": "dfk39kc",
+      "Name": "76% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy013",
+      "SetID": "dfk39kc",
+      "Name": "78% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy014",
+      "SetID": "dfk39kc",
+      "Name": "80% Story Progress",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy015",
+      "SetID": "dfk39kc",
+      "Name": "82% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy016",
+      "SetID": "dfk39kc",
+      "Name": "84% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy017",
+      "SetID": "dfk39kc",
+      "Name": "86% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy018",
+      "SetID": "dfk39kc",
+      "Name": "88% Story Progress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy019",
+      "SetID": "dfk39kc",
+      "Name": "90% Story Progress",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy020",
+      "SetID": "dfk39kc",
+      "Name": "92% Story Progress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy021",
+      "SetID": "dfk39kc",
+      "Name": "94% Story Progress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy022",
+      "SetID": "dfk39kc",
+      "Name": "96% Story Progress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy023",
+      "SetID": "dfk39kc",
+      "Name": "98% Story Progress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy024",
+      "SetID": "dfk39kc",
+      "Name": "100% Story Progress",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy025",
+      "SetID": "dfk39kc",
+      "Name": "Stronger Together",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy026",
+      "SetID": "dfk39kc",
+      "Name": "Especially Special",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy027",
+      "SetID": "dfk39kc",
+      "Name": "Moodmaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Trophy028",
+      "SetID": "dfk39kc",
+      "Name": "Super Rescuer",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy029",
+      "SetID": "dfk39kc",
+      "Name": "Super-Duper Rescuer",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy030",
+      "SetID": "dfk39kc",
+      "Name": "Military Medic",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy031",
+      "SetID": "dfk39kc",
+      "Name": "Armor Master",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy032",
+      "SetID": "dfk39kc",
+      "Name": "Master of War",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy033",
+      "SetID": "dfk39kc",
+      "Name": "We Are The World",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy034",
+      "SetID": "dfk39kc",
+      "Name": "Weapon Collector",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy035",
+      "SetID": "dfk39kc",
+      "Name": "Earth Defender",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy036",
+      "SetID": "dfk39kc",
+      "Name": "All I Need\u0027s a Shirt",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy037",
+      "SetID": "dfk39kc",
+      "Name": "A Hit to Remember",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy038",
+      "SetID": "dfk39kc",
+      "Name": "Old School Defender",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Trophy039",
+      "SetID": "dfk39kc",
+      "Name": "Perfect Weapon",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 4
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "dfk39kc",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1348,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-30T17:58:29.9745915+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:03.4671147+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:03.4660844+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:18.1499487+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:14.1635616+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:22.526942+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:03.4671292+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:44.6277623+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:18.1506369+00:00"
 }

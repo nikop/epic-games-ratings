@@ -2,10 +2,10 @@
   "ID": "2c6272c2f5544728a5759ffe13525564",
   "Name": "Street Defenders",
   "ProductSlug": "streetdefenders-d5df41",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-05T11:00:01.151+00:00",
     "PcReleaseDate": "2024-10-01T05:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T13:10:09.327571+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:39.7888969+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:01:39.7888969+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:05:59.7184598+00:00"
 }

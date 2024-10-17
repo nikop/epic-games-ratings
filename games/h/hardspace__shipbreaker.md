@@ -6,23 +6,23 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~899 |
-| It’s Heating up! | 70.00% | ~874 |
-| Let’s patch things up | 65.00% | ~812 |
-| I can fix it! | 62.00% | ~774 |
-| Post No Bills | 55.00% | ~687 |
-| Truly Shocking! | 48.00% | ~600 |
-| Critical Thinker | 36.00% | ~450 |
-| Act I Complete | 31.00% | ~387 |
-| Always Finding Your Mark | 30.00% | ~375 |
-| A drop in the Ocean | 30.00% | ~375 |
-| The Weight of the World | 30.00% | ~375 |
-| No Niños | 27.00% | ~337 |
-| I ain’t afraid of no Ghost | 25.00% | ~312 |
+| Breathe In… Breathe Out… | 72.00% | ~901 |
+| It’s Heating up! | 70.00% | ~876 |
+| Let’s patch things up | 65.00% | ~814 |
+| I can fix it! | 62.00% | ~776 |
+| Post No Bills | 55.00% | ~689 |
+| Truly Shocking! | 48.00% | ~601 |
+| Critical Thinker | 36.00% | ~451 |
+| Act I Complete | 31.00% | ~388 |
+| Always Finding Your Mark | 30.00% | ~376 |
+| A drop in the Ocean | 30.00% | ~376 |
+| The Weight of the World | 30.00% | ~376 |
+| No Niños | 27.00% | ~338 |
+| I ain’t afraid of no Ghost | 25.00% | ~313 |
 | Act II Complete | 22.00% | ~275 |
 | Bing Bang BOOM | 20.00% | ~250 |
-| A successful procedure! | 19.00% | ~237 |
-| Breaking the Ice | 19.00% | ~237 |
+| A successful procedure! | 19.00% | ~238 |
+| Breaking the Ice | 19.00% | ~238 |
 | Solidarity Forever | 12.00% | ~150 |
 | A Tucked Tale | 10.00% | ~125 |
 | The best thing money can buy | 10.00% | ~125 |
@@ -30,12 +30,12 @@ Number of Ratings: 36  (23.09.2022)
 | Fire and Brimstone | 6.00% | ~75 |
 | See you Space Cowboy | 6.00% | ~75 |
 | Ghost in the Ship | 2.00% | ~25 |
-| Disagree and Commit | 0.20% | ~2 |
+| Disagree and Commit | 0.20% | ~3 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 404)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,252 (Ranked 421)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,6 +218,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 1,217 | 0 |
 | 2024-09-14 | 1,239 | 0 |
 | 2024-10-09 | 1,249 | 0 |
+| 2024-10-17 | 1,252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

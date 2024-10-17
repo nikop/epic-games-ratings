@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 608,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-20T17:00:00+00:00",
     "PcReleaseDate": "2024-06-20T17:00:00+00:00",
@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -85,6 +85,11 @@
       "Time": "2024-09-14T14:27:31.4470209+00:00",
       "NumProgressed": 198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:42.0717551+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:22.2762372+00:00",
@@ -103,15 +108,15 @@
       "ID": "DiscipleOfPlannedEconomy",
       "SetID": "917420k",
       "Name": "Disciple of Planned Economy",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 80
     },
     {
       "ID": "MasterOfResearch",
       "SetID": "917420k",
       "Name": "Master of Research",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -119,23 +124,23 @@
       "ID": "NatureLover",
       "SetID": "917420k",
       "Name": "Nature Lover",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NoviceOfPlanedEconomy",
       "SetID": "917420k",
       "Name": "Novice to Planned Economy",
-      "Percentage": 90,
+      "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 226
     },
     {
       "ID": "NuclearManufacturer",
       "SetID": "917420k",
       "Name": "Nuclear Manufacturer",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "RepublicFounder",
       "SetID": "917420k",
       "Name": "Republic Founder",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -169,13 +174,13 @@
       "Name": "Soviet Airways",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SovietParadise",
       "SetID": "917420k",
       "Name": "Soviet Paradise",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "Name": "Soviet Society",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TrabiMaker",
@@ -223,16 +228,16 @@
       "ID": "WrongCommunist",
       "SetID": "917420k",
       "Name": "Wrong Communist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "917420k",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
@@ -240,8 +245,8 @@
   "FirstSeenRating": "2024-09-27T02:10:05.3283248+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:22.2762371+00:00",
   "LastChanged": "2024-10-15T13:58:59.513349+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:31.4470203+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:42.0717546+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:09.7251625+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:51.3197816+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:31.4470324+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:15.2318852+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:42.0717655+00:00"
 }

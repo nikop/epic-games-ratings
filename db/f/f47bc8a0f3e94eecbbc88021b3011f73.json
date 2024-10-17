@@ -2,10 +2,10 @@
   "ID": "f47bc8a0f3e94eecbbc88021b3011f73",
   "Name": "Passing By - A Tailwind Journey",
   "ProductSlug": "passing-by-d47e9b",
-  "Ranking_EOS_Progress": 1118,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1168,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-12T14:00:00+00:00",
     "PcReleaseDate": "2024-03-12T14:00:00+00:00",
@@ -329,8 +329,8 @@
   ],
   "FirstSeen": "2024-03-20T22:57:22.0548246+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.1484738+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:17.8843159+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:58.3494083+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:19.5847512+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:15.1326027+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:17.8843435+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:58.349435+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d3242d8296924a93a4d235e702f2e4ed",
   "Name": "The Story Goes On",
   "ProductSlug": "the-story-goes-on-f8a65a",
-  "Ranking_EOS_Progress": 1118,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-02T14:00:00+00:00",
     "PcReleaseDate": "2018-03-02T14:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
       "Time": "2024-01-27T01:47:47.9217896+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:13.726939+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T19:03:37.9071209+00:00",
@@ -47,7 +52,7 @@
       "ID": "addict",
       "SetID": "142eio",
       "Name": "Addict",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -55,7 +60,7 @@
       "ID": "all",
       "SetID": "142eio",
       "Name": "The Lord of Booty",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -63,7 +68,7 @@
       "ID": "alone",
       "SetID": "142eio",
       "Name": "It\u0027s Dangerous to Go Alone",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "broken",
       "SetID": "142eio",
       "Name": "Not Broken, Just Bent",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "cookie",
       "SetID": "142eio",
       "Name": "Have a Cookie!",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -87,7 +92,7 @@
       "ID": "dirtylittlehacker",
       "SetID": "142eio",
       "Name": "Dirty Little Hacker",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -95,7 +100,7 @@
       "ID": "dungeon1",
       "SetID": "142eio",
       "Name": "That was a Big Spider",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -103,7 +108,7 @@
       "ID": "dungeon2",
       "SetID": "142eio",
       "Name": "Wild Ride",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -111,7 +116,7 @@
       "ID": "dungeon3",
       "SetID": "142eio",
       "Name": "The Eye of the Beholder",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -119,7 +124,7 @@
       "ID": "dungeon4",
       "SetID": "142eio",
       "Name": "Good Idea!",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -127,7 +132,7 @@
       "ID": "dungeon5",
       "SetID": "142eio",
       "Name": "That Put a Spin on Things",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -135,7 +140,7 @@
       "ID": "dungeon6",
       "SetID": "142eio",
       "Name": "Be Scared",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -143,7 +148,7 @@
       "ID": "fast",
       "SetID": "142eio",
       "Name": "gotta go fast!",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -151,7 +156,7 @@
       "ID": "fifty",
       "SetID": "142eio",
       "Name": "Borderline Shopaholic",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -159,7 +164,7 @@
       "ID": "foster",
       "SetID": "142eio",
       "Name": "Demon Slayer",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -167,7 +172,7 @@
       "ID": "gambit",
       "SetID": "142eio",
       "Name": "Void Slayer",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -175,7 +180,7 @@
       "ID": "heartofthecards",
       "SetID": "142eio",
       "Name": "Heart of the Cards",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "help",
       "SetID": "142eio",
       "Name": "Really? How much help do you need?",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -191,7 +196,7 @@
       "ID": "money",
       "SetID": "142eio",
       "Name": "Little Banker",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -199,15 +204,15 @@
       "ID": "pecrtron",
       "SetID": "142eio",
       "Name": "Lord Pecrtron",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "quarter",
       "SetID": "142eio",
       "Name": "Novice Collector",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -215,7 +220,7 @@
       "ID": "sparethewitch",
       "SetID": "142eio",
       "Name": "Spare the Witch!",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "sprout",
       "SetID": "142eio",
       "Name": "Sandwich Slayer",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -231,7 +236,7 @@
       "ID": "story",
       "SetID": "142eio",
       "Name": "The Story Goes On...",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "tamer",
       "SetID": "142eio",
       "Name": "Ghost Tamer",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "three_four",
       "SetID": "142eio",
       "Name": "Certified Hoarder",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -255,7 +260,7 @@
       "ID": "truewarrior",
       "SetID": "142eio",
       "Name": "A True Warrior",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -263,7 +268,7 @@
       "ID": "xmark",
       "SetID": "142eio",
       "Name": "\u0022X\u0022 Marks the Spot!",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -271,7 +276,7 @@
       "ID": "youmustbedreaming",
       "SetID": "142eio",
       "Name": "You Must be Dreaming!",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -280,13 +285,13 @@
     {
       "ID": "142eio",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T22:03:27.0098018+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:07.7130621+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:13.7269384+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:55.2855272+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:52.5383598+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:07.7130785+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:14.6511848+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:13.7269553+00:00"
 }

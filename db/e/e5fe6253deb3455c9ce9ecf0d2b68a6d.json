@@ -2,10 +2,10 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 467,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 629,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2289,6 +2289,11 @@
       "Time": "2024-09-14T14:21:28.2588249+00:00",
       "NumProgressed": 613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:09.6770488+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2317,15 +2322,15 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 447
     },
     {
       "ID": "Island",
@@ -2333,15 +2338,15 @@
       "Name": "Island",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 340
     },
     {
       "ID": "Master",
@@ -2355,9 +2360,9 @@
       "ID": "Route",
       "SetID": "cjfnji1",
       "Name": "Own route",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 57
     },
     {
       "ID": "Serpentine_conquero",
@@ -2379,7 +2384,7 @@
       "ID": "Speed",
       "SetID": "cjfnji1",
       "Name": "Speed",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2389,7 +2394,7 @@
       "Name": "Tangentially",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "USSR",
@@ -2397,7 +2402,7 @@
       "Name": "Back to USSR",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Upgrades",
@@ -2412,14 +2417,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:28.2588242+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:09.6770484+00:00",
   "LastUpdate_AppInfo": "2024-10-16T07:57:22.1190906+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:28.9146007+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:28.2588784+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:40.3406933+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:09.6770694+00:00"
 }

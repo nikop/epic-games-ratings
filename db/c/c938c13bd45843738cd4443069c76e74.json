@@ -2,10 +2,10 @@
   "ID": "c938c13bd45843738cd4443069c76e74",
   "Name": "Wild Bastards",
   "ProductSlug": "wild-bastards-3e91e0",
-  "Ranking_EOS_Progress": 848,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 673,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-12T16:00:00+00:00",
     "PcReleaseDate": "2024-09-12T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-09-14T14:24:30.9159283+00:00",
       "NumProgressed": 37,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:17.3287591+00:00",
+      "NumProgressed": 147,
       "NumCompleted": 0
     }
   ],
@@ -53,97 +58,97 @@
       "ID": "ACH_ASSASSIN",
       "SetID": "bjcf576",
       "Name": "And stay down",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_BANK",
       "SetID": "bjcf576",
       "Name": "Banker",
-      "Percentage": 5,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BARRABAS",
       "SetID": "bjcf576",
       "Name": "The Devil\u0027s own",
-      "Percentage": 3,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_BESTIARY",
       "SetID": "bjcf576",
       "Name": "Surveyor",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_CHALLENGE",
       "SetID": "bjcf576",
       "Name": "Giddyup",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_COMPLETE",
       "SetID": "bjcf576",
       "Name": "Wild Bastard",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_DRIFTER",
       "SetID": "bjcf576",
       "Name": "Rescued",
-      "Percentage": 84,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_DYNAMITE",
       "SetID": "bjcf576",
       "Name": "Fireworks",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_FRANCISCO",
       "SetID": "bjcf576",
       "Name": "An acceptable loss",
-      "Percentage": 8,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_GANG",
       "SetID": "bjcf576",
       "Name": "Gettin\u0027 the gang back",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HARD",
       "SetID": "bjcf576",
       "Name": "Hard bastard",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_HARD_IRONMAN",
       "SetID": "bjcf576",
       "Name": "Hombre de Acero",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HARD_SUPER",
@@ -157,57 +162,57 @@
       "ID": "ACH_HEADSHOT_KILLS",
       "SetID": "bjcf576",
       "Name": "Justice Established",
-      "Percentage": 11,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_HELP",
       "SetID": "bjcf576",
       "Name": "Amigo",
-      "Percentage": 27,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_INFAMY",
       "SetID": "bjcf576",
       "Name": "Infamous",
-      "Percentage": 8,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_IRONCLAD",
       "SetID": "bjcf576",
       "Name": "What in the Sam Hill?",
-      "Percentage": 54,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_IRONMAN",
       "SetID": "bjcf576",
       "Name": "Ironman",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEVEL",
       "SetID": "bjcf576",
       "Name": "Aces high",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_MCNEIL",
       "SetID": "bjcf576",
       "Name": "Help me daddy",
-      "Percentage": 38,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_MODS",
@@ -221,25 +226,25 @@
       "ID": "ACH_PEACEMAKER",
       "SetID": "bjcf576",
       "Name": "Peacemaker",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_PROCEDURAL",
       "SetID": "bjcf576",
       "Name": "Some Random Bastard",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SMOKY",
       "SetID": "bjcf576",
       "Name": "Yep, it\u0027s beans!",
-      "Percentage": 76,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_SUPER",
@@ -253,23 +258,23 @@
       "ID": "ACH_VERY_HARD",
       "SetID": "bjcf576",
       "Name": "Tough Hombre",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "bjcf576",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-12T22:58:32.9585132+00:00",
   "FirstSeenAchievements": "2024-08-20T20:11:27.1646131+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:30.9159278+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:17.3287587+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:36.819411+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:31.9006967+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:30.9167258+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:54.0727815+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:17.3287787+00:00"
 }

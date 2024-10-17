@@ -2,10 +2,10 @@
   "ID": "16e5cbb017bc4cc8a304791d27ed982c",
   "Name": "Smelogs Playground",
   "ProductSlug": "smelogs-playground-a953e3",
-  "Ranking_EOS_Progress": 448,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-25T15:00:00+00:00",
     "PcReleaseDate": "2024-04-25T15:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 804,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -50,6 +50,11 @@
       "Time": "2024-09-14T14:21:35.3337575+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:17.6388142+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:16:23.5545508+00:00",
@@ -62,7 +67,7 @@
       "Name": "Great Warrior",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_10FRIENDS",
@@ -70,13 +75,13 @@
       "Name": "Popular",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_1GIFT",
       "SetID": "b60eked",
       "Name": "Gift \uD83C\uDF81",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -86,13 +91,13 @@
       "Name": "Hero!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_3GIFTS",
       "SetID": "b60eked",
       "Name": "Gifter \uD83C\uDF81\uD83C\uDF81",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -108,15 +113,15 @@
       "ID": "ACH_5DESTRUCTIONS",
       "SetID": "b60eked",
       "Name": "A worthy fighter!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_5GIFTS",
       "SetID": "b60eked",
       "Name": "Philanthropist",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -134,7 +139,7 @@
       "Name": "Easy AI defeated",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_AI_HARD",
@@ -180,7 +185,7 @@
       "ID": "ACH_COMMUNITY",
       "SetID": "b60eked",
       "Name": "Good Egg",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_DEFAULT_MAX",
       "SetID": "b60eked",
       "Name": "Battle Pass completed!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -236,7 +241,7 @@
       "ID": "ACH_FOUNDER",
       "SetID": "b60eked",
       "Name": "Founder",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -260,7 +265,7 @@
       "ID": "ACH_MULTIKILL",
       "SetID": "b60eked",
       "Name": "Multikill!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -270,7 +275,7 @@
       "Name": "Slayer",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_SPARKLY",
@@ -302,21 +307,21 @@
       "Name": "Welcome",
       "Percentage": 98,
       "XP": 25,
-      "UsersEstimate": 755
+      "UsersEstimate": 788
     }
   ],
   "AchievementSets": [
     {
       "ID": "b60eked",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-26T19:58:46.9891761+00:00",
   "FirstSeenAchievements": "2024-06-17T16:16:23.5545508+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:35.3337569+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:17.6388137+00:00",
   "LastUpdate_AppInfo": "2024-10-10T11:57:14.2898327+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:42.0750467+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:35.3337749+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:17.6388358+00:00"
 }

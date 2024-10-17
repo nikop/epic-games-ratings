@@ -2,10 +2,10 @@
   "ID": "0d36d28dad0942d8be178cb68f6793af",
   "Name": "Control",
   "ProductSlug": "control-316ad1",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-10T21:00:00+00:00",
     "PcReleaseDate": "2024-10-10T21:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T13:14:15.0463041+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:05.6473419+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:27.6052367+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:10.9556171+00:00"
 }

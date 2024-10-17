@@ -2,10 +2,10 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 345,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -525,6 +525,11 @@
       "Time": "2024-09-14T14:19:40.5552603+00:00",
       "NumProgressed": 328,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-10-17T05:09:50.5828203+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -536,15 +541,15 @@
       "Name": "Proving Your Skills",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 321
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 148
     },
     {
       "ID": "LC-03",
@@ -552,7 +557,7 @@
       "Name": "Bakery Business",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LC-04",
@@ -560,7 +565,7 @@
       "Name": "Bakery Empire",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LC-05",
@@ -568,7 +573,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "LC-06",
@@ -576,7 +581,7 @@
       "Name": "Adept Baker",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "LC-07",
@@ -584,7 +589,7 @@
       "Name": "Expert Baker",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LC-08",
@@ -592,31 +597,31 @@
       "Name": "Master Baker",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LC-09",
       "SetID": "ap2ljl4",
       "Name": "Verdant Greenhouse",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "LC-12",
@@ -624,7 +629,7 @@
       "Name": "The Famous Lemon Cake",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LC-13",
@@ -632,7 +637,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "LC-14",
@@ -640,15 +645,15 @@
       "Name": "Gotta Go Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LC-15",
       "SetID": "ap2ljl4",
       "Name": "A Loving Home",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "LC-16",
@@ -656,7 +661,7 @@
       "Name": "Swing The Broom",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LC-17",
@@ -664,14 +669,14 @@
       "Name": "Perfect Server",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 345,
       "Completed": 4
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:40.5552594+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:50.5828198+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:17.0449123+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:49.2147569+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:40.5552751+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:11.2284295+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:50.5828355+00:00"
 }

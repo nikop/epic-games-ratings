@@ -2,10 +2,10 @@
   "ID": "78e018c4f69d4ffc8840f94a76146822",
   "Name": "Ys X: Nordics",
   "ProductSlug": "ys-x-nordics-0ed760",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,11 +29,454 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-10-17T05:13:47.1049543+00:00",
+  "TotalAchievements": 54,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "TROPHY_AVORDAGE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Reduce, Reuse, Recapture",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_AVORDAGE_S_RANK",
+      "SetID": "a4hidkc",
+      "Name": "Rapturous Recapture",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_CHARA_NOTE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Seashell Networker",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_COMBI_MODE",
+      "SetID": "a4hidkc",
+      "Name": "Deadly Duo",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_DARK_ABILITY_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Night of the Soul",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_DIFFICULTY_NIGHTMARE",
+      "SetID": "a4hidkc",
+      "Name": "Night-Mariner",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_DISCOVER_RATE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "No Hewnstone Unturned",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_DISCOVER_RATE_HALF",
+      "SetID": "a4hidkc",
+      "Name": "Gulf Gallivanter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_ENEMY_SHIP_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Sunk Your Battleship",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_FAKE_SHIP_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Fool Me Thrice...",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_FISH_NOTE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "A-fish-ionado",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_FRIENDLY_MAX_ALL",
+      "SetID": "a4hidkc",
+      "Name": "Sandras Socialite",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_JUST_GUARD_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Deft Defender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_KILL_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Ticket to Walhalla",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_KILL_GREEGER_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Griegr-B-Gone",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_LUNE_STONE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Runes with a View",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MANA_ABILITY_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Light of the Soul",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MANA_ACTION_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Mana Maniac",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MANA_BARRIER_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Grin and Barrier It",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MANA_SAIL_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Long Winded",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MARINE_NOTE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "The Life Aquatic with Adol Christin",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MONS_NOTE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Combat Connoisseur",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_MOVE_SO_FAR",
+      "SetID": "a4hidkc",
+      "Name": "Landlubber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_PICKARD_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Pikk-Me-Up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_PLAY_WITH_ADOL",
+      "SetID": "a4hidkc",
+      "Name": "Red Hair, Don\u0027t Care",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_PLAY_WITH_KARGIA",
+      "SetID": "a4hidkc",
+      "Name": "Azure-Eye on the Prize",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_QUEST_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Go-To Guy \u0026 Gal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_RECIPE_NOTE_COMP",
+      "SetID": "a4hidkc",
+      "Name": "All la Carte",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_RELEASE_LINE",
+      "SetID": "a4hidkc",
+      "Name": "Depths of the Mind",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_RESCUE_CARNAC_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Champion of Carnac",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_RESTAURANT",
+      "SetID": "a4hidkc",
+      "Name": "Onboard Sm\u00F6rg\u00E5sbord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_0",
+      "SetID": "a4hidkc",
+      "Name": "The Raid",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_1",
+      "SetID": "a4hidkc",
+      "Name": "Carnac",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_10",
+      "SetID": "a4hidkc",
+      "Name": "The Normans\u0027 Paradise Lost",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_2",
+      "SetID": "a4hidkc",
+      "Name": "Shield Brethren",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_3",
+      "SetID": "a4hidkc",
+      "Name": "Where the Light Leads",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_4",
+      "SetID": "a4hidkc",
+      "Name": "The Whiteshade",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_5",
+      "SetID": "a4hidkc",
+      "Name": "Beacon of Reprisal",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_6",
+      "SetID": "a4hidkc",
+      "Name": "Heavens\u0027 Mirror",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_7",
+      "SetID": "a4hidkc",
+      "Name": "The Battle of Flumen Strait",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_8",
+      "SetID": "a4hidkc",
+      "Name": "Lila",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_9",
+      "SetID": "a4hidkc",
+      "Name": "The Waters of Creation",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SCENARIO_BEGIN",
+      "SetID": "a4hidkc",
+      "Name": "A New Adventure",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SECRET_BOSS",
+      "SetID": "a4hidkc",
+      "Name": "Verm\u00F3\u00F0r of Mercy",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SHIP_EX_ARMS_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Armamented and Dangerous",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SHIP_REPAIRED_ALL",
+      "SetID": "a4hidkc",
+      "Name": "All Decked Out",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SHIP_SO_FAR",
+      "SetID": "a4hidkc",
+      "Name": "Obelian Odyssey",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SKILL_CHAIN_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Martial Master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_SPEED_ATTACK_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Elusive Evader",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_TALK_ON_SHIP",
+      "SetID": "a4hidkc",
+      "Name": "Shoot the Breeze",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_TENTION_GAUGE_MAX",
+      "SetID": "a4hidkc",
+      "Name": "On Cloud Ten",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_USE_BENTO_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Can\u0027t Adventure on an Empty Stomach",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_USE_POTION_COUNT",
+      "SetID": "a4hidkc",
+      "Name": "Potion Partaker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY_WEAPON_COMP",
+      "SetID": "a4hidkc",
+      "Name": "Forge\u0027s Finest",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "a4hidkc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:13:47.1049542+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:47.1049529+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:19.9816553+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:47.6558547+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:56.9751162+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:09.6638937+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:47.1055685+00:00"
 }

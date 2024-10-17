@@ -2,10 +2,10 @@
   "ID": "79a42b67162c4f4694b3d70fcf25350d",
   "Name": "Enki\u0027s Return",
   "ProductSlug": "enkis-return-b45ad7",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-24T16:00:00+00:00",
     "PcReleaseDate": "2024-10-24T16:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T02:12:05.4678505+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:58.1630919+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:51.3948198+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:05.1257764+00:00"
 }

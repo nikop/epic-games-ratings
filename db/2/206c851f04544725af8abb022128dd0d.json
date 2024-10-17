@@ -2,10 +2,10 @@
   "ID": "206c851f04544725af8abb022128dd0d",
   "Name": "Fireside",
   "ProductSlug": "fireside-ff8e68",
-  "Ranking_EOS_Progress": 947,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-04T09:00:00+00:00",
     "PcReleaseDate": "2024-06-04T09:00:00+00:00",
@@ -419,8 +419,8 @@
   ],
   "FirstSeen": "2024-06-04T20:01:23.9691418+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:06.6958709+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:39.3302008+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:50.8854739+00:00",
   "LastUpdate_AppInfo": "2024-10-11T03:12:11.0981765+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:13.9535139+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:39.3302266+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:50.8855154+00:00"
 }

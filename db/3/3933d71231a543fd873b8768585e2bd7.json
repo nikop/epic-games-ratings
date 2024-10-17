@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -384,6 +384,11 @@
       "Time": "2024-09-14T14:16:22.7143178+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:15.819185+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -404,7 +409,7 @@
       "Name": "I Will Survive",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -418,9 +423,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -452,7 +457,7 @@
       "Name": "ForestTreePlank",
       "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievements.firstexpedition",
@@ -523,14 +528,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:22.7143171+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:15.8191845+00:00",
   "LastUpdate_AppInfo": "2024-10-12T17:57:21.4702851+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:36.087112+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:22.7143314+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:15.8192012+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c9b641a9fe7d4797a0d06e4ace1e0640",
   "Name": "Asylum Nightmares",
   "ProductSlug": "asylum-nightmares-784f14",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-18T16:00:00+00:00",
     "PcReleaseDate": "2024-10-18T16:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "AchievementsAdded": "2024-06-26T14:04:12.6638905+00:00",
-  "TotalAchievements": 24,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 2000,
   "Achievements": [
     {
       "ID": "ACHIEVEMENT_1000_ZOMBIE",
@@ -230,6 +230,142 @@
       "Percentage": 0,
       "XP": 20,
       "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_DOUBLE_BAR",
+      "SetID": "80eman1",
+      "Name": "Pick up the Double Bar Shotgun",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_F1",
+      "SetID": "80eman1",
+      "Name": "Pick up the F1",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_1000000_POINTS",
+      "SetID": "80eman1",
+      "Name": "Accumulate 1.000.000 points in horde mode",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_100000_POINTS",
+      "SetID": "80eman1",
+      "Name": "Accumulate 100.000 points in horde mode",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_10000_POINTS",
+      "SetID": "80eman1",
+      "Name": "Accumulate 10.000 points in horde mode",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_10_AMMO",
+      "SetID": "80eman1",
+      "Name": "Get 10 ammo in horde mode",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_10_HEALTH",
+      "SetID": "80eman1",
+      "Name": "Get 10 life in horde mode",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_10_WAVES",
+      "SetID": "80eman1",
+      "Name": "Beat 10 waves in horde mode",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_10_X2",
+      "SetID": "80eman1",
+      "Name": "Get 10 X2 in horde mode",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_1_AMMO",
+      "SetID": "80eman1",
+      "Name": "Get 1 ammo in horde mode",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_1_HEALTH",
+      "SetID": "80eman1",
+      "Name": "Get 1 life in horde mode",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_1_X2",
+      "SetID": "80eman1",
+      "Name": "Get 1 X2 in horde mode",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_25_WAVES",
+      "SetID": "80eman1",
+      "Name": "Beat 25 waves in horde mode",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_50_WAVES",
+      "SetID": "80eman1",
+      "Name": "Beat 50 waves in horde mode",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_5_WAVES",
+      "SetID": "80eman1",
+      "Name": "Beat 5 waves in horde mode",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HORDE_FINAL_DOOR",
+      "SetID": "80eman1",
+      "Name": "Open the end door in horde mode",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_M1A",
+      "SetID": "80eman1",
+      "Name": "Pick up the M1A",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -238,11 +374,17 @@
       "IsBase": true,
       "Progressed": 1,
       "Completed": 0
+    },
+    {
+      "ID": "80eman1",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-26T14:04:12.6638904+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:53.2296184+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:33.9927779+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:23.6179763+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:32.0721677+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:53.2296323+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:33.992808+00:00"
 }

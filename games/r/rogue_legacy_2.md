@@ -6,24 +6,25 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 0.90% | ~277 |
-| Captain and Crew | 0.60% | ~185 |
-| Harvest and Home | 0.50% | ~154 |
-| Poise and Poisons | 0.40% | ~123 |
-| No Harm in Looking | 0.40% | ~123 |
-| Hands and Hammers | 0.30% | ~92 |
-| King and Kin | 0.30% | ~92 |
-| Progenitor and Protégé | 0.30% | ~92 |
-| Suns and Soldiers | 0.30% | ~92 |
-| Prequel to the Sequel | 0.30% | ~92 |
+| Spells and Swords | 1.00% | ~309 |
+| Captain and Crew | 0.80% | ~248 |
+| Harvest and Home | 0.70% | ~217 |
+| Poise and Poisons | 0.50% | ~155 |
+| Suns and Soldiers | 0.50% | ~155 |
+| No Harm in Looking | 0.50% | ~155 |
+| Hands and Hammers | 0.40% | ~124 |
+| King and Kin | 0.40% | ~124 |
+| Progenitor and Protégé | 0.40% | ~124 |
+| Prequel to the Sequel | 0.30% | ~93 |
+| Truly Blessed | 0.20% | ~62 |
+| Pillow Investments | 0.20% | ~62 |
+| Looks Familiar | 0.20% | ~62 |
+| For Justice | 0.20% | ~62 |
 | For Glory | 0.20% | ~62 |
-| Truly Blessed | 0.10% | ~31 |
+| Rogue's Legacy | 0.10% | ~31 |
 | Black-shoppe | 0.10% | ~31 |
 | Full House | 0.10% | ~31 |
-| Pillow Investments | 0.10% | ~31 |
 | Erebus Purified | 0.10% | ~31 |
-| Looks Familiar | 0.10% | ~31 |
-| For Justice | 0.10% | ~31 |
 | For Wrath | 0.10% | ~31 |
 | For Greed | 0.10% | ~31 |
 | For Survival | 0.10% | ~31 |
@@ -44,10 +45,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | Had to Do It | 0.10% | ~31 |
 | Jack of all Trades | 0.10% | ~31 |
 | Color Coordination | 0.10% | ~31 |
-| Rogue's Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,777 (Ranked 197)  
-Completed: 35 (0.11%) (Ranked 458)  
+Progressed: 30,944 (Ranked 205)  
+Completed: 36 (0.12%) (Ranked 476)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,6 +334,7 @@ Completed: 35 (0.11%) (Ranked 458)
 | 2024-08-09 | 30,471 | 35 |
 | 2024-08-20 | 30,539 | 35 |
 | 2024-09-14 | 30,777 | 35 |
+| 2024-10-17 | 30,944 | 36 |
 ## Awards
 Max (Extremely Fun): 242  (Ranked 355)  
 Sum: 1,878 (Ranked 273)  

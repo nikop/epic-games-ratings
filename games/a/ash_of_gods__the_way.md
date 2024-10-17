@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 90.00% | ~93 |
-| Suicide squad | 53.00% | ~55 |
-| Train hard, fight easy | 39.00% | ~40 |
-| Under cover | 39.00% | ~40 |
-| First blood | 39.00% | ~40 |
-| Royal blessing | 31.00% | ~32 |
-| Blood and sand | 30.00% | ~31 |
+| First success | 90.00% | ~94 |
+| Suicide squad | 53.00% | ~56 |
+| Train hard, fight easy | 39.00% | ~41 |
+| Under cover | 39.00% | ~41 |
+| First blood | 39.00% | ~41 |
+| Royal blessing | 31.00% | ~33 |
+| Blood and sand | 30.00% | ~32 |
 | A hidden snake | 28.00% | ~29 |
+| Surpass the teacher | 23.00% | ~24 |
 | Help of the Gell | 23.00% | ~24 |
 | Crimson rivers | 22.00% | ~23 |
-| Surpass the teacher | 22.00% | ~23 |
+| All for one! | 22.00% | ~23 |
 | She-Wolf | 22.00% | ~23 |
 | Power of Inquisition | 21.00% | ~22 |
 | Vene, vidi, vici | 21.00% | ~22 |
-| All for one! | 21.00% | ~22 |
 | Trial by cold | 18.00% | ~19 |
 | Rage | 17.00% | ~18 |
-| Berkanan Borgia | 16.00% | ~16 |
-| For the greater good | 14.00% | ~14 |
-| The champion of the arena | 12.00% | ~12 |
+| Berkanan Borgia | 16.00% | ~17 |
+| For the greater good | 13.00% | ~14 |
+| The champion of the arena | 11.00% | ~12 |
 | Punish the Punisher | 10.00% | ~10 |
 | The End | 10.00% | ~10 |
 | Collector | 9.00% | ~9 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 708)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 105 (Ranked 733)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-04-10 | 96 | 0 |
 | 2024-06-17 | 98 | 0 |
 | 2024-08-09 | 103 | 0 |
+| 2024-10-17 | 105 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

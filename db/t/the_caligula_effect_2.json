@@ -5,10 +5,10 @@
   "Ranking_Rating": 836,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 553,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 574,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -277,17 +277,17 @@
       "ID": "ACH_02",
       "SetID": "2eg5kgc",
       "Name": "Welcome to Redo",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_04",
@@ -565,9 +565,9 @@
       "ID": "ACH_38",
       "SetID": "2eg5kgc",
       "Name": "Songstress Unleashed",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_39",
@@ -581,9 +581,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_41",
@@ -597,9 +597,9 @@
       "ID": "ACH_42",
       "SetID": "2eg5kgc",
       "Name": "Coup de Grace",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_43",
@@ -621,9 +621,9 @@
       "ID": "ACH_45",
       "SetID": "2eg5kgc",
       "Name": "Combo Commando",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_46",
@@ -669,8 +669,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2024-10-01T18:58:00.103566+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:21.3805859+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:06.3162455+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:33.8781058+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:19.9531108+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:21.3806224+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:06.3162844+00:00"
 }

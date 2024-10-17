@@ -5,10 +5,10 @@
   "Ranking_Rating": 878,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 540,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Completed": 570,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6433,
+  "EOS_Progressed": 6482,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -5606,6 +5606,11 @@
       "Time": "2024-09-14T14:18:40.3623038+00:00",
       "NumProgressed": 6433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:08:34.1428561+00:00",
+      "NumProgressed": 6482,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5649,15 +5654,15 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_campaign_chapter2",
       "SetID": "8cb3id7",
       "Name": "Campaign: Man vs. Machine",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_campaign_chapter3",
@@ -5673,7 +5678,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5681,7 +5686,7 @@
       "Name": "Level: A Happy Taskforce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_progress11",
@@ -5705,7 +5710,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_campaign_progress3",
@@ -5713,7 +5718,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_campaign_progress4",
@@ -5721,7 +5726,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_progress5",
@@ -5729,7 +5734,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3176
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5737,7 +5742,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 583
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5745,7 +5750,7 @@
       "Name": "Level: Merry-Go-Around",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_campaign_progress8",
@@ -5761,7 +5766,7 @@
       "Name": "Level: The Machinery",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_special1",
@@ -5769,7 +5774,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1750
     },
     {
       "ID": "ach_campaign_special10",
@@ -5777,7 +5782,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_special11",
@@ -5849,7 +5854,7 @@
       "Name": "Charlies\u0027s Circuits: Artist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_campaign_special3",
@@ -5865,7 +5870,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_campaign_special5",
@@ -5873,7 +5878,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_campaign_special6",
@@ -5881,7 +5886,7 @@
       "Name": "Extra Life: Knowledge Cap",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_special7",
@@ -5897,7 +5902,7 @@
       "Name": "Merry-Go-Around: Debt-Be-Gone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_campaign_special9",
@@ -5961,7 +5966,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_frp_high_networth",
@@ -5969,7 +5974,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_frp_many_modules",
@@ -5977,7 +5982,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -5985,7 +5990,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -5993,7 +5998,7 @@
       "Name": "Modular Peak",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_frp_many_products",
@@ -6001,7 +6006,7 @@
       "Name": "Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_frp_many_products2",
@@ -6009,7 +6014,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_frp_many_products3",
@@ -6017,7 +6022,7 @@
       "Name": "Accountant",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_frp_many_products4",
@@ -6025,7 +6030,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_frp_many_products5",
@@ -6041,7 +6046,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -6049,7 +6054,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -6057,7 +6062,7 @@
       "Name": "Data Churn Type III",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_frp_researchdata4",
@@ -6065,7 +6070,7 @@
       "Name": "Data Churn Type IV",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_frp_veryhigh_networth",
@@ -6073,7 +6078,7 @@
       "Name": "Multi-Millionaire",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_frp_veryhigh_networth2",
@@ -6113,7 +6118,7 @@
       "Name": "Contender",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_many_trophies",
@@ -6121,7 +6126,7 @@
       "Name": "Trophy Collector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_prof_assignments",
@@ -6137,7 +6142,7 @@
       "Name": "Keen Eye",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_prof_goals",
@@ -6159,9 +6164,9 @@
       "ID": "ach_prof_markets",
       "SetID": "8cb3id7",
       "Name": "Trendsetter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_prof_modules_analyzed",
@@ -6169,7 +6174,7 @@
       "Name": "Module Maniac",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_prof_modules_sold",
@@ -6177,7 +6182,7 @@
       "Name": "Overproducer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_prof_products_sold",
@@ -6209,7 +6214,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_trait_overload",
@@ -6217,22 +6222,22 @@
       "Name": "Natural Talent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 6433,
+      "Progressed": 6482,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2024-08-04T13:59:02.4248801+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:40.3623033+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:34.1428556+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:11.0619046+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:54.3809304+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:40.362378+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:45.5865652+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:34.1429449+00:00"
 }

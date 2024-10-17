@@ -2,10 +2,10 @@
   "ID": "38931bb693204b7289689de85a8e4b44",
   "Name": "Quiplash 2 InterLASHional",
   "ProductSlug": "quiplash-2-interlashional-3c3888",
-  "Ranking_EOS_Progress": 654,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Completed": 350,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-11T00:00:00+00:00",
     "PcReleaseDate": "2020-04-08T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 158,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2024-03-04T23:04:23.3746474+00:00",
@@ -64,6 +64,11 @@
       "Time": "2024-09-14T14:21:24.4505847+00:00",
       "NumProgressed": 145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:05.5668796+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-01-24T17:05:28.3857837+00:00",
@@ -76,13 +81,13 @@
       "Name": "Those Who Lash Last",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "QUIPLASH2I_ENTER_SAME_THING",
       "SetID": "8606bem",
       "Name": "Hi, Jinx!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -90,9 +95,9 @@
       "ID": "QUIPLASH2I_GET_QUIPLASH",
       "SetID": "8606bem",
       "Name": "The Titular Win",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "QUIPLASH2I_GET_SUPER_QUIPLASH",
@@ -100,7 +105,7 @@
       "Name": "Quip It Good",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "QUIPLASH2I_PLAY_WITH_8_PLAYERS",
@@ -108,15 +113,15 @@
       "Name": "Eighters Gonna Eight",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "QUIPLASH2I_WIN_2_GAMES",
       "SetID": "8606bem",
       "Name": "Quip Royale",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "QUIPLASH2I_WIN_ALL_R1_AND_R2",
@@ -124,23 +129,23 @@
       "Name": "Quipee-ki-yay!",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "QUIPLASH2I_WIN_ALL_R1_LOSE_ALL_R2",
       "SetID": "8606bem",
       "Name": "Quipwreck",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "QUIPLASH2I_WIN_WITH_SAFETY_QUIP",
       "SetID": "8606bem",
       "Name": "Safety Dance",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "QUIPLASH2I_WRITE_KEYWORD_QUIP",
@@ -155,14 +160,14 @@
     {
       "ID": "8606bem",
       "IsBase": true,
-      "Progressed": 145,
-      "Completed": 0
+      "Progressed": 158,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-03-26T16:57:45.0266625+00:00",
   "FirstSeenAchievements": "2024-01-10T18:03:22.1751436+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:24.4505841+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:05.566879+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:17.5037844+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:33.1640737+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:24.4505987+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:46.6452841+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:05.566888+00:00"
 }

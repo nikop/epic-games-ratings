@@ -2,10 +2,10 @@
   "ID": "015591a4181841a189687d0d3ba5ddf0",
   "Name": "Populous 2: Trials of the Olympian Gods",
   "ProductSlug": "populous-2-trials-of-the-olympian-gods-6d4f52",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-27T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T04:30:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-07-14T17:02:06.5295066+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:11.4045455+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:24.019219+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:17.838404+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:26.9744303+00:00"
 }

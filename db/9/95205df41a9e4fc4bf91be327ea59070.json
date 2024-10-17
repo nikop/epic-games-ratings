@@ -2,10 +2,10 @@
   "ID": "95205df41a9e4fc4bf91be327ea59070",
   "Name": "Chronicles of 2 Heroes: Amaterasu\u0027s Wrath",
   "ProductSlug": "chronicles-of-2-heroes-cf6bb6",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-05-25T22:00:00+00:00",
@@ -362,8 +362,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:15:46.3887359+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:16.8355031+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:56.9327719+00:00",
   "LastUpdate_AppInfo": "2024-10-10T13:57:21.2338525+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:59.2455991+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:16.8355295+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:56.932804+00:00"
 }

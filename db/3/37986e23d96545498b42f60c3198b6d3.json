@@ -2,10 +2,10 @@
   "ID": "37986e23d96545498b42f60c3198b6d3",
   "Name": "Colorgrid",
   "ProductSlug": "colorgrid-4435d3",
-  "Ranking_EOS_Progress": 523,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-06T17:30:00+00:00",
     "PcReleaseDate": "2019-11-21T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 396,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.85,
+  "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:19.7061059+00:00",
@@ -60,6 +60,11 @@
       "Time": "2024-10-09T19:06:20.3237687+00:00",
       "NumProgressed": 393,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-10-17T05:16:23.7439431+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:19.7061084+00:00",
@@ -72,7 +77,7 @@
       "Name": "Getting your palettes on",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 369
+      "UsersEstimate": 372
     },
     {
       "ID": "LEVEL_20",
@@ -80,7 +85,7 @@
       "Name": "Addictive primary colors",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 259
+      "UsersEstimate": 261
     },
     {
       "ID": "LEVEL_30",
@@ -88,15 +93,15 @@
       "Name": "When will my reflection show",
       "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEVEL_40",
       "SetID": "7gei8al",
       "Name": "Twist and shout",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_50",
@@ -104,7 +109,7 @@
       "Name": "It\u0027s like you\u0027re my mirror",
       "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_60",
@@ -112,7 +117,7 @@
       "Name": "Hue but not BR",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_70",
@@ -127,14 +132,14 @@
     {
       "ID": "7gei8al",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 396,
       "Completed": 23
     }
   ],
   "FirstSeen": "2024-06-09T05:58:12.1457237+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:19.7061083+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:20.323768+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:23.7439427+00:00",
   "LastUpdate_AppInfo": "2024-10-16T11:57:03.1592265+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:46.6739869+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:20.3237748+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:33.0317526+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:23.7439503+00:00"
 }

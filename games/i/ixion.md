@@ -5,38 +5,38 @@ Rating: 4.58 (Ranked 540)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 39.00% | ~1,988 |
-| Sputnik 2049 | 35.00% | ~1,784 |
-| Infinite Growth... | 34.00% | ~1,733 |
-| Without Breaking Some Eggs... | 32.00% | ~1,631 |
-| Ready for a New World | 25.00% | ~1,274 |
-| Space Society | 24.00% | ~1,223 |
-| A Thousand Strong | 24.00% | ~1,223 |
-| Permanent Redesigns | 22.00% | ~1,121 |
-| The Ship of Theseus | 20.00% | ~1,019 |
-| Guy de Borderlands | 19.00% | ~968 |
-| Fully Recycled | 19.00% | ~968 |
-| Ain't Nobody Got Time for That | 19.00% | ~968 |
-| Hope Seeker | 17.00% | ~866 |
-| A Hunk of Junk | 16.00% | ~816 |
-| Exceeding Capacity | 16.00% | ~816 |
-| Breaking Protocol | 15.00% | ~765 |
-| Man's Best Friend | 12.00% | ~612 |
-| Power Outage | 12.00% | ~612 |
-| Please Make it Stop! | 12.00% | ~612 |
-| Drill-dozer | 12.00% | ~612 |
-| Sightseeing | 11.00% | ~561 |
-| Convenient Transport | 11.00% | ~561 |
-| Necessary Enhancement | 10.00% | ~510 |
-| Access Granted | 9.00% | ~459 |
-| From the Past | 9.00% | ~459 |
-| All in Good Health | 8.00% | ~408 |
-| Oats | 7.00% | ~357 |
-| What They Hide From Us | 7.00% | ~357 |
-| In Dolos We Trust | 7.00% | ~357 |
-| BRAWL! | 7.00% | ~357 |
-| What the Ruins Teach Us | 7.00% | ~357 |
-| ...  in a finite world | 6.00% | ~306 |
+| Wakey Wakey | 40.00% | ~2,043 |
+| Sputnik 2049 | 35.00% | ~1,788 |
+| Infinite Growth... | 34.00% | ~1,737 |
+| Without Breaking Some Eggs... | 32.00% | ~1,635 |
+| Ready for a New World | 25.00% | ~1,277 |
+| Space Society | 24.00% | ~1,226 |
+| A Thousand Strong | 24.00% | ~1,226 |
+| Permanent Redesigns | 22.00% | ~1,124 |
+| Ain't Nobody Got Time for That | 20.00% | ~1,022 |
+| The Ship of Theseus | 20.00% | ~1,022 |
+| Guy de Borderlands | 19.00% | ~971 |
+| Fully Recycled | 19.00% | ~971 |
+| Hope Seeker | 17.00% | ~868 |
+| A Hunk of Junk | 16.00% | ~817 |
+| Exceeding Capacity | 16.00% | ~817 |
+| Breaking Protocol | 15.00% | ~766 |
+| Power Outage | 12.00% | ~613 |
+| Please Make it Stop! | 12.00% | ~613 |
+| Drill-dozer | 12.00% | ~613 |
+| Man's Best Friend | 11.00% | ~562 |
+| Sightseeing | 11.00% | ~562 |
+| Convenient Transport | 11.00% | ~562 |
+| Necessary Enhancement | 10.00% | ~511 |
+| Access Granted | 9.00% | ~460 |
+| From the Past | 9.00% | ~460 |
+| All in Good Health | 8.00% | ~409 |
+| Oats | 7.00% | ~358 |
+| What They Hide From Us | 7.00% | ~358 |
+| ...  in a finite world | 7.00% | ~358 |
+| In Dolos We Trust | 7.00% | ~358 |
+| BRAWL! | 7.00% | ~358 |
+| What the Ruins Teach Us | 7.00% | ~358 |
 | Sustainable Energy | 5.00% | ~255 |
 | Pedal to the Metal | 5.00% | ~255 |
 | Praise the Hull! | 4.00% | ~204 |
@@ -54,7 +54,7 @@ Rating: 4.58 (Ranked 540)
 | Tiqqun Unchained | 2.00% | ~102 |
 | Scientifically Accurate | 2.00% | ~102 |
 | Work Harder | 0.70% | ~36 |
-| Crunch Culture | 0.60% | ~31 |
+| Crunch Culture | 0.70% | ~36 |
 | Soylent Green | 0.60% | ~31 |
 | A Junker's Dream | 0.40% | ~20 |
 | Scenic View | 0.30% | ~15 |
@@ -63,8 +63,8 @@ Rating: 4.58 (Ranked 540)
 | This is Fine | 0.10% | ~5 |
 | Suburban Perfection | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,097 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 5,108 (Ranked 307)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,6 +346,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 5,023 | 0 |
 | 2024-09-14 | 5,067 | 0 |
 | 2024-10-09 | 5,097 | 0 |
+| 2024-10-17 | 5,108 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

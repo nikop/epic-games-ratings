@@ -2,10 +2,10 @@
   "ID": "fc2dfecf4eba4d2984b8042ca34585f2",
   "Name": "SOF: Enemy from the future",
   "ProductSlug": "sof-enemy-from-the-future-13cb5d",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-14T00:00:00+00:00",
     "PcReleaseDate": "2024-08-19T14:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T18:57:28.3461126+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:21.2014+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:01:56.0280004+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:43.2861672+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:14.7499669+00:00"
 }

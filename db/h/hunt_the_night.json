@@ -2,10 +2,10 @@
   "ID": "edecc2d8282c4dc39823e3319d1b8bc1",
   "Name": "Hunt the Night",
   "ProductSlug": "hunt-the-night-3f1eb5",
-  "Ranking_EOS_Progress": 918,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 958,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-12T22:00:00+00:00",
     "PcReleaseDate": "2023-04-12T22:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -51,6 +51,11 @@
       "Time": "2024-09-14T14:15:49.2247642+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:07:26.5578522+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -68,7 +73,7 @@
       "ID": "Achievement_01",
       "SetID": "2eim4o3",
       "Name": "Child of the Night",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -76,7 +81,7 @@
       "ID": "Achievement_02",
       "SetID": "2eim4o3",
       "Name": "The Return of the King",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -84,7 +89,7 @@
       "ID": "Achievement_03",
       "SetID": "2eim4o3",
       "Name": "Flames of Torment",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -92,7 +97,7 @@
       "ID": "Achievement_04",
       "SetID": "2eim4o3",
       "Name": "Master of Lies",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -124,7 +129,7 @@
       "ID": "Achievement_08",
       "SetID": "2eim4o3",
       "Name": "Aria of Blood",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -132,7 +137,7 @@
       "ID": "Achievement_09",
       "SetID": "2eim4o3",
       "Name": "Paragon of Grace and Pain",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -140,7 +145,7 @@
       "ID": "Achievement_10",
       "SetID": "2eim4o3",
       "Name": "Sins of the Father",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "Achievement_11",
       "SetID": "2eim4o3",
       "Name": "One of the Cycle",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 125,
       "UsersEstimate": 2
     },
@@ -156,7 +161,7 @@
       "ID": "Achievement_12",
       "SetID": "2eim4o3",
       "Name": "Everlasting Day",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 125,
       "UsersEstimate": 2
     },
@@ -164,7 +169,7 @@
       "ID": "Achievement_13",
       "SetID": "2eim4o3",
       "Name": "Stalker of the 9th Age",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -212,7 +217,7 @@
       "ID": "Achievement_19",
       "SetID": "2eim4o3",
       "Name": "Dressed for Battle",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -237,7 +242,7 @@
     {
       "ID": "2eim4o3",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
@@ -245,8 +250,8 @@
   "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
   "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:49.2247636+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:26.5578515+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:44.0253873+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:47.1395824+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:49.224775+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:26.5578669+00:00"
 }

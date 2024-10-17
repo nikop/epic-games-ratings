@@ -2,10 +2,10 @@
   "ID": "eb5c6704ff734d0cad7717cddb28cae0",
   "Name": "Cooking Trip New Challenge. Collector\u0027s Edition",
   "ProductSlug": "cooking-trip-new-challenge-collectors-edition-59c8df",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-17T21:00:00+00:00",
     "PcReleaseDate": "2021-08-09T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-18T01:44:38.091012+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:14.1793836+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:27.2790533+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:51.4368059+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:49.4703312+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:28.9062478+00:00"
 }

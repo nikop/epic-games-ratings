@@ -2,10 +2,10 @@
   "ID": "397c0a87980c4098b5a37d77a33e2713",
   "Name": "The Crimson Lyre",
   "ProductSlug": "the-crimson-lyre-de4d1a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-13T03:15:53.291442+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:57.9139124+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:11.9712752+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:25.7712063+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:12.9750797+00:00"
 }

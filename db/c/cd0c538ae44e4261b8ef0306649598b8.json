@@ -2,10 +2,10 @@
   "ID": "cd0c538ae44e4261b8ef0306649598b8",
   "Name": "Mirrors Edge: Catalyst",
   "ProductSlug": "mirrors-edge-catalyst-aa7791",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 791,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-30T20:00:00+00:00",
     "PcReleaseDate": "2006-06-07T05:00:00+00:00",
@@ -25,27 +25,427 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 70,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 1.43,
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:13:20.9069602+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:13:20.9069622+00:00",
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "9hjkphb",
+      "Name": "Reunion",
+      "Percentage": 97,
+      "XP": 15,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "9hjkphb",
+      "Name": "Smash \u0026 grab",
+      "Percentage": 11,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "9hjkphb",
+      "Name": "Vengeful Strike",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "9hjkphb",
+      "Name": "Little girl found",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "9hjkphb",
+      "Name": "Into the light",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "9hjkphb",
+      "Name": "Shattered Dreams",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "9hjkphb",
+      "Name": "Hacker Time",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "9hjkphb",
+      "Name": "Blood is thicker than everything",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "9hjkphb",
+      "Name": "Knowledge is power",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "9hjkphb",
+      "Name": "Downtown Girl",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "9hjkphb",
+      "Name": "I refuse to sink",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "9hjkphb",
+      "Name": "Learn to Fly",
+      "Percentage": 73,
+      "XP": 15,
+      "UsersEstimate": 51
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "9hjkphb",
+      "Name": "Building Blocks",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "9hjkphb",
+      "Name": "Viewfinder",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "9hjkphb",
+      "Name": "Running Errands",
+      "Percentage": 4,
+      "XP": 35,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "9hjkphb",
+      "Name": "Learn to walk",
+      "Percentage": 79,
+      "XP": 15,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "9hjkphb",
+      "Name": "Run free",
+      "Percentage": 37,
+      "XP": 35,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "9hjkphb",
+      "Name": "With Bells On",
+      "Percentage": 6,
+      "XP": 70,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "9hjkphb",
+      "Name": "Praise the Run",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "9hjkphb",
+      "Name": "Easy Runner",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "9hjkphb",
+      "Name": "Veteran Runner",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "9hjkphb",
+      "Name": "Tenacious Traceur",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "9hjkphb",
+      "Name": "In his bad books",
+      "Percentage": 67,
+      "XP": 15,
+      "UsersEstimate": 47
+    },
+    {
+      "ID": "achievement_30",
+      "SetID": "9hjkphb",
+      "Name": "Seb\u0027s Salute",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_31",
+      "SetID": "9hjkphb",
+      "Name": "Georges\u0027 Garrison",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_32",
+      "SetID": "9hjkphb",
+      "Name": "Belle of the Ball",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_33",
+      "SetID": "9hjkphb",
+      "Name": "Danger Zone",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_34",
+      "SetID": "9hjkphb",
+      "Name": "Hey, it\u0027s-a-me again!",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "achievement_35",
+      "SetID": "9hjkphb",
+      "Name": "Elegant Flight",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_36",
+      "SetID": "9hjkphb",
+      "Name": "Undetected Surge",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "achievement_37",
+      "SetID": "9hjkphb",
+      "Name": "Roof Runner",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "achievement_38",
+      "SetID": "9hjkphb",
+      "Name": "Peak Performer",
+      "Percentage": 1,
+      "XP": 70,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_39",
+      "SetID": "9hjkphb",
+      "Name": "Express delivery",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "9hjkphb",
+      "Name": "Time for a Frenzied Rumble",
+      "Percentage": 69,
+      "XP": 15,
+      "UsersEstimate": 48
+    },
+    {
+      "ID": "achievement_40",
+      "SetID": "9hjkphb",
+      "Name": "Fighting the system",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_41",
+      "SetID": "9hjkphb",
+      "Name": "Five Finger Discount",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "achievement_42",
+      "SetID": "9hjkphb",
+      "Name": "I Saw You On The Battlefield",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "achievement_43",
+      "SetID": "9hjkphb",
+      "Name": "P.I. Connors",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_44",
+      "SetID": "9hjkphb",
+      "Name": "Story Teller",
+      "Percentage": 1,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_45",
+      "SetID": "9hjkphb",
+      "Name": "Full Exposure",
+      "Percentage": 1,
+      "XP": 70,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_46",
+      "SetID": "9hjkphb",
+      "Name": "User Generated Finisher",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_47",
+      "SetID": "9hjkphb",
+      "Name": "You can\u0027t keep me down",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "achievement_48",
+      "SetID": "9hjkphb",
+      "Name": "Spooky",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_49",
+      "SetID": "9hjkphb",
+      "Name": "Law-abiding citizen",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "9hjkphb",
+      "Name": "Devastation",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "9hjkphb",
+      "Name": "Payback",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "9hjkphb",
+      "Name": "Never forgotten",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "9hjkphb",
+      "Name": "The enemy of my enemy",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_9",
+      "SetID": "9hjkphb",
+      "Name": "This. Is. Glass.",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 6
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9hjkphb",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 70,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-06-02T15:58:46.6149379+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:23.4655348+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:33.8814897+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:20.90696+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:10.3698122+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:10.4958492+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:33.8814927+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:32.4315891+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:20.9076179+00:00"
 }

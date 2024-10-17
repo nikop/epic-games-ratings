@@ -2,10 +2,10 @@
   "ID": "ad7c1ad62a9543a8977bcebbbf1e5ae1",
   "Name": "BUFF",
   "ProductSlug": "buff-58cf41",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-04T06:47:42.032+00:00",
     "PcReleaseDate": "2024-05-18T21:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-06T02:25:57.0221557+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:23.9959151+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:57.4355673+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:32.76223+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:50.4203475+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:43.2240911+00:00"
 }

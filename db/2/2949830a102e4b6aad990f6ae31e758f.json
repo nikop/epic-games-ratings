@@ -2,10 +2,10 @@
   "ID": "2949830a102e4b6aad990f6ae31e758f",
   "Name": "Little Wu Chang",
   "ProductSlug": "littlewuchang-19c539",
-  "Ranking_EOS_Progress": 939,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 964,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -43,6 +43,11 @@
       "Time": "2024-09-14T14:18:41.4033212+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:35.9581222+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:11:46.5529774+00:00",
@@ -61,7 +66,7 @@
       "ID": "AllStones",
       "SetID": "c20d215",
       "Name": "Jade Collector",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "AttrUp",
       "SetID": "c20d215",
       "Name": "I\u0027ve Become Stronger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "EquipStone",
       "SetID": "c20d215",
       "Name": "Ah! Beautiful Jade",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -157,7 +162,7 @@
       "ID": "godBack",
       "SetID": "c20d215",
       "Name": "The Heavenly King\u0027s Return",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -205,7 +210,7 @@
       "ID": "unlockCatchGhost",
       "SetID": "c20d215",
       "Name": "The Job at Hand",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "kill\u5DE8\u7075\u795E",
       "SetID": "c20d215",
       "Name": "God Blocker, God Slayer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "kill\u9B3C\u5352\u725B\u5934",
       "SetID": "c20d215",
       "Name": "Greed",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -254,13 +259,13 @@
     {
       "ID": "c20d215",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:08:16.1209933+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:41.4033206+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:35.9581218+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:10.146026+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:10.5267972+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:41.4033355+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:45.5048571+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:35.958131+00:00"
 }

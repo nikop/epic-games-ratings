@@ -2,10 +2,10 @@
   "ID": "36669b93a631455abfc52bbed2c84f8d",
   "Name": "Police Car Escape Simulator",
   "ProductSlug": "police-car-escape-simulator-f9cd17",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-23T20:00:00+00:00",
     "PcReleaseDate": "2023-07-30T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T18:56:54.3885965+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:58.7081525+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:52.8641335+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:10.2311991+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:17.7138886+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:45.3562954+00:00"
 }

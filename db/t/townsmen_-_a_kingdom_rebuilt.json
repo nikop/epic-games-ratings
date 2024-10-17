@@ -5,10 +5,10 @@
   "Ranking_Rating": 1061,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 482,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 509,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -416,7 +416,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5539,
+  "EOS_Progressed": 5583,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2286,6 +2286,11 @@
       "Time": "2024-09-14T14:21:12.6824873+00:00",
       "NumProgressed": 5539,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-10-17T05:10:52.730037+00:00",
+      "NumProgressed": 5583,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2297,15 +2302,15 @@
       "Name": "The Art of War",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
       "SetID": "9eacipp",
       "Name": "Not a small trader anymore",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -2321,7 +2326,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -2329,7 +2334,7 @@
       "Name": "Bread for the people I",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVEMENT_BREAD2",
@@ -2337,7 +2342,7 @@
       "Name": "Bread for the people II",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -2345,23 +2350,23 @@
       "Name": "Bread for the people III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
       "SetID": "9eacipp",
       "Name": "Five brews are a schnitzel",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
       "SetID": "9eacipp",
       "Name": "I like to build stuff... I",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2369,15 +2374,15 @@
       "Name": "I like to build stuff... II",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
       "SetID": "9eacipp",
       "Name": "I like to build stuff... III",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -2385,7 +2390,7 @@
       "Name": "I like to build stuff... IV",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS5",
@@ -2393,7 +2398,7 @@
       "Name": "I like to build stuff... V",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_BURNEDDOWN1",
@@ -2409,7 +2414,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -2417,7 +2422,7 @@
       "Name": "The King\u0027s new clothes II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES3",
@@ -2425,15 +2430,15 @@
       "Name": "The King\u0027s new clothes III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_DECO_CATEGORIES",
       "SetID": "9eacipp",
       "Name": "Experienced decorator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -2449,7 +2454,7 @@
       "Name": "When there\u0027s fire...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -2457,7 +2462,7 @@
       "Name": "Saint Florian",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_FOUR_DESASTERS",
@@ -2465,23 +2470,23 @@
       "Name": "Survivalist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_JEWELS1",
       "SetID": "9eacipp",
       "Name": "My precious... I",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_JEWELS2",
       "SetID": "9eacipp",
       "Name": "My precious... II",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_JEWELS3",
@@ -2489,7 +2494,7 @@
       "Name": "My precious... III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
@@ -2505,7 +2510,7 @@
       "Name": "Lord of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_LOSTPLAGUE",
@@ -2513,7 +2518,7 @@
       "Name": "Cosmas and Damian",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
@@ -2521,7 +2526,7 @@
       "Name": "Plague strikes!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_POPULATION1",
@@ -2529,7 +2534,7 @@
       "Name": "Builder I",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVEMENT_POPULATION2",
@@ -2537,7 +2542,7 @@
       "Name": "Builder II",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -2545,7 +2550,7 @@
       "Name": "Builder III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_POPULATION4",
@@ -2553,7 +2558,7 @@
       "Name": "Builder IV",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_POPULATION5",
@@ -2561,7 +2566,7 @@
       "Name": "Builder V",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE1",
@@ -2569,15 +2574,15 @@
       "Name": "An honorable Governor I",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 782
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
       "SetID": "9eacipp",
       "Name": "An honorable Governor II",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -2585,23 +2590,23 @@
       "Name": "An honorable Governor III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_QUESTS1",
       "SetID": "9eacipp",
       "Name": "Completionist I",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVEMENT_QUESTS2",
       "SetID": "9eacipp",
       "Name": "Completionist II",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_QUESTS3",
@@ -2609,7 +2614,7 @@
       "Name": "Completionist III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -2623,9 +2628,9 @@
       "ID": "ACHIEVEMENT_REPAIR1",
       "SetID": "9eacipp",
       "Name": "Full-time job I",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 782
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -2633,7 +2638,7 @@
       "Name": "Full-time job II",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 614
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2641,15 +2646,15 @@
       "Name": "Full-time job III",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
       "SetID": "9eacipp",
       "Name": "Eureka!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2657,15 +2662,15 @@
       "Name": "Researcher",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 782
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED3",
       "SetID": "9eacipp",
       "Name": "Genius",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_SAUSAGES",
@@ -2673,7 +2678,7 @@
       "Name": "Only the sausage has two ends.",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
@@ -2681,7 +2686,7 @@
       "Name": "Reunification",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
@@ -2689,7 +2694,7 @@
       "Name": "Buried",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
@@ -2697,15 +2702,15 @@
       "Name": "Ten-Hut!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BEHINDBLINDERS",
       "SetID": "9eacipp",
       "Name": "It went unnoticed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BREW",
@@ -2721,15 +2726,15 @@
       "Name": "Craftsmen challenge",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
       "SetID": "9eacipp",
       "Name": "Malediction",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DIPLOMATICVISIT",
@@ -2743,49 +2748,49 @@
       "ID": "ACHIEVEMENT_SCENARIO_DISEASE",
       "SetID": "9eacipp",
       "Name": "Panacea",
-      "Percentage": 0.6,
-      "XP": 5,
-      "UsersEstimate": 33
-    },
-    {
-      "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
-      "SetID": "9eacipp",
-      "Name": "I\u0027ve been everywhere IV",
-      "Percentage": 0.6,
-      "XP": 5,
-      "UsersEstimate": 33
-    },
-    {
-      "ID": "ACHIEVEMENT_SCENARIO_ECONOMYCRISIS",
-      "SetID": "9eacipp",
-      "Name": "I\u0027ve been everywhere III",
-      "Percentage": 0.8,
-      "XP": 5,
-      "UsersEstimate": 44
-    },
-    {
-      "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
-      "SetID": "9eacipp",
-      "Name": "Governor-elect",
       "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 39
     },
     {
+      "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
+      "SetID": "9eacipp",
+      "Name": "I\u0027ve been everywhere IV",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "ACHIEVEMENT_SCENARIO_ECONOMYCRISIS",
+      "SetID": "9eacipp",
+      "Name": "I\u0027ve been everywhere III",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 50
+    },
+    {
+      "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
+      "SetID": "9eacipp",
+      "Name": "Governor-elect",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 45
+    },
+    {
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
       "SetID": "9eacipp",
       "Name": "Little place in the country",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FESTIVITIES",
       "SetID": "9eacipp",
       "Name": "Tired by festival",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_GIRLSDESIRES",
@@ -2793,39 +2798,39 @@
       "Name": "Treat her well\u2026",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere VIII",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSANECHOICES",
       "SetID": "9eacipp",
       "Name": "Made my choice",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSURGENTS",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere IX",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_KINGSBET",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere X",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
@@ -2833,7 +2838,7 @@
       "Name": "I\u0027ve been everywhere II",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -2841,7 +2846,7 @@
       "Name": "An honorable departure",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_MONEYBAGS",
@@ -2849,23 +2854,23 @@
       "Name": "Penny pincher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_MONUMENTAL",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere VII",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_THE_BEAST",
       "SetID": "9eacipp",
       "Name": "Chief Inspector",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TOURNAMENT",
@@ -2873,15 +2878,15 @@
       "Name": "I\u0027ve been everywhere I",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TRADINGPOST",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere V",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
@@ -2895,25 +2900,25 @@
       "ID": "ACHIEVEMENT_SCENARIO_UNDERSIEGE",
       "SetID": "9eacipp",
       "Name": "Impregnable",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WARRIDDEN",
       "SetID": "9eacipp",
       "Name": "War-zone",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WATERWAYS",
       "SetID": "9eacipp",
       "Name": "Waterways",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
@@ -2921,7 +2926,7 @@
       "Name": "I\u0027ve been everywhere VI",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
@@ -2929,7 +2934,7 @@
       "Name": "The wood shortage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_SERVE_PROTECT",
@@ -2943,9 +2948,9 @@
       "ID": "ACHIEVEMENT_TAXES1",
       "SetID": "9eacipp",
       "Name": "Tax-man I",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2953,23 +2958,23 @@
       "Name": "Tax-man II",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
       "SetID": "9eacipp",
       "Name": "Tax-man III",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
       "SetID": "9eacipp",
       "Name": "Tax-man IV",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -2977,7 +2982,7 @@
       "Name": "Tax-man V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_TIME1",
@@ -2985,15 +2990,15 @@
       "Name": "A time consuming game I",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
       "SetID": "9eacipp",
       "Name": "A time consuming game II",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -3001,15 +3006,15 @@
       "Name": "A time consuming game III",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
       "SetID": "9eacipp",
       "Name": "A time consuming game IV",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_TIME5",
@@ -3017,7 +3022,7 @@
       "Name": "A time consuming game V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHIEVEMENT_TOOLS1",
@@ -3025,7 +3030,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -3033,15 +3038,15 @@
       "Name": "Tools of the trade II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENT_TOOLS3",
       "SetID": "9eacipp",
       "Name": "Tools of the trade III",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
@@ -3049,7 +3054,7 @@
       "Name": "A new beginning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -3057,7 +3062,7 @@
       "Name": "Friends from the past",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -3065,7 +3070,7 @@
       "Name": "Time for some trade",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 782
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -3073,15 +3078,15 @@
       "Name": "Knee deep in snow",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 614
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
       "SetID": "9eacipp",
       "Name": "Conflicting parties",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -3089,30 +3094,30 @@
       "Name": "Out of the frying pan",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 279
     },
     {
       "ID": "ACHIEVEMENT_YOUSHALLNOTPASS",
       "SetID": "9eacipp",
       "Name": "You shall not pass",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 5539,
+      "Progressed": 5583,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-10-13T03:16:07.18803+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:12.6824864+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:52.7300364+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:21.829887+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:53.4329129+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:12.682582+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:52.7301704+00:00"
 }

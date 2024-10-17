@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved first case | 33.00% | ~97 |
-| Solved second case | 33.00% | ~97 |
-| Solved third case | 27.00% | ~79 |
-| Solved The Spider of Lanka 1st Case | 21.00% | ~51 |
-| Solved fourth case | 19.00% | ~56 |
-| Solved seventh case | 17.00% | ~50 |
-| Solved sixth case | 16.00% | ~47 |
-| Solved eighth case | 15.00% | ~44 |
-| Solved fifth case | 14.00% | ~41 |
-| Solved tenth case | 13.00% | ~38 |
+| Solved first case | 34.00% | ~102 |
+| Solved second case | 34.00% | ~102 |
+| Solved third case | 27.00% | ~81 |
+| Solved The Spider of Lanka 1st Case | 22.00% | ~54 |
+| Solved fourth case | 19.00% | ~57 |
+| Solved sixth case | 17.00% | ~51 |
+| Solved seventh case | 17.00% | ~51 |
+| Solved eighth case | 15.00% | ~45 |
+| Solved fifth case | 14.00% | ~42 |
+| Solved tenth case | 13.00% | ~39 |
+| Solved The Spider of Lanka 3rd Case | 11.00% | ~27 |
 | Solved the Lemurian Vampire 1st Case | 11.00% | ~27 |
-| Solved ninth case | 10.00% | ~29 |
-| Solved The Spider of Lanka 3rd Case | 10.00% | ~24 |
-| Solved The Spider of Lanka 2nd Case | 8.00% | ~19 |
+| Solved ninth case | 10.00% | ~30 |
+| Solved The Spider of Lanka 2nd Case | 8.00% | ~20 |
 | Solved eleventh case | 7.00% | ~21 |
-| Solved the Lemurian Vampire 2nd Case | 6.00% | ~14 |
+| Solved the Lemurian Vampire 2nd Case | 7.00% | ~17 |
 | Solved the Lemurian Vampire 3rd Case | 5.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294 (Ranked 555)  
-Completed: 12 (4.08%) (Ranked 153)  
+Progressed: 300 (Ranked 573)  
+Completed: 13 (4.33%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,6 +156,7 @@ Completed: 12 (4.08%) (Ranked 153)
 | 2024-08-09 | 293 | 11 |
 | 2024-08-20 | 294 | 11 |
 | 2024-09-14 | 294 | 12 |
+| 2024-10-17 | 300 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "506976eed6054a4aad5646197adc5c8d",
   "Name": "Filthy Animals | Heist Simulator",
   "ProductSlug": "filthy-animals-f6c65c",
-  "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9699,
+  "EOS_Progressed": 9770,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -7846,6 +7846,11 @@
       "Time": "2024-09-14T14:23:03.4400715+00:00",
       "NumProgressed": 9699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:37.7474061+00:00",
+      "NumProgressed": 9770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -7993,7 +7998,7 @@
       "Name": "Nuclear Plant Heisted",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "prisonAllObjectives",
@@ -8033,7 +8038,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "superMartSuccess",
@@ -8041,7 +8046,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "templeAllObjectives",
@@ -8065,7 +8070,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "tutorialSuccess",
@@ -8073,14 +8078,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 586
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 9699,
+      "Progressed": 9770,
       "Completed": 0
     }
   ],
@@ -8088,8 +8093,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:03.4400709+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:37.7474055+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:21.4308439+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:00.3515321+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:03.4401297+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:29.7012812+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:37.7474826+00:00"
 }

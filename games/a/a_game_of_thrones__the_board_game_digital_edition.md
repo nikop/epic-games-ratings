@@ -6,31 +6,31 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 41.00% | ~20,095 |
-| Battering Crew | 19.00% | ~9,312 |
-| The Kingsroad | 17.00% | ~8,332 |
-| Well Stocked | 13.00% | ~6,371 |
-| Royal Fleet | 12.00% | ~5,881 |
-| The Kraken’s Grasp | 8.00% | ~3,921 |
-| Daggers in the Dark | 7.00% | ~3,431 |
-| Oathkeeper | 7.00% | ~3,431 |
-| Alliance | 7.00% | ~3,431 |
-| Influential | 7.00% | ~3,431 |
-| A Long Journey | 7.00% | ~3,431 |
-| Ours is the Fury | 6.00% | ~2,941 |
-| Winter is Coming | 6.00% | ~2,941 |
-| We Do Not Sow | 5.00% | ~2,451 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~2,451 |
-| Hear me Roar! | 5.00% | ~2,451 |
-| Defender of the Wall | 5.00% | ~2,451 |
-| Growing Strong | 4.00% | ~1,960 |
-| What is Dead may Never Die | 3.00% | ~1,470 |
-| King in the North | 2.00% | ~980 |
-| The Swift | 2.00% | ~980 |
-| War of the Five Kings | 1.00% | ~490 |
+| Conqueror | 41.00% | ~20,741 |
+| Battering Crew | 19.00% | ~9,612 |
+| The Kingsroad | 17.00% | ~8,600 |
+| Well Stocked | 13.00% | ~6,577 |
+| Royal Fleet | 12.00% | ~6,071 |
+| The Kraken’s Grasp | 8.00% | ~4,047 |
+| Daggers in the Dark | 7.00% | ~3,541 |
+| Oathkeeper | 7.00% | ~3,541 |
+| Alliance | 7.00% | ~3,541 |
+| Influential | 7.00% | ~3,541 |
+| A Long Journey | 7.00% | ~3,541 |
+| Ours is the Fury | 6.00% | ~3,035 |
+| Winter is Coming | 6.00% | ~3,035 |
+| We Do Not Sow | 5.00% | ~2,529 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~2,529 |
+| Hear me Roar! | 5.00% | ~2,529 |
+| Defender of the Wall | 5.00% | ~2,529 |
+| Growing Strong | 4.00% | ~2,024 |
+| What is Dead may Never Die | 3.00% | ~1,518 |
+| King in the North | 2.00% | ~1,012 |
+| The Swift | 2.00% | ~1,012 |
+| War of the Five Kings | 1.00% | ~506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,011 (Ranked 182)  
-Completed: 125 (0.26%) (Ranked 406)  
+Progressed: 50,589 (Ranked 186)  
+Completed: 128 (0.25%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 125 (0.26%) (Ranked 406)
 | 2024-08-09 | 46,635 | 119 |
 | 2024-08-20 | 47,431 | 121 |
 | 2024-09-14 | 49,011 | 125 |
+| 2024-10-17 | 50,589 | 128 |
 ## Awards
 Max (Quickly Understood Controls): 135  (Ranked 443)  
 Sum: 877 (Ranked 364)  

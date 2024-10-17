@@ -5,35 +5,35 @@ Rating: 4.62 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 85.00% | ~196 |
-| Eat the Rich | 54.00% | ~125 |
-| Killing Machine | 36.00% | ~83 |
-| Phantom Kunoichi | 33.00% | ~76 |
-| Death Battle | 31.00% | ~72 |
-| Divine Retribution | 31.00% | ~72 |
-| Captain Mustache | 29.00% | ~67 |
-| Final Showdown | 27.00% | ~62 |
-| The End of an Outlaw | 27.00% | ~62 |
-| Dispel Rumors | 21.00% | ~49 |
-| Demon Slayer | 18.00% | ~42 |
-| Steal Her Away | 17.00% | ~39 |
-| Sewer Rat | 17.00% | ~39 |
-| Fight Fire With Fire | 17.00% | ~39 |
-| Urban Explorer | 16.00% | ~37 |
-| Coward | 16.00% | ~37 |
-| Tour Guide | 15.00% | ~35 |
-| Tomb Raider | 15.00% | ~35 |
-| Big Eater | 14.00% | ~32 |
-| Not Today | 14.00% | ~32 |
-| The Real O.G. | 11.00% | ~25 |
-| The Hero of the People | 10.00% | ~23 |
-| Talk to the Fist | 8.00% | ~18 |
-| Collector | 7.00% | ~16 |
-| Taoist | 6.00% | ~14 |
-| The Legend | 5.00% | ~12 |
+| Hero Arrives | 85.00% | ~218 |
+| Eat the Rich | 53.00% | ~136 |
+| Killing Machine | 36.00% | ~92 |
+| Phantom Kunoichi | 33.00% | ~84 |
+| Death Battle | 31.00% | ~79 |
+| Divine Retribution | 31.00% | ~79 |
+| Captain Mustache | 30.00% | ~77 |
+| Final Showdown | 27.00% | ~69 |
+| The End of an Outlaw | 27.00% | ~69 |
+| Dispel Rumors | 21.00% | ~54 |
+| Demon Slayer | 18.00% | ~46 |
+| Steal Her Away | 18.00% | ~46 |
+| Sewer Rat | 18.00% | ~46 |
+| Fight Fire With Fire | 17.00% | ~44 |
+| Urban Explorer | 16.00% | ~41 |
+| Coward | 15.00% | ~38 |
+| Tomb Raider | 15.00% | ~38 |
+| Big Eater | 14.00% | ~36 |
+| Tour Guide | 14.00% | ~36 |
+| Not Today | 14.00% | ~36 |
+| The Real O.G. | 11.00% | ~28 |
+| The Hero of the People | 10.00% | ~26 |
+| Talk to the Fist | 8.00% | ~20 |
+| Collector | 7.00% | ~18 |
+| The Legend | 5.00% | ~13 |
+| Taoist | 5.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 588)  
-Completed: 11 (4.76%) (Ranked 146)  
+Progressed: 256 (Ranked 595)  
+Completed: 12 (4.69%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,6 +101,7 @@ Completed: 11 (4.76%) (Ranked 146)
 | 2024-06-17 | 184 | 9 |
 | 2024-08-09 | 212 | 10 |
 | 2024-09-14 | 231 | 11 |
+| 2024-10-17 | 256 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

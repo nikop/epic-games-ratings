@@ -2,10 +2,10 @@
   "ID": "5a1b2edca43946c5af9ae1098a327ff5",
   "Name": "StarbaseSim",
   "ProductSlug": "starbasesim-f7c528",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-30T19:00:00+00:00",
     "PcReleaseDate": "2021-09-30T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-31T02:02:46.0585045+00:00",
   "LastUpdate_AppInfo": "2024-10-15T03:57:03.7045153+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:09.8291038+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:11.1313265+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:44.5446686+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:28.8996987+00:00"
 }

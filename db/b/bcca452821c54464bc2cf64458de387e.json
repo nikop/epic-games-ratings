@@ -2,13 +2,13 @@
   "ID": "bcca452821c54464bc2cf64458de387e",
   "Name": "Viking Rise: Valhalla",
   "ProductSlug": "viking-rise-876e15",
-  "Ranking_Rating": 1204,
+  "Ranking_Rating": 1203,
   "Ranking_Popularity": 598,
   "Ranking_PopularitySum": 620,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-10T02:00:00+00:00",
     "PcReleaseDate": "2024-05-10T02:00:00+00:00",
@@ -893,5 +893,5 @@
   "LastChanged": "2024-10-16T23:57:11.3229374+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:08.137569+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:06.6657942+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:31.9909845+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:42.5686281+00:00"
 }

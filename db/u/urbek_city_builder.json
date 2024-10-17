@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 673,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1990,6 +1990,11 @@
       "Time": "2024-09-14T14:26:27.6337281+00:00",
       "NumProgressed": 665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:58.9504975+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1999,15 +2004,15 @@
       "ID": "ANARQUIA_1",
       "SetID": "44dlcg0",
       "Name": "Anarchist Utopia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ANARQUIA_2",
       "SetID": "44dlcg0",
       "Name": "Anarchist paradise",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2015,7 +2020,7 @@
       "ID": "ARCHIPIELAGO3_1",
       "SetID": "44dlcg0",
       "Name": "Full archipelago",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2055,7 +2060,7 @@
       "ID": "BANCO_2",
       "SetID": "44dlcg0",
       "Name": "Banking empire",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -2119,7 +2124,7 @@
       "ID": "COOL_CITY",
       "SetID": "44dlcg0",
       "Name": "Urban style",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2145,7 +2150,7 @@
       "Name": "I like books",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CULTURE_2",
@@ -2159,9 +2164,9 @@
       "ID": "CULTURE_3",
       "SetID": "44dlcg0",
       "Name": "Read! Everyone should read!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DESIERTO3_1",
@@ -2175,7 +2180,7 @@
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2217,7 +2222,7 @@
       "Name": "The spiritual world...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FAITH_2",
@@ -2231,7 +2236,7 @@
       "ID": "FAITH_3",
       "SetID": "44dlcg0",
       "Name": "Fear God, you sinners!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2239,7 +2244,7 @@
       "ID": "FAITH_SPORT",
       "SetID": "44dlcg0",
       "Name": "Perfect city",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2273,7 +2278,7 @@
       "Name": "I like my life",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FELIZ_2",
@@ -2311,7 +2316,7 @@
       "ID": "GRANJA_1",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -2319,7 +2324,7 @@
       "ID": "GRANJA_2",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy Plus",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -2329,7 +2334,7 @@
       "Name": "I like parks",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2337,13 +2342,13 @@
       "Name": "I love parks",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GREEN_AREAS_3",
       "SetID": "44dlcg0",
       "Name": "Oh, I love parks, listening to birds!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -2353,7 +2358,7 @@
       "Name": "The woodcutter",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MILLS",
@@ -2361,15 +2366,15 @@
       "Name": "Clean energy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MURICA_1",
       "SetID": "44dlcg0",
       "Name": "Freedom to go to the mall!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MURICA_2",
@@ -2383,9 +2388,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 94
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2433,7 +2438,7 @@
       "Name": "Small town",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 215
     },
     {
       "ID": "POPULATION_2",
@@ -2463,7 +2468,7 @@
       "ID": "REBELDES_2",
       "SetID": "44dlcg0",
       "Name": "City in flames",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -2487,7 +2492,7 @@
       "ID": "RUINAS_2",
       "SetID": "44dlcg0",
       "Name": "Restorer Plus",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -2503,7 +2508,7 @@
       "ID": "SINGAPUR_1",
       "SetID": "44dlcg0",
       "Name": "Singapore",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -2519,15 +2524,15 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 87
     },
     {
       "ID": "SPORTS_2",
       "SetID": "44dlcg0",
       "Name": "Sport is the best thing",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -2535,7 +2540,7 @@
       "ID": "SPORTS_3",
       "SetID": "44dlcg0",
       "Name": "Everyone should always do sport!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2559,7 +2564,7 @@
       "ID": "TEMPERADO_2",
       "SetID": "44dlcg0",
       "Name": "Temperate urban planner",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -2575,7 +2580,7 @@
       "ID": "VALDIVIA3_1",
       "SetID": "44dlcg0",
       "Name": "Full rainforest",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -2617,22 +2622,22 @@
       "Name": "Soviet town",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WELFARE_2",
       "SetID": "44dlcg0",
       "Name": "Welfare state",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 673,
       "Completed": 0
     }
   ],
@@ -2640,8 +2645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:27.6337276+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:58.950497+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:15.6431114+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:51.8454723+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:27.6337951+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:41.332787+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:58.9505897+00:00"
 }

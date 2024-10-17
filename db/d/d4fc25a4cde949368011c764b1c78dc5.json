@@ -2,10 +2,10 @@
   "ID": "d4fc25a4cde949368011c764b1c78dc5",
   "Name": "Destroyer - The U-Boat Hunter",
   "ProductSlug": "destroyer-the-uboat-hunter-319d33",
-  "Ranking_EOS_Progress": 796,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-19T13:00:00+00:00",
     "PcReleaseDate": "2024-03-19T13:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -65,6 +65,11 @@
       "Time": "2024-09-14T14:28:09.7395332+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:11.9145767+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:27.6893515+00:00",
@@ -75,15 +80,15 @@
       "ID": "10_BATTLE_HIGH_GRADE",
       "SetID": "cki25kh",
       "Name": "TOP SUB HUNTER",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "11_BATTLE_NO_LOSSES",
       "SetID": "cki25kh",
       "Name": "UNSCATHED",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -91,9 +96,9 @@
       "ID": "12_BATTLE_COMPLETE",
       "SetID": "cki25kh",
       "Name": "AND SO IT BEGINS...",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "13_UBOAT_10",
@@ -133,37 +138,37 @@
       "Name": "I HEAR YA...",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "2_SUNK_UBOAT",
       "SetID": "cki25kh",
       "Name": "IRON COFFIN",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3_HITUBOAT_GUN",
       "SetID": "cki25kh",
       "Name": "THUNDERCLAP",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "4_HITUBOAT_BOMB",
       "SetID": "cki25kh",
       "Name": "BARREL O\u0027 FUN",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "5_HITUBOAT_CRITICAL",
       "SetID": "cki25kh",
       "Name": "BULLSEYE",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -171,17 +176,17 @@
       "ID": "6_SUNK_UBOAT_BY_ESCORT",
       "SetID": "cki25kh",
       "Name": "CANUCKS ENTER THE FIGHT",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "7_SUNK_UBOAT_BY_AIRSUPPORT",
       "SetID": "cki25kh",
       "Name": "DEATH FROM ABOVE",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "8_MISSION_COMPLETE",
@@ -204,14 +209,14 @@
     {
       "ID": "cki25kh",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-21T23:01:14.0227321+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:27.6893515+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:09.7395326+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:11.9145764+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:13.0297719+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:10.2983728+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:09.7395446+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:11.9145858+00:00"
 }

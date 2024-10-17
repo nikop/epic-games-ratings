@@ -4,52 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 52.00% | ~381 |
-| Starting Skyward | 46.00% | ~337 |
-| Grime is Not Good | 39.00% | ~285 |
-| Floor Galore | 34.00% | ~249 |
-| Dinner Dash | 34.00% | ~249 |
-| Campaign Launch | 32.00% | ~234 |
-| It's Technical | 31.00% | ~227 |
-| Need a Consult | 30.00% | ~220 |
-| Upgrade Unlock | 30.00% | ~220 |
-| Proper Walls | 29.00% | ~212 |
-| Delegate Maintenance | 27.00% | ~198 |
-| Destination Destiny | 27.00% | ~198 |
-| Happy Tenants | 22.00% | ~161 |
-| Your Prestige is Rising | 21.00% | ~154 |
-| Potent Potables | 21.00% | ~154 |
-| Smooth Service | 21.00% | ~154 |
-| Retail Revenue | 20.00% | ~146 |
-| Don't Feel a Loan | 19.00% | ~139 |
-| People Mover | 18.00% | ~132 |
-| Emporium Empire | 17.00% | ~124 |
-| Leveled Up Shops | 17.00% | ~124 |
-| We Don't Need No Education | 17.00% | ~124 |
-| Lux Living | 16.00% | ~117 |
-| Artfully Done | 16.00% | ~117 |
-| Tasty Profits | 16.00% | ~117 |
-| Get Electrified | 16.00% | ~117 |
-| Rehab Expert | 14.00% | ~102 |
-| Established Fame | 14.00% | ~102 |
-| Under One Roof | 13.00% | ~95 |
-| Cashflow Chief | 13.00% | ~95 |
-| Starred Dining | 12.00% | ~88 |
-| Boutique Benefits | 11.00% | ~81 |
-| Smooth Operator | 10.00% | ~73 |
-| Thrilled Tenants | 10.00% | ~73 |
-| 28 Days Later | 9.00% | ~66 |
-| Swimming in Surplus | 9.00% | ~66 |
-| Terrifically Trashed | 9.00% | ~66 |
+| In the Black | 52.00% | ~386 |
+| Starting Skyward | 46.00% | ~342 |
+| Grime is Not Good | 39.00% | ~290 |
+| Floor Galore | 34.00% | ~253 |
+| Dinner Dash | 34.00% | ~253 |
+| Campaign Launch | 32.00% | ~238 |
+| It's Technical | 31.00% | ~230 |
+| Need a Consult | 30.00% | ~223 |
+| Upgrade Unlock | 30.00% | ~223 |
+| Proper Walls | 29.00% | ~215 |
+| Delegate Maintenance | 27.00% | ~201 |
+| Destination Destiny | 27.00% | ~201 |
+| Happy Tenants | 22.00% | ~163 |
+| Your Prestige is Rising | 21.00% | ~156 |
+| Potent Potables | 21.00% | ~156 |
+| Smooth Service | 21.00% | ~156 |
+| Retail Revenue | 20.00% | ~149 |
+| Don't Feel a Loan | 19.00% | ~141 |
+| People Mover | 18.00% | ~134 |
+| Emporium Empire | 17.00% | ~126 |
+| Leveled Up Shops | 17.00% | ~126 |
+| We Don't Need No Education | 17.00% | ~126 |
+| Lux Living | 16.00% | ~119 |
+| Artfully Done | 16.00% | ~119 |
+| Tasty Profits | 16.00% | ~119 |
+| Get Electrified | 16.00% | ~119 |
+| Rehab Expert | 14.00% | ~104 |
+| Established Fame | 14.00% | ~104 |
+| Under One Roof | 13.00% | ~97 |
+| Cashflow Chief | 13.00% | ~97 |
+| Starred Dining | 12.00% | ~89 |
+| Boutique Benefits | 11.00% | ~82 |
+| Smooth Operator | 10.00% | ~74 |
+| Thrilled Tenants | 10.00% | ~74 |
+| 28 Days Later | 9.00% | ~67 |
+| Swimming in Surplus | 9.00% | ~67 |
+| Terrifically Trashed | 9.00% | ~67 |
 | Aestheticly Pleased | 8.00% | ~59 |
+| Plaza Plan | 8.00% | ~59 |
 | Refined Palates | 8.00% | ~59 |
-| First 100 Days | 7.00% | ~51 |
-| Water Features | 7.00% | ~51 |
-| Plaza Plan | 7.00% | ~51 |
-| Master of Puppets | 7.00% | ~51 |
-| Golden Opportunity | 6.00% | ~44 |
-| Phoning It In | 6.00% | ~44 |
-| I'm Busy Ruling | 5.00% | ~37 |
+| First 100 Days | 7.00% | ~52 |
+| Water Features | 7.00% | ~52 |
+| Master of Puppets | 7.00% | ~52 |
+| Golden Opportunity | 6.00% | ~45 |
+| Phoning It In | 6.00% | ~45 |
 | Careful Constructor | 5.00% | ~37 |
 | Meet Me at HQ | 5.00% | ~37 |
 | Sky High Stature | 5.00% | ~37 |
@@ -58,30 +57,31 @@
 | Tuned In | 5.00% | ~37 |
 | It's a Gas | 5.00% | ~37 |
 | Pipe Up | 5.00% | ~37 |
-| Meet ADA/360 | 4.00% | ~29 |
-| Penthouse in the Sky | 4.00% | ~29 |
-| Baron of Business | 4.00% | ~29 |
-| Sandbagger | 4.00% | ~29 |
-| Profound Proceeds | 4.00% | ~29 |
+| Meet ADA/360 | 4.00% | ~30 |
+| Penthouse in the Sky | 4.00% | ~30 |
+| Baron of Business | 4.00% | ~30 |
+| I'm Busy Ruling | 4.00% | ~30 |
+| Sandbagger | 4.00% | ~30 |
+| Profound Proceeds | 4.00% | ~30 |
 | Decorator's Touch | 3.00% | ~22 |
 | Office Bigwigs | 3.00% | ~22 |
 | Three of a Kind | 3.00% | ~22 |
 | Curated Class | 2.00% | ~15 |
 | Apartment Awareness | 2.00% | ~15 |
-| Loft Life | 2.00% | ~15 |
 | Glut of Gastronomy | 2.00% | ~15 |
 | Luxury Boutiques | 2.00% | ~15 |
 | Royal Flush | 2.00% | ~15 |
 | Four of a Kind | 2.00% | ~15 |
 | In the Money | 2.00% | ~15 |
 | It is Payday | 2.00% | ~15 |
+| Loft Life | 1.00% | ~7 |
 | Plebs Are Needed | 1.00% | ~7 |
-| High Hand | 1.00% | ~7 |
 | Full House | 1.00% | ~7 |
 | The King of Cool | 1.00% | ~7 |
 | Such Great Heights | 1.00% | ~7 |
-| Lofty Landlord | 1.00% | ~7 |
 | Scenario Success | 1.00% | ~7 |
+| High Hand | 0.90% | ~7 |
+| Lofty Landlord | 0.90% | ~7 |
 | Artistic Largesse | 0.80% | ~6 |
 | Double Down | 0.70% | ~5 |
 | Scenario Master | 0.50% | ~4 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732 (Ranked 452)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 743 (Ranked 467)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,6 +242,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 717 | 0 |
 | 2024-08-20 | 721 | 0 |
 | 2024-09-14 | 732 | 0 |
+| 2024-10-17 | 743 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

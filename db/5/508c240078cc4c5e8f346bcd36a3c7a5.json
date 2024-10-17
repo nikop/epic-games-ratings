@@ -2,10 +2,10 @@
   "ID": "508c240078cc4c5e8f346bcd36a3c7a5",
   "Name": "Gems of the Aztecs",
   "ProductSlug": "gems-of-the-aztecs-c88b67",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-18T21:00:00+00:00",
     "PcReleaseDate": "2016-04-21T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-01-14T16:57:29.3771079+00:00",
   "LastUpdate_AppInfo": "2024-10-12T13:10:07.8423276+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:46.8615712+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:41.1958192+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:14.4912148+00:00"
 }

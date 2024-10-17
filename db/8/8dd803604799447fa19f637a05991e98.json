@@ -2,10 +2,10 @@
   "ID": "8dd803604799447fa19f637a05991e98",
   "Name": "GO TO HELL or Die Trying",
   "ProductSlug": "go-to-hell-or-die-trying-b0f26c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-27T17:00:00+00:00",
     "PcReleaseDate": "2023-10-27T17:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.9415971+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:46.5678542+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:59.1427532+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:02.3361387+00:00"
 }

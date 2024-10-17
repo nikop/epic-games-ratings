@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 89.00% | ~921 |
-| First Blood | 85.00% | ~880 |
-| Ready to Learn | 82.00% | ~849 |
-| Monster Hunter | 69.00% | ~714 |
-| Earning Trust | 67.00% | ~693 |
-| Monster Slayer | 38.00% | ~393 |
-| Awakening | 30.00% | ~310 |
-| Huntmaster | 30.00% | ~310 |
-| Complete the sidequest 'Malice and Greed' | 24.00% | ~248 |
-| Digging Deep | 19.00% | ~197 |
-| House Vulisica's Heirloom | 19.00% | ~197 |
-| Broken Oath | 11.00% | ~114 |
-| Way of the King | 10.00% | ~104 |
+| The First Step | 91.00% | ~935 |
+| First Blood | 87.00% | ~893 |
+| Ready to Learn | 83.00% | ~852 |
+| Monster Hunter | 71.00% | ~729 |
+| Earning Trust | 68.00% | ~698 |
+| Monster Slayer | 39.00% | ~401 |
+| Awakening | 31.00% | ~318 |
+| Huntmaster | 30.00% | ~308 |
+| Complete the sidequest 'Malice and Greed' | 25.00% | ~257 |
+| Digging Deep | 19.00% | ~195 |
+| House Vulisica's Heirloom | 19.00% | ~195 |
+| Broken Oath | 11.00% | ~113 |
+| Way of the King | 10.00% | ~103 |
 | Til We Meet Again | 6.00% | ~62 |
-| Way of the Warlord | 5.00% | ~52 |
+| Way of the Warlord | 5.00% | ~51 |
 | Arrow in the Wind | 4.00% | ~41 |
 | The Unvanquished | 3.00% | ~31 |
 | Let Us Cling Together | 3.00% | ~31 |
@@ -29,8 +29,8 @@ Rating: 4.33 (Ranked 1,008)
 | Someone to Protect | 1.00% | ~10 |
 | Lean on Me | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035 (Ranked 424)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,027 (Ranked 437)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,6 +193,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 1,057 | 1 |
 | 2024-08-09 | 1,052 | 0 |
 | 2024-09-14 | 1,035 | 0 |
+| 2024-10-17 | 1,027 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

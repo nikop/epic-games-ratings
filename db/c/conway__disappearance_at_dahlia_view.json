@@ -2,10 +2,10 @@
   "ID": "329ecb6186a14fdab79d72d8e4aaebd3",
   "Name": "Dahlia View",
   "ProductSlug": "dahlia-view-5d6354",
-  "Ranking_EOS_Progress": 1000,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1040,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-11-02T10:00:00+00:00",
     "PcReleaseDate": "2021-11-02T00:00:00+00:00",
@@ -110,9 +110,9 @@
       "ID": "ACH_EVIDENCE_MCKEE",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: McKee",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FAMILY_REUNION",
@@ -183,8 +183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
   "FirstSeenAchievements": "2024-08-09T18:05:08.801761+00:00",
   "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:26.805423+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:08.0300597+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:38.9765783+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:34.4482146+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:26.8054389+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:08.0300696+00:00"
 }

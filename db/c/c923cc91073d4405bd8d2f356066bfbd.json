@@ -2,10 +2,10 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 747,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -500,9 +500,9 @@
       "ID": "HEROSTAR_J",
       "SetID": "1fek4an",
       "Name": "Graduate(Joes)",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HEROSTAR_K",
@@ -644,9 +644,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:06.0761975+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:50.832888+00:00",
   "LastUpdate_AppInfo": "2024-10-10T13:57:19.8836505+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:26.027906+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:06.0762574+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:50.8329559+00:00"
 }

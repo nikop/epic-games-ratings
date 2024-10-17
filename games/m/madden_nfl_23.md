@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 1,047)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 56.00% | ~2,975 |
-| MVP | 54.00% | ~2,869 |
-| Big Spender | 53.00% | ~2,816 |
-| Stud Finder | 40.00% | ~2,125 |
-| Dealmaker | 38.00% | ~2,019 |
-| ROTY | 32.00% | ~1,700 |
-| Roster Reshuffle | 32.00% | ~1,700 |
-| Future of the Franchise | 19.00% | ~1,009 |
-| Throwin’ Dots | 18.00% | ~956 |
-| Already in Progress | 17.00% | ~903 |
-| Primetime | 16.00% | ~850 |
-| Change of Scenery | 16.00% | ~850 |
-| Pro Bowler | 16.00% | ~850 |
-| Unblockable | 9.00% | ~478 |
-| Pocket Ace | 6.00% | ~319 |
-| Lockdown Corner | 5.00% | ~266 |
-| Head-to-Head | 5.00% | ~266 |
-| Gain Train | 1.00% | ~53 |
-| Ol' Reliable | 0.80% | ~43 |
+| Bragging Rights | 56.00% | ~3,012 |
+| Big Spender | 54.00% | ~2,905 |
+| MVP | 54.00% | ~2,905 |
+| Stud Finder | 40.00% | ~2,152 |
+| Dealmaker | 38.00% | ~2,044 |
+| ROTY | 32.00% | ~1,721 |
+| Roster Reshuffle | 32.00% | ~1,721 |
+| Future of the Franchise | 19.00% | ~1,022 |
+| Throwin’ Dots | 18.00% | ~968 |
+| Already in Progress | 17.00% | ~914 |
+| Primetime | 16.00% | ~861 |
+| Change of Scenery | 16.00% | ~861 |
+| Pro Bowler | 16.00% | ~861 |
+| Unblockable | 9.00% | ~484 |
+| Pocket Ace | 6.00% | ~323 |
+| Lockdown Corner | 5.00% | ~269 |
+| Head-to-Head | 5.00% | ~269 |
+| Gain Train | 1.00% | ~54 |
+| Ol' Reliable | 0.90% | ~48 |
 | Lockdown Leader | 0.50% | ~27 |
-| The Fortress | 0.40% | ~21 |
+| The Fortress | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,313 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 5,379 (Ranked 299)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,6 +168,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 5,125 | 0 |
 | 2024-08-09 | 5,241 | 0 |
 | 2024-09-14 | 5,313 | 0 |
+| 2024-10-17 | 5,379 | 0 |
 ## Awards
 Max (Diverse Characters): 66  (Ranked 542)  
 Sum: 320 (Ranked 482)  

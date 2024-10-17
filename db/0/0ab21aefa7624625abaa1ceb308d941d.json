@@ -2,10 +2,10 @@
   "ID": "0ab21aefa7624625abaa1ceb308d941d",
   "Name": "Heath the unchosen path",
   "ProductSlug": "heath-the-unchosen-path-b0d3b0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-15T20:57:21.9641073+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:28.2752591+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:35.6576444+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:22.8614122+00:00"
 }

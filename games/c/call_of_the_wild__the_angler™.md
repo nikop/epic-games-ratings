@@ -6,54 +6,54 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 80.00% | ~759,579 |
-| More Fish in the Sea | 64.00% | ~607,663 |
-| Hey Good Hookin | 55.00% | ~522,211 |
-| Can you smell what the Rod is Hooking | 51.00% | ~484,232 |
-| Scaling up | 43.00% | ~408,274 |
-| Ready to Rod and Roll | 30.00% | ~284,842 |
-| I'm on a Boat! | 26.00% | ~246,863 |
-| Fish Out of Water | 15.00% | ~142,421 |
-| Things that go Splash in the Night | 14.00% | ~132,926 |
-| Goldfish? | 14.00% | ~132,926 |
-| Going for Gold | 12.00% | ~113,937 |
-| License to Gill | 6.00% | ~56,968 |
-| School's Out for Summer | 6.00% | ~56,968 |
-| I'm the Captain Now | 4.00% | ~37,979 |
-| I'm Hooked! | 4.00% | ~37,979 |
-| Diamond in the Rough | 3.00% | ~28,484 |
-| More than a Tourist | 1.00% | ~9,495 |
-| Hook, Line and Sinker | 1.00% | ~9,495 |
-| Marathon | 1.00% | ~9,495 |
-| No Fin left to give | 0.70% | ~6,646 |
-| Gonna Need a Bigger Boat | 0.70% | ~6,646 |
-| Taylor Made | 0.60% | ~5,697 |
-| Big Fish Small Pond | 0.60% | ~5,697 |
-| The Beetles | 0.40% | ~3,798 |
-| Golden Ridge Ranger | 0.30% | ~2,848 |
-| Rod and Troll | 0.30% | ~2,847 |
-| Buckaroo | 0.20% | ~1,899 |
-| Live by the Rod, Diez by the Rod! | 0.20% | ~1,898 |
-| Aguas Claras Conquistador | 0.20% | ~1,898 |
-| All Good Kings Must Come to an End | 0.20% | ~1,898 |
-| A Rod for your own back | 0.20% | ~1,898 |
-| Head for Heights | 0.10% | ~949 |
-| Lake Me up Before You Go Go | 0.10% | ~949 |
-| Have Fish, Will Travel | 0.10% | ~949 |
-| Lost and Flounder | 0.10% | ~949 |
-| Norway Jose | 0.10% | ~949 |
-| Trollsporet Tale Teller | 0.10% | ~949 |
-| Fish upon a Star | 0.10% | ~949 |
-| Cache and Carry | 0.10% | ~949 |
-| Claras Mud | 0.10% | ~949 |
-| Three Square Meals | 0.10% | ~949 |
-| Izi does it | 0.10% | ~949 |
-| Paleontologist | 0.10% | ~949 |
-| Snap Happy | 0.10% | ~949 |
-| Club Crawl | 0.10% | ~949 |
+| Fish Just Got Reel | 80.00% | ~769,998 |
+| More Fish in the Sea | 63.00% | ~606,374 |
+| Hey Good Hookin | 55.00% | ~529,374 |
+| Can you smell what the Rod is Hooking | 51.00% | ~490,874 |
+| Scaling up | 43.00% | ~413,874 |
+| Ready to Rod and Roll | 30.00% | ~288,749 |
+| I'm on a Boat! | 26.00% | ~250,249 |
+| Fish Out of Water | 15.00% | ~144,375 |
+| Things that go Splash in the Night | 14.00% | ~134,750 |
+| Goldfish? | 14.00% | ~134,750 |
+| Going for Gold | 12.00% | ~115,500 |
+| License to Gill | 6.00% | ~57,750 |
+| School's Out for Summer | 6.00% | ~57,750 |
+| I'm the Captain Now | 4.00% | ~38,500 |
+| I'm Hooked! | 4.00% | ~38,500 |
+| Diamond in the Rough | 3.00% | ~28,875 |
+| More than a Tourist | 1.00% | ~9,625 |
+| Hook, Line and Sinker | 1.00% | ~9,625 |
+| Marathon | 1.00% | ~9,625 |
+| No Fin left to give | 0.70% | ~6,737 |
+| Gonna Need a Bigger Boat | 0.70% | ~6,737 |
+| Taylor Made | 0.60% | ~5,775 |
+| Big Fish Small Pond | 0.60% | ~5,775 |
+| The Beetles | 0.40% | ~3,850 |
+| Golden Ridge Ranger | 0.30% | ~2,887 |
+| Rod and Troll | 0.30% | ~2,886 |
+| Buckaroo | 0.20% | ~1,925 |
+| Live by the Rod, Diez by the Rod! | 0.20% | ~1,924 |
+| Aguas Claras Conquistador | 0.20% | ~1,924 |
+| All Good Kings Must Come to an End | 0.20% | ~1,924 |
+| A Rod for your own back | 0.20% | ~1,924 |
+| Head for Heights | 0.10% | ~962 |
+| Lake Me up Before You Go Go | 0.10% | ~962 |
+| Have Fish, Will Travel | 0.10% | ~962 |
+| Lost and Flounder | 0.10% | ~962 |
+| Norway Jose | 0.10% | ~962 |
+| Trollsporet Tale Teller | 0.10% | ~962 |
+| Fish upon a Star | 0.10% | ~962 |
+| Cache and Carry | 0.10% | ~962 |
+| Claras Mud | 0.10% | ~962 |
+| Three Square Meals | 0.10% | ~962 |
+| Izi does it | 0.10% | ~962 |
+| Paleontologist | 0.10% | ~962 |
+| Snap Happy | 0.10% | ~962 |
+| Club Crawl | 0.10% | ~962 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 949,474 (Ranked 25)  
-Completed: 78 (0.01%) (Ranked 563)  
+Progressed: 962,498 (Ranked 26)  
+Completed: 84 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,6 +343,7 @@ Completed: 78 (0.01%) (Ranked 563)
 | 2024-08-09 | 931,840 | 61 |
 | 2024-08-20 | 937,484 | 65 |
 | 2024-09-14 | 949,474 | 78 |
+| 2024-10-17 | 962,498 | 84 |
 ## Awards
 Max (Great for Beginners): 925  (Ranked 220)  
 Sum: 3,138 (Ranked 220)  

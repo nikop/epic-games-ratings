@@ -2,10 +2,10 @@
   "ID": "ebb3f03b15314d2fa834c22735fba2cd",
   "Name": "ASURAJANG",
   "ProductSlug": "asurajang-7d5d3c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T09:57:09.694258+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:20.5602418+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:09.7325072+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:26.826985+00:00"
 }

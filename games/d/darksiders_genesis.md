@@ -6,39 +6,39 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 8.00% | ~205 |
-| Soul Cache | 8.00% | ~205 |
-| Close the Rift | 3.00% | ~77 |
-| Mammon | 3.00% | ~77 |
-| The Dead Court | 3.00% | ~77 |
-| A Bullet for All Seasons | 2.00% | ~51 |
-| Astarte | 2.00% | ~51 |
-| Demolition Derby | 2.00% | ~51 |
-| Hell's Forge | 2.00% | ~51 |
-| Infested | 2.00% | ~51 |
-| Master of Strife | 2.00% | ~51 |
-| Master of War | 2.00% | ~51 |
-| Mint II | 2.00% | ~51 |
-| Walking Armory | 2.00% | ~51 |
-| Why'd It Have to Be Snakes? | 2.00% | ~51 |
-| Good Deeds | 1.00% | ~26 |
-| Mint III | 1.00% | ~26 |
-| Ready to Blow | 1.00% | ~26 |
-| Gatekeeper | 0.90% | ~23 |
-| Wicked Killington | 0.90% | ~23 |
-| Are You Not Entertained? | 0.70% | ~18 |
-| Collector | 0.50% | ~13 |
-| Full of Hell | 0.40% | ~10 |
-| Respect For Animals | 0.40% | ~10 |
+| Mint I | 9.00% | ~247 |
+| Soul Cache | 8.00% | ~219 |
+| Close the Rift | 4.00% | ~110 |
+| Mammon | 4.00% | ~110 |
+| Astarte | 3.00% | ~82 |
+| The Dead Court | 3.00% | ~82 |
+| A Bullet for All Seasons | 2.00% | ~55 |
+| Demolition Derby | 2.00% | ~55 |
+| Good Deeds | 2.00% | ~55 |
+| Hell's Forge | 2.00% | ~55 |
+| Infested | 2.00% | ~55 |
+| Master of Strife | 2.00% | ~55 |
+| Master of War | 2.00% | ~55 |
+| Mint II | 2.00% | ~55 |
+| Walking Armory | 2.00% | ~55 |
+| Why'd It Have to Be Snakes? | 2.00% | ~55 |
+| Gatekeeper | 1.00% | ~27 |
+| Mint III | 1.00% | ~27 |
+| Ready to Blow | 1.00% | ~27 |
+| Wicked Killington | 0.90% | ~25 |
+| Are You Not Entertained? | 0.70% | ~19 |
+| Collector | 0.50% | ~14 |
+| Full of Hell | 0.40% | ~11 |
+| Respect For Animals | 0.40% | ~11 |
+| Garden of Forking Paths | 0.30% | ~8 |
 | The Promised End | 0.30% | ~8 |
-| Garden of Forking Paths | 0.20% | ~5 |
 | Blademaster | 0.10% | ~3 |
 | Belial | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,560 (Ranked 349)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 2,739 (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 2,283 | 0 |
 | 2024-08-20 | 2,328 | 0 |
 | 2024-09-14 | 2,560 | 0 |
+| 2024-10-17 | 2,739 | 0 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 584)  
 Sum: 49 (Ranked 658)  

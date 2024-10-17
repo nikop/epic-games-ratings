@@ -2,10 +2,10 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 843,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "KEEP_FIRING_ACH",
       "SetID": "2gpm4c0",
       "Name": "Keep Firing!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEDIC_ACH",
@@ -217,8 +217,8 @@
   ],
   "FirstSeen": "2024-07-14T17:58:44.6933794+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:04.6732774+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:10.2871446+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:22.0472527+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:04.5735028+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:04.6732872+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:01.7419664+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:10.2871537+00:00"
 }

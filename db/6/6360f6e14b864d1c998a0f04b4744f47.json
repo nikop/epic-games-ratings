@@ -2,10 +2,10 @@
   "ID": "6360f6e14b864d1c998a0f04b4744f47",
   "Name": "Kaptain Brawe - A Brawe New World",
   "ProductSlug": "kaptain-brawe-a-brawe-new-world-ef9c5a",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1104,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-03T06:00:00+00:00",
     "PcReleaseDate": "2011-01-20T12:30:00+00:00",
@@ -281,8 +281,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:15:05.9618901+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:03.2462228+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:16.5555853+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:10.5358722+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:54.4545677+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:03.2462501+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:16.5903284+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:16.5555979+00:00"
 }

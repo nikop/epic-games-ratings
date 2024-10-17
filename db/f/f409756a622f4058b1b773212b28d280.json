@@ -2,10 +2,10 @@
   "ID": "f409756a622f4058b1b773212b28d280",
   "Name": "Madtoys Knights",
   "ProductSlug": "madtoys-knights-3d85fc",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-02T07:00:00+00:00",
     "PcReleaseDate": "2024-10-02T07:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-02T07:59:03.4712341+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:10.6111279+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:48.6825225+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:36.2971377+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:10.6831593+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "55e58062efd94787992a36c5ed9b44d4",
   "Name": "Chess Club Valley",
   "ProductSlug": "chess-club-valley-179c02",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-29T00:08:34.1+00:00",
     "PcReleaseDate": "2024-06-28T23:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T10:57:10.6934455+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:39.7752673+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:22.8335953+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:32.0237739+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:32.6086842+00:00"
 }

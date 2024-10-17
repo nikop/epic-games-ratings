@@ -2,10 +2,10 @@
   "ID": "dcf81a568d924d329addaa06be801621",
   "Name": "Computer Virus Simulator",
   "ProductSlug": "computer-virus-simulator-675f60",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-25T07:00:00+00:00",
     "PcReleaseDate": "2023-12-01T07:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T22:57:12.3768577+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:42.5746215+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:26.3876738+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:26.641362+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:35.9496705+00:00"
 }

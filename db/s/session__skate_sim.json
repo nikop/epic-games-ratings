@@ -5,10 +5,10 @@
   "Ranking_Rating": 361,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 358,
-  "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 490,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Completed": 495,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -2965,11 +2965,11 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 5102,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 5201,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:30.86373+00:00",
@@ -9830,6 +9830,11 @@
       "Time": "2024-09-14T14:15:23.6674131+00:00",
       "NumProgressed": 5102,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-10-17T05:06:47.8325304+00:00",
+      "NumProgressed": 5201,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -9841,7 +9846,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 728
     },
     {
       "ID": "ACH_BING-BONG",
@@ -9857,15 +9862,15 @@
       "Name": "Bottom ply killer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -9873,7 +9878,7 @@
       "Name": "Cops called!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -9881,7 +9886,7 @@
       "Name": "Cross lock country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_DIPPED",
@@ -9889,7 +9894,7 @@
       "Name": "Dipped!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_DIY-BOSS",
@@ -9897,15 +9902,15 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_FASHIONISTA",
       "SetID": "72olkc5",
       "Name": "Fashionista",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -9913,7 +9918,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -9921,7 +9926,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -9929,7 +9934,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -9937,7 +9942,7 @@
       "Name": "Globetrotter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -9945,7 +9950,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 663
+      "UsersEstimate": 676
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -9953,7 +9958,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_GOLDEN",
@@ -9969,7 +9974,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_HOARDER",
@@ -9977,7 +9982,7 @@
       "Name": "Hoarder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -9985,15 +9990,15 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -10001,7 +10006,7 @@
       "Name": "Laid back",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -10009,7 +10014,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -10025,7 +10030,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -10033,7 +10038,7 @@
       "Name": "Many plys later...",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_NAHELL",
@@ -10041,7 +10046,7 @@
       "Name": "NAHELL!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -10049,15 +10054,15 @@
       "Name": "Pew-Pew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
       "SetID": "72olkc5",
       "Name": "Plastic Surgeon",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -10065,7 +10070,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -10073,7 +10078,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -10081,7 +10086,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -10089,7 +10094,7 @@
       "Name": "Skatepark hero",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -10097,7 +10102,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -10105,15 +10110,15 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_TANK-COMMANDER",
       "SetID": "72olkc5",
       "Name": "Tank commander",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -10121,7 +10126,7 @@
       "Name": "That pinch!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -10129,7 +10134,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -10145,7 +10150,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -10153,15 +10158,15 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_THE-HARD-WAY",
       "SetID": "72olkc5",
       "Name": "The hard way",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -10169,7 +10174,7 @@
       "Name": "Tight lipslides",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -10177,7 +10182,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -10193,7 +10198,7 @@
       "Name": "Upfront shredder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -10201,7 +10206,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -10209,7 +10214,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -10217,22 +10222,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3485
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 5102,
-      "Completed": 3
+      "Progressed": 5201,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-10-15T23:59:03.7239644+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:23.6674123+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:47.83253+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:12.6808453+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:57.8837726+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:23.6674673+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:51.0097415+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:47.8325998+00:00"
 }

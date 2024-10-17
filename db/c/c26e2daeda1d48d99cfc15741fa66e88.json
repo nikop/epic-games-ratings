@@ -2,10 +2,10 @@
   "ID": "c26e2daeda1d48d99cfc15741fa66e88",
   "Name": "Labyrinth Destroyer 1",
   "ProductSlug": "labyrinth-destroyer-1-0994f2",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-15T00:30:01.856+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cd99aai",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:10.4039013+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:10.4038978+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:52.3460228+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:47.4000855+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:34.1885096+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:10.4039022+00:00"
 }

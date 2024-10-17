@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Good Deed | 33.00% | ~1 |
 | Apprentice | 0.00% | ~0 |
 | AirFlow | 0.00% | ~0 |
 | Bad Swimmer | 0.00% | ~0 |
@@ -14,7 +15,6 @@
 | deja vu | 0.00% | ~0 |
 | Educational visit | 0.00% | ~0 |
 | Family Reunion | 0.00% | ~0 |
-| Good Deed | 0.00% | ~0 |
 | Good Listener | 0.00% | ~0 |
 | Heavyweight | 0.00% | ~0 |
 | House Tour | 0.00% | ~0 |
@@ -34,12 +34,13 @@
 | So Close | 0.00% | ~0 |
 | The Journey Begins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,118)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 3 (Ranked 1,143)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
+| 2024-10-17 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

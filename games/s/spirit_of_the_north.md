@@ -6,33 +6,33 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 70.00% | ~65,852 |
-| INFUSED WITH LIGHT | 53.00% | ~49,860 |
-| FOXIN' AROUND | 30.00% | ~28,222 |
-| FETCH | 29.00% | ~27,282 |
-| BLOOMS OF LIGHT | 26.00% | ~24,460 |
-| BEST FRIENDS | 23.00% | ~21,637 |
-| AWAKEN | 22.00% | ~20,696 |
-| ERADICATE | 22.00% | ~20,696 |
-| SPIRIT BARK | 22.00% | ~20,696 |
-| GARDEN OF LIGHT | 18.00% | ~16,934 |
-| SPIRIT FORM | 18.00% | ~16,934 |
-| UPROOTING DARKNESS | 16.00% | ~15,052 |
-| WRITTEN IN STONE | 16.00% | ~15,052 |
-| WEIGHTLESS | 13.00% | ~12,230 |
-| SPIRIT DASH | 12.00% | ~11,289 |
-| OLD COMPANION | 9.00% | ~8,467 |
-| PLAGUE DOCTOR | 9.00% | ~8,467 |
-| SPIRITED AWAY | 9.00% | ~8,467 |
-| MATCH MAKER | 8.00% | ~7,526 |
-| NORTHERN LIGHTS | 8.00% | ~7,526 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,763 |
-| ANCIENT HISTORY | 3.00% | ~2,822 |
-| NONE FORGOTTEN | 2.00% | ~1,882 |
-| KINDRED SPIRITS | 0.70% | ~659 |
+| A GUARDIAN FORGOTTEN | 70.00% | ~68,999 |
+| INFUSED WITH LIGHT | 53.00% | ~52,242 |
+| FOXIN' AROUND | 30.00% | ~29,571 |
+| FETCH | 28.00% | ~27,600 |
+| BLOOMS OF LIGHT | 26.00% | ~25,628 |
+| AWAKEN | 22.00% | ~21,685 |
+| BEST FRIENDS | 22.00% | ~21,685 |
+| ERADICATE | 22.00% | ~21,685 |
+| SPIRIT BARK | 22.00% | ~21,685 |
+| GARDEN OF LIGHT | 18.00% | ~17,743 |
+| SPIRIT FORM | 17.00% | ~16,757 |
+| UPROOTING DARKNESS | 16.00% | ~15,771 |
+| WRITTEN IN STONE | 16.00% | ~15,771 |
+| WEIGHTLESS | 13.00% | ~12,814 |
+| SPIRIT DASH | 12.00% | ~11,828 |
+| OLD COMPANION | 9.00% | ~8,871 |
+| PLAGUE DOCTOR | 9.00% | ~8,871 |
+| SPIRITED AWAY | 9.00% | ~8,871 |
+| MATCH MAKER | 8.00% | ~7,886 |
+| NORTHERN LIGHTS | 8.00% | ~7,886 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,943 |
+| ANCIENT HISTORY | 3.00% | ~2,957 |
+| NONE FORGOTTEN | 2.00% | ~1,971 |
+| KINDRED SPIRITS | 0.70% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,075 (Ranked 143)  
-Completed: 575 (0.61%) (Ranked 341)  
+Progressed: 98,570 (Ranked 143)  
+Completed: 594 (0.60%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 575 (0.61%) (Ranked 341)
 | 2024-06-17 | 89,843 | 536 |
 | 2024-08-09 | 92,387 | 555 |
 | 2024-09-14 | 94,075 | 575 |
+| 2024-10-17 | 98,570 | 594 |
 ## Awards
 Max (Extremely Fun): 28  (Ranked 680)  
 Sum: 121 (Ranked 582)  

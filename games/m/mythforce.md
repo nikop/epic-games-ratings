@@ -6,32 +6,32 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hit 'Em Where It Hurts | 24.00% | ~5,784 |
-| Perk Shard Punch Card | 24.00% | ~5,784 |
-| That'll Leave a Mark | 22.00% | ~5,302 |
-| Debuff Dogpile | 21.00% | ~5,061 |
-| Faceroll the Bones | 21.00% | ~5,061 |
-| First Strike | 21.00% | ~5,061 |
-| Mushroom Madness! | 15.00% | ~3,615 |
-| Next Time on MythForce... | 14.00% | ~3,374 |
-| Spending Spree | 13.00% | ~3,133 |
-| Everything Must Go! | 10.00% | ~2,410 |
-| Horder Better Faster Stronger | 9.00% | ~2,169 |
-| Cold-Blooded Critters | 7.00% | ~1,687 |
-| Ten Steps from the Grave | 7.00% | ~1,687 |
-| On this Episode! | 6.00% | ~1,446 |
-| We've Got a Kaiju on the Field | 4.00% | ~964 |
-| Death Becomes You | 3.00% | ~723 |
-| Flawless Victory | 3.00% | ~723 |
-| Season Finale | 3.00% | ~723 |
-| Deadication | 2.00% | ~482 |
-| The Fourth Gate | 2.00% | ~482 |
-| The Harder They Fall | 2.00% | ~482 |
-| Vexed Her | 0.70% | ~169 |
-| Deadalus and Loving It | 0.20% | ~48 |
+| Hit 'Em Where It Hurts | 24.00% | ~5,983 |
+| Perk Shard Punch Card | 24.00% | ~5,983 |
+| Debuff Dogpile | 21.00% | ~5,235 |
+| Faceroll the Bones | 21.00% | ~5,235 |
+| First Strike | 21.00% | ~5,235 |
+| That'll Leave a Mark | 21.00% | ~5,235 |
+| Mushroom Madness! | 15.00% | ~3,739 |
+| Next Time on MythForce... | 14.00% | ~3,490 |
+| Spending Spree | 12.00% | ~2,991 |
+| Everything Must Go! | 10.00% | ~2,493 |
+| Horder Better Faster Stronger | 8.00% | ~1,994 |
+| Cold-Blooded Critters | 7.00% | ~1,745 |
+| Ten Steps from the Grave | 7.00% | ~1,745 |
+| On this Episode! | 6.00% | ~1,496 |
+| We've Got a Kaiju on the Field | 4.00% | ~997 |
+| Death Becomes You | 3.00% | ~748 |
+| Flawless Victory | 3.00% | ~748 |
+| Season Finale | 3.00% | ~748 |
+| Deadication | 2.00% | ~499 |
+| The Fourth Gate | 2.00% | ~499 |
+| The Harder They Fall | 2.00% | ~499 |
+| Vexed Her | 0.70% | ~175 |
+| Deadalus and Loving It | 0.20% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,102 (Ranked 208)  
-Completed: 17 (0.07%) (Ranked 482)  
+Progressed: 24,929 (Ranked 213)  
+Completed: 18 (0.07%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,6 +232,7 @@ Completed: 17 (0.07%) (Ranked 482)
 | 2024-06-17 | 12,257 | 13 |
 | 2024-08-09 | 22,568 | 17 |
 | 2024-09-14 | 24,102 | 17 |
+| 2024-10-17 | 24,929 | 18 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 617)  
 Sum: 282 (Ranked 499)  

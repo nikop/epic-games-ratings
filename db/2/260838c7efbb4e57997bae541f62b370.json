@@ -2,10 +2,10 @@
   "ID": "260838c7efbb4e57997bae541f62b370",
   "Name": "Halloween Trick or Treat 3 Collectors Edition",
   "ProductSlug": "halloween-trick-or-treat-3-149aa7",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-09T07:00:00+00:00",
     "PcReleaseDate": "2024-10-09T07:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-16T06:58:40.2031485+00:00",
   "LastUpdate_AppInfo": "2024-10-10T16:57:18.7139492+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:02.0405607+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:32.3960791+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:06.0050911+00:00"
 }

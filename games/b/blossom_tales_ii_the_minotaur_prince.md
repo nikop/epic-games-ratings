@@ -8,9 +8,10 @@
 | The Lawnmower Lady | 32.00% | ~8 |
 | Completely Hooked | 24.00% | ~6 |
 | Lily: Warrior Princess | 24.00% | ~6 |
+| Money Bags | 20.00% | ~5 |
 | Key Piece I | 16.00% | ~4 |
-| Money Bags | 16.00% | ~4 |
 | Key Piece II | 12.00% | ~3 |
+| Not All Who Wander | 8.00% | ~2 |
 | The Musician | 8.00% | ~2 |
 | Energy For Days | 8.00% | ~2 |
 | Fruitful Offerings | 8.00% | ~2 |
@@ -18,15 +19,14 @@
 | A Budding Business | 8.00% | ~2 |
 | Key Piece III | 8.00% | ~2 |
 | The Hero | 8.00% | ~2 |
+| The Ultimate Weapon | 8.00% | ~2 |
 | Postmaster | 8.00% | ~2 |
 | Combat Queen | 8.00% | ~2 |
-| Not All Who Wander | 4.00% | ~1 |
 | Walking Cookbook | 4.00% | ~1 |
 | Lily Strong | 4.00% | ~1 |
-| The Ultimate Weapon | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 898)  
-Completed: 1 (4.00%) (Ranked 158)  
+Progressed: 25 (Ranked 940)  
+Completed: 1 (4.00%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

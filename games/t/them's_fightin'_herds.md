@@ -5,16 +5,16 @@ Rating: 4.58 (Ranked 540)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~86,952 |
-| ... in the magical land of Foenum... | 34.00% | ~82,121 |
-| Be Gentle... | 21.00% | ~50,722 |
-| A Worthy Opponent | 17.00% | ~41,060 |
-| Makin' Bacon | 4.00% | ~9,661 |
-| Tenderhoof | 3.00% | ~7,246 |
-| Champ'een of The Praire | 1.00% | ~2,415 |
-| Come At Me! | 1.00% | ~2,415 |
-| Kickin' 'n Stompin' | 0.20% | ~483 |
-| Sin'er Man | 0.20% | ~483 |
+| Once upon a time... | 36.00% | ~87,098 |
+| ... in the magical land of Foenum... | 34.00% | ~82,259 |
+| Be Gentle... | 21.00% | ~50,807 |
+| A Worthy Opponent | 17.00% | ~41,129 |
+| Makin' Bacon | 4.00% | ~9,678 |
+| Tenderhoof | 3.00% | ~7,258 |
+| Champ'een of The Praire | 1.00% | ~2,419 |
+| Come At Me! | 1.00% | ~2,419 |
+| Kickin' 'n Stompin' | 0.20% | ~484 |
+| Sin'er Man | 0.20% | ~484 |
 | Well-Done | 0.10% | ~242 |
 | Valedictorian | 0.10% | ~242 |
 | Love is a Battlefield | 0.10% | ~242 |
@@ -34,8 +34,8 @@ Rating: 4.58 (Ranked 540)
 | Alpaca Space Program | 0.10% | ~242 |
 | High Priestess | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241,532 (Ranked 94)  
-Completed: 7 (0.00%) (Ranked 595)  
+Progressed: 241,938 (Ranked 95)  
+Completed: 7 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,6 +322,7 @@ Completed: 7 (0.00%) (Ranked 595)
 | 2024-06-17 | 239,919 | 7 |
 | 2024-08-09 | 240,889 | 7 |
 | 2024-09-14 | 241,532 | 7 |
+| 2024-10-17 | 241,938 | 7 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 638)  
 Sum: 133 (Ranked 575)  

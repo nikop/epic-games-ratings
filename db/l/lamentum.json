@@ -5,10 +5,10 @@
   "Ranking_Rating": 1008,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 512,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -102,11 +102,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
-  "EOS_Completed": 11,
+  "EOS_Progressed": 451,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.54,
+  "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -567,6 +567,11 @@
       "Time": "2024-09-14T14:23:06.2151377+00:00",
       "NumProgressed": 433,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-10-17T05:11:40.7337246+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 19,
@@ -578,7 +583,7 @@
       "Name": "Sacrifice",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_01",
@@ -586,7 +591,7 @@
       "Name": "Redemption",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_02",
@@ -594,7 +599,7 @@
       "Name": "Ritual",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_03",
@@ -602,7 +607,7 @@
       "Name": "Cowardice",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_04",
@@ -610,7 +615,7 @@
       "Name": "The moth and the flame",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_05",
@@ -618,7 +623,7 @@
       "Name": "Bloodrush",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_06",
@@ -626,7 +631,7 @@
       "Name": "Moon Cloudiness Sonata by Danloop",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_07",
@@ -634,7 +639,7 @@
       "Name": "True magic doesn\u0027t exist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_08",
@@ -642,7 +647,7 @@
       "Name": "There is freedom in awakening",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_09",
@@ -650,15 +655,15 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_11",
@@ -666,7 +671,7 @@
       "Name": "A forgotten language",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_12",
@@ -674,39 +679,39 @@
       "Name": "Lord Wesley",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_14",
       "SetID": "7881h0d",
       "Name": "Lord Clayton",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_16",
       "SetID": "7881h0d",
       "Name": "The other side of the mirror",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_17",
@@ -714,7 +719,7 @@
       "Name": "Little Mary",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_18",
@@ -722,23 +727,23 @@
       "Name": "Lamentum",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 433,
-      "Completed": 11
+      "Progressed": 451,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2024-10-03T14:57:33.412228+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:06.2151371+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:40.7337242+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:30.0968405+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:39.0180571+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:06.2151521+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:20.9700236+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:40.7337393+00:00"
 }

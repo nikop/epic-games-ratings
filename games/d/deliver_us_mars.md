@@ -1,46 +1,46 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.15 (Ranked 1,187)  
+Rating: 4.15 (Ranked 1,186)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Is... | 62.00% | ~69,398 |
-| Better jot that down | 58.00% | ~64,921 |
-| The beginning of a beautiful collection | 53.00% | ~59,324 |
-| Moonbear | 41.00% | ~45,893 |
-| Reading is fundamental | 40.00% | ~44,773 |
-| Take a look | 39.00% | ~43,654 |
-| Getting the hang of it | 36.00% | ~40,296 |
-| Want to Go to Space? | 36.00% | ~40,296 |
-| On the Precipice | 29.00% | ~32,461 |
-| A Nice Place to Live | 26.00% | ~29,103 |
-| The Dream for These Folks | 23.00% | ~25,745 |
-| Not the Rabbits, Not the Bees | 22.00% | ~24,625 |
-| Like Animals | 21.00% | ~23,506 |
-| Desperate Times | 20.00% | ~22,387 |
-| Delivered Us Mars | 19.00% | ~21,267 |
-| Wants and Needs | 19.00% | ~21,267 |
-| Piecing the story together | 17.00% | ~19,029 |
-| Stellar extra-vehicular activities score | 14.00% | ~15,671 |
-| Cinephile | 14.00% | ~15,671 |
-| When ACE met AYLA | 8.00% | ~8,955 |
-| Kat-like reflexes | 7.00% | ~7,835 |
-| Kats always land on their feet | 3.00% | ~3,358 |
-| The Gang | 2.00% | ~2,239 |
-| As the story unfolds... | 1.00% | ~1,119 |
-| Who waits five minutes, seriously? | 0.60% | ~672 |
-| Peruser | 0.50% | ~560 |
-| Quick like a Kat | 0.40% | ~448 |
-| Chronicler | 0.40% | ~448 |
-| Simulacrum | 0.30% | ~336 |
-| Pannapictagraphist | 0.30% | ~336 |
-| Curiosity didn't kill the Kat | 0.30% | ~336 |
-| Their batteries were low and it got dark | 0.30% | ~336 |
-| Shai-Hulud? | 0.30% | ~336 |
+| Home Is... | 63.00% | ~74,768 |
+| Better jot that down | 58.00% | ~68,834 |
+| The beginning of a beautiful collection | 54.00% | ~64,087 |
+| Moonbear | 42.00% | ~49,846 |
+| Reading is fundamental | 40.00% | ~47,472 |
+| Take a look | 39.00% | ~46,285 |
+| Getting the hang of it | 36.00% | ~42,725 |
+| Want to Go to Space? | 36.00% | ~42,725 |
+| On the Precipice | 29.00% | ~34,417 |
+| A Nice Place to Live | 26.00% | ~30,857 |
+| The Dream for These Folks | 24.00% | ~28,483 |
+| Not the Rabbits, Not the Bees | 22.00% | ~26,110 |
+| Like Animals | 21.00% | ~24,923 |
+| Desperate Times | 20.00% | ~23,736 |
+| Delivered Us Mars | 19.00% | ~22,549 |
+| Wants and Needs | 19.00% | ~22,549 |
+| Piecing the story together | 17.00% | ~20,176 |
+| Stellar extra-vehicular activities score | 14.00% | ~16,615 |
+| Cinephile | 14.00% | ~16,615 |
+| When ACE met AYLA | 8.00% | ~9,494 |
+| Kat-like reflexes | 7.00% | ~8,308 |
+| Kats always land on their feet | 3.00% | ~3,560 |
+| The Gang | 2.00% | ~2,374 |
+| As the story unfolds... | 1.00% | ~1,187 |
+| Who waits five minutes, seriously? | 0.60% | ~712 |
+| Peruser | 0.50% | ~593 |
+| Quick like a Kat | 0.40% | ~475 |
+| Pannapictagraphist | 0.40% | ~475 |
+| Chronicler | 0.40% | ~475 |
+| Simulacrum | 0.30% | ~356 |
+| Curiosity didn't kill the Kat | 0.30% | ~356 |
+| Their batteries were low and it got dark | 0.30% | ~356 |
+| Shai-Hulud? | 0.30% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,933 (Ranked 134)  
-Completed: 239 (0.21%) (Ranked 415)  
+Progressed: 118,680 (Ranked 135)  
+Completed: 262 (0.22%) (Ranked 437)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 239 (0.21%) (Ranked 415)
 | 2024-08-09 | 103,195 | 197 |
 | 2024-08-20 | 105,894 | 210 |
 | 2024-09-14 | 111,933 | 239 |
+| 2024-10-17 | 118,680 | 262 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "e4d1348a6a7c44238b67b9565f1827a7",
   "Name": "Tomb Raider IV-VI Remastered",
   "ProductSlug": "tomb-raider-ivvi-remastered-0be789",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-02-14T16:00:00+00:00",
     "PcReleaseDate": "2025-02-14T16:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T13:12:27.4852478+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:57.9235343+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:51.1976047+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:05.7123246+00:00"
 }

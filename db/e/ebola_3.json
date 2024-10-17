@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 465,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Completed": 489,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1506,6 +1506,11 @@
       "Time": "2024-10-09T19:04:06.1338127+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:15:48.4182631+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1661,7 +1666,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achEva",
@@ -1717,7 +1722,7 @@
       "Name": "Fright \u2714",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "achLizun",
@@ -1789,7 +1794,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achPriest",
@@ -1916,7 +1921,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 1
     }
   ],
@@ -1924,8 +1929,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:06.1338121+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:48.4182628+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:44.7368354+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:04.5597989+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:06.1338633+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:48.418299+00:00"
 }

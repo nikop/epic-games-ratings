@@ -2,10 +2,10 @@
   "ID": "4dbce3b6359541ae90e4fcb14c9d2164",
   "Name": "GRID Legends",
   "ProductSlug": "grid-legends-d7b0b7",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-06T20:00:00+00:00",
     "PcReleaseDate": "2022-02-24T09:00:00+00:00",
@@ -23,32 +23,760 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:12:34.3331792+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:12:34.3331822+00:00",
+  "TotalAchievements": 90,
+  "TotalAchievementsXP": 1800,
+  "Achievements": [
+    {
+      "ID": "achievement_01",
+      "SetID": "8117k1o",
+      "Name": "THE ACCIDENT",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_02",
+      "SetID": "8117k1o",
+      "Name": "PROVE YOURSELF",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_03",
+      "SetID": "8117k1o",
+      "Name": "ELBOWS OUT",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_04",
+      "SetID": "8117k1o",
+      "Name": "THUNDER DOWN UNDER",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_05",
+      "SetID": "8117k1o",
+      "Name": "THE MAIN EVENT",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_06",
+      "SetID": "8117k1o",
+      "Name": "SUPERFICIAL DAMAGE",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_07",
+      "SetID": "8117k1o",
+      "Name": "LIGHTNING BOLT",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_08",
+      "SetID": "8117k1o",
+      "Name": "HEADHUNTERS",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_09",
+      "SetID": "8117k1o",
+      "Name": "ROAD TO NOWHERE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "8117k1o",
+      "Name": "THIS IS IT",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "8117k1o",
+      "Name": "Incredible, nobody can catch you!",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "8117k1o",
+      "Name": "Prepare to Dye",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "8117k1o",
+      "Name": "Take them for all they\u0027ve got",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "8117k1o",
+      "Name": "Like a Cobra",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "8117k1o",
+      "Name": "Bedroom poster car acquired",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "8117k1o",
+      "Name": "Motorbike Lover",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "8117k1o",
+      "Name": "Formula Exhaust Feat",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "8117k1o",
+      "Name": "Insert Joke Here",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "8117k1o",
+      "Name": "Radical Rotary",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "8117k1o",
+      "Name": "Thanks for the Mad approval!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "8117k1o",
+      "Name": "Race Driver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "8117k1o",
+      "Name": "Race Driver 2",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "8117k1o",
+      "Name": "Race Driver 3",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "8117k1o",
+      "Name": "Alpine Won",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "8117k1o",
+      "Name": "Sure, Jan",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "8117k1o",
+      "Name": "Careering along",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "8117k1o",
+      "Name": "For the Time Extend crew!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "8117k1o",
+      "Name": "Balancing task",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "8117k1o",
+      "Name": "Caffeine and Catchup",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_30",
+      "SetID": "8117k1o",
+      "Name": "Around the Globe, AGAIN!?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_31",
+      "SetID": "8117k1o",
+      "Name": "Going the distance",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_32",
+      "SetID": "8117k1o",
+      "Name": "I played so much GT1",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_33",
+      "SetID": "8117k1o",
+      "Name": "Last minute change",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_34",
+      "SetID": "8117k1o",
+      "Name": "Passione Rossa",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_35",
+      "SetID": "8117k1o",
+      "Name": "Power and Honor",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_36",
+      "SetID": "8117k1o",
+      "Name": "Raged Racer",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_37",
+      "SetID": "8117k1o",
+      "Name": "Ramp it up!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_38",
+      "SetID": "8117k1o",
+      "Name": "For EV, with love",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_39",
+      "SetID": "8117k1o",
+      "Name": "Reiko fan club",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_40",
+      "SetID": "8117k1o",
+      "Name": "Chill Out",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_41",
+      "SetID": "8117k1o",
+      "Name": "Moon above the Castle",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_42",
+      "SetID": "8117k1o",
+      "Name": "Metropolis Sleek Racer",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_43",
+      "SetID": "8117k1o",
+      "Name": "The time is now",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_44",
+      "SetID": "8117k1o",
+      "Name": "RUSH ON",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_45",
+      "SetID": "8117k1o",
+      "Name": "Couldn\u0027t be more British",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_46",
+      "SetID": "8117k1o",
+      "Name": "San Francisco Rushing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_47",
+      "SetID": "8117k1o",
+      "Name": "Rhythm Shifter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_48",
+      "SetID": "8117k1o",
+      "Name": "Blue, Blue Skies",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_49",
+      "SetID": "8117k1o",
+      "Name": "Content Tracker Redux",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_50",
+      "SetID": "8117k1o",
+      "Name": "What a Legend!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_51",
+      "SetID": "94lff8l",
+      "Name": "PLAN WITH A VAN",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_52",
+      "SetID": "94lff8l",
+      "Name": "T-BONE TURMOIL",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_53",
+      "SetID": "94lff8l",
+      "Name": "FINAL SHOWDOWN",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_54",
+      "SetID": "94lff8l",
+      "Name": "Overnight It!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_55",
+      "SetID": "94lff8l",
+      "Name": "Demolished",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_56",
+      "SetID": "94lff8l",
+      "Name": "Contact Sport",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_57",
+      "SetID": "94lff8l",
+      "Name": "Will you sponsor me?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_58",
+      "SetID": "94lff8l",
+      "Name": "Rescue Mission",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_59",
+      "SetID": "94lff8l",
+      "Name": "Transformed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_60",
+      "SetID": "94lff8l",
+      "Name": "Whipping along",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_61",
+      "SetID": "94lff8l",
+      "Name": "FUJI FREAKOUT",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_62",
+      "SetID": "94lff8l",
+      "Name": "CLOCK\u0027S TICKING",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_63",
+      "SetID": "94lff8l",
+      "Name": "THE ART OF ENDURANCE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_64",
+      "SetID": "94lff8l",
+      "Name": "Bentley Rhythm Race",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_65",
+      "SetID": "94lff8l",
+      "Name": "Ace Driving",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_66",
+      "SetID": "94lff8l",
+      "Name": "Ultimate Import",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_67",
+      "SetID": "94lff8l",
+      "Name": "I got nothing but time",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_68",
+      "SetID": "94lff8l",
+      "Name": "Kei to the city",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_69",
+      "SetID": "94lff8l",
+      "Name": "Maximum Power!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_70",
+      "SetID": "94lff8l",
+      "Name": "Downtown Brave City",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_71",
+      "SetID": "94lff8l",
+      "Name": "PICK UP THE TORCH",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_72",
+      "SetID": "94lff8l",
+      "Name": "NATE\u0027S JOYRIDE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_73",
+      "SetID": "94lff8l",
+      "Name": "THE FIRST FINAL",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_74",
+      "SetID": "94lff8l",
+      "Name": "EXPENSIVE ELIMINATION",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_75",
+      "SetID": "94lff8l",
+      "Name": "MCKANE VS MCKANE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_76",
+      "SetID": "94lff8l",
+      "Name": "Shark attack",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_77",
+      "SetID": "94lff8l",
+      "Name": "Go Neddy Go!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_78",
+      "SetID": "94lff8l",
+      "Name": "Johnny would be pleased",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_79",
+      "SetID": "94lff8l",
+      "Name": "It\u0027s a new record!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_80",
+      "SetID": "94lff8l",
+      "Name": "Misty-eyed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_81",
+      "SetID": "94lff8l",
+      "Name": "SMOKIN\u0027!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_82",
+      "SetID": "94lff8l",
+      "Name": "SMOKIN\u0027 SLIDING!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_83",
+      "SetID": "94lff8l",
+      "Name": "SMOKIN\u0027 SAVAGE SLIDING!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_84",
+      "SetID": "94lff8l",
+      "Name": "Do a barrel roll!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_85",
+      "SetID": "94lff8l",
+      "Name": "The racing car",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_86",
+      "SetID": "94lff8l",
+      "Name": "What do you mean, Drift?!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_87",
+      "SetID": "94lff8l",
+      "Name": "Wow, that was a great corner!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_88",
+      "SetID": "94lff8l",
+      "Name": "Vintage Hero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_89",
+      "SetID": "94lff8l",
+      "Name": "Need for Speed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_90",
+      "SetID": "94lff8l",
+      "Name": "You\u0027re one smooth operator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "94lff8l",
       "IsBase": false,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     },
     {
       "ID": "8117k1o",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:44.7595921+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:53.3947296+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:34.3331787+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:15.8639163+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:19.6650113+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:53.3947346+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:34.3338624+00:00"
 }

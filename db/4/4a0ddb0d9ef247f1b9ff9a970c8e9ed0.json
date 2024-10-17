@@ -2,10 +2,10 @@
   "ID": "4a0ddb0d9ef247f1b9ff9a970c8e9ed0",
   "Name": "Unscripted Fate",
   "ProductSlug": "unscripted-fate-ba012c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T07:57:22.2360825+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:29.9969132+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:02.2559493+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:42.0249727+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:07.648378+00:00"
 }

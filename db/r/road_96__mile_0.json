@@ -5,10 +5,10 @@
   "Ranking_Rating": 1070,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1936,
+  "EOS_Progressed": 1957,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2964,6 +2964,11 @@
       "Time": "2024-10-09T19:04:01.0285974+00:00",
       "NumProgressed": 1936,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-10-17T05:15:46.9363017+00:00",
+      "NumProgressed": 1957,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -2975,7 +2980,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 678
+      "UsersEstimate": 685
     },
     {
       "ID": "completeact2",
@@ -2983,7 +2988,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 600
+      "UsersEstimate": 607
     },
     {
       "ID": "completeact3",
@@ -2991,7 +2996,7 @@
       "Name": "On the Road",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 581
+      "UsersEstimate": 587
     },
     {
       "ID": "findalltapes",
@@ -2999,7 +3004,7 @@
       "Name": "Song Harvester",
       "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "scoremaxrankallrides",
@@ -3007,7 +3012,7 @@
       "Name": "Try Harder",
       "Percentage": 0.8,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "scoreminrankrb1",
@@ -3015,7 +3020,7 @@
       "Name": "Truthseeker",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "scoreminrankrb2",
@@ -3023,7 +3028,7 @@
       "Name": "Freedom",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "scoreminrankrf1",
@@ -3031,7 +3036,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "scoreminrankrf2",
@@ -3039,23 +3044,23 @@
       "Name": "Partners in Crime",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 426
+      "UsersEstimate": 450
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 194
+      "UsersEstimate": 176
     },
     {
       "ID": "scoreminrankrp2",
@@ -3063,7 +3068,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "scoreminrankrp3",
@@ -3071,7 +3076,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "scoreminrankrv1",
@@ -3079,7 +3084,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 213
+      "UsersEstimate": 215
     },
     {
       "ID": "scoreminrankrv2",
@@ -3087,14 +3092,14 @@
       "Name": "Friendzone",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 1936,
+      "Progressed": 1957,
       "Completed": 7
     }
   ],
@@ -3102,8 +3107,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2024-10-12T14:57:41.152178+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:01.0285968+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:46.9363014+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:12.4835744+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:16.0165057+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:01.0286461+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:38.226656+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:46.9363316+00:00"
 }

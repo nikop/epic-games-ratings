@@ -5,10 +5,10 @@
   "Ranking_Rating": 1081,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 187,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Completed": 509,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -6015,34 +6015,562 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 9845,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 0.07,
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:14:00.2010092+00:00",
+      "NumProgressed": 9845,
+      "NumCompleted": 7
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:14:00.2010122+00:00",
+  "TotalAchievements": 65,
+  "TotalAchievementsXP": 1435,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "dd1fbl2",
+      "Name": "Post-Post-Apocalyptic Poster Child",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "1",
+      "SetID": "dd1fbl2",
+      "Name": "Efficiency",
+      "Percentage": 37,
+      "XP": 30,
+      "UsersEstimate": 3643
+    },
+    {
+      "ID": "100",
+      "SetID": "b33gln",
+      "Name": "Hellspring Bonetower",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "101",
+      "SetID": "b33gln",
+      "Name": "Sensus Bonetower",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "102",
+      "SetID": "b33gln",
+      "Name": "Veritas Bonetower",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "103",
+      "SetID": "b33gln",
+      "Name": "Tristitia Bonetower",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "104",
+      "SetID": "b33gln",
+      "Name": "Furorem Bonetower",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "105",
+      "SetID": "b33gln",
+      "Name": "TerrorMania",
+      "Percentage": 0.2,
+      "XP": 90,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "106",
+      "SetID": "b33gln",
+      "Name": "Striking Skulls",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "107",
+      "SetID": "b33gln",
+      "Name": "Flying Skulls",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "12",
+      "SetID": "dd1fbl2",
+      "Name": "Come on and Slam!",
+      "Percentage": 11,
+      "XP": 15,
+      "UsersEstimate": 1083
+    },
+    {
+      "ID": "13",
+      "SetID": "dd1fbl2",
+      "Name": "Pseudo Post-Mortem",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "18",
+      "SetID": "dd1fbl2",
+      "Name": "Off With Their Heads",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "19",
+      "SetID": "dd1fbl2",
+      "Name": "Explosive Ending",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 49
+    },
+    {
+      "ID": "2",
+      "SetID": "dd1fbl2",
+      "Name": "Unloaded",
+      "Percentage": 43,
+      "XP": 15,
+      "UsersEstimate": 4233
+    },
+    {
+      "ID": "23",
+      "SetID": "dd1fbl2",
+      "Name": "Zipper",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "26",
+      "SetID": "dd1fbl2",
+      "Name": "The Bigger They Are...",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 788
+    },
+    {
+      "ID": "27",
+      "SetID": "dd1fbl2",
+      "Name": "Hot Potato",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 984
+    },
+    {
+      "ID": "28",
+      "SetID": "dd1fbl2",
+      "Name": "Goon De-leet",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 689
+    },
+    {
+      "ID": "29",
+      "SetID": "dd1fbl2",
+      "Name": "Peek-a-boo",
+      "Percentage": 16,
+      "XP": 30,
+      "UsersEstimate": 1575
+    },
+    {
+      "ID": "3",
+      "SetID": "dd1fbl2",
+      "Name": "Skeet Shooting",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 591
+    },
+    {
+      "ID": "38",
+      "SetID": "dd1fbl2",
+      "Name": "The Enemy Of My Enemy",
+      "Percentage": 57,
+      "XP": 30,
+      "UsersEstimate": 5612
+    },
+    {
+      "ID": "39",
+      "SetID": "dd1fbl2",
+      "Name": "Bytesize Takedown",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "4",
+      "SetID": "dd1fbl2",
+      "Name": "Hyper-Express",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "40",
+      "SetID": "dd1fbl2",
+      "Name": "Gonevoy",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 1674
+    },
+    {
+      "ID": "41",
+      "SetID": "dd1fbl2",
+      "Name": "Crushed",
+      "Percentage": 0.9,
+      "XP": 30,
+      "UsersEstimate": 89
+    },
+    {
+      "ID": "43",
+      "SetID": "dd1fbl2",
+      "Name": "On The Limit",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "44",
+      "SetID": "dd1fbl2",
+      "Name": "Over 9000",
+      "Percentage": 60,
+      "XP": 15,
+      "UsersEstimate": 5907
+    },
+    {
+      "ID": "45",
+      "SetID": "dd1fbl2",
+      "Name": "Hangtime",
+      "Percentage": 22,
+      "XP": 30,
+      "UsersEstimate": 2166
+    },
+    {
+      "ID": "46",
+      "SetID": "dd1fbl2",
+      "Name": "Acid House",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "48",
+      "SetID": "dd1fbl2",
+      "Name": "Off Balance",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "5",
+      "SetID": "dd1fbl2",
+      "Name": "Postmodern Picasso",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 295
+    },
+    {
+      "ID": "50",
+      "SetID": "dd1fbl2",
+      "Name": "Dozing",
+      "Percentage": 0.4,
+      "XP": 30,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "51",
+      "SetID": "dd1fbl2",
+      "Name": "Goon Fire",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 1181
+    },
+    {
+      "ID": "54",
+      "SetID": "dd1fbl2",
+      "Name": "The Ranger",
+      "Percentage": 41,
+      "XP": 10,
+      "UsersEstimate": 4036
+    },
+    {
+      "ID": "55",
+      "SetID": "dd1fbl2",
+      "Name": "Blackout",
+      "Percentage": 26,
+      "XP": 10,
+      "UsersEstimate": 2560
+    },
+    {
+      "ID": "56",
+      "SetID": "dd1fbl2",
+      "Name": "The Signal",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 1181
+    },
+    {
+      "ID": "57",
+      "SetID": "dd1fbl2",
+      "Name": "Wasteland Celebrity",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 1575
+    },
+    {
+      "ID": "58",
+      "SetID": "dd1fbl2",
+      "Name": "Beneath the Surface",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 984
+    },
+    {
+      "ID": "59",
+      "SetID": "dd1fbl2",
+      "Name": "Ground Control",
+      "Percentage": 14,
+      "XP": 15,
+      "UsersEstimate": 1378
+    },
+    {
+      "ID": "60",
+      "SetID": "dd1fbl2",
+      "Name": "Double Cross",
+      "Percentage": 11,
+      "XP": 15,
+      "UsersEstimate": 1083
+    },
+    {
+      "ID": "61",
+      "SetID": "dd1fbl2",
+      "Name": "Project Dagger",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 886
+    },
+    {
+      "ID": "70",
+      "SetID": "dd1fbl2",
+      "Name": "A Noah Lot",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 2067
+    },
+    {
+      "ID": "73",
+      "SetID": "dd1fbl2",
+      "Name": "Can\u0027t Stop Pop",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "8",
+      "SetID": "dd1fbl2",
+      "Name": "Overly driven",
+      "Percentage": 29,
+      "XP": 45,
+      "UsersEstimate": 2855
+    },
+    {
+      "ID": "80",
+      "SetID": "dd1fbl2",
+      "Name": "Mata Hari Manners",
+      "Percentage": 0.6,
+      "XP": 45,
+      "UsersEstimate": 59
+    },
+    {
+      "ID": "81",
+      "SetID": "dd1fbl2",
+      "Name": "The Bowels of a Rust Giant",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 788
+    },
+    {
+      "ID": "82",
+      "SetID": "dd1fbl2",
+      "Name": "Forlorn Watcher",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 984
+    },
+    {
+      "ID": "83",
+      "SetID": "dd1fbl2",
+      "Name": "Sunken Hope",
+      "Percentage": 14,
+      "XP": 15,
+      "UsersEstimate": 1378
+    },
+    {
+      "ID": "84",
+      "SetID": "dd1fbl2",
+      "Name": "Reaching out to the Past",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 197
+    },
+    {
+      "ID": "85",
+      "SetID": "dd1fbl2",
+      "Name": "Wasteland Vagabond",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 591
+    },
+    {
+      "ID": "86",
+      "SetID": "b33gln",
+      "Name": "Nightmare",
+      "Percentage": 0.3,
+      "XP": 15,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "87",
+      "SetID": "b33gln",
+      "Name": "I am Death Incarnate!",
+      "Percentage": 0.2,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "89",
+      "SetID": "b33gln",
+      "Name": "Heavy Boots",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "9",
+      "SetID": "dd1fbl2",
+      "Name": "THIS IS RAGE",
+      "Percentage": 0.9,
+      "XP": 15,
+      "UsersEstimate": 89
+    },
+    {
+      "ID": "90",
+      "SetID": "b33gln",
+      "Name": "Captive",
+      "Percentage": 0.9,
+      "XP": 15,
+      "UsersEstimate": 89
+    },
+    {
+      "ID": "91",
+      "SetID": "b33gln",
+      "Name": "Within the Walls",
+      "Percentage": 0.7,
+      "XP": 15,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "92",
+      "SetID": "b33gln",
+      "Name": "Slaughter to the Lamb",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 49
+    },
+    {
+      "ID": "93",
+      "SetID": "b33gln",
+      "Name": "Means to an End",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 49
+    },
+    {
+      "ID": "94",
+      "SetID": "b33gln",
+      "Name": "EcoLocation",
+      "Percentage": 0.5,
+      "XP": 15,
+      "UsersEstimate": 49
+    },
+    {
+      "ID": "95",
+      "SetID": "b33gln",
+      "Name": "Recondite",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 59
+    },
+    {
+      "ID": "96",
+      "SetID": "b33gln",
+      "Name": "Ringbender",
+      "Percentage": 0.6,
+      "XP": 15,
+      "UsersEstimate": 59
+    },
+    {
+      "ID": "97",
+      "SetID": "b33gln",
+      "Name": "Friend of Ford",
+      "Percentage": 0.7,
+      "XP": 30,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "98",
+      "SetID": "b33gln",
+      "Name": "Air Drop Down",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "99",
+      "SetID": "b33gln",
+      "Name": "Questionable Sanctity",
+      "Percentage": 0.5,
+      "XP": 30,
+      "UsersEstimate": 49
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b33gln",
       "IsBase": false,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 9845,
+      "Completed": 4
     },
     {
       "ID": "dd1fbl2",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 9845,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
   "LastChanged": "2024-10-16T22:58:55.1063107+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:29.7360844+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:00.2010085+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:26.5102228+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:30.934646+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:29.7360881+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:17.9517537+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:00.2018914+00:00"
 }

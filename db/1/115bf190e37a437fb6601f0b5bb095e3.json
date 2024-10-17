@@ -2,10 +2,10 @@
   "ID": "115bf190e37a437fb6601f0b5bb095e3",
   "Name": null,
   "ProductSlug": "last-oasis-modkit",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -30,5 +30,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T08:57:12.054609+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:44.5627292+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:30.5871475+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:41.0406144+00:00"
 }

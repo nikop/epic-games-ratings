@@ -6,59 +6,59 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~1,471 |
-| My little farm | 61.00% | ~1,136 |
-| Every beginning is difficult | 60.00% | ~1,117 |
-| Gofer | 54.00% | ~1,005 |
-| 3, 2, 1, mine | 53.00% | ~987 |
-| O Captain! My Captain! | 53.00% | ~987 |
-| Seafarer | 48.00% | ~894 |
-| Greed for gold | 41.00% | ~763 |
-| Intangible | 40.00% | ~745 |
-| I'm out of here for a while | 39.00% | ~726 |
-| In a mint condition | 35.00% | ~652 |
-| Licence to Kill | 35.00% | ~652 |
-| Pirates! | 32.00% | ~596 |
-| Collectionitis | 28.00% | ~521 |
-| Megalomania | 27.00% | ~503 |
-| Christening | 26.00% | ~484 |
-| Groundskeeper | 24.00% | ~447 |
-| Wholesale | 20.00% | ~372 |
-| Walk the plank | 18.00% | ~335 |
-| Pearly gates | 17.00% | ~317 |
-| My precious! | 16.00% | ~298 |
-| Conquistador | 13.00% | ~242 |
-| Panic buying | 9.00% | ~168 |
-| Just a scratch | 8.00% | ~149 |
-| All mine! | 8.00% | ~149 |
-| Your vessel, my vessel | 8.00% | ~149 |
-| Paths of Glory | 7.00% | ~130 |
-| Panel of experts | 7.00% | ~130 |
-| Maker | 6.00% | ~112 |
-| Conglomerate | 6.00% | ~112 |
-| The Grande Bouffe | 5.00% | ~93 |
-| Buccaneer | 4.00% | ~74 |
-| Flying Dutchman | 4.00% | ~74 |
-| Premier Maître | 3.00% | ~56 |
-| A true pirate! | 3.00% | ~56 |
-| Overpopulation | 3.00% | ~56 |
-| Supreme conqueror | 2.00% | ~37 |
-| Strategist | 2.00% | ~37 |
-| Master & Commander | 2.00% | ~37 |
-| All aboard! | 2.00% | ~37 |
-| Gold fever | 2.00% | ~37 |
-| Fill it up, please! | 2.00% | ~37 |
+| Cabin boy | 79.00% | ~1,501 |
+| My little farm | 61.00% | ~1,159 |
+| Every beginning is difficult | 61.00% | ~1,159 |
+| Gofer | 54.00% | ~1,026 |
+| 3, 2, 1, mine | 53.00% | ~1,007 |
+| O Captain! My Captain! | 53.00% | ~1,007 |
+| Seafarer | 48.00% | ~912 |
+| Greed for gold | 41.00% | ~779 |
+| Intangible | 40.00% | ~760 |
+| I'm out of here for a while | 39.00% | ~741 |
+| In a mint condition | 35.00% | ~665 |
+| Licence to Kill | 35.00% | ~665 |
+| Pirates! | 32.00% | ~608 |
+| Collectionitis | 28.00% | ~532 |
+| Megalomania | 27.00% | ~513 |
+| Christening | 26.00% | ~494 |
+| Groundskeeper | 24.00% | ~456 |
+| Wholesale | 20.00% | ~380 |
+| Walk the plank | 18.00% | ~342 |
+| Pearly gates | 17.00% | ~323 |
+| My precious! | 16.00% | ~304 |
+| Conquistador | 13.00% | ~247 |
+| Panic buying | 10.00% | ~190 |
+| Your vessel, my vessel | 9.00% | ~171 |
+| Just a scratch | 8.00% | ~152 |
+| All mine! | 8.00% | ~152 |
+| Paths of Glory | 7.00% | ~133 |
+| Panel of experts | 7.00% | ~133 |
+| Maker | 6.00% | ~114 |
+| Conglomerate | 6.00% | ~114 |
+| Buccaneer | 5.00% | ~95 |
+| Flying Dutchman | 5.00% | ~95 |
+| The Grande Bouffe | 5.00% | ~95 |
+| Premier Maître | 3.00% | ~57 |
+| Supreme conqueror | 3.00% | ~57 |
+| A true pirate! | 3.00% | ~57 |
+| Overpopulation | 3.00% | ~57 |
+| Strategist | 2.00% | ~38 |
+| Master & Commander | 2.00% | ~38 |
+| All aboard! | 2.00% | ~38 |
+| Gold fever | 2.00% | ~38 |
+| Fill it up, please! | 2.00% | ~38 |
 | Administrator | 1.00% | ~19 |
 | The customer is always right | 1.00% | ~19 |
 | Capitalist | 0.90% | ~17 |
 | Raiders of the Lost Ark | 0.80% | ~15 |
-| Fleet Admiral | 0.60% | ~11 |
+| Fleet Admiral | 0.70% | ~13 |
 | Parlay? | 0.60% | ~11 |
-| Traffic chaos | 0.50% | ~9 |
+| Traffic chaos | 0.50% | ~10 |
 | Davy Jones' locker | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,862 (Ranked 379)  
-Completed: 1 (0.05%) (Ranked 501)  
+Progressed: 1,900 (Ranked 392)  
+Completed: 1 (0.05%) (Ranked 530)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,6 +309,7 @@ Completed: 1 (0.05%) (Ranked 501)
 | 2024-06-17 | 1,747 | 1 |
 | 2024-08-09 | 1,815 | 1 |
 | 2024-09-14 | 1,862 | 1 |
+| 2024-10-17 | 1,900 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,57 +6,58 @@ Number of Ratings: 29,401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New fear unlocked | 45.00% | ~97,526 |
-| Rock and stone! | 45.00% | ~97,526 |
-| Yoink! | 44.00% | ~95,359 |
-| I'm sure these play a Critical Role | 36.00% | ~78,021 |
-| Varied diet | 29.00% | ~62,850 |
-| Heal this, nature! | 29.00% | ~62,850 |
-| Mediocre pioneering | 27.00% | ~58,515 |
-| Do you want a medal? | 27.00% | ~58,515 |
-| Oddly familiar | 27.00% | ~58,515 |
-| Commencing Project Assembly | 26.00% | ~56,348 |
-| Master Chef | 23.00% | ~49,847 |
-| Now where to spend it... | 21.00% | ~45,512 |
-| Wheeeee! | 19.00% | ~41,178 |
-| Caught them all | 18.00% | ~39,010 |
-| Too fast, Too factory | 18.00% | ~39,010 |
-| Spaghetti master | 14.00% | ~30,341 |
-| Curiosity killed the cat... | 8.00% | ~17,338 |
-| Establish dominance | 8.00% | ~17,338 |
-| That was a close one | 7.00% | ~15,171 |
-| Adequate pioneering | 6.00% | ~13,003 |
-| Are you sure that's coffee? | 5.00% | ~10,836 |
-| Thank you for the music | 5.00% | ~10,836 |
-| Bigger. Better. FICSIT. | 4.00% | ~8,669 |
-| Pioneer's best friend | 4.00% | ~8,669 |
-| Let's see what's out there | 3.00% | ~6,502 |
-| The floor is lava | 2.00% | ~4,334 |
-| Look both ways next time | 2.00% | ~4,334 |
-| All aboard! | 2.00% | ~4,334 |
-| A Concrete Example | 1.00% | ~2,167 |
-| Pretty good pioneering | 1.00% | ~2,167 |
-| Peak gameplay | 1.00% | ~2,167 |
-| Wait, you can pet it? | 0.80% | ~1,734 |
-| What a thrill | 0.80% | ~1,734 |
-| Pipe dream | 0.70% | ~1,517 |
-| Railroad tycoon | 0.60% | ~1,300 |
-| No refunds | 0.50% | ~1,084 |
-| Efficient pioneering | 0.40% | ~867 |
-| ...Satisfactory brought it back | 0.10% | ~217 |
-| Saved the Day, probably | 0.10% | ~217 |
-| Data driven | 0.10% | ~217 |
-| Consume | 0.10% | ~217 |
-| My skin feels itchy all of a sudden... | 0.10% | ~217 |
-| Do you need that? | 0.10% | ~217 |
+| New fear unlocked | 46.00% | ~232,292 |
+| Yoink! | 46.00% | ~232,292 |
+| Rock and stone! | 43.00% | ~217,142 |
+| I'm sure these play a Critical Role | 42.00% | ~212,092 |
+| Varied diet | 37.00% | ~186,843 |
+| Oddly familiar | 36.00% | ~181,794 |
+| Heal this, nature! | 36.00% | ~181,794 |
+| Mediocre pioneering | 35.00% | ~176,744 |
+| Commencing Project Assembly | 33.00% | ~166,644 |
+| Now where to spend it... | 33.00% | ~166,644 |
+| Too fast, Too factory | 33.00% | ~166,644 |
+| Wheeeee! | 32.00% | ~161,594 |
+| Master Chef | 32.00% | ~161,594 |
+| Caught them all | 31.00% | ~156,544 |
+| Spaghetti master | 31.00% | ~156,544 |
+| Do you want a medal? | 26.00% | ~131,295 |
+| Curiosity killed the cat... | 23.00% | ~116,146 |
+| Adequate pioneering | 23.00% | ~116,146 |
+| Bigger. Better. FICSIT. | 20.00% | ~100,996 |
+| That was a close one | 20.00% | ~100,996 |
+| Establish dominance | 19.00% | ~95,947 |
+| A Concrete Example | 14.00% | ~70,697 |
+| The floor is lava | 14.00% | ~70,697 |
+| Thank you for the music | 14.00% | ~70,697 |
+| Pretty good pioneering | 13.00% | ~65,648 |
+| Pipe dream | 12.00% | ~60,598 |
+| All aboard! | 12.00% | ~60,598 |
+| Are you sure that's coffee? | 11.00% | ~55,548 |
+| Pioneer's best friend | 10.00% | ~50,498 |
+| Railroad tycoon | 9.00% | ~45,448 |
+| Let's see what's out there | 9.00% | ~45,448 |
+| Look both ways next time | 8.00% | ~40,399 |
+| Peak gameplay | 7.00% | ~35,349 |
+| Wait, you can pet it? | 6.00% | ~30,299 |
+| Efficient pioneering | 5.00% | ~25,249 |
+| No refunds | 4.00% | ~20,199 |
+| What a thrill | 4.00% | ~20,199 |
+| Saved the Day, probably | 2.00% | ~10,100 |
+| Consume | 2.00% | ~10,100 |
+| My skin feels itchy all of a sudden... | 2.00% | ~10,100 |
+| ...Satisfactory brought it back | 1.00% | ~5,050 |
+| Data driven | 0.70% | ~3,535 |
+| Do you need that? | 0.40% | ~2,020 |
 | Efficiency first | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,724 (Ranked 97)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 504,982 (Ranked 59)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-09-14 | 216,724 | 0 |
+| 2024-10-17 | 504,982 | 0 |
 ## Awards
 Max (Great for Beginners): 29,392  (Ranked 22)  
 Sum: 209,144 (Ranked 16)  

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 67.00% | ~10 |
-| A Chance Encounter? | 27.00% | ~4 |
-| Burnt to a Crisp | 20.00% | ~3 |
-| No Saving Him | 20.00% | ~3 |
-| Back in Black | 7.00% | ~1 |
-| Demons Defeated | 7.00% | ~1 |
-| Epic Gains | 7.00% | ~1 |
-| Explorer | 7.00% | ~1 |
-| How Did it Happen? | 7.00% | ~1 |
-| Purple Peace | 7.00% | ~1 |
+| The First Step | 63.00% | ~10 |
+| A Chance Encounter? | 25.00% | ~4 |
+| Burnt to a Crisp | 19.00% | ~3 |
+| No Saving Him | 19.00% | ~3 |
+| Back in Black | 6.00% | ~1 |
+| Demons Defeated | 6.00% | ~1 |
+| Epic Gains | 6.00% | ~1 |
+| Explorer | 6.00% | ~1 |
+| How Did it Happen? | 6.00% | ~1 |
+| Purple Peace | 6.00% | ~1 |
 | The End, At Last? | 0.00% | ~0 |
 | Evil Unmasked | 0.00% | ~0 |
 | Full Metal Jacket | 0.00% | ~0 |
@@ -23,8 +23,8 @@
 | To the Top | 0.00% | ~0 |
 | It Is What It Is | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 968)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 16 (Ranked 997)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,3 +36,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-04-10 | 11 | 0 |
 | 2024-06-17 | 14 | 0 |
 | 2024-08-20 | 15 | 0 |
+| 2024-10-17 | 16 | 0 |

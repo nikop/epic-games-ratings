@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 653,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 671,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -254,6 +254,11 @@
       "Time": "2024-09-14T14:24:00.3379957+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:12:42.4206671+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -266,7 +271,7 @@
       "Name": "Powertrip",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AFTER_END",
@@ -274,7 +279,7 @@
       "Name": "Paradoxical Pataphysics",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BREAK_CAM",
@@ -282,7 +287,7 @@
       "Name": "Process THIS!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CHAIR_HELL",
@@ -290,7 +295,7 @@
       "Name": "BEWARE THE CHAIR",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DEBUG_GLASSES",
@@ -298,15 +303,15 @@
       "Name": "Nice Job Four-Eyes",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "END_IS_NEVER",
@@ -314,7 +319,7 @@
       "Name": "Playtest Report",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FALL_DEATH",
@@ -322,7 +327,7 @@
       "Name": "Slippin Stanton",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GLITCH",
@@ -336,9 +341,9 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "IMMOVABLE",
@@ -360,17 +365,17 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "MICROWAVE",
@@ -394,7 +399,7 @@
       "Name": "What a Triumph",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "OG_PENDING",
@@ -402,7 +407,7 @@
       "Name": "WE MUST TRAVEL BACK IN TIME",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "OWEN_DEATH",
@@ -418,7 +423,7 @@
       "Name": "Congratulations!",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SPEED",
@@ -450,21 +455,21 @@
       "Name": "No.",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-22T01:57:38.178275+00:00",
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:00.337995+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:42.4206665+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:34.8489778+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:46.9506896+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:00.3380111+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:09.0522553+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:42.4206866+00:00"
 }

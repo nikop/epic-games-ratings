@@ -5,38 +5,38 @@ Rating: 4.48 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 76.00% | ~1,894 |
-| The Teleprobe | 64.00% | ~1,595 |
-| The City | 59.00% | ~1,470 |
-| The field base | 55.00% | ~1,371 |
-| The Alliance | 54.00% | ~1,346 |
-| Survivors | 50.00% | ~1,246 |
-| The Condor | 48.00% | ~1,196 |
-| The End | 47.00% | ~1,171 |
-| The Necroevolution | 37.00% | ~922 |
-| Krauta is alive | 34.00% | ~847 |
-| Peacemaker | 29.00% | ~723 |
-| On her own | 27.00% | ~673 |
-| Fierce fight | 27.00% | ~673 |
-| Volcanologist | 26.00% | ~648 |
-| Evacuation | 25.00% | ~623 |
-| Beyond divisions | 24.00% | ~598 |
-| Flying Objects Operator | 22.00% | ~548 |
-| Another giant | 17.00% | ~424 |
-| I remember everything! | 16.00% | ~399 |
-| I leave no man behind | 12.00% | ~299 |
-| Violent solution | 11.00% | ~274 |
-| Innate curiosity | 9.00% | ~224 |
-| Ubiquitous holes | 8.00% | ~199 |
-| The Invincible | 8.00% | ~199 |
-| Strong objection | 8.00% | ~199 |
-| Got lost again | 7.00% | ~174 |
-| I leave no man behind (no exceptions) | 2.00% | ~50 |
+| The Camp | 76.00% | ~1,931 |
+| The Teleprobe | 64.00% | ~1,626 |
+| The City | 60.00% | ~1,525 |
+| The field base | 55.00% | ~1,398 |
+| The Alliance | 54.00% | ~1,372 |
+| Survivors | 50.00% | ~1,270 |
+| The Condor | 48.00% | ~1,220 |
+| The End | 47.00% | ~1,194 |
+| The Necroevolution | 37.00% | ~940 |
+| Krauta is alive | 34.00% | ~864 |
+| Peacemaker | 29.00% | ~737 |
+| On her own | 27.00% | ~686 |
+| Fierce fight | 27.00% | ~686 |
+| Volcanologist | 26.00% | ~661 |
+| Evacuation | 25.00% | ~635 |
+| Beyond divisions | 24.00% | ~610 |
+| Flying Objects Operator | 22.00% | ~559 |
+| I remember everything! | 17.00% | ~432 |
+| Another giant | 17.00% | ~432 |
+| I leave no man behind | 12.00% | ~305 |
+| Violent solution | 11.00% | ~280 |
+| Innate curiosity | 9.00% | ~229 |
+| Ubiquitous holes | 8.00% | ~203 |
+| The Invincible | 8.00% | ~203 |
+| Strong objection | 8.00% | ~203 |
+| Got lost again | 7.00% | ~178 |
+| I leave no man behind (no exceptions) | 2.00% | ~51 |
 | Convoy list | 1.00% | ~25 |
 | No more mistakes | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,492 (Ranked 351)  
-Completed: 6 (0.24%) (Ranked 410)  
+Progressed: 2,541 (Ranked 363)  
+Completed: 6 (0.24%) (Ranked 434)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,6 +126,7 @@ Completed: 6 (0.24%) (Ranked 410)
 | 2024-08-09 | 2,430 | 4 |
 | 2024-08-20 | 2,441 | 4 |
 | 2024-09-14 | 2,492 | 6 |
+| 2024-10-17 | 2,541 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

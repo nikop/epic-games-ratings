@@ -10,8 +10,8 @@
 | Level 4 Unlocked | 0.00% | ~0 |
 | Level 5 Unlocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,164)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1 (Ranked 1,221)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

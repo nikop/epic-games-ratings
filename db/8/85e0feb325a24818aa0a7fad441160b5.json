@@ -2,10 +2,10 @@
   "ID": "85e0feb325a24818aa0a7fad441160b5",
   "Name": "Heroine Anthem ZERO 2: Scalescars Oath",
   "ProductSlug": "heroineanthem-zero2-scalescars-oath-314616",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-22T06:00:00+00:00",
     "PcReleaseDate": "2024-10-22T06:00:00+00:00",
@@ -23,16 +23,1282 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:11.7918956+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:11.7919061+00:00",
+  "TotalAchievements": 156,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10001",
+      "SetID": "99ch1bk",
+      "Name": "Do It Yourself",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10002",
+      "SetID": "99ch1bk",
+      "Name": "Much More Healthy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10003",
+      "SetID": "99ch1bk",
+      "Name": "100 Instances Of Happiness",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10004",
+      "SetID": "99ch1bk",
+      "Name": "It Will Be Better Next",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10005",
+      "SetID": "99ch1bk",
+      "Name": "She Cooks \u0026 She Brews",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10101",
+      "SetID": "99ch1bk",
+      "Name": "Just A Little Beat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10102",
+      "SetID": "99ch1bk",
+      "Name": "This Is The Hand That Forges",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10103",
+      "SetID": "99ch1bk",
+      "Name": "The Pride Of Sarem",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10201",
+      "SetID": "99ch1bk",
+      "Name": "Modest Savings",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10202",
+      "SetID": "99ch1bk",
+      "Name": "Miser",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10203",
+      "SetID": "99ch1bk",
+      "Name": "First Pot Of Gold",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10301",
+      "SetID": "99ch1bk",
+      "Name": "I Like Marbles",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10302",
+      "SetID": "99ch1bk",
+      "Name": "The Marble Crowd",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10401",
+      "SetID": "99ch1bk",
+      "Name": "Dig, Dig, Dig",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10402",
+      "SetID": "99ch1bk",
+      "Name": "Human Katu Tuku",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10501",
+      "SetID": "99ch1bk",
+      "Name": "Vitality Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10502",
+      "SetID": "99ch1bk",
+      "Name": "Vigorous",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10503",
+      "SetID": "99ch1bk",
+      "Name": "Refreshed And Ready",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10601",
+      "SetID": "99ch1bk",
+      "Name": "Strength Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10602",
+      "SetID": "99ch1bk",
+      "Name": "Valiant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10603",
+      "SetID": "99ch1bk",
+      "Name": "Inexhaustible Stamina",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10701",
+      "SetID": "99ch1bk",
+      "Name": "Agility Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10702",
+      "SetID": "99ch1bk",
+      "Name": "Nimble",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10703",
+      "SetID": "99ch1bk",
+      "Name": "Lungs Of Iron",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10801",
+      "SetID": "99ch1bk",
+      "Name": "Weapon Enthusiast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10802",
+      "SetID": "99ch1bk",
+      "Name": "Weapon Collector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10803",
+      "SetID": "99ch1bk",
+      "Name": "My Arsenal Of Weapons",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10804",
+      "SetID": "99ch1bk",
+      "Name": "Always Room For More",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10805",
+      "SetID": "99ch1bk",
+      "Name": "Fashion Consultant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10806",
+      "SetID": "99ch1bk",
+      "Name": "Master Fire Starter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10807",
+      "SetID": "99ch1bk",
+      "Name": "Master Coal Burner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20001",
+      "SetID": "99ch1bk",
+      "Name": "Dexterity Thief",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20002",
+      "SetID": "99ch1bk",
+      "Name": "Tough Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20003",
+      "SetID": "99ch1bk",
+      "Name": "Player One",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20004",
+      "SetID": "99ch1bk",
+      "Name": "Companion Mentor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20005",
+      "SetID": "99ch1bk",
+      "Name": "Outstanding Skills",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20006",
+      "SetID": "99ch1bk",
+      "Name": "The Paragon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20101",
+      "SetID": "99ch1bk",
+      "Name": "Shama\u2019s Ultimate I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20102",
+      "SetID": "99ch1bk",
+      "Name": "Shama\u2019s Ultimate II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20103",
+      "SetID": "99ch1bk",
+      "Name": "Shama\u2019s Ultimate III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20201",
+      "SetID": "99ch1bk",
+      "Name": "Wanin\u2019s Ultimate I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20202",
+      "SetID": "99ch1bk",
+      "Name": "Wanin\u2019s Ultimate II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20203",
+      "SetID": "99ch1bk",
+      "Name": "Wanin\u2019s Ultimate III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21001",
+      "SetID": "99ch1bk",
+      "Name": "Girl Power",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21002",
+      "SetID": "99ch1bk",
+      "Name": "Parkour Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30001",
+      "SetID": "99ch1bk",
+      "Name": "Faded Promise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30002",
+      "SetID": "99ch1bk",
+      "Name": "Howl Crisis",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30003",
+      "SetID": "99ch1bk",
+      "Name": "The Trace Of Quake",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30004",
+      "SetID": "99ch1bk",
+      "Name": "The Oblivion Locus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30005",
+      "SetID": "99ch1bk",
+      "Name": "The Scars Of Memories",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30006",
+      "SetID": "99ch1bk",
+      "Name": "Reunion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30007",
+      "SetID": "99ch1bk",
+      "Name": "Ichthyosus Curse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30008",
+      "SetID": "99ch1bk",
+      "Name": "Havoc Of Frontier",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30009",
+      "SetID": "99ch1bk",
+      "Name": "Profound Suffocation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30010",
+      "SetID": "99ch1bk",
+      "Name": "The Heart Of Soul",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30011",
+      "SetID": "99ch1bk",
+      "Name": "Half-Scaled Ghost",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30012",
+      "SetID": "99ch1bk",
+      "Name": "Premonition To Nightmare",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30013",
+      "SetID": "99ch1bk",
+      "Name": "Good Or Evil",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30014",
+      "SetID": "99ch1bk",
+      "Name": "The Mark Of Sin",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30015",
+      "SetID": "99ch1bk",
+      "Name": "Dead Sea Mercenaries",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30016",
+      "SetID": "99ch1bk",
+      "Name": "The Heretic Assassin",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30017",
+      "SetID": "99ch1bk",
+      "Name": "Eternal Night Comes",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30018",
+      "SetID": "99ch1bk",
+      "Name": "Whispers Of The False God",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30019",
+      "SetID": "99ch1bk",
+      "Name": "Child Of The Abyss",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30020",
+      "SetID": "99ch1bk",
+      "Name": "Twin Sins",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40101",
+      "SetID": "99ch1bk",
+      "Name": "Who\u0027 s Nightmare?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40102",
+      "SetID": "99ch1bk",
+      "Name": "The Sacrifice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40201",
+      "SetID": "99ch1bk",
+      "Name": "Relentless Chase",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40202",
+      "SetID": "99ch1bk",
+      "Name": "Worm Down",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40301",
+      "SetID": "99ch1bk",
+      "Name": "See Ya, My Ex-Hubby",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40302",
+      "SetID": "99ch1bk",
+      "Name": "Fallen Leaves",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40303",
+      "SetID": "99ch1bk",
+      "Name": "Quick? So?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40304",
+      "SetID": "99ch1bk",
+      "Name": "Breaking Out",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40305",
+      "SetID": "99ch1bk",
+      "Name": "Don\u0027 t Look Back",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40401",
+      "SetID": "99ch1bk",
+      "Name": "Don\u0027 t Worry",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40501",
+      "SetID": "99ch1bk",
+      "Name": "Definitely Not Real",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40502",
+      "SetID": "99ch1bk",
+      "Name": "Dreamfall",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40503",
+      "SetID": "99ch1bk",
+      "Name": "No More Oblivion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40601",
+      "SetID": "99ch1bk",
+      "Name": "Just A Floret",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40602",
+      "SetID": "99ch1bk",
+      "Name": "Could Not Be Safer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40701",
+      "SetID": "99ch1bk",
+      "Name": "Resting In Peace",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40702",
+      "SetID": "99ch1bk",
+      "Name": "Harvest Season",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40801",
+      "SetID": "99ch1bk",
+      "Name": "All For West Tower",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40901",
+      "SetID": "99ch1bk",
+      "Name": "Game Of Hunting",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40902",
+      "SetID": "99ch1bk",
+      "Name": "Catch Me If You Can",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40903",
+      "SetID": "99ch1bk",
+      "Name": "The Most Important Fight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41001",
+      "SetID": "99ch1bk",
+      "Name": "Quality Over Quantity",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41002",
+      "SetID": "99ch1bk",
+      "Name": "Accidental Or Deliberate?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41101",
+      "SetID": "99ch1bk",
+      "Name": "Silence \u0026 Fear",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41102",
+      "SetID": "99ch1bk",
+      "Name": "Gonna Puke",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41201",
+      "SetID": "99ch1bk",
+      "Name": "I Am Not A Scalelous!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41202",
+      "SetID": "99ch1bk",
+      "Name": "Dream That Isn\u2019t A Dream",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41401",
+      "SetID": "99ch1bk",
+      "Name": "Lair Of The King",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41402",
+      "SetID": "99ch1bk",
+      "Name": "Take It Easy!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41501",
+      "SetID": "99ch1bk",
+      "Name": "Midnight Assault",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41601",
+      "SetID": "99ch1bk",
+      "Name": "Terror In The Water",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41602",
+      "SetID": "99ch1bk",
+      "Name": "Mixture Of Scents",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41701",
+      "SetID": "99ch1bk",
+      "Name": "Raging Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41702",
+      "SetID": "99ch1bk",
+      "Name": "Where\u2019s The Body!?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41703",
+      "SetID": "99ch1bk",
+      "Name": "White Old Men",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41801",
+      "SetID": "99ch1bk",
+      "Name": "What Are You?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41802",
+      "SetID": "99ch1bk",
+      "Name": "Please Help Him...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "41901",
+      "SetID": "99ch1bk",
+      "Name": "How Many Must Go?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "42001",
+      "SetID": "99ch1bk",
+      "Name": "Son Of Abyss",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50201",
+      "SetID": "99ch1bk",
+      "Name": "Saturday Night Fever",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50202",
+      "SetID": "99ch1bk",
+      "Name": "Robin Hood",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50203",
+      "SetID": "99ch1bk",
+      "Name": "Information Of Value",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50301",
+      "SetID": "99ch1bk",
+      "Name": "A Uzato Odssey",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50401",
+      "SetID": "99ch1bk",
+      "Name": "Family",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50701",
+      "SetID": "99ch1bk",
+      "Name": "A Busy Tower",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50702",
+      "SetID": "99ch1bk",
+      "Name": "Anything There?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51501",
+      "SetID": "99ch1bk",
+      "Name": "Eye For An Eye",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51601",
+      "SetID": "99ch1bk",
+      "Name": "Pleasant Melodies",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51701",
+      "SetID": "99ch1bk",
+      "Name": "The Samaritan",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51702",
+      "SetID": "99ch1bk",
+      "Name": "Got Change To Spare?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51703",
+      "SetID": "99ch1bk",
+      "Name": "Frozen Stiff",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "51704",
+      "SetID": "99ch1bk",
+      "Name": "Distraught \u0026 Distressed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60101",
+      "SetID": "99ch1bk",
+      "Name": "Pendulums Of Death",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60201",
+      "SetID": "99ch1bk",
+      "Name": "Ouch!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60202",
+      "SetID": "99ch1bk",
+      "Name": "Seduction",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60301",
+      "SetID": "99ch1bk",
+      "Name": "Memories",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60302",
+      "SetID": "99ch1bk",
+      "Name": "The Elopement",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60303",
+      "SetID": "99ch1bk",
+      "Name": "Owner of the brooch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60701",
+      "SetID": "99ch1bk",
+      "Name": "Heavy Rod",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60702",
+      "SetID": "99ch1bk",
+      "Name": "Exquisite Accessory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60801",
+      "SetID": "99ch1bk",
+      "Name": "Busy Right Now",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60802",
+      "SetID": "99ch1bk",
+      "Name": "Operation Gone Awry",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60901",
+      "SetID": "99ch1bk",
+      "Name": "Discretion \u003E Valor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60903",
+      "SetID": "99ch1bk",
+      "Name": "Something About This One...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60904",
+      "SetID": "99ch1bk",
+      "Name": "The Loner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60905",
+      "SetID": "99ch1bk",
+      "Name": "Loyalty? Threat?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60906",
+      "SetID": "99ch1bk",
+      "Name": "The Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "60907",
+      "SetID": "99ch1bk",
+      "Name": "Urgent Request",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61001",
+      "SetID": "99ch1bk",
+      "Name": "Away With You, Pervert!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61301",
+      "SetID": "99ch1bk",
+      "Name": "Fateful Encounter?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61302",
+      "SetID": "99ch1bk",
+      "Name": "To Bind Or Not To Bind",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61303",
+      "SetID": "99ch1bk",
+      "Name": "Feeling Bovine",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61304",
+      "SetID": "99ch1bk",
+      "Name": "Gotta Hide",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61305",
+      "SetID": "99ch1bk",
+      "Name": "Getting Hot In Here!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61306",
+      "SetID": "99ch1bk",
+      "Name": "Bustling Bar I",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61307",
+      "SetID": "99ch1bk",
+      "Name": "Bustling Bar II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61401",
+      "SetID": "99ch1bk",
+      "Name": "What The Gods Have Planned",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61501",
+      "SetID": "99ch1bk",
+      "Name": "The Rebels",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "61701",
+      "SetID": "99ch1bk",
+      "Name": "Imagination Gone Wild",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70201",
+      "SetID": "99ch1bk",
+      "Name": "Is This Really Necessary?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70301",
+      "SetID": "99ch1bk",
+      "Name": "Meowgiko Letter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70701",
+      "SetID": "99ch1bk",
+      "Name": "By West Tower We Shall Stand",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71101",
+      "SetID": "99ch1bk",
+      "Name": "Good To Be Quick",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71301",
+      "SetID": "99ch1bk",
+      "Name": "Can\u2019t Decide...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71401",
+      "SetID": "99ch1bk",
+      "Name": "Reckless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71402",
+      "SetID": "99ch1bk",
+      "Name": "I Choose To Be Dignified",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71501",
+      "SetID": "99ch1bk",
+      "Name": "This Is A Misunderstanding!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71502",
+      "SetID": "99ch1bk",
+      "Name": "Trouble-making Medal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71801",
+      "SetID": "99ch1bk",
+      "Name": "Consequence Of Dawdling",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71802",
+      "SetID": "99ch1bk",
+      "Name": "Deadly Pursuit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "71901",
+      "SetID": "99ch1bk",
+      "Name": "Stubborn Like A Mule",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "99ch1bk",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:11.7919061+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:11.7918953+00:00",
   "LastUpdate_AppInfo": "2024-10-14T13:14:59.4635431+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:35.3972782+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:15.1885635+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:11.7926636+00:00"
 }

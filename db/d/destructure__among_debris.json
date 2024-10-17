@@ -2,10 +2,10 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 608,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 625,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 202,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -881,6 +881,11 @@
       "Time": "2024-09-14T14:19:28.5717912+00:00",
       "NumProgressed": 198,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:09:37.2889342+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -892,7 +897,7 @@
       "Name": "Apprentice Destructor",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "avaricerite",
@@ -906,9 +911,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ball_collector",
@@ -964,23 +969,23 @@
       "Name": "You Have Been Deaded",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -994,9 +999,9 @@
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "legendary_destructor",
@@ -1010,9 +1015,9 @@
       "ID": "machine_man",
       "SetID": "jig50d",
       "Name": "Machine Man",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "master_destructor",
@@ -1026,9 +1031,9 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "monster_of_fashion",
@@ -1042,23 +1047,23 @@
       "ID": "mushroom_man",
       "SetID": "jig50d",
       "Name": "Mushroom Man",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "nomad",
       "SetID": "jig50d",
       "Name": "Nomad",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 127
     },
@@ -1090,17 +1095,17 @@
       "ID": "total_walrus",
       "SetID": "jig50d",
       "Name": "Total Walrus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "true_victory",
       "SetID": "jig50d",
       "Name": "True Victory",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "truest_victory",
@@ -1130,16 +1135,16 @@
       "ID": "what_are_you",
       "SetID": "jig50d",
       "Name": "What Even Are You?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 202,
       "Completed": 2
     }
   ],
@@ -1147,8 +1152,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:28.5717906+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:37.2889338+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.9917123+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:34.1110748+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:28.5718155+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:23.0332165+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:37.2889646+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1b817ce74ae244e08a0b3038e77e5b6b",
   "Name": "Shatterline",
   "ProductSlug": "shatterline-e1cc3c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1059,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-09-07T21:00:00+00:00",
@@ -23,16 +23,258 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:09.6532324+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:09.653236+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BORDER_CONTROL_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Border Guard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_EXPEDITION_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Beginner\u0027s Luck",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_EXPEDITION_EASY_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Zone Farmer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_EXPEDITION_HARD_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Expeditor Extraordinaire",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_EXPEDITION_MEDIUM_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Expeditionary Force",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CYBER_TRAIL_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Bubble Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ESCAPE_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Escape Artist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEADSHOT_SLIDE_KILL_PVP_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Skater Shooter",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HECATOMB_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Patient Zero",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEPHAESTUS_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Scorched Earth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INSIDE_OUT_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Into The Breach",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTRO_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Welcome Aboard",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIBERTY_BASE_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Let Go",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOVEABLE_KILL_PVP_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Situational Warfare",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PORTAL_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "In \u0026 Out",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDLAKE_BASTION_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Hold The Door",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDLAKE_TWINS_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Purple Is The New Red",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RED_LAKE_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Queen Slayer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORMBRINGER_BACKSTAB_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Enter Sandman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORMBRINGER_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Wayward Son",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORMBRINGER_QUICKSAND_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Old Times Sake",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUNKEN_LAB_MISSION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Bigger Fish",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_CLASSIC_PTB_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Rush B",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_CONQUEST_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Conquistador",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_DOMINATION_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Bannerman",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_ESCORT_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Train Robber",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_RTDM_3V3_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Versus The World",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_TDM_COMPLETED_ACHIEVEMENT",
+      "SetID": "1kin5k",
+      "Name": "Victor Ludorum",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1kin5k",
+      "IsBase": true,
+      "Progressed": 9,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:09.6532359+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:09.6532322+00:00",
   "LastUpdate_AppInfo": "2024-10-10T21:57:22.4318136+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:09.8564959+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:10.240415+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:09.6538403+00:00"
 }

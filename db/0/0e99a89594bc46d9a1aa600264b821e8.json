@@ -2,10 +2,10 @@
   "ID": "0e99a89594bc46d9a1aa600264b821e8",
   "Name": "Welcome to Empyreum",
   "ProductSlug": "welcome-to-empyreum-f29a56",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1104,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-20T07:00:00+00:00",
     "PcReleaseDate": "2024-09-20T07:00:00+00:00",
@@ -69,9 +69,9 @@
       "ID": "12",
       "SetID": "6k6c6l0",
       "Name": "We are stuffed!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -197,9 +197,9 @@
       "ID": "27",
       "SetID": "6k6c6l0",
       "Name": "Golden Fall",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "28",
@@ -213,17 +213,17 @@
       "ID": "29",
       "SetID": "6k6c6l0",
       "Name": "No more dust",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3",
       "SetID": "6k6c6l0",
       "Name": "Diet starts tomorrow...",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30",
@@ -340,8 +340,8 @@
   ],
   "FirstSeen": "2024-10-06T09:57:39.5479166+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:24.7750753+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:21.6859998+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:24.0260899+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:15.7628546+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:52.689465+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:21.6860337+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:16:24.0261147+00:00"
 }

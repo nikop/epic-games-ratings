@@ -5,24 +5,24 @@ Rating: 4.23 (Ranked 1,113)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 83.00% | ~11,331 |
-| Cluster One | 73.00% | ~9,966 |
-| Another Brick in the Wall (Part 1) | 48.00% | ~6,553 |
-| Comfortably Numb | 30.00% | ~4,096 |
-| High Hopes | 30.00% | ~4,096 |
-| Echoes | 28.00% | ~3,823 |
-| Another Brick in the Wall (Part 2) | 24.00% | ~3,276 |
-| Biding My Time | 21.00% | ~2,867 |
-| The Gunner's Dream | 18.00% | ~2,457 |
-| Another Brick in the Wall (Part 3) | 14.00% | ~1,911 |
-| Burning Bridges | 4.00% | ~546 |
-| The Last Few Bricks | 4.00% | ~546 |
-| The Dogs of War | 2.00% | ~273 |
-| I'm a King Bee | 1.00% | ~137 |
+| Is There Anybody Out There? | 83.00% | ~11,520 |
+| Cluster One | 73.00% | ~10,132 |
+| Another Brick in the Wall (Part 1) | 48.00% | ~6,662 |
+| Comfortably Numb | 30.00% | ~4,164 |
+| High Hopes | 30.00% | ~4,164 |
+| Echoes | 28.00% | ~3,886 |
+| Another Brick in the Wall (Part 2) | 24.00% | ~3,331 |
+| Biding My Time | 21.00% | ~2,915 |
+| The Gunner's Dream | 18.00% | ~2,498 |
+| Another Brick in the Wall (Part 3) | 14.00% | ~1,943 |
+| Burning Bridges | 4.00% | ~555 |
+| The Last Few Bricks | 4.00% | ~555 |
+| The Dogs of War | 2.00% | ~278 |
+| I'm a King Bee | 1.00% | ~139 |
 | What Shall We Do Now? | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,652 (Ranked 242)  
-Completed: 15 (0.11%) (Ranked 458)  
+Progressed: 13,879 (Ranked 253)  
+Completed: 15 (0.11%) (Ranked 482)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 15 (0.11%) (Ranked 458)
 | 2024-08-09 | 13,293 | 15 |
 | 2024-08-20 | 13,408 | 15 |
 | 2024-09-14 | 13,652 | 15 |
+| 2024-10-17 | 13,879 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

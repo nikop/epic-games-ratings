@@ -2,10 +2,10 @@
   "ID": "8f343ffd415a4fa28a2b24c4ac3c9b22",
   "Name": "Mountain Racing",
   "ProductSlug": "mountain-racing-47178d",
-  "Ranking_EOS_Progress": 913,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 940,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-04T18:30:00+00:00",
     "PcReleaseDate": "2014-12-18T18:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
-  "EOS_Completed": 5,
+  "EOS_Progressed": 25,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.73,
+  "EOS_Completed_Percentage": 24,
   "EosHistory": [
     {
       "Time": "2023-12-02T04:03:05.9551343+00:00",
@@ -119,6 +119,11 @@
       "Time": "2024-08-20T20:08:43.6555487+00:00",
       "NumProgressed": 22,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-10-17T05:11:21.2229436+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-02T04:03:05.9562297+00:00",
@@ -129,55 +134,55 @@
       "ID": "MOUNTAIN_COIN_1",
       "SetID": "679bn1o",
       "Name": "Beginner",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "MOUNTAIN_COIN_2",
       "SetID": "679bn1o",
       "Name": "Climber",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MOUNTAIN_COIN_3",
       "SetID": "679bn1o",
       "Name": "Champion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MOUNTAIN_COIN_4",
       "SetID": "679bn1o",
       "Name": "Genius",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MOUNTAIN_COIN_5",
       "SetID": "679bn1o",
       "Name": "Super Genius",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "679bn1o",
       "IsBase": true,
-      "Progressed": 22,
-      "Completed": 5
+      "Progressed": 25,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2024-02-10T13:57:14.414539+00:00",
   "FirstSeenAchievements": "2023-12-02T04:03:05.9562297+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:38.643129+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:21.2229431+00:00",
   "LastUpdate_AppInfo": "2024-10-13T14:56:57.8275331+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:59.3964541+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:38.6431382+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:21.222949+00:00"
 }

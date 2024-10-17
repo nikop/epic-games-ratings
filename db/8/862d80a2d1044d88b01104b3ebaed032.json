@@ -5,10 +5,10 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 271,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-19T15:00:00+00:00",
     "PcReleaseDate": "2024-09-19T15:00:00+00:00",
@@ -1106,29 +1106,421 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 9649,
+  "EOS_Completed": 64,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 0.66,
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:13:20.4095205+00:00",
+      "NumProgressed": 9649,
+      "NumCompleted": 64
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:13:20.4095233+00:00",
+  "TotalAchievements": 48,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achv00",
+      "SetID": "2odlkad",
+      "Name": "The Bear and the Wolf",
+      "Percentage": 2,
+      "XP": 105,
+      "UsersEstimate": 193
+    },
+    {
+      "ID": "achv01",
+      "SetID": "2odlkad",
+      "Name": "The Florist",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 579
+    },
+    {
+      "ID": "achv02",
+      "SetID": "2odlkad",
+      "Name": "The Librarian",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 579
+    },
+    {
+      "ID": "achv03",
+      "SetID": "2odlkad",
+      "Name": "The Curator",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 482
+    },
+    {
+      "ID": "achv04",
+      "SetID": "2odlkad",
+      "Name": "How it Started",
+      "Percentage": 60,
+      "XP": 10,
+      "UsersEstimate": 5789
+    },
+    {
+      "ID": "achv05",
+      "SetID": "2odlkad",
+      "Name": "Spit Shine",
+      "Percentage": 80,
+      "XP": 10,
+      "UsersEstimate": 7719
+    },
+    {
+      "ID": "achv06",
+      "SetID": "2odlkad",
+      "Name": "Spartan Ways",
+      "Percentage": 46,
+      "XP": 25,
+      "UsersEstimate": 4439
+    },
+    {
+      "ID": "achv07",
+      "SetID": "2odlkad",
+      "Name": "Full Belly",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 1158
+    },
+    {
+      "ID": "achv08",
+      "SetID": "2odlkad",
+      "Name": "Knock off the Rust",
+      "Percentage": 83,
+      "XP": 10,
+      "UsersEstimate": 8009
+    },
+    {
+      "ID": "achv09",
+      "SetID": "2odlkad",
+      "Name": "A Grizzly Encounter",
+      "Percentage": 89,
+      "XP": 10,
+      "UsersEstimate": 8588
+    },
+    {
+      "ID": "achv10",
+      "SetID": "2odlkad",
+      "Name": "Blood Debt",
+      "Percentage": 90,
+      "XP": 10,
+      "UsersEstimate": 8684
+    },
+    {
+      "ID": "achv11",
+      "SetID": "2odlkad",
+      "Name": "Backyard Brawl",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 6079
+    },
+    {
+      "ID": "achv12",
+      "SetID": "2odlkad",
+      "Name": "Root of the Problem",
+      "Percentage": 60,
+      "XP": 10,
+      "UsersEstimate": 5789
+    },
+    {
+      "ID": "achv13",
+      "SetID": "2odlkad",
+      "Name": "The Cauldron",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 6079
+    },
+    {
+      "ID": "achv14",
+      "SetID": "2odlkad",
+      "Name": "Off the Leash",
+      "Percentage": 45,
+      "XP": 10,
+      "UsersEstimate": 4342
+    },
+    {
+      "ID": "achv15",
+      "SetID": "2odlkad",
+      "Name": "Comeuppance",
+      "Percentage": 41,
+      "XP": 10,
+      "UsersEstimate": 3956
+    },
+    {
+      "ID": "achv16",
+      "SetID": "2odlkad",
+      "Name": "Better Together",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 3474
+    },
+    {
+      "ID": "achv17",
+      "SetID": "2odlkad",
+      "Name": "Phalanx",
+      "Percentage": 13,
+      "XP": 25,
+      "UsersEstimate": 1254
+    },
+    {
+      "ID": "achv18",
+      "SetID": "2odlkad",
+      "Name": "Collector",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 289
+    },
+    {
+      "ID": "achv19",
+      "SetID": "2odlkad",
+      "Name": "Dragon Slayer",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 1158
+    },
+    {
+      "ID": "achv20",
+      "SetID": "2odlkad",
+      "Name": "How it\u0027s Going",
+      "Percentage": 18,
+      "XP": 25,
+      "UsersEstimate": 1737
+    },
+    {
+      "ID": "achv21",
+      "SetID": "2odlkad",
+      "Name": "Funeral for a Friend",
+      "Percentage": 20,
+      "XP": 25,
+      "UsersEstimate": 1930
+    },
+    {
+      "ID": "achv22",
+      "SetID": "2odlkad",
+      "Name": "Rebel Leader",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 2895
+    },
+    {
+      "ID": "achv23",
+      "SetID": "2odlkad",
+      "Name": "New Friends",
+      "Percentage": 42,
+      "XP": 10,
+      "UsersEstimate": 4053
+    },
+    {
+      "ID": "achv24",
+      "SetID": "2odlkad",
+      "Name": "Full Gufa",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 3184
+    },
+    {
+      "ID": "achv25",
+      "SetID": "2odlkad",
+      "Name": "Making Amends",
+      "Percentage": 47,
+      "XP": 25,
+      "UsersEstimate": 4535
+    },
+    {
+      "ID": "achv26",
+      "SetID": "2odlkad",
+      "Name": "It Was a Good Day",
+      "Percentage": 40,
+      "XP": 25,
+      "UsersEstimate": 3860
+    },
+    {
+      "ID": "achv27",
+      "SetID": "2odlkad",
+      "Name": "Invasive Species",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 1351
+    },
+    {
+      "ID": "achv28",
+      "SetID": "2odlkad",
+      "Name": "Besties",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 3184
+    },
+    {
+      "ID": "achv29",
+      "SetID": "2odlkad",
+      "Name": "Rightful Place",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 1351
+    },
+    {
+      "ID": "achv30",
+      "SetID": "2odlkad",
+      "Name": "Pure of Hart",
+      "Percentage": 15,
+      "XP": 25,
+      "UsersEstimate": 1447
+    },
+    {
+      "ID": "achv31",
+      "SetID": "2odlkad",
+      "Name": "Trials by Fire",
+      "Percentage": 9,
+      "XP": 25,
+      "UsersEstimate": 868
+    },
+    {
+      "ID": "achv32",
+      "SetID": "2odlkad",
+      "Name": "Ready for Commitment",
+      "Percentage": 13,
+      "XP": 50,
+      "UsersEstimate": 1254
+    },
+    {
+      "ID": "achv33",
+      "SetID": "2odlkad",
+      "Name": "Ragnar\u00F6k",
+      "Percentage": 34,
+      "XP": 50,
+      "UsersEstimate": 3281
+    },
+    {
+      "ID": "achv34",
+      "SetID": "2odlkad",
+      "Name": "Grave Mistake",
+      "Percentage": 9,
+      "XP": 50,
+      "UsersEstimate": 868
+    },
+    {
+      "ID": "achv35",
+      "SetID": "2odlkad",
+      "Name": "The True Queen",
+      "Percentage": 9,
+      "XP": 50,
+      "UsersEstimate": 868
+    },
+    {
+      "ID": "achv36",
+      "SetID": "2odlkad",
+      "Name": "God of Hope",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 675
+    },
+    {
+      "ID": "achv37",
+      "SetID": "2odlkad",
+      "Name": "Invitation Accepted",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 1930
+    },
+    {
+      "ID": "achv38",
+      "SetID": "2odlkad",
+      "Name": "Dark Odyssey",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 1351
+    },
+    {
+      "ID": "achv39",
+      "SetID": "2odlkad",
+      "Name": "Blood, Sweat, and T\u00FDr",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 1158
+    },
+    {
+      "ID": "achv40",
+      "SetID": "2odlkad",
+      "Name": "Scry Me a River",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 1061
+    },
+    {
+      "ID": "achv41",
+      "SetID": "2odlkad",
+      "Name": "Wayfarer",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 579
+    },
+    {
+      "ID": "achv42",
+      "SetID": "2odlkad",
+      "Name": "No Kratos, No Scry",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 868
+    },
+    {
+      "ID": "achv43",
+      "SetID": "2odlkad",
+      "Name": "Fight at the Forum",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 193
+    },
+    {
+      "ID": "achv44",
+      "SetID": "2odlkad",
+      "Name": "Easy Come, Easy Go",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 386
+    },
+    {
+      "ID": "achv45",
+      "SetID": "2odlkad",
+      "Name": "Understood the Assignment",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 289
+    },
+    {
+      "ID": "achv46",
+      "SetID": "2odlkad",
+      "Name": "Style Points",
+      "Percentage": 16,
+      "XP": 10,
+      "UsersEstimate": 1544
+    },
+    {
+      "ID": "achv47",
+      "SetID": "2odlkad",
+      "Name": "You Again?",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 386
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2odlkad",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 9649,
+      "Completed": 64
     }
   ],
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
   "LastChanged": "2024-10-16T23:58:15.7882714+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:20.40952+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.3692219+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:34.3660414+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:20.4103184+00:00"
 }

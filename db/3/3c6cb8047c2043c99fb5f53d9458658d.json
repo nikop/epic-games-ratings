@@ -2,10 +2,10 @@
   "ID": "3c6cb8047c2043c99fb5f53d9458658d",
   "Name": "MiLE HiGH TAXi",
   "ProductSlug": "mile-high-taxi-fef5aa",
-  "Ranking_EOS_Progress": 837,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 853,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-21T16:00:00+00:00",
     "PcReleaseDate": "2023-03-13T21:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -43,6 +43,11 @@
     {
       "Time": "2024-09-14T14:16:02.1796155+00:00",
       "NumProgressed": 39,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:07:45.1523142+00:00",
+      "NumProgressed": 45,
       "NumCompleted": 0
     }
   ],
@@ -80,13 +85,13 @@
       "Name": "Passenger Delivered",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "GAMEPLAY_PASSENGER_ACHIEVEMENT_2",
       "SetID": "a86f5ap",
       "Name": "Starter! 10 Passengers",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -134,7 +139,7 @@
       "ID": "TIME_1",
       "SetID": "a86f5ap",
       "Name": "5 Minutes",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -166,9 +171,9 @@
       "ID": "TUTORIAL_ACHIEVEMENT_1",
       "SetID": "a86f5ap",
       "Name": "Tutorial Complete",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "TUTORIAL_ACHIEVEMENT_2",
@@ -191,14 +196,14 @@
     {
       "ID": "a86f5ap",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-17T13:59:29.1684831+00:00",
   "FirstSeenAchievements": "2024-06-17T16:10:32.0624838+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:02.1796149+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:45.1523138+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:38.5960713+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:30.2055798+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:02.1796269+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:45.1523266+00:00"
 }

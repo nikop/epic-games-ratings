@@ -2,10 +2,10 @@
   "ID": "45b137b2ecd14e01a54b52e575f1632d",
   "Name": "Caravan SandWitch",
   "ProductSlug": "caravan-sandwitch-05ff58",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 768,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-12T15:00:00+00:00",
     "PcReleaseDate": "2024-09-12T15:00:00+00:00",
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 83,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2024-09-14T14:15:10.5176639+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:27.985709+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-09-14T14:15:10.5176732+00:00",
@@ -45,223 +50,223 @@
       "ID": "MASTER_COMPONENTS",
       "SetID": "83bl93p",
       "Name": "Global Recycling",
-      "Percentage": 8,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 25
     },
     {
       "ID": "MASTER_EXPLORATION",
       "SetID": "83bl93p",
       "Name": "Explorer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "MASTER_INTERESTPOINT",
       "SetID": "83bl93p",
       "Name": "Completionist",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "MASTER_MAP",
       "SetID": "83bl93p",
       "Name": "Scouting",
-      "Percentage": 8,
+      "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 32
     },
     {
       "ID": "MASTER_NPCS",
       "SetID": "83bl93p",
       "Name": "Ambassador",
-      "Percentage": 15,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 34
     },
     {
       "ID": "MASTER_QUESTS",
       "SetID": "83bl93p",
       "Name": "Community Service",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "MASTER_VANITEMS",
       "SetID": "83bl93p",
       "Name": "New Look",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "MASTER_VANJUMP",
       "SetID": "83bl93p",
       "Name": "Suspension Test",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "MISC_DIRTYWATER",
       "SetID": "83bl93p",
       "Name": "Questionable Waters",
-      "Percentage": 31,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 61
     },
     {
       "ID": "MISC_GOAL",
       "SetID": "83bl93p",
       "Name": "Goal!!!",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "MISC_HOPSCOTCH",
       "SetID": "83bl93p",
       "Name": "Heart of a Child",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MISC_TOADHEAD",
       "SetID": "83bl93p",
       "Name": "Toad\u0027s-eye View",
-      "Percentage": 15,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 25
     },
     {
       "ID": "STATS_FIRSTCOMPONENT",
       "SetID": "83bl93p",
       "Name": "Recycling",
-      "Percentage": 46,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 69
     },
     {
       "ID": "STATS_GRAPPLEDOORS",
       "SetID": "83bl93p",
       "Name": "Sensational Entrance",
-      "Percentage": 23,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 43
     },
     {
       "ID": "STATS_SAUGEJUMPS",
       "SetID": "83bl93p",
       "Name": "Experienced Athlete",
-      "Percentage": 46,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 62
     },
     {
       "ID": "STATS_VANDISTANCE",
       "SetID": "83bl93p",
       "Name": "Van Driver",
-      "Percentage": 46,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 56
     },
     {
       "ID": "STATS_VANJUMP",
       "SetID": "83bl93p",
       "Name": "Gliding",
-      "Percentage": 15,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 42
     },
     {
       "ID": "STORY_CHOICEGARANCE",
       "SetID": "83bl93p",
       "Name": "The Source of the Signal",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "STORY_CHOICENEFLE",
       "SetID": "83bl93p",
       "Name": "Safe and Sound",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "STORY_NORETURN",
       "SetID": "83bl93p",
       "Name": "Rescue Plan",
-      "Percentage": 0,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 28
     },
     {
       "ID": "STORY_STATIONEND",
       "SetID": "83bl93p",
       "Name": "Mind the Gap",
-      "Percentage": 85,
+      "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 79
     },
     {
       "ID": "STORY_USEANTENNA",
       "SetID": "83bl93p",
       "Name": "Scanning",
-      "Percentage": 38,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 59
     },
     {
       "ID": "STORY_USEGRAPPLE",
       "SetID": "83bl93p",
       "Name": "Forced Entry",
-      "Percentage": 31,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 44
     },
     {
       "ID": "STORY_USEHACK",
       "SetID": "83bl93p",
       "Name": "Cyber Intrusion",
-      "Percentage": 15,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 36
     },
     {
       "ID": "STORY_USEPOWERCABLE",
       "SetID": "83bl93p",
       "Name": "Emergency Generator",
-      "Percentage": 8,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 29
     },
     {
       "ID": "STORY_USEZIPLINE",
       "SetID": "83bl93p",
       "Name": "Learning the Ropes",
-      "Percentage": 15,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "83bl93p",
       "IsBase": true,
-      "Progressed": 13,
-      "Completed": 0
+      "Progressed": 83,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-09-13T03:02:21.0233673+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:10.5176731+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:10.517663+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:27.9857082+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:21.9077163+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:34.2763428+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:10.5185743+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:13.4607449+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:27.9857283+00:00"
 }

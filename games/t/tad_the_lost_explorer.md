@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| DuckTales in Veracruz | 200.00% | ~2 |
+| DuckTales in Veracruz | 100.00% | ~2 |
+| Cauldrons of Duty | 50.00% | ~1 |
 | National Petrographic | 0.00% | ~0 |
 | A three megapincel camera | 0.00% | ~0 |
-| Cauldrons of Duty | 0.00% | ~0 |
 | Finish your homework | 0.00% | ~0 |
 | Archaeology enthusiast | 0.00% | ~0 |
 | Mortadeo and Pincelón | 0.00% | ~0 |
@@ -32,9 +32,10 @@
 | Another life of Bryan | 0.00% | ~0 |
 | Turboamazing archaeologist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,164)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 2 (Ranked 1,168)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1 | 0 |
+| 2024-10-17 | 2 | 0 |

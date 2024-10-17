@@ -2,10 +2,10 @@
   "ID": "ecd687d6493b470b91aba584bac9bf3d",
   "Name": "Silent Hunter 5: Battle of the Atlantic Gold Edition",
   "ProductSlug": "silent-hunter-5-battle-of-the-atlantic-gold-edition",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-29T13:58:54.0205259+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:13.2534001+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:34.3192036+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:35.1130551+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:48.402578+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:05.3760997+00:00"
 }

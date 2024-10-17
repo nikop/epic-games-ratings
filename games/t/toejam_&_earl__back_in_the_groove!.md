@@ -5,42 +5,41 @@ Rating: 4.33 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~6,123 |
-| Fall Fest | 8.00% | ~4,899 |
-| Thrill Seeker | 7.00% | ~4,286 |
-| Flying Present Catcher | 6.00% | ~3,674 |
-| HFZ Goober | 6.00% | ~3,674 |
-| Sunflower Master | 5.00% | ~3,062 |
-| Hi Fiver | 3.00% | ~1,837 |
-| A Timely Splash | 3.00% | ~1,837 |
-| Backer Visitor | 2.00% | ~1,225 |
-| Hate That Randomizer | 2.00% | ~1,225 |
-| Feet on Funkotron | 2.00% | ~1,225 |
-| Elf Chaser | 1.00% | ~612 |
-| Fool Me Twice | 1.00% | ~612 |
-| Old School Jammin' | 1.00% | ~612 |
-| Wakey Wakey | 1.00% | ~612 |
-| Level Diver | 0.90% | ~551 |
-| Gimme My Presents Back! | 0.80% | ~490 |
-| Cleaning Out Santa's Sack | 0.80% | ~490 |
-| Beaten By A Little Girl | 0.70% | ~429 |
-| Teamwork Rules | 0.70% | ~429 |
-| Totally Bummed Again | 0.70% | ~429 |
-| Piece O' Cake | 0.60% | ~367 |
-| I Can't Believe I've Done This | 0.50% | ~306 |
-| Harsh Love | 0.50% | ~306 |
-| Made It Through | 0.50% | ~306 |
-| Boom Box Baby | 0.40% | ~245 |
-| Flying Present Ultimate Master | 0.40% | ~245 |
-| Ridiculously Generous | 0.40% | ~245 |
-| I'm A Total Saint | 0.40% | ~245 |
+| Food Taster | 10.00% | ~6,147 |
+| Fall Fest | 8.00% | ~4,918 |
+| Thrill Seeker | 7.00% | ~4,303 |
+| Flying Present Catcher | 6.00% | ~3,688 |
+| HFZ Goober | 6.00% | ~3,688 |
+| Sunflower Master | 5.00% | ~3,074 |
+| Hi Fiver | 3.00% | ~1,844 |
+| A Timely Splash | 3.00% | ~1,844 |
+| Backer Visitor | 2.00% | ~1,229 |
+| Hate That Randomizer | 2.00% | ~1,229 |
+| Feet on Funkotron | 2.00% | ~1,229 |
+| Elf Chaser | 1.00% | ~615 |
+| Fool Me Twice | 1.00% | ~615 |
+| Old School Jammin' | 1.00% | ~615 |
+| Wakey Wakey | 1.00% | ~615 |
+| Level Diver | 0.90% | ~553 |
+| Gimme My Presents Back! | 0.80% | ~492 |
+| Cleaning Out Santa's Sack | 0.80% | ~492 |
+| Teamwork Rules | 0.80% | ~492 |
+| Beaten By A Little Girl | 0.70% | ~430 |
+| Totally Bummed Again | 0.70% | ~430 |
+| Piece O' Cake | 0.60% | ~369 |
+| I Can't Believe I've Done This | 0.50% | ~307 |
+| Harsh Love | 0.50% | ~307 |
+| Made It Through | 0.50% | ~307 |
+| Boom Box Baby | 0.40% | ~246 |
+| Flying Present Ultimate Master | 0.40% | ~246 |
+| Ridiculously Generous | 0.40% | ~246 |
+| I'm A Total Saint | 0.40% | ~246 |
 | Map Explorer | 0.30% | ~184 |
 | Nine Funkotronians | 0.30% | ~184 |
 | Struck By Love | 0.30% | ~184 |
 | The Worst Possible Luck | 0.30% | ~184 |
-| Rhythm Star | 0.20% | ~122 |
-| Broken Present Risk Taker | 0.20% | ~122 |
-| Truly Evil | 0.20% | ~122 |
+| Broken Present Risk Taker | 0.20% | ~123 |
+| Truly Evil | 0.20% | ~123 |
 | Achievement Achiever | 0.10% | ~61 |
 | Boom Box Wipeout | 0.10% | ~61 |
 | Can't Touch This | 0.10% | ~61 |
@@ -52,11 +51,12 @@ Rating: 4.33 (Ranked 1,008)
 | Mad Hatter | 0.10% | ~61 |
 | 99 Problems (But A Buck Ain't One) | 0.10% | ~61 |
 | Pacifist Victory | 0.10% | ~61 |
+| Rhythm Star | 0.10% | ~61 |
 | Why Do I Keep Doing That? | 0.10% | ~61 |
 | Hey, You Did It! | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,234 (Ranked 174)  
-Completed: 6 (0.01%) (Ranked 563)  
+Progressed: 61,472 (Ranked 178)  
+Completed: 6 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -345,6 +345,7 @@ Completed: 6 (0.01%) (Ranked 563)
 | 2024-08-09 | 60,949 | 6 |
 | 2024-08-20 | 61,045 | 6 |
 | 2024-09-14 | 61,234 | 6 |
+| 2024-10-17 | 61,472 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

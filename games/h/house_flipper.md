@@ -6,32 +6,32 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~25,178 |
-| Strongman | 30.00% | ~7,951 |
-| Alpha Male | 20.00% | ~5,301 |
-| Just Enough | 19.00% | ~5,036 |
-| Pro-creative | 18.00% | ~4,771 |
-| Family man | 14.00% | ~3,710 |
-| Worth Every Penny | 13.00% | ~3,445 |
-| Junior Estate Agent | 13.00% | ~3,445 |
-| Mystery | 10.00% | ~2,650 |
-| Artistic soul | 10.00% | ~2,650 |
-| Estate Agent | 6.00% | ~1,590 |
-| Millionaire | 6.00% | ~1,590 |
-| Perfectionist | 4.00% | ~1,060 |
-| I'm Belieber | 3.00% | ~795 |
-| Knock, knock | 1.00% | ~265 |
-| You do it wrong | 1.00% | ~265 |
-| Wall Street Shark | 0.90% | ~239 |
-| Negotiator | 0.90% | ~239 |
-| Car Mechanic | 0.80% | ~212 |
-| Game Over | 0.80% | ~212 |
-| Nerd | 0.60% | ~159 |
-| Do it ASAP | 0.60% | ~159 |
-| Senior Estate Agent | 0.60% | ~159 |
+| First money | 95.00% | ~25,386 |
+| Strongman | 30.00% | ~8,017 |
+| Alpha Male | 20.00% | ~5,344 |
+| Just Enough | 19.00% | ~5,077 |
+| Pro-creative | 19.00% | ~5,077 |
+| Family man | 14.00% | ~3,741 |
+| Worth Every Penny | 14.00% | ~3,741 |
+| Junior Estate Agent | 13.00% | ~3,474 |
+| Mystery | 11.00% | ~2,939 |
+| Artistic soul | 10.00% | ~2,672 |
+| Estate Agent | 6.00% | ~1,603 |
+| Millionaire | 6.00% | ~1,603 |
+| Perfectionist | 4.00% | ~1,069 |
+| I'm Belieber | 3.00% | ~802 |
+| Knock, knock | 1.00% | ~267 |
+| You do it wrong | 1.00% | ~267 |
+| Wall Street Shark | 0.90% | ~240 |
+| Negotiator | 0.90% | ~240 |
+| Car Mechanic | 0.80% | ~214 |
+| Game Over | 0.80% | ~214 |
+| Senior Estate Agent | 0.70% | ~187 |
+| Nerd | 0.60% | ~160 |
+| Do it ASAP | 0.60% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,503 (Ranked 205)  
-Completed: 24 (0.09%) (Ranked 469)  
+Progressed: 26,722 (Ranked 209)  
+Completed: 24 (0.09%) (Ranked 492)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,6 +317,7 @@ Completed: 24 (0.09%) (Ranked 469)
 | 2024-06-17 | 24,584 | 21 |
 | 2024-08-09 | 26,177 | 24 |
 | 2024-09-14 | 26,503 | 24 |
+| 2024-10-17 | 26,722 | 24 |
 ## Awards
 Max (Great for Beginners): 418  (Ranked 291)  
 Sum: 2,558 (Ranked 240)  

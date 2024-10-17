@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~161 |
-| Fire in the... nevermind | 50.00% | ~152 |
-| Haute cuisine | 47.00% | ~142 |
-| I didn't do it! | 42.00% | ~127 |
-| Demolition expert | 41.00% | ~124 |
-| Open up wide | 38.00% | ~115 |
-| Keep away from children | 35.00% | ~106 |
-| Wooooooow! | 35.00% | ~106 |
-| Shadow on the wall | 34.00% | ~103 |
-| Artistic fool | 31.00% | ~94 |
-| Let the boot talk | 31.00% | ~94 |
-| Chapter II | 26.00% | ~79 |
-| Bubblekillerfamily | 25.00% | ~76 |
-| Like a moth in the Wind | 25.00% | ~76 |
-| Chapter III | 24.00% | ~73 |
-| Quite a buggy game | 23.00% | ~70 |
-| Achoo!! | 23.00% | ~70 |
-| Handyman | 21.00% | ~64 |
-| Pacifist | 21.00% | ~64 |
-| Fastidious Clown | 19.00% | ~58 |
-| Mirror mirror on the wall... | 19.00% | ~58 |
-| Home is where the heart is | 18.00% | ~55 |
-| It's not easy being green! | 17.00% | ~52 |
-| Master of Thermodynamics | 15.00% | ~45 |
-| Death is a part of life | 14.00% | ~42 |
-| Unfullfilled dreams | 12.00% | ~36 |
-| To err is human... | 11.00% | ~33 |
-| Useless but beautiful | 10.00% | ~30 |
-| Nothing can stop me | 9.00% | ~27 |
-| Mumbo Jumbo | 9.00% | ~27 |
-| It's nothing personal | 9.00% | ~27 |
-| Where there is life, there is hope | 8.00% | ~24 |
-| The hands of a healer | 7.00% | ~21 |
-| Lollipop | 6.00% | ~18 |
-| Artistic master | 5.00% | ~15 |
-| Sadist | 5.00% | ~15 |
-| Fartjokes! | 5.00% | ~15 |
-| Shut up clown! | 5.00% | ~15 |
+| Chapter I | 54.00% | ~168 |
+| Fire in the... nevermind | 52.00% | ~162 |
+| Haute cuisine | 48.00% | ~149 |
+| Demolition expert | 42.00% | ~131 |
+| I didn't do it! | 42.00% | ~131 |
+| Open up wide | 38.00% | ~118 |
+| Keep away from children | 36.00% | ~112 |
+| Wooooooow! | 36.00% | ~112 |
+| Shadow on the wall | 35.00% | ~109 |
+| Artistic fool | 31.00% | ~96 |
+| Let the boot talk | 31.00% | ~96 |
+| Chapter II | 27.00% | ~84 |
+| Bubblekillerfamily | 25.00% | ~78 |
+| Chapter III | 25.00% | ~78 |
+| Like a moth in the Wind | 25.00% | ~78 |
+| Quite a buggy game | 24.00% | ~75 |
+| Achoo!! | 23.00% | ~72 |
+| Handyman | 22.00% | ~68 |
+| Pacifist | 22.00% | ~68 |
+| Mirror mirror on the wall... | 20.00% | ~62 |
+| Fastidious Clown | 19.00% | ~59 |
+| It's not easy being green! | 18.00% | ~56 |
+| Home is where the heart is | 18.00% | ~56 |
+| Master of Thermodynamics | 15.00% | ~47 |
+| Death is a part of life | 14.00% | ~44 |
+| Unfullfilled dreams | 13.00% | ~40 |
+| To err is human... | 12.00% | ~37 |
+| Useless but beautiful | 10.00% | ~31 |
+| Nothing can stop me | 9.00% | ~28 |
+| Mumbo Jumbo | 9.00% | ~28 |
+| It's nothing personal | 9.00% | ~28 |
+| Where there is life, there is hope | 8.00% | ~25 |
+| The hands of a healer | 7.00% | ~22 |
+| Lollipop | 6.00% | ~19 |
+| Artistic master | 5.00% | ~16 |
+| Sadist | 5.00% | ~16 |
+| Fartjokes! | 5.00% | ~16 |
+| Shut up clown! | 5.00% | ~16 |
 | Life is but a dream | 4.00% | ~12 |
 | Done. First! | 3.00% | ~9 |
 | Summit attempt | 2.00% | ~6 |
@@ -51,8 +51,8 @@
 | Sherlock Holmes | 1.00% | ~3 |
 | Do not feed the fish! | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 552)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 311 (Ranked 568)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 285 | 0 |
 | 2024-08-20 | 290 | 0 |
 | 2024-09-14 | 303 | 0 |
+| 2024-10-17 | 311 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

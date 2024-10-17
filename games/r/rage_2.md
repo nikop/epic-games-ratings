@@ -3,6 +3,81 @@
 [View Rawdata](../../db/r/rage_2.json)  
 Rating: 4.26 (Ranked 1,081)  
 Number of Ratings: 4,311  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Over 9000 | 60.00% | ~5,907 |
+| The Enemy Of My Enemy | 57.00% | ~5,612 |
+| Unloaded | 43.00% | ~4,233 |
+| The Ranger | 41.00% | ~4,036 |
+| Efficiency | 37.00% | ~3,643 |
+| Overly driven | 29.00% | ~2,855 |
+| Blackout | 26.00% | ~2,560 |
+| Hangtime | 22.00% | ~2,166 |
+| A Noah Lot | 21.00% | ~2,067 |
+| Gonevoy | 17.00% | ~1,674 |
+| Peek-a-boo | 16.00% | ~1,575 |
+| Wasteland Celebrity | 16.00% | ~1,575 |
+| Ground Control | 14.00% | ~1,378 |
+| Sunken Hope | 14.00% | ~1,378 |
+| Goon Fire | 12.00% | ~1,181 |
+| The Signal | 12.00% | ~1,181 |
+| Come on and Slam! | 11.00% | ~1,083 |
+| Double Cross | 11.00% | ~1,083 |
+| Hot Potato | 10.00% | ~984 |
+| Beneath the Surface | 10.00% | ~984 |
+| Forlorn Watcher | 10.00% | ~984 |
+| Project Dagger | 9.00% | ~886 |
+| The Bigger They Are... | 8.00% | ~788 |
+| The Bowels of a Rust Giant | 8.00% | ~788 |
+| Goon De-leet | 7.00% | ~689 |
+| Skeet Shooting | 6.00% | ~591 |
+| Wasteland Vagabond | 6.00% | ~591 |
+| Postmodern Picasso | 3.00% | ~295 |
+| Pseudo Post-Mortem | 2.00% | ~197 |
+| Bytesize Takedown | 2.00% | ~197 |
+| Hyper-Express | 2.00% | ~197 |
+| Acid House | 2.00% | ~197 |
+| Off Balance | 2.00% | ~197 |
+| Can't Stop Pop | 2.00% | ~197 |
+| Reaching out to the Past | 2.00% | ~197 |
+| Crushed | 0.90% | ~89 |
+| THIS IS RAGE | 0.90% | ~89 |
+| Captive | 0.90% | ~89 |
+| Within the Walls | 0.70% | ~69 |
+| Friend of Ford | 0.70% | ~69 |
+| Mata Hari Manners | 0.60% | ~59 |
+| Recondite | 0.60% | ~59 |
+| Ringbender | 0.60% | ~59 |
+| Explosive Ending | 0.50% | ~49 |
+| Slaughter to the Lamb | 0.50% | ~49 |
+| Means to an End | 0.50% | ~49 |
+| EcoLocation | 0.50% | ~49 |
+| Questionable Sanctity | 0.50% | ~49 |
+| Dozing | 0.40% | ~39 |
+| Nightmare | 0.30% | ~30 |
+| Hellspring Bonetower | 0.20% | ~20 |
+| Sensus Bonetower | 0.20% | ~20 |
+| Veritas Bonetower | 0.20% | ~20 |
+| Tristitia Bonetower | 0.20% | ~20 |
+| Furorem Bonetower | 0.20% | ~20 |
+| TerrorMania | 0.20% | ~20 |
+| Striking Skulls | 0.20% | ~20 |
+| Off With Their Heads | 0.20% | ~20 |
+| Zipper | 0.20% | ~20 |
+| On The Limit | 0.20% | ~20 |
+| I am Death Incarnate! | 0.20% | ~20 |
+| Air Drop Down | 0.20% | ~20 |
+| Post-Post-Apocalyptic Poster Child | 0.10% | ~10 |
+| Flying Skulls | 0.10% | ~10 |
+| Heavy Boots | 0.10% | ~10 |
+## Popularity (Based on EOS Achievements)
+Progressed: 9,845 (Ranked 265)  
+Completed: 7 (0.07%) (Ranked 509)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-10-17 | 9,845 | 7 |
 ## Awards
 Max (Great Boss Battles): 3,529  (Ranked 115)  
 Sum: 4,763 (Ranked 187)  

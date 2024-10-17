@@ -2,10 +2,10 @@
   "ID": "55c1dafc343149419579a9939de53424",
   "Name": "Croc\u0027s World Construction Kit 2",
   "ProductSlug": "crocs-world-construction-kit-2-378153",
-  "Ranking_EOS_Progress": 958,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-19T05:00:00+00:00",
     "PcReleaseDate": "2022-02-03T23:00:00+00:00",
@@ -190,8 +190,8 @@
   ],
   "FirstSeen": "2023-05-21T03:57:06.5022404+00:00",
   "FirstSeenAchievements": "2023-05-12T15:00:39.345223+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:09.3120173+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:33.4462448+00:00",
   "LastUpdate_AppInfo": "2024-10-13T13:11:34.9775301+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:52.5635469+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:09.3120245+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:42.6996926+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:33.4462553+00:00"
 }

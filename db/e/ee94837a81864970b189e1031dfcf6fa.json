@@ -2,13 +2,13 @@
   "ID": "ee94837a81864970b189e1031dfcf6fa",
   "Name": "Expeditions: A MudRunner Game",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
-  "Ranking_Rating": 1151,
+  "Ranking_Rating": 1150,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 563,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -1196,7 +1196,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 33665,
+  "EOS_Progressed": 39179,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1236,6 +1236,11 @@
       "Time": "2024-09-14T14:23:14.4691322+00:00",
       "NumProgressed": 33665,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-10-17T05:11:50.1827559+00:00",
+      "NumProgressed": 39179,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:52.4220924+00:00",
@@ -1248,7 +1253,7 @@
       "Name": "First Love",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4713
+      "UsersEstimate": 5485
     },
     {
       "ID": "1",
@@ -1256,7 +1261,7 @@
       "Name": "Truck-Curious",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1175
     },
     {
       "ID": "10",
@@ -1264,7 +1269,7 @@
       "Name": "Truck Aficionado",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 337
+      "UsersEstimate": 392
     },
     {
       "ID": "11",
@@ -1272,7 +1277,7 @@
       "Name": "Lucky Find",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 6733
+      "UsersEstimate": 7836
     },
     {
       "ID": "12",
@@ -1280,7 +1285,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 784
     },
     {
       "ID": "13",
@@ -1288,7 +1293,7 @@
       "Name": "Globetrotter",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 337
+      "UsersEstimate": 392
     },
     {
       "ID": "14",
@@ -1296,7 +1301,7 @@
       "Name": "Into the Wild",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 10436
+      "UsersEstimate": 12145
     },
     {
       "ID": "15",
@@ -1304,7 +1309,7 @@
       "Name": "Wild Colorado",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 4376
+      "UsersEstimate": 5093
     },
     {
       "ID": "16",
@@ -1312,15 +1317,15 @@
       "Name": "Arizona Skies",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 202
+      "UsersEstimate": 235
     },
     {
       "ID": "17",
       "SetID": "79f4pl7",
       "Name": "Eurotrip",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 168
+      "UsersEstimate": 157
     },
     {
       "ID": "18",
@@ -1328,7 +1333,7 @@
       "Name": "Seasoned Explorer",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 157
     },
     {
       "ID": "19",
@@ -1336,7 +1341,7 @@
       "Name": "The Mechanic",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11109
+      "UsersEstimate": 12929
     },
     {
       "ID": "2",
@@ -1344,7 +1349,7 @@
       "Name": "Frankentruck",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 392
     },
     {
       "ID": "3",
@@ -1352,7 +1357,7 @@
       "Name": "The Truck of Theseus",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 78
     },
     {
       "ID": "4",
@@ -1360,7 +1365,7 @@
       "Name": "Fat Cat",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2351
     },
     {
       "ID": "5",
@@ -1368,7 +1373,7 @@
       "Name": "All the Money in the World",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1175
     },
     {
       "ID": "6",
@@ -1376,7 +1381,7 @@
       "Name": "10 Ready. 20 Set. 30 Go Back to 10?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3918
     },
     {
       "ID": "7",
@@ -1384,7 +1389,7 @@
       "Name": "Start. Crash. Recover",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 67
+      "UsersEstimate": 78
     },
     {
       "ID": "8",
@@ -1392,7 +1397,7 @@
       "Name": "Management Approves",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 10100
+      "UsersEstimate": 11754
     },
     {
       "ID": "9",
@@ -1400,14 +1405,14 @@
       "Name": "Anchor Management",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "79f4pl7",
       "IsBase": true,
-      "Progressed": 33665,
+      "Progressed": 39179,
       "Completed": 5
     }
   ],
@@ -1415,8 +1420,8 @@
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
   "LastChanged": "2024-10-16T16:00:21.0838854+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:14.4691317+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:50.1827555+00:00",
   "LastUpdate_AppInfo": "2024-10-11T15:57:21.1601871+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:45.605604+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:14.4691445+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:07.717276+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:50.182767+00:00"
 }

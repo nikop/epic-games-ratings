@@ -2,10 +2,10 @@
   "ID": "777b78ab6336430396cfe89d7081efba",
   "Name": "Draw \u0026 Guess",
   "ProductSlug": "draw-and-guess-cfd5fc",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-03-09T18:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T21:57:06.3787922+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:12.6254552+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:05:51.9386656+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:34.5600056+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:16.4515412+00:00"
 }

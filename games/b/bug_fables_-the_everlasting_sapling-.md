@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 67.00% | ~107 |
-| Vicious Spider | 43.00% | ~68 |
-| Chapter 2 Complete | 43.00% | ~68 |
-| Chapter 3 Complete | 32.00% | ~51 |
-| The Guardian | 31.00% | ~49 |
-| Chapter 4 Complete | 24.00% | ~38 |
-| Heavy Duty | 22.00% | ~35 |
-| Chapter 5 Complete | 20.00% | ~32 |
-| Chapter 6 Complete | 19.00% | ~30 |
-| The Truth | 19.00% | ~30 |
-| Reconciliation | 19.00% | ~30 |
+| Chapter 1 Complete | 67.00% | ~109 |
+| Vicious Spider | 44.00% | ~72 |
+| Chapter 2 Complete | 44.00% | ~72 |
+| The Guardian | 33.00% | ~54 |
+| Chapter 3 Complete | 33.00% | ~54 |
+| Chapter 4 Complete | 25.00% | ~41 |
+| Heavy Duty | 23.00% | ~37 |
+| Chapter 5 Complete | 21.00% | ~34 |
+| Chapter 6 Complete | 20.00% | ~33 |
+| Reconciliation | 20.00% | ~33 |
+| The Truth | 19.00% | ~31 |
+| Chapter 7 Complete | 18.00% | ~29 |
 | Plant Enchanter | 18.00% | ~29 |
-| Always Watchful | 17.00% | ~27 |
-| Chapter 7 Complete | 17.00% | ~27 |
-| The Terror | 16.00% | ~25 |
+| Always Watchful | 17.00% | ~28 |
+| The Terror | 16.00% | ~26 |
 | Bounty Hunter | 15.00% | ~24 |
-| All Geared Up | 14.00% | ~22 |
-| Battle Ready | 13.00% | ~21 |
-| The End | 12.00% | ~19 |
-| Good Deed | 12.00% | ~19 |
+| All Geared Up | 14.00% | ~23 |
+| The End | 12.00% | ~20 |
+| Good Deed | 12.00% | ~20 |
+| Battle Ready | 12.00% | ~20 |
 | Music Collector | 10.00% | ~16 |
-| Cooking Maestro | 9.00% | ~14 |
-| Pro Explorers | 9.00% | ~14 |
-| Ultimate Team! | 9.00% | ~14 |
+| Cooking Maestro | 9.00% | ~15 |
+| Pro Explorers | 9.00% | ~15 |
+| Ultimate Team! | 9.00% | ~15 |
 | Gamer | 7.00% | ~11 |
 | Field Researcher | 6.00% | ~10 |
 | Helping Hand | 6.00% | ~10 |
-| Medal Collector | 4.00% | ~6 |
-| Our job's done! | 4.00% | ~6 |
+| Medal Collector | 4.00% | ~7 |
+| Our job's done! | 4.00% | ~7 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 646)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 163 (Ranked 663)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 154 | 0 |
 | 2024-08-20 | 157 | 0 |
 | 2024-09-14 | 159 | 0 |
+| 2024-10-17 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

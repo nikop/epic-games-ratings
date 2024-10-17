@@ -2,10 +2,10 @@
   "ID": "4a4eb74c23e14ae380f41a109b25cf1f",
   "Name": "Miwa: The Sacred Fox",
   "ProductSlug": "miwa-the-sacred-fox-89da48",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1104,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-14T22:00:00+00:00",
     "PcReleaseDate": "2023-06-17T22:00:00+00:00",
@@ -399,8 +399,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-24T12:05:18.0820913+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:05:32.9353318+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:11.3559228+00:00",
   "LastUpdate_AppInfo": "2024-10-15T14:57:15.268585+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:49.033811+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:05:32.9353633+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:36.7261173+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:11.3559545+00:00"
 }

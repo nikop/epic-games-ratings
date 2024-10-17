@@ -6,42 +6,42 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 86.00% | ~904 |
-| Completed Act I | 32.00% | ~336 |
-| 5 Upgrades in Stronghold | 28.00% | ~294 |
-| First 5 Levels of Od Nua | 26.00% | ~273 |
-| Make an Adventurer | 24.00% | ~252 |
-| Completed Act II | 18.00% | ~189 |
+| Kickstarter Backer | 87.00% | ~911 |
+| Completed Act I | 32.00% | ~335 |
+| 5 Upgrades in Stronghold | 28.00% | ~293 |
+| First 5 Levels of Od Nua | 26.00% | ~272 |
+| Make an Adventurer | 24.00% | ~251 |
+| Completed Act II | 18.00% | ~188 |
 | Enchanter | 16.00% | ~168 |
 | Disposition | 16.00% | ~168 |
 | The Watcher With Eight Friends | 16.00% | ~168 |
 | Middle 5 Levels of Od Nua | 16.00% | ~168 |
-| Super Murderer | 15.00% | ~158 |
-| All Upgrades in Stronghold | 15.00% | ~158 |
-| Soulbinder | 15.00% | ~158 |
+| Super Murderer | 15.00% | ~157 |
+| All Upgrades in Stronghold | 15.00% | ~157 |
+| Soulbinder | 15.00% | ~157 |
 | The Heir of Caed Nua | 14.00% | ~147 |
-| Last 5 Levels of Od Nua | 13.00% | ~137 |
+| Last 5 Levels of Od Nua | 13.00% | ~136 |
 | Bounty Hunter | 12.00% | ~126 |
 | The Giftbearer | 12.00% | ~126 |
 | Trappy | 10.00% | ~105 |
 | Herald of the Old Flame | 10.00% | ~105 |
 | Watcher at the Breach | 10.00% | ~105 |
-| Completed Act III | 9.00% | ~95 |
+| Completed Act III | 9.00% | ~94 |
+| Fish Guts and Murder | 9.00% | ~94 |
 | Alchemist | 8.00% | ~84 |
 | The Siege of Crägholdt | 8.00% | ~84 |
-| Fish Guts and Murder | 8.00% | ~84 |
-| A Voice from the Deep | 7.00% | ~74 |
+| A Voice from the Deep | 7.00% | ~73 |
 | Explorer | 6.00% | ~63 |
 | Called to their Labor | 6.00% | ~63 |
-| Chef | 5.00% | ~53 |
-| Scribe | 5.00% | ~53 |
-| From the Clouds to the Depths | 5.00% | ~53 |
-| Appease All of the Gods | 5.00% | ~53 |
-| Terror of the White March | 5.00% | ~53 |
+| Chef | 5.00% | ~52 |
+| Scribe | 5.00% | ~52 |
+| From the Clouds to the Depths | 5.00% | ~52 |
+| Appease All of the Gods | 5.00% | ~52 |
+| Terror of the White March | 5.00% | ~52 |
 | The Storied Adventurer | 4.00% | ~42 |
-| Won the Game!!! | 3.00% | ~32 |
+| Won the Game!!! | 3.00% | ~31 |
 | Among the Moss and Peat | 2.00% | ~21 |
-| Legendary Enchanter | 1.00% | ~11 |
+| Legendary Enchanter | 1.00% | ~10 |
 | Path of the Damned | 0.70% | ~7 |
 | Expert | 0.70% | ~7 |
 | Solo | 0.60% | ~6 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051 (Ranked 423)  
-Completed: 2 (0.19%) (Ranked 422)  
+Progressed: 1,047 (Ranked 436)  
+Completed: 2 (0.19%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,6 +125,7 @@ Completed: 2 (0.19%) (Ranked 422)
 | 2024-06-17 | 1,061 | 2 |
 | 2024-08-09 | 1,058 | 2 |
 | 2024-09-14 | 1,051 | 2 |
+| 2024-10-17 | 1,047 | 2 |
 ## Awards
 Max (Character Customization): 2,119  (Ranked 142)  
 Sum: 5,241 (Ranked 175)  

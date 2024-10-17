@@ -7,7 +7,7 @@
 | Lonely Bunny | 97.00% | ~340 |
 | Debris Finder | 83.00% | ~290 |
 | Debris Gatherer | 59.00% | ~206 |
-| Beginner Decorator | 49.00% | ~172 |
+| Beginner Decorator | 50.00% | ~175 |
 | Helpful Bot-terfly | 46.00% | ~161 |
 | Bunny Party | 35.00% | ~122 |
 | Cozy Autumn | 35.00% | ~122 |
@@ -23,8 +23,8 @@
 | Bunny Fluffle | 7.00% | ~25 |
 | Quack quack | 5.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 537)  
-Completed: 11 (3.14%) (Ranked 182)  
+Progressed: 350 (Ranked 555)  
+Completed: 11 (3.14%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

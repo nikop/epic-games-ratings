@@ -2,10 +2,10 @@
   "ID": "27660b74cfde424bb757f518b171b30f",
   "Name": "Kunkun Terror Express",
   "ProductSlug": "exit-kun-91f97e",
-  "Ranking_EOS_Progress": 1164,
+  "Ranking_EOS_Progress": 1221,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-04T00:00:00+00:00",
     "PcReleaseDate": "2024-06-24T03:00:00+00:00",
@@ -89,8 +89,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:15:06.3933444+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:06.3933361+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:22.2011999+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:28.2109974+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:22.820798+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:06.3944188+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:04.9369916+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:22.2012092+00:00"
 }

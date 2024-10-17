@@ -2,10 +2,10 @@
   "ID": "a4ec942bf76b48e0a1f3d27008d0ae93",
   "Name": "refugees:shelter",
   "ProductSlug": "refugees-shelter-0c849d",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-15T04:57:05.8974754+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:20.175279+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:10.1171501+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:27.3924648+00:00"
 }

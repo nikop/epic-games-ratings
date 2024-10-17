@@ -2,10 +2,10 @@
   "ID": "d4d23beda95c4823bb8e187260ba340c",
   "Name": "ZUBASH",
   "ProductSlug": "zubash-cf4c1a",
-  "Ranking_EOS_Progress": 1118,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1168,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-14T12:00:00+00:00",
     "PcReleaseDate": "2024-06-14T12:00:00+00:00",
@@ -44,9 +44,9 @@
       "ID": "CarriedItem_1",
       "SetID": "5p4jlil",
       "Name": "Item Carrier",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CarriedItem_10",
@@ -60,9 +60,9 @@
       "ID": "CarriedItem_2",
       "SetID": "5p4jlil",
       "Name": "Item Carrier",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CarriedItem_3",
@@ -204,9 +204,9 @@
       "ID": "PlayedStages_1",
       "SetID": "5p4jlil",
       "Name": "First Stage Completed",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PlayedStages_2",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2024-06-14T15:57:23.390188+00:00",
   "FirstSeenAchievements": "2023-12-25T12:08:43.3039724+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:40.1872735+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:50.1035858+00:00",
   "LastUpdate_AppInfo": "2024-10-10T23:57:14.09822+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:04.0819816+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:40.1872881+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:50.1036012+00:00"
 }

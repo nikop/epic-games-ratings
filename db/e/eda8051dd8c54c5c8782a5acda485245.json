@@ -2,10 +2,10 @@
   "ID": "eda8051dd8c54c5c8782a5acda485245",
   "Name": "Unlock The King",
   "ProductSlug": "unlock-the-king-f05e24",
-  "Ranking_EOS_Progress": 642,
-  "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 654,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-29T16:30:00+00:00",
     "PcReleaseDate": "2019-11-20T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 167,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.49,
+  "EOS_Completed_Percentage": 10.18,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:41.7782027+00:00",
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:27:29.8500233+00:00",
       "NumProgressed": 162,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-10-17T05:14:40.125534+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:41.7782252+00:00",
@@ -65,9 +70,9 @@
       "ID": "LEVEL_10",
       "SetID": "d4g1a6a",
       "Name": "MLK is free!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_100",
@@ -81,9 +86,9 @@
       "ID": "LEVEL_20",
       "SetID": "d4g1a6a",
       "Name": "Make Alexander great again",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_30",
@@ -91,7 +96,7 @@
       "Name": "Romanov\u0027s survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "LEVEL_40",
@@ -99,7 +104,7 @@
       "Name": "Hamurabi is looking after you",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_50",
@@ -107,7 +112,7 @@
       "Name": "New Sun King",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_60",
@@ -123,7 +128,7 @@
       "Name": "The Konqueror",
       "Percentage": 15,
       "XP": 130,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_80",
@@ -131,29 +136,29 @@
       "Name": "No more homo homini lupus",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_90",
       "SetID": "d4g1a6a",
       "Name": "Leviathan",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 180,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4g1a6a",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 167,
       "Completed": 17
     }
   ],
   "FirstSeen": "2024-05-31T04:58:29.2143899+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:41.7782251+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:29.8500224+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:40.1255334+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:55.1598036+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:52.9761147+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:29.8500332+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:40.1255448+00:00"
 }

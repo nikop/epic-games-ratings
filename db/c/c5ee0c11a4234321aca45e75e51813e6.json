@@ -2,10 +2,10 @@
   "ID": "c5ee0c11a4234321aca45e75e51813e6",
   "Name": "1971 Indian Naval Front",
   "ProductSlug": "1971-indian-naval-front-9cc046",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-10T15:30:01.341+00:00",
     "PcReleaseDate": "2023-12-11T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-22T19:00:32.0951801+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:22.5376462+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:22.1317884+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:44.0585616+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:29.5454597+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:58.5863067+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 415,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 287,
-  "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 7,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -4658,16 +4658,21 @@
       "Count": 164
     }
   ],
-  "EOS_Progressed": 8967,
-  "EOS_Completed": 168,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.87,
+  "EOS_Progressed": 10178,
+  "EOS_Completed": 210,
+  "EOS_NewPlayers": 1211,
+  "EOS_NewCompleters": 42,
+  "EOS_Completed_Percentage": 2.06,
   "EosHistory": [
     {
       "Time": "2024-10-09T19:03:32.105648+00:00",
       "NumProgressed": 8967,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2024-10-17T05:15:39.5928086+00:00",
+      "NumProgressed": 10178,
+      "NumCompleted": 210
     }
   ],
   "AchievementsAdded": "2024-10-09T19:03:32.105651+00:00",
@@ -4680,15 +4685,15 @@
       "Name": "Prophet of the Whispering God",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 628
+      "UsersEstimate": 712
     },
     {
       "ID": "WF_ACH_02_SHIELDBEARER",
       "SetID": "cd7co7j",
       "Name": "Shieldbearer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 4663
+      "UsersEstimate": 5191
     },
     {
       "ID": "WF_ACH_03_GALLEYSLAVE",
@@ -4696,7 +4701,7 @@
       "Name": "Galley Slave",
       "Percentage": 19,
       "XP": 125,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1934
     },
     {
       "ID": "WF_ACH_04_FAITHFUL",
@@ -4704,15 +4709,15 @@
       "Name": "Faithful",
       "Percentage": 26,
       "XP": 75,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2646
     },
     {
       "ID": "WF_ACH_05_VAULTBREAKER",
       "SetID": "cd7co7j",
       "Name": "Vault Breaker",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 2959
+      "UsersEstimate": 3461
     },
     {
       "ID": "WF_ACH_06_FALLENPREYER",
@@ -4720,7 +4725,7 @@
       "Name": "Fallen Preyer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1323
     },
     {
       "ID": "WF_ACH_07_MYSTERIA",
@@ -4728,15 +4733,15 @@
       "Name": "Mysteria",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 4842
+      "UsersEstimate": 5496
     },
     {
       "ID": "WF_ACH_08_PROPHECY",
       "SetID": "cd7co7j",
       "Name": "Prophecy",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4842
+      "UsersEstimate": 5394
     },
     {
       "ID": "WF_ACH_09_GNOSIS",
@@ -4744,7 +4749,7 @@
       "Name": "Gnosis",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 6994
+      "UsersEstimate": 7939
     },
     {
       "ID": "WF_ACH_10_RESEARCH",
@@ -4752,7 +4757,7 @@
       "Name": "Research",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 8250
+      "UsersEstimate": 9364
     },
     {
       "ID": "WF_ACH_11_ARCANA",
@@ -4760,15 +4765,15 @@
       "Name": "Arcana",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 5829
+      "UsersEstimate": 6616
     },
     {
       "ID": "WF_ACH_12_MUSHROOMS",
       "SetID": "cd7co7j",
       "Name": "Mushrooms",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1527
     },
     {
       "ID": "WF_ACH_13_ARMAMENTARIUM",
@@ -4776,15 +4781,15 @@
       "Name": "Armamentarium",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 5739
+      "UsersEstimate": 6514
     },
     {
       "ID": "WF_ACH_14_MIRAGE",
       "SetID": "cd7co7j",
       "Name": "Mirage",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6921
     },
     {
       "ID": "WF_ACH_15_CURSEDCHEST",
@@ -4792,7 +4797,7 @@
       "Name": "Cursed Chest",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 2869
+      "UsersEstimate": 3257
     },
     {
       "ID": "WF_ACH_16_EVENT",
@@ -4800,7 +4805,7 @@
       "Name": "Event",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4784
     },
     {
       "ID": "WF_ACH_17_GATEKEEPER",
@@ -4808,23 +4813,23 @@
       "Name": "Gatekeeper",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1934
     },
     {
       "ID": "WF_ACH_18_MASTERSENTINEL",
       "SetID": "cd7co7j",
       "Name": "Master Sentinel",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1527
     },
     {
       "ID": "WF_ACH_19_LOSTANDFOUND",
       "SetID": "cd7co7j",
       "Name": "Lost and Found",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5560
+      "UsersEstimate": 6412
     },
     {
       "ID": "WF_ACH_20_SOULSIGIL",
@@ -4832,23 +4837,23 @@
       "Name": "Soul Sigil",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4753
+      "UsersEstimate": 5394
     }
   ],
   "AchievementSets": [
     {
       "ID": "cd7co7j",
       "IsBase": true,
-      "Progressed": 8967,
-      "Completed": 168
+      "Progressed": 10178,
+      "Completed": 210
     }
   ],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
   "FirstSeenAchievements": "2024-09-14T14:19:34.9419485+00:00",
   "LastChanged": "2024-10-16T20:59:19.7406973+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:32.1056476+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:39.5928081+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:25.4316926+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:19.1995762+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:32.1068107+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:59.3850835+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:39.5928219+00:00"
 }

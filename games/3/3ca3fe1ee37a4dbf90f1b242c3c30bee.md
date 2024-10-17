@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hiraishin | 100.00% | ~7 |
-| Jacket on, jacket off | 57.00% | ~4 |
-| Your eyes deceive you | 43.00% | ~3 |
-| Ichi | 29.00% | ~2 |
-| Spotted | 14.00% | ~1 |
-| Not the birds! | 14.00% | ~1 |
-| Faito! | 14.00% | ~1 |
-| Asashin | 14.00% | ~1 |
-| Shinobi | 14.00% | ~1 |
-| Sakusen kanryo | 14.00% | ~1 |
-| Go | 14.00% | ~1 |
-| Nana | 14.00% | ~1 |
-| Hachi | 14.00% | ~1 |
+| Hiraishin | 89.00% | ~8 |
+| Jacket on, jacket off | 44.00% | ~4 |
+| Your eyes deceive you | 33.00% | ~3 |
+| Ichi | 22.00% | ~2 |
+| Spotted | 11.00% | ~1 |
+| Not the birds! | 11.00% | ~1 |
+| Faito! | 11.00% | ~1 |
+| Asashin | 11.00% | ~1 |
+| Shinobi | 11.00% | ~1 |
+| Sakusen kanryo | 11.00% | ~1 |
+| Go | 11.00% | ~1 |
+| Nana | 11.00% | ~1 |
+| Hachi | 11.00% | ~1 |
 | Not worse than trash | 0.00% | ~0 |
 | Daylife in Shogunlands | 0.00% | ~0 |
 | Kira | 0.00% | ~0 |
@@ -29,10 +29,11 @@
 | Roku | 0.00% | ~0 |
 | Kyuu | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 1,036)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 9 (Ranked 1,059)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-08-09 | 4 | 0 |
 | 2024-09-14 | 7 | 0 |
+| 2024-10-17 | 9 | 0 |

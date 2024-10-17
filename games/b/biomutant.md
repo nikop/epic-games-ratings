@@ -6,55 +6,55 @@ Number of Ratings: 198  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 49.00% | ~1,951 |
-| In the Green | 18.00% | ~717 |
-| Rodeo | 18.00% | ~717 |
-| Knockout! | 16.00% | ~637 |
-| Heavy Metal | 14.00% | ~557 |
-| Elementary | 12.00% | ~478 |
-| Snack-time | 9.00% | ~358 |
-| Hammertime | 8.00% | ~318 |
-| Toytinkerer | 7.00% | ~279 |
-| Under the Table | 7.00% | ~279 |
-| Conquest | 6.00% | ~239 |
-| Max Gains | 6.00% | ~239 |
-| Specialized | 6.00% | ~239 |
-| Starstruck | 5.00% | ~199 |
-| That's Mine! | 5.00% | ~199 |
-| Adventurer | 4.00% | ~159 |
-| Conscious | 4.00% | ~159 |
-| DNA Overload | 4.00% | ~159 |
-| End of the Rainbow | 4.00% | ~159 |
-| Nautica | 4.00% | ~159 |
-| Riding the wave | 4.00% | ~159 |
-| The Dragon | 4.00% | ~159 |
-| Zoo-do | 4.00% | ~159 |
-| Eye on the Road | 3.00% | ~119 |
-| Gumshow | 3.00% | ~119 |
-| Paragon | 3.00% | ~119 |
-| Kneel | 2.00% | ~80 |
-| Old World Gadgets | 2.00% | ~80 |
-| Sproing! | 2.00% | ~80 |
-| Thugs | 2.00% | ~80 |
-| Trek | 2.00% | ~80 |
-| Twinkle Twinkle | 2.00% | ~80 |
-| Hack n' Slash | 1.00% | ~40 |
-| Pew Pew! | 1.00% | ~40 |
-| Show-off | 1.00% | ~40 |
-| Tar-up | 1.00% | ~40 |
-| Bagman | 0.80% | ~32 |
-| Mariner | 0.70% | ~28 |
-| Wung-fu Master | 0.70% | ~28 |
-| Stick it to Them | 0.60% | ~24 |
-| Electrified | 0.50% | ~20 |
-| Flap-flap | 0.50% | ~20 |
-| Social | 0.40% | ~16 |
-| Bugologist | 0.20% | ~8 |
-| Angler | 0.10% | ~4 |
-| Quack | 0.10% | ~4 |
+| The Adventure Begins | 50.00% | ~2,338 |
+| In the Green | 19.00% | ~888 |
+| Rodeo | 19.00% | ~888 |
+| Knockout! | 18.00% | ~842 |
+| Heavy Metal | 16.00% | ~748 |
+| Elementary | 13.00% | ~608 |
+| Snack-time | 11.00% | ~514 |
+| Hammertime | 8.00% | ~374 |
+| Toytinkerer | 8.00% | ~374 |
+| Under the Table | 8.00% | ~374 |
+| Conquest | 7.00% | ~327 |
+| Max Gains | 7.00% | ~327 |
+| Specialized | 7.00% | ~327 |
+| Starstruck | 6.00% | ~280 |
+| That's Mine! | 6.00% | ~280 |
+| Conscious | 5.00% | ~234 |
+| DNA Overload | 5.00% | ~234 |
+| Nautica | 5.00% | ~234 |
+| Riding the wave | 5.00% | ~234 |
+| The Dragon | 5.00% | ~234 |
+| Zoo-do | 5.00% | ~234 |
+| Adventurer | 4.00% | ~187 |
+| End of the Rainbow | 4.00% | ~187 |
+| Eye on the Road | 4.00% | ~187 |
+| Gumshow | 4.00% | ~187 |
+| Paragon | 4.00% | ~187 |
+| Thugs | 3.00% | ~140 |
+| Hack n' Slash | 2.00% | ~94 |
+| Kneel | 2.00% | ~94 |
+| Old World Gadgets | 2.00% | ~94 |
+| Pew Pew! | 2.00% | ~94 |
+| Show-off | 2.00% | ~94 |
+| Sproing! | 2.00% | ~94 |
+| Trek | 2.00% | ~94 |
+| Twinkle Twinkle | 2.00% | ~94 |
+| Bagman | 1.00% | ~47 |
+| Mariner | 1.00% | ~47 |
+| Tar-up | 1.00% | ~47 |
+| Wung-fu Master | 0.90% | ~42 |
+| Electrified | 0.70% | ~33 |
+| Flap-flap | 0.60% | ~28 |
+| Stick it to Them | 0.60% | ~28 |
+| Social | 0.50% | ~23 |
+| Bugologist | 0.30% | ~14 |
+| Angler | 0.10% | ~5 |
+| Quack | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,981 (Ranked 310)  
-Completed: 1 (0.03%) (Ranked 525)  
+Progressed: 4,675 (Ranked 312)  
+Completed: 2 (0.04%) (Ranked 539)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 1 (0.03%) (Ranked 525)
 | 2024-08-09 | 2,242 | 0 |
 | 2024-08-20 | 2,348 | 1 |
 | 2024-09-14 | 3,981 | 1 |
+| 2024-10-17 | 4,675 | 2 |
 ## Awards
 Max (Character Customization): 160  (Ranked 413)  
 Sum: 219 (Ranked 531)  

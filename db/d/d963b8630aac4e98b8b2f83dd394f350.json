@@ -2,10 +2,10 @@
   "ID": "d963b8630aac4e98b8b2f83dd394f350",
   "Name": "Back Then",
   "ProductSlug": "back-then-2072ca",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-08T17:00:00+00:00",
     "PcReleaseDate": "2023-12-08T17:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-15T22:57:54.5744248+00:00",
   "FirstSeenAchievements": "2023-12-07T16:03:14.2260568+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:01.7748718+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:06.1512789+00:00",
   "LastUpdate_AppInfo": "2024-10-11T16:57:08.6844171+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:46.6375573+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:01.7748737+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:05:53.9177253+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:06.1512816+00:00"
 }

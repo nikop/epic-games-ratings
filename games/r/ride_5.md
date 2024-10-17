@@ -5,45 +5,45 @@ Rating: 4.68 (Ranked 305)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 51.00% | ~5,770 |
-| First Love | 47.00% | ~5,317 |
-| Clean Race | 47.00% | ~5,317 |
-| Hear That Roar! | 45.00% | ~5,091 |
-| Bitter Rivalry | 34.00% | ~3,846 |
-| Champagne Spray | 34.00% | ~3,846 |
-| Rivals to the End | 33.00% | ~3,733 |
-| We're Going to Need a Bigger Garage | 29.00% | ~3,281 |
-| Quick Pit Stop | 26.00% | ~2,941 |
-| I Want One Too! | 23.00% | ~2,602 |
-| Legendary!!! | 23.00% | ~2,602 |
-| Restored and Ready | 21.00% | ~2,376 |
-| Go-Faster Stripes | 19.00% | ~2,149 |
-| We've Just Begun | 19.00% | ~2,149 |
-| I'm Here Too! | 13.00% | ~1,471 |
-| Is It the Right Size? | 11.00% | ~1,244 |
-| Stamina Star | 9.00% | ~1,018 |
-| Evangelist | 9.00% | ~1,018 |
-| Make It Your Own! | 6.00% | ~679 |
-| Cherry Blossom and Temples | 6.00% | ~679 |
-| The Road to Liberty | 6.00% | ~679 |
-| Romantic Races | 5.00% | ~566 |
-| My Work Here Is Done | 5.00% | ~566 |
-| La Dolce Vita | 4.00% | ~453 |
-| Spoilt for Choice | 3.00% | ~339 |
-| Back in Blighty | 3.00% | ~339 |
-| I Make the Rules! | 3.00% | ~339 |
-| Rounding Off | 3.00% | ~339 |
-| Overtaking the Master | 3.00% | ~339 |
-| Iconic! | 2.00% | ~226 |
-| I'll Be the Best! | 2.00% | ~226 |
-| Still Here | 2.00% | ~226 |
-| Next Level | 2.00% | ~226 |
-| I Don't Stop | 2.00% | ~226 |
-| Breathtaking Views | 0.60% | ~68 |
-| In Search of Perfection | 0.60% | ~68 |
+| Eat My Dust | 51.00% | ~5,843 |
+| First Love | 47.00% | ~5,384 |
+| Clean Race | 47.00% | ~5,384 |
+| Hear That Roar! | 45.00% | ~5,155 |
+| Bitter Rivalry | 34.00% | ~3,895 |
+| Champagne Spray | 34.00% | ~3,895 |
+| Rivals to the End | 33.00% | ~3,780 |
+| We're Going to Need a Bigger Garage | 30.00% | ~3,437 |
+| Quick Pit Stop | 26.00% | ~2,979 |
+| I Want One Too! | 23.00% | ~2,635 |
+| Legendary!!! | 23.00% | ~2,635 |
+| Restored and Ready | 21.00% | ~2,406 |
+| Go-Faster Stripes | 19.00% | ~2,177 |
+| We've Just Begun | 19.00% | ~2,177 |
+| I'm Here Too! | 13.00% | ~1,489 |
+| Is It the Right Size? | 11.00% | ~1,260 |
+| Stamina Star | 9.00% | ~1,031 |
+| Evangelist | 9.00% | ~1,031 |
+| Make It Your Own! | 6.00% | ~687 |
+| Cherry Blossom and Temples | 6.00% | ~687 |
+| The Road to Liberty | 6.00% | ~687 |
+| Romantic Races | 5.00% | ~573 |
+| My Work Here Is Done | 5.00% | ~573 |
+| La Dolce Vita | 4.00% | ~458 |
+| Spoilt for Choice | 3.00% | ~344 |
+| Back in Blighty | 3.00% | ~344 |
+| I Make the Rules! | 3.00% | ~344 |
+| Rounding Off | 3.00% | ~344 |
+| Overtaking the Master | 3.00% | ~344 |
+| Iconic! | 2.00% | ~229 |
+| I'll Be the Best! | 2.00% | ~229 |
+| Still Here | 2.00% | ~229 |
+| Next Level | 2.00% | ~229 |
+| I Don't Stop | 2.00% | ~229 |
+| Breathtaking Views | 0.60% | ~69 |
+| In Search of Perfection | 0.60% | ~69 |
 | Exhausted but Happy | 0.50% | ~57 |
-| Globe-trotter | 0.40% | ~45 |
-| All My Own Toys | 0.40% | ~45 |
+| Globe-trotter | 0.40% | ~46 |
+| All My Own Toys | 0.40% | ~46 |
 | Full Power | 0.30% | ~34 |
 | Beyond the Limiter | 0.20% | ~23 |
 | Maximum Endurance | 0.10% | ~11 |
@@ -55,8 +55,8 @@ Rating: 4.68 (Ranked 305)
 | There's a Great View up Here | 0.10% | ~11 |
 | Absolute Champion | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,313 (Ranked 250)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 11,456 (Ranked 257)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,6 +213,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 8,533 | 0 |
 | 2024-09-14 | 10,385 | 0 |
 | 2024-10-09 | 11,313 | 0 |
+| 2024-10-17 | 11,456 | 0 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 638)  
 Sum: 138 (Ranked 571)  

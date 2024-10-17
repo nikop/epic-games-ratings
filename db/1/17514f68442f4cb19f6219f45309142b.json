@@ -2,10 +2,10 @@
   "ID": "17514f68442f4cb19f6219f45309142b",
   "Name": "Geometric Sniper",
   "ProductSlug": "geometric-sniper-82e0e0",
-  "Ranking_EOS_Progress": 482,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-19T18:00:00+00:00",
     "PcReleaseDate": "2020-12-17T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 598,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:07:12.2128234+00:00",
@@ -49,6 +49,11 @@
       "Time": "2024-09-14T14:16:05.2118909+00:00",
       "NumProgressed": 543,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-10-17T05:07:49.6432139+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-01-13T04:06:07.4634078+00:00",
@@ -61,7 +66,7 @@
       "Name": "SNIPER MASTER",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ALT_23",
@@ -69,7 +74,7 @@
       "Name": "1ST DIFFERENT DEATH",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ALT_24",
@@ -77,15 +82,15 @@
       "Name": "2ND DIFFERENT DEATH",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_ALT_25",
       "SetID": "3f1bldb",
       "Name": "3rd DIFFERENT DEATH",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_AV_01",
@@ -93,7 +98,7 @@
       "Name": "HISTORY STARTED",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 550
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -101,31 +106,31 @@
       "Name": "THOUGHTS",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "3f1bldb",
       "Name": "QUESTIONS",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
       "SetID": "3f1bldb",
       "Name": "DOUBTS",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT_AV_05",
       "SetID": "3f1bldb",
       "Name": "HEROES?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_AV_06",
@@ -133,7 +138,7 @@
       "Name": "SEARCHING FOR ANSWERS!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_AV_07",
@@ -141,13 +146,13 @@
       "Name": "ADVENTURE COMPLETE.",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_EL_23",
       "SetID": "3f1bldb",
       "Name": "1st MISSION ELITE",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -157,7 +162,7 @@
       "Name": "2nd MISSION  ELITE",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_EL_25",
@@ -165,7 +170,7 @@
       "Name": "3rd MISSION  ELITE",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_EL_26",
@@ -173,7 +178,7 @@
       "Name": "4th MISSION  ELITE",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_EL_27",
@@ -181,7 +186,7 @@
       "Name": "5th MISSION  ELITE",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_EL_28",
@@ -189,7 +194,7 @@
       "Name": "6th MISSION  ELITE",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_EL_29",
@@ -197,7 +202,7 @@
       "Name": "7th MISSION ELITE",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_EL_30",
@@ -205,7 +210,7 @@
       "Name": "8th MISSION  ELITE",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_EL_31",
@@ -213,7 +218,7 @@
       "Name": "9th MISSION  ELITE",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_EL_32",
@@ -221,7 +226,7 @@
       "Name": "10th MISSION  ELITE",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_EL_33",
@@ -229,7 +234,7 @@
       "Name": "11th MISSION  ELITE",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_EL_34",
@@ -237,7 +242,7 @@
       "Name": "FULL MISSION  ELITE",
       "Percentage": 5,
       "XP": 175,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND12",
@@ -245,7 +250,7 @@
       "Name": "5th MISSION FIND",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND13",
@@ -253,7 +258,7 @@
       "Name": "6th MISSION FIND",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND14",
@@ -261,7 +266,7 @@
       "Name": "7th MISSION FIND",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND15",
@@ -269,7 +274,7 @@
       "Name": "8th MISSION FIND",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND_08",
@@ -277,7 +282,7 @@
       "Name": "1st MISSION FIND",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_FIND_09",
@@ -285,7 +290,7 @@
       "Name": "2nd MISSION FIND",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FIND_10",
@@ -293,15 +298,15 @@
       "Name": "3rd MISSION FIND",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_FIND_11",
       "SetID": "3f1bldb",
       "Name": "4th MISSION FIND",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_FIND_16",
@@ -309,7 +314,7 @@
       "Name": "9th MISSION FIND",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_FIND_17X",
@@ -317,7 +322,7 @@
       "Name": "10th MISSION FIND",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_FIND_18",
@@ -325,7 +330,7 @@
       "Name": "11th MISSION FIND",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_FIND_19",
@@ -333,21 +338,21 @@
       "Name": "FULL MISSION FIND",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "3f1bldb",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 598,
       "Completed": 6
     }
   ],
   "FirstSeen": "2024-02-01T22:57:56.890271+00:00",
   "FirstSeenAchievements": "2024-01-13T03:06:07.0364647+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:05.2118903+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:49.6432131+00:00",
   "LastUpdate_AppInfo": "2024-10-16T07:57:23.1527054+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:01.4289336+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:05.2119089+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:31.4601461+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:49.6432384+00:00"
 }

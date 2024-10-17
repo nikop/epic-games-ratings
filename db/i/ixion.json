@@ -5,10 +5,10 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5097,
+  "EOS_Progressed": 5108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9081,6 +9081,11 @@
       "Time": "2024-10-09T19:04:51.4301034+00:00",
       "NumProgressed": 5097,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:16:00.5785347+00:00",
+      "NumProgressed": 5108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -9092,15 +9097,15 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_BASE_11",
@@ -9124,7 +9129,7 @@
       "Name": "Oats",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_15",
@@ -9148,7 +9153,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_18",
@@ -9156,15 +9161,15 @@
       "Name": "Infinite Growth...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH_BASE_19",
       "SetID": "92iocjf",
       "Name": "...  in a finite world",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_2",
@@ -9172,15 +9177,15 @@
       "Name": "Guy de Borderlands",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_BASE_21",
       "SetID": "92iocjf",
       "Name": "Wakey Wakey",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 2043
     },
     {
       "ID": "ACH_BASE_22",
@@ -9196,7 +9201,7 @@
       "Name": "Space Society",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_BASE_24",
@@ -9204,7 +9209,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_BASE_25",
@@ -9220,7 +9225,7 @@
       "Name": "Sightseeing",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_BASE_27",
@@ -9228,7 +9233,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_BASE_28",
@@ -9236,7 +9241,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_29",
@@ -9244,7 +9249,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_BASE_3",
@@ -9260,7 +9265,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_BASE_31",
@@ -9268,7 +9273,7 @@
       "Name": "Power Outage",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_32",
@@ -9284,7 +9289,7 @@
       "Name": "Fully Recycled",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 971
     },
     {
       "ID": "ACH_BASE_34",
@@ -9292,7 +9297,7 @@
       "Name": "Ready for a New World",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACH_BASE_35",
@@ -9300,7 +9305,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_BASE_36",
@@ -9308,7 +9313,7 @@
       "Name": "Access Granted",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_BASE_37",
@@ -9316,7 +9321,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_BASE_38",
@@ -9388,15 +9393,15 @@
       "Name": "Permanent Redesigns",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACH_BASE_49",
       "SetID": "92iocjf",
       "Name": "Ain\u0027t Nobody Got Time for That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_BASE_5",
@@ -9420,7 +9425,7 @@
       "Name": "Convenient Transport",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_BASE_52",
@@ -9428,7 +9433,7 @@
       "Name": "BRAWL!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_53",
@@ -9436,7 +9441,7 @@
       "Name": "All in Good Health",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACH_BASE_56",
@@ -9444,7 +9449,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_57",
@@ -9460,7 +9465,7 @@
       "Name": "Drill-dozer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_BASE_59",
@@ -9468,7 +9473,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_BASE_6",
@@ -9476,15 +9481,15 @@
       "Name": "Hope Seeker",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_BASE_60",
       "SetID": "92iocjf",
       "Name": "Crunch Culture",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BASE_61",
@@ -9524,7 +9529,7 @@
       "Name": "From the Past",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_BASE_8",
@@ -9532,7 +9537,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_BASE_9",
@@ -9547,13 +9552,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 3283,
+      "Progressed": 3294,
       "Completed": 20
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 5097,
+      "Progressed": 5108,
       "Completed": 0
     }
   ],
@@ -9561,8 +9566,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-10-12T17:58:05.898339+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:51.4301027+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:00.5785343+00:00",
   "LastUpdate_AppInfo": "2024-10-14T07:57:22.2938706+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:33.6464913+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:51.4301913+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:47.4188118+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:00.5786323+00:00"
 }

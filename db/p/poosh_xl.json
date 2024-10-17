@@ -2,10 +2,10 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
-  "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -933,9 +933,9 @@
       "ID": "Terrible Start",
       "SetID": "5n829i",
       "Name": "Terrible Start",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -947,8 +947,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:48.8953463+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:00.1108624+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:19.1950341+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:56.9590554+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:48.8953615+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:19.0915543+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:00.1108765+00:00"
 }

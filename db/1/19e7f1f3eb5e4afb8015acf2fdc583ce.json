@@ -2,10 +2,10 @@
   "ID": "19e7f1f3eb5e4afb8015acf2fdc583ce",
   "Name": "Kubikon 3D",
   "ProductSlug": "kubikon-3d-fc0422",
-  "Ranking_EOS_Progress": 887,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-23T17:00:00+00:00",
     "PcReleaseDate": "2024-05-23T17:00:00+00:00",
@@ -26,10 +26,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 28,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2024-04-08T15:04:23.4763941+00:00",
@@ -50,6 +50,11 @@
       "Time": "2024-09-14T14:23:27.7629219+00:00",
       "NumProgressed": 28,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:12:03.4187156+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-04-08T15:04:23.476397+00:00",
@@ -84,33 +89,33 @@
       "ID": "KUB_CLASSIC3",
       "SetID": "agkec20",
       "Name": "Classic III.",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KUB_CLASSIC4",
       "SetID": "agkec20",
       "Name": "Classic IV.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KUB_CLASSIC5",
       "SetID": "agkec20",
       "Name": "Classic V.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KUB_CREATE",
       "SetID": "agkec20",
       "Name": "Creator",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KUB_FIRST",
@@ -124,17 +129,17 @@
       "ID": "KUB_RANDOM",
       "SetID": "agkec20",
       "Name": "Randomized",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KUB_RECORD",
       "SetID": "agkec20",
       "Name": "High Score",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -142,13 +147,13 @@
       "ID": "agkec20",
       "IsBase": true,
       "Progressed": 28,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2024-05-31T22:59:01.7577322+00:00",
   "FirstSeenAchievements": "2024-04-08T15:04:23.476397+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:27.7629212+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:03.4187149+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:11.581661+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:28.4634199+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:27.7629321+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:03.4187255+00:00"
 }

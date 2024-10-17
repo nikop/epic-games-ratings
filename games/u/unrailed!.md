@@ -6,61 +6,61 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 21.00% | ~153,558 |
-| Incurious | 20.00% | ~146,246 |
-| Climate Change | 19.00% | ~138,934 |
-| Stroller | 18.00% | ~131,621 |
-| Advanced Hiker | 16.00% | ~116,997 |
-| Toy Train | 16.00% | ~116,997 |
-| Hiker | 14.00% | ~102,372 |
-| Saved by Nausicaä | 8.00% | ~58,498 |
-| Mojave Courier | 7.00% | ~51,186 |
-| Advanced Voyager | 5.00% | ~36,562 |
-| Voyager | 4.00% | ~29,249 |
-| Expert Stroller | 4.00% | ~29,249 |
-| Orient Express | 4.00% | ~29,249 |
-| Expert Hiker | 3.00% | ~21,937 |
-| Marathon | 3.00% | ~21,937 |
-| Destructionist | 3.00% | ~21,937 |
-| Lost | 2.00% | ~14,625 |
-| Rocketman | 1.00% | ~7,312 |
-| Dynamite Fishing | 1.00% | ~7,312 |
-| Expert Voyager | 0.90% | ~6,581 |
-| Shopaholic | 0.90% | ~6,581 |
-| Nanuk | 0.80% | ~5,850 |
-| Terminal Station | 0.70% | ~5,119 |
-| Scrooge | 0.60% | ~4,387 |
-| Wayfarer | 0.50% | ~3,656 |
-| Advanced Wayfarer | 0.50% | ~3,656 |
-| Tough Nut! | 0.50% | ~3,656 |
-| Trans-Siberian Railway | 0.40% | ~2,925 |
-| Engineer | 0.40% | ~2,925 |
-| Satan's Minion | 0.40% | ~2,925 |
-| Snowman's Land | 0.40% | ~2,925 |
-| Expert Wayfarer | 0.20% | ~1,462 |
-| Cowter Space | 0.20% | ~1,462 |
-| Where They Belong | 0.20% | ~1,462 |
-| 20 Miles under the Sea | 0.20% | ~1,462 |
-| Explorer | 0.10% | ~731 |
-| Advanced Explorer | 0.10% | ~731 |
-| Expert Explorer | 0.10% | ~731 |
-| Deep Space Transit | 0.10% | ~731 |
-| Leet | 0.10% | ~731 |
-| Wrong way! | 0.10% | ~731 |
-| Ducky Danger | 0.10% | ~731 |
-| Shepherd | 0.10% | ~731 |
-| Industrialist | 0.10% | ~731 |
-| Missed Opportunities | 0.10% | ~731 |
-| Apollo 13 | 0.10% | ~731 |
-| Collector | 0.10% | ~731 |
-| Achievement Master | 0.10% | ~731 |
-| Fire Fighter | 0.10% | ~731 |
-| Megalomaniac | 0.10% | ~731 |
-| No Space for Improvement | 0.10% | ~731 |
-| Fireworks! | 0.10% | ~731 |
+| Advanced Stroller | 21.00% | ~153,736 |
+| Incurious | 20.00% | ~146,415 |
+| Climate Change | 19.00% | ~139,094 |
+| Stroller | 18.00% | ~131,774 |
+| Advanced Hiker | 16.00% | ~117,132 |
+| Toy Train | 16.00% | ~117,132 |
+| Hiker | 14.00% | ~102,491 |
+| Saved by Nausicaä | 8.00% | ~58,566 |
+| Mojave Courier | 7.00% | ~51,245 |
+| Advanced Voyager | 5.00% | ~36,604 |
+| Voyager | 4.00% | ~29,283 |
+| Expert Stroller | 4.00% | ~29,283 |
+| Orient Express | 4.00% | ~29,283 |
+| Marathon | 4.00% | ~29,283 |
+| Expert Hiker | 3.00% | ~21,962 |
+| Destructionist | 3.00% | ~21,962 |
+| Lost | 2.00% | ~14,642 |
+| Rocketman | 1.00% | ~7,321 |
+| Dynamite Fishing | 1.00% | ~7,321 |
+| Expert Voyager | 0.90% | ~6,589 |
+| Shopaholic | 0.90% | ~6,589 |
+| Nanuk | 0.80% | ~5,857 |
+| Terminal Station | 0.70% | ~5,125 |
+| Scrooge | 0.60% | ~4,392 |
+| Wayfarer | 0.50% | ~3,660 |
+| Advanced Wayfarer | 0.50% | ~3,660 |
+| Tough Nut! | 0.50% | ~3,660 |
+| Trans-Siberian Railway | 0.40% | ~2,928 |
+| Engineer | 0.40% | ~2,928 |
+| Satan's Minion | 0.40% | ~2,928 |
+| Snowman's Land | 0.40% | ~2,928 |
+| Expert Wayfarer | 0.20% | ~1,464 |
+| Cowter Space | 0.20% | ~1,464 |
+| Where They Belong | 0.20% | ~1,464 |
+| 20 Miles under the Sea | 0.20% | ~1,464 |
+| Explorer | 0.10% | ~732 |
+| Advanced Explorer | 0.10% | ~732 |
+| Expert Explorer | 0.10% | ~732 |
+| Deep Space Transit | 0.10% | ~732 |
+| Leet | 0.10% | ~732 |
+| Wrong way! | 0.10% | ~732 |
+| Ducky Danger | 0.10% | ~732 |
+| Shepherd | 0.10% | ~732 |
+| Industrialist | 0.10% | ~732 |
+| Missed Opportunities | 0.10% | ~732 |
+| Apollo 13 | 0.10% | ~732 |
+| Collector | 0.10% | ~732 |
+| Achievement Master | 0.10% | ~732 |
+| Fire Fighter | 0.10% | ~732 |
+| Megalomaniac | 0.10% | ~732 |
+| No Space for Improvement | 0.10% | ~732 |
+| Fireworks! | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,230 (Ranked 34)  
-Completed: 21 (0.00%) (Ranked 595)  
+Progressed: 732,076 (Ranked 35)  
+Completed: 21 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,6 +350,7 @@ Completed: 21 (0.00%) (Ranked 595)
 | 2024-08-20 | 723,397 | 19 |
 | 2024-09-14 | 727,111 | 20 |
 | 2024-10-09 | 731,230 | 21 |
+| 2024-10-17 | 732,076 | 21 |
 ## Awards
 Max (Great for Beginners): 249  (Ranked 349)  
 Sum: 1,807 (Ranked 278)  

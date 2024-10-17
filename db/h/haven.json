@@ -5,10 +5,10 @@
   "Ranking_Rating": 216,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 348,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2590,
+  "EOS_Progressed": 2592,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -4054,6 +4054,11 @@
       "Time": "2024-10-09T19:02:36.480937+00:00",
       "NumProgressed": 2590,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-10-17T05:15:25.1248369+00:00",
+      "NumProgressed": 2592,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -4065,7 +4070,7 @@
       "Name": "Lovebirds",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "10",
@@ -4089,7 +4094,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "13",
@@ -4121,7 +4126,7 @@
       "Name": "My little pony",
       "Percentage": 15,
       "XP": 70,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "17",
@@ -4129,7 +4134,7 @@
       "Name": "Balding bloot!",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1737
     },
     {
       "ID": "18",
@@ -4183,9 +4188,9 @@
       "ID": "23",
       "SetID": "n50no0",
       "Name": "Pearls before Birble",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "24",
@@ -4233,7 +4238,7 @@
       "Name": "Self-sustainability",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "31",
@@ -4289,7 +4294,7 @@
       "Name": "Over my dead body",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "9",
@@ -4304,15 +4309,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2590,
+      "Progressed": 2592,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-09-20T03:05:34.2123302+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:36.4809366+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:25.1248364+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:51.7543411+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:19.3612571+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:36.4809818+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:25.1248753+00:00"
 }

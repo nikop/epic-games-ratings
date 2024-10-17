@@ -2,10 +2,10 @@
   "ID": "5d58c784b440452e854593ab737535fd",
   "Name": "Those who Came:Healing Solarus - Definitive Edition",
   "ProductSlug": "those-who-came-healing-solarus-1c04d2",
-  "Ranking_EOS_Progress": 1098,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-31T18:00:00+00:00",
     "PcReleaseDate": "2024-01-25T15:00:00+00:00",
@@ -160,8 +160,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:12.0036907+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:18.0691425+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:58.523923+00:00",
   "LastUpdate_AppInfo": "2024-10-16T13:57:16.9065363+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:37.9829718+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:18.0691526+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:58.523934+00:00"
 }

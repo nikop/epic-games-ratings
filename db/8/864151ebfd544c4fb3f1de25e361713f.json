@@ -2,10 +2,10 @@
   "ID": "864151ebfd544c4fb3f1de25e361713f",
   "Name": "Two Falls (Nishu Takuatshina)",
   "ProductSlug": "two-falls-nishu-takuatshina-0cc920",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-11-08T00:00:00+00:00",
     "PcReleaseDate": "2024-11-08T00:00:00+00:00",
@@ -29,11 +29,118 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-10-17T05:06:24.9068225+00:00",
+  "TotalAchievements": 12,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_Bone",
+      "SetID": "7gilf60",
+      "Name": "Good boy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E1",
+      "SetID": "7gilf60",
+      "Name": "Takuatshineiau",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E2",
+      "SetID": "7gilf60",
+      "Name": "Ussi-Takuatshin",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E3",
+      "SetID": "7gilf60",
+      "Name": "Kashpishkau",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E4",
+      "SetID": "7gilf60",
+      "Name": "Uashtessiu",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E5",
+      "SetID": "7gilf60",
+      "Name": "Kunissinamu",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E6",
+      "SetID": "7gilf60",
+      "Name": "Papinipanu",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_E7",
+      "SetID": "7gilf60",
+      "Name": "Nishu Takuatshina",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Entr",
+      "SetID": "7gilf60",
+      "Name": "Entrepreneur",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Frog",
+      "SetID": "7gilf60",
+      "Name": "Is that a frog?",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Respect",
+      "SetID": "7gilf60",
+      "Name": "Pay Respects",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Zoo",
+      "SetID": "7gilf60",
+      "Name": "Zootherapy",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7gilf60",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:24.9068224+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:24.9068205+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:21.1915313+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:51.45278+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:08.4350717+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:24.907696+00:00"
 }

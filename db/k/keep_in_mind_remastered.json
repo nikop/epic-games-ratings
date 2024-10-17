@@ -2,10 +2,10 @@
   "ID": "51406e1a129b4a38858c238631996586",
   "Name": "Keep in Mind Remastered",
   "ProductSlug": "keep-in-mind-remastered-6ee77a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-05-06T07:00:00+00:00",
     "PcReleaseDate": "2018-03-08T00:00:00+00:00",
@@ -36,5 +36,5 @@
   "FirstSeen": "2024-01-11T17:01:05.190272+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:40.4589301+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:40.7337695+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:17.0162173+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:07.4611468+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "931227c838314bf08aee8e25f82f0e0e",
   "Name": null,
   "ProductSlug": "ground-branch-mod-kit",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T02:06:16.1080452+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:43.5559576+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:13.5198576+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:03.0636363+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:32.6078708+00:00"
 }

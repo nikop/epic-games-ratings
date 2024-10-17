@@ -2,10 +2,10 @@
   "ID": "adc4991d2edb4cdf80d47822d9149169",
   "Name": "Touch the Color",
   "ProductSlug": "touch-the-color-0f1d66",
-  "Ranking_EOS_Progress": 842,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 875,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-15T06:17:12.699+00:00",
     "PcReleaseDate": "2023-01-19T23:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:18.0447979+00:00",
@@ -48,6 +48,11 @@
       "Time": "2024-10-09T19:06:09.1653871+00:00",
       "NumProgressed": 38,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:16:20.8520141+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:18.0448024+00:00",
@@ -66,23 +71,23 @@
       "ID": "first_game",
       "SetID": "bo68pn5",
       "Name": "First game!",
-      "Percentage": 84,
+      "Percentage": 87,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "game_cool",
       "SetID": "bo68pn5",
       "Name": "This game is cool",
-      "Percentage": 61,
+      "Percentage": 67,
       "XP": 95,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "head_stars",
       "SetID": "bo68pn5",
       "Name": "Head in the stars",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -90,9 +95,9 @@
       "ID": "like_shopping",
       "SetID": "bo68pn5",
       "Name": "I like shopping!",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "new_dressing",
@@ -108,20 +113,20 @@
       "Name": "Thank you, Santa",
       "Percentage": 82,
       "XP": 165,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "bo68pn5",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:18.0448024+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:09.1653867+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:20.8520137+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:13.8362787+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:24.512419+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:09.1653932+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:16:20.8520218+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c91b94ecb13244d48fe0e62edd500e5e",
   "Name": "Edge of Sanity",
   "ProductSlug": "edge-of-sanity-3a2b7a",
-  "Ranking_EOS_Progress": 1024,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-13T16:00:00+00:00",
     "PcReleaseDate": "2024-09-13T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-09-14T14:15:09.2333392+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:26.2385602+00:00",
+      "NumProgressed": 28,
       "NumCompleted": 0
     }
   ],
@@ -61,41 +66,41 @@
       "ID": "AnyStationMaxLevel",
       "SetID": "pid03i",
       "Name": "My Workstation Brings All the Preppers To The Yard",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "AnyWorkerDied",
       "SetID": "pid03i",
       "Name": "And It\u0027s All Your Fault",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EnemyDestroyed_FallingTrap",
       "SetID": "pid03i",
       "Name": "It\u0027s a trap!",
-      "Percentage": 50,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 18
     },
     {
       "ID": "EnemyDestroyed_Item",
       "SetID": "pid03i",
       "Name": "Home Improvement",
-      "Percentage": 50,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 19
     },
     {
       "ID": "EntityJournals",
       "SetID": "pid03i",
       "Name": "A Dream Within A Dream",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EpisodeFinished_1",
@@ -103,15 +108,15 @@
       "Name": "Welcome to Alaska",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "EpisodeFinished_2",
       "SetID": "pid03i",
       "Name": "Truck Off!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "EpisodeFinished_3",
@@ -149,17 +154,17 @@
       "ID": "IntroDone",
       "SetID": "pid03i",
       "Name": "Voyage Far, Don\u0027t Fear The Unknown",
-      "Percentage": 50,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 26
     },
     {
       "ID": "KillAllAnyExpedition",
       "SetID": "pid03i",
       "Name": "The Only Monster Left Alive",
-      "Percentage": 25,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 13
     },
     {
       "ID": "LabChaseNoDeath",
@@ -181,41 +186,41 @@
       "ID": "LowHealth",
       "SetID": "pid03i",
       "Name": "\u00B4Tis But A Scratch",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MadnessDeath",
       "SetID": "pid03i",
       "Name": "The Abyss Stares Back",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Madness_1",
       "SetID": "pid03i",
       "Name": "It\u0027s Just A Color... Out Of Space",
-      "Percentage": 13,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "Madness_2",
       "SetID": "pid03i",
       "Name": "Chords Struck On The Cosmic Scale",
-      "Percentage": 13,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Madness_3",
       "SetID": "pid03i",
       "Name": "The Terrifying Vistas of Reality",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Madness_4",
@@ -229,9 +234,9 @@
       "ID": "MaggotDestroyed_Burn",
       "SetID": "pid03i",
       "Name": "I Have No Eyes And I Must Burn",
-      "Percentage": 50,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 17
     },
     {
       "ID": "MonsterJournals",
@@ -245,9 +250,9 @@
       "ID": "NoLamp",
       "SetID": "pid03i",
       "Name": "Haunter Of The Dark",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "NoMadness",
@@ -277,9 +282,9 @@
       "ID": "ResearchSiteSlave_Save",
       "SetID": "pid03i",
       "Name": "The Pitfalls Of Compassion",
-      "Percentage": 25,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 18
     },
     {
       "ID": "Ritual_Cultist",
@@ -293,33 +298,33 @@
       "ID": "Ritual_Prism",
       "SetID": "pid03i",
       "Name": "\u003C3",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Story_Claire",
       "SetID": "pid03i",
       "Name": "What A Terrible Day To Have Eyes",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Story_David",
       "SetID": "pid03i",
       "Name": "Uncanny Resemblance",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Story_Jackie",
       "SetID": "pid03i",
       "Name": "These Boots Are Made For Activism",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Story_Linda",
@@ -333,25 +338,25 @@
       "ID": "Story_Max",
       "SetID": "pid03i",
       "Name": "Canine Curiosity",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Story_Paul",
       "SetID": "pid03i",
       "Name": "Does It Spark Joy?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "Story_Roger",
       "SetID": "pid03i",
       "Name": "Fear And Loathing In Alaska",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Story_Scot",
@@ -365,25 +370,25 @@
       "ID": "UseItem_ThrulFlare",
       "SetID": "pid03i",
       "Name": "In Case of Emergency, Break Reality",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "WorkerRescued_Claire",
       "SetID": "pid03i",
       "Name": "Inhuman Resources",
-      "Percentage": 38,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 16
     },
     {
       "ID": "WorkerRescued_David",
       "SetID": "pid03i",
       "Name": "Hard Hat - Soft Heart",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "WorkerRescued_Frank",
@@ -391,47 +396,47 @@
       "Name": "I Ain\u0027t Got Time To Bleed",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "WorkerRescued_Jackie",
       "SetID": "pid03i",
       "Name": "All The Creatures, Great and Small",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 16
     },
     {
       "ID": "WorkerRescued_Linda",
       "SetID": "pid03i",
       "Name": "We Do What We Must Because We Can",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WorkerRescued_Max",
       "SetID": "pid03i",
       "Name": "Woof, Woof Woof!",
-      "Percentage": 13,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "WorkerRescued_Paul",
       "SetID": "pid03i",
       "Name": "Trust Me, Pal",
-      "Percentage": 13,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "WorkerRescued_Roger",
       "SetID": "pid03i",
       "Name": "Let Me Tell You About Our Lord And Savior",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "WorkerRescued_Scot",
@@ -445,23 +450,23 @@
       "ID": "ZombieKill",
       "SetID": "pid03i",
       "Name": "Rocks Fall, Everybody Dies",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "pid03i",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-15T21:59:13.8375563+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:09.233347+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:09.2333386+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:26.2385594+00:00",
   "LastUpdate_AppInfo": "2024-10-16T14:57:04.1069613+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:33.7844557+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:09.2342636+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:12.6985496+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:26.2385981+00:00"
 }

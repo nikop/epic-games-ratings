@@ -2,10 +2,10 @@
   "ID": "42042b00aa674b1bab0084bf88b42776",
   "Name": "Legacy of Kain\u2122 Soul Reaver 1-2 Remastered",
   "ProductSlug": "legacy-of-kain-soul-reaver-12-remastered-f5c5ec",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-10T16:00:00+00:00",
     "PcReleaseDate": "2024-12-10T16:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "chamce6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:04.2030216+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:04.2030192+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:21.7469775+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:46.7638276+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:08.8605963+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:04.2030225+00:00"
 }

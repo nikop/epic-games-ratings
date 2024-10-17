@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 712,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 742,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -118,17 +118,17 @@
       "ID": "BOSS_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Double-dealing",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BOSS_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Slimy kisses",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BOSS_VOID",
@@ -198,9 +198,9 @@
       "ID": "CHAP_FOREST_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Let\u2019s take a walk in the woods...",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAP_MOUNTAIN_FINISH",
@@ -397,8 +397,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:00.9210074+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:18.7320877+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:24.1966437+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:43.3566349+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:00.9210271+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:02.8411634+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:18.7321107+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.66 (Ranked 341)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Bounty Down | 10.00% | ~2,592 |
-| Satisfied Gus-tomer | 9.00% | ~2,333 |
-| Sweezy Like Sunday Morning | 9.00% | ~2,333 |
-| G3 Graduation | 9.00% | ~2,333 |
-| Cold-Blooded Driller | 9.00% | ~2,333 |
-| Are You Packin'? | 8.00% | ~2,074 |
-| Bring A Knife to a Gun Fight | 8.00% | ~2,074 |
-| We're All Very Impressed, Trust Me | 8.00% | ~2,074 |
-| Don't Knife The Hand That Feeds | 8.00% | ~2,074 |
-| Creature Feature | 7.00% | ~1,814 |
-| RIP Davey Glutes | 7.00% | ~1,814 |
-| Who's The Boss? | 7.00% | ~1,814 |
-| Hardest Battle In The Game | 6.00% | ~1,555 |
-| Fallout Doesn't Let You Do This | 6.00% | ~1,555 |
-| Lezduit! | 5.00% | ~1,296 |
-| Legendary Bounty Hunter | 5.00% | ~1,296 |
-| Self-Actualization | 5.00% | ~1,296 |
-| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,296 |
-| Series Wrap on Suit-O | 5.00% | ~1,296 |
-| Eatin' Good in the Neighborhood | 4.00% | ~1,037 |
-| Eye Scream, You Scream | 4.00% | ~1,037 |
-| Gunning For Your Job | 2.00% | ~518 |
-| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~518 |
-| We Came, We Chainsaw, We Conquered | 2.00% | ~64 |
-| Bathe With A Giant Nude Alien | 2.00% | ~64 |
-| Carried Stan's Load To Completion | 1.00% | ~259 |
-| Mux Ado About Shipping | 1.00% | ~32 |
+| Satisfied Gus-tomer | 10.00% | ~2,600 |
+| First Bounty Down | 10.00% | ~2,600 |
+| Cold-Blooded Driller | 10.00% | ~2,600 |
+| Bring A Knife to a Gun Fight | 9.00% | ~2,340 |
+| Sweezy Like Sunday Morning | 9.00% | ~2,340 |
+| G3 Graduation | 9.00% | ~2,340 |
+| Don't Knife The Hand That Feeds | 9.00% | ~2,340 |
+| Are You Packin'? | 8.00% | ~2,080 |
+| We're All Very Impressed, Trust Me | 8.00% | ~2,080 |
+| Creature Feature | 7.00% | ~1,820 |
+| RIP Davey Glutes | 7.00% | ~1,820 |
+| Hardest Battle In The Game | 7.00% | ~1,820 |
+| Who's The Boss? | 7.00% | ~1,820 |
+| Fallout Doesn't Let You Do This | 7.00% | ~1,820 |
+| Lezduit! | 5.00% | ~1,300 |
+| Eye Scream, You Scream | 5.00% | ~1,300 |
+| Legendary Bounty Hunter | 5.00% | ~1,300 |
+| Self-Actualization | 5.00% | ~1,300 |
+| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,300 |
+| Series Wrap on Suit-O | 5.00% | ~1,300 |
+| Eatin' Good in the Neighborhood | 4.00% | ~1,040 |
+| Gunning For Your Job | 2.00% | ~520 |
+| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~520 |
+| We Came, We Chainsaw, We Conquered | 2.00% | ~66 |
+| Bathe With A Giant Nude Alien | 2.00% | ~66 |
+| Carried Stan's Load To Completion | 1.00% | ~260 |
+| Mux Ado About Shipping | 1.00% | ~33 |
 | Fall In Love With A Parasite | 0.80% | ~26 |
-| Sequel-Bait | 0.70% | ~181 |
+| Sequel-Bait | 0.70% | ~182 |
 | A Starfish Is Born | 0.60% | ~156 |
 | Playing Favorites | 0.60% | ~156 |
 | Epic Legendary Prize | 0.40% | ~104 |
@@ -43,15 +43,15 @@ Rating: 4.66 (Ranked 341)
 | Give Away All Your Money | 0.30% | ~10 |
 | Playing Card To Get | 0.20% | ~52 |
 | Seeing All The Sights | 0.20% | ~52 |
-| It's Like The Santa Clause | 0.20% | ~6 |
+| It's Like The Santa Clause | 0.20% | ~7 |
 | That's B.A.L.L., Folks | 0.10% | ~3 |
 | Cardbored | 0.10% | ~3 |
 | See Salt | 0.10% | ~3 |
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,919 (Ranked 206)  
-Completed: 15 (0.06%) (Ranked 490)  
+Progressed: 25,995 (Ranked 211)  
+Completed: 15 (0.06%) (Ranked 518)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,6 +338,7 @@ Completed: 15 (0.06%) (Ranked 490)
 | 2024-08-09 | 25,839 | 15 |
 | 2024-08-20 | 25,856 | 15 |
 | 2024-09-14 | 25,919 | 15 |
+| 2024-10-17 | 25,995 | 15 |
 ## Awards
 Max (Unique Visuals): 20  (Ranked 735)  
 Sum: 20 (Ranked 735)  

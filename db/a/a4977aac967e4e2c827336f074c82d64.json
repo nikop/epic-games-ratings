@@ -5,10 +5,10 @@
   "Ranking_Rating": 137,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 648,
-  "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 540,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Completed": 570,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-02T11:00:00+00:00",
     "PcReleaseDate": "2022-06-11T17:00:00+00:00",
@@ -477,8 +477,8 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 87887,
-  "EOS_Completed": 18,
+  "EOS_Progressed": 96630,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
@@ -497,6 +497,11 @@
       "Time": "2024-09-14T14:27:25.7428543+00:00",
       "NumProgressed": 87887,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-10-17T05:14:35.2546412+00:00",
+      "NumProgressed": 96630,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2024-08-09T18:07:49.7157889+00:00",
@@ -507,9 +512,9 @@
       "ID": "AB",
       "SetID": "b7p79j1",
       "Name": "A \u002B B",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 30760
+      "UsersEstimate": 32854
     },
     {
       "ID": "AntiqueStore",
@@ -517,7 +522,7 @@
       "Name": "Opening an Antique Store?",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12304
+      "UsersEstimate": 13528
     },
     {
       "ID": "BewareLawbreakers",
@@ -525,7 +530,7 @@
       "Name": "Beware Lawbreakers!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3865
     },
     {
       "ID": "BiggestFan",
@@ -533,7 +538,7 @@
       "Name": "Biggest Fan!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3865
     },
     {
       "ID": "Buffoons",
@@ -541,7 +546,7 @@
       "Name": "Buffoons!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 17577
+      "UsersEstimate": 19326
     },
     {
       "ID": "ButtonMasher",
@@ -549,7 +554,7 @@
       "Name": "Button Masher",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12304
+      "UsersEstimate": 13528
     },
     {
       "ID": "ClassicCouch",
@@ -557,31 +562,31 @@
       "Name": "Classic Couch Memories",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 387
     },
     {
       "ID": "ComeOn",
       "SetID": "b7p79j1",
       "Name": "Come On!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 31639
+      "UsersEstimate": 33820
     },
     {
       "ID": "CompleteCast",
       "SetID": "b7p79j1",
       "Name": "Complete Cast!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 193
     },
     {
       "ID": "CompleteSeason",
       "SetID": "b7p79j1",
       "Name": "Complete Season",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7031
+      "UsersEstimate": 8697
     },
     {
       "ID": "Cowabunga",
@@ -589,15 +594,15 @@
       "Name": "Cowabunga It Is",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 879
+      "UsersEstimate": 966
     },
     {
       "ID": "Elephant",
       "SetID": "b7p79j1",
       "Name": "Breaking Out!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9668
+      "UsersEstimate": 11596
     },
     {
       "ID": "EmpireStrikes",
@@ -605,7 +610,7 @@
       "Name": "Empire Strikes Out",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12304
+      "UsersEstimate": 13528
     },
     {
       "ID": "GettingAlong",
@@ -613,7 +618,7 @@
       "Name": "Finally Getting Along!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "Ineffective",
@@ -621,15 +626,15 @@
       "Name": "INEFFECTIVE!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2899
     },
     {
       "ID": "KindBrother",
       "SetID": "b7p79j1",
       "Name": "Kind Brother",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 16699
+      "UsersEstimate": 17393
     },
     {
       "ID": "LikeTheOldDays",
@@ -637,7 +642,7 @@
       "Name": "Like the Old Days!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "MasterOfOne",
@@ -645,7 +650,7 @@
       "Name": "Master of One Quarter",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 264
+      "UsersEstimate": 290
     },
     {
       "ID": "Mode7",
@@ -653,15 +658,15 @@
       "Name": "Mode 7",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7910
+      "UsersEstimate": 8697
     },
     {
       "ID": "MostFearsome",
       "SetID": "b7p79j1",
       "Name": "Most Fearsome Fighting Team!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 22851
+      "UsersEstimate": 24158
     },
     {
       "ID": "Multitasker",
@@ -669,7 +674,7 @@
       "Name": "Multitasker",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1933
     },
     {
       "ID": "NoNeedMutagen",
@@ -677,7 +682,7 @@
       "Name": "No need for Mutagen!",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "PipedPieper",
@@ -685,7 +690,7 @@
       "Name": "Piped Piper!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 21972
+      "UsersEstimate": 24158
     },
     {
       "ID": "PizzaTime",
@@ -693,7 +698,7 @@
       "Name": "Pizza Time!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 13183
+      "UsersEstimate": 14494
     },
     {
       "ID": "ReturnSender",
@@ -701,7 +706,7 @@
       "Name": "Return to Sender",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14941
+      "UsersEstimate": 16427
     },
     {
       "ID": "SharingIsCaring",
@@ -709,23 +714,23 @@
       "Name": "Sharing is Caring!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3865
     },
     {
       "ID": "SpecialReport",
       "SetID": "b7p79j1",
       "Name": "Special Report",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 53611
+      "UsersEstimate": 57978
     },
     {
       "ID": "Teamwork",
       "SetID": "b7p79j1",
       "Name": "Teamwork",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19335
+      "UsersEstimate": 20292
     },
     {
       "ID": "WhoNeedsADock",
@@ -733,31 +738,31 @@
       "Name": "Who Needs A Dock?",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "WhosGoingTo",
       "SetID": "b7p79j1",
       "Name": "Clean Up in Aisle 4",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9668
+      "UsersEstimate": 11596
     }
   ],
   "AchievementSets": [
     {
       "ID": "b7p79j1",
       "IsBase": true,
-      "Progressed": 87887,
-      "Completed": 18
+      "Progressed": 96630,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2024-07-02T14:00:05.0043445+00:00",
   "FirstSeenRating": "2024-07-16T17:59:55.7700245+00:00",
   "FirstSeenAchievements": "2024-08-09T18:07:49.7157889+00:00",
   "LastChanged": "2024-10-16T22:57:22.16126+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:25.7428537+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:35.2546405+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:18.5301261+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:10.0898417+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:25.7428743+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:10.4569404+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:35.2546622+00:00"
 }

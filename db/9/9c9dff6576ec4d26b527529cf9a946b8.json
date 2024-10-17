@@ -2,10 +2,10 @@
   "ID": "9c9dff6576ec4d26b527529cf9a946b8",
   "Name": "The Savior\u0027s Gang",
   "ProductSlug": "the-saviors-gang-959fd2",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-28T13:00:00+00:00",
     "PcReleaseDate": "2019-03-02T09:00:00+00:00",
@@ -338,8 +338,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:11:57.7656791+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:24.3364899+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:57.335415+00:00",
   "LastUpdate_AppInfo": "2024-10-11T05:57:27.2090061+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:37.0504386+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:24.33651+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:17.8900638+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:57.3354431+00:00"
 }

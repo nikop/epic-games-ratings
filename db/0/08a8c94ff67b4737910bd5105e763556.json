@@ -2,10 +2,10 @@
   "ID": "08a8c94ff67b4737910bd5105e763556",
   "Name": "Jurassic Park: Survival",
   "ProductSlug": "jurassic-park-survival-256314",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T03:56:57.8955714+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:40.5221804+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:04.6068063+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:58.2277816+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:08.9329359+00:00"
 }

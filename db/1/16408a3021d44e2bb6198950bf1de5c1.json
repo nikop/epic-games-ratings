@@ -2,10 +2,10 @@
   "ID": "16408a3021d44e2bb6198950bf1de5c1",
   "Name": "Night Slashers: Remake",
   "ProductSlug": "night-slashers-remake-69a484",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1078,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-26T13:00:00.236+00:00",
     "PcReleaseDate": "2024-09-26T13:00:00+00:00",
@@ -23,16 +23,242 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:04.5467748+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:04.5467809+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_FINISH_ANY",
+      "SetID": "23a49p7",
+      "Name": "Sunrise",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_FINISH_CHRIS",
+      "SetID": "23a49p7",
+      "Name": "Good choice",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_HARD",
+      "SetID": "23a49p7",
+      "Name": "You can\u0027t beat me",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_HONG_HUA",
+      "SetID": "23a49p7",
+      "Name": "Get ready",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_FINISH_JAKE",
+      "SetID": "23a49p7",
+      "Name": "Iron Fist",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_LIU_FEILIN",
+      "SetID": "23a49p7",
+      "Name": "Dance with me",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_KILL_1",
+      "SetID": "23a49p7",
+      "Name": "Just a start",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "ACH_KILL_1000",
+      "SetID": "23a49p7",
+      "Name": "Massacre",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_250",
+      "SetID": "23a49p7",
+      "Name": "Killing Spree",
+      "Percentage": 29,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_KILL_5000",
+      "SetID": "23a49p7",
+      "Name": "Exterminator",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_BURIED_250",
+      "SetID": "23a49p7",
+      "Name": "Stay Down",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCORE_BONUS_1",
+      "SetID": "23a49p7",
+      "Name": "Whack-a-Mole expert",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCORE_BONUS_2",
+      "SetID": "23a49p7",
+      "Name": "Bowling expert",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_SCORE_TOTAL",
+      "SetID": "23a49p7",
+      "Name": "Everything counts",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SECRET",
+      "SetID": "23a49p7",
+      "Name": "Can\u0027t hide from me",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPECIAL_100",
+      "SetID": "23a49p7",
+      "Name": "Power Storm",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPECIAL_250",
+      "SetID": "23a49p7",
+      "Name": "Fully Charged",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STAGE_1",
+      "SetID": "23a49p7",
+      "Name": "Don\u0027t be mad",
+      "Percentage": 86,
+      "XP": 20,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ACH_STAGE_2",
+      "SetID": "23a49p7",
+      "Name": "Forest run",
+      "Percentage": 57,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACH_STAGE_3",
+      "SetID": "23a49p7",
+      "Name": "Stormy castle",
+      "Percentage": 43,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_STAGE_4",
+      "SetID": "23a49p7",
+      "Name": "Sealed the portal",
+      "Percentage": 29,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_STAGE_5",
+      "SetID": "23a49p7",
+      "Name": "First class flight",
+      "Percentage": 29,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_STAGE_6",
+      "SetID": "23a49p7",
+      "Name": "Secret base",
+      "Percentage": 29,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_STAGE_7",
+      "SetID": "23a49p7",
+      "Name": "Beat the king",
+      "Percentage": 29,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_STAGE_NIGHTMARE",
+      "SetID": "23a49p7",
+      "Name": "A walk in a park",
+      "Percentage": 14,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_STAGE_NO_HIT",
+      "SetID": "23a49p7",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "23a49p7",
+      "IsBase": true,
+      "Progressed": 7,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:04.5467809+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:04.5467745+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:19.3169382+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:32.7647746+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:20.9374744+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:04.5476845+00:00"
 }

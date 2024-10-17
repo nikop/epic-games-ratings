@@ -2,10 +2,10 @@
   "ID": "53eee523face4bcfb716fe0caf9c67b0",
   "Name": "Crowded Mysteries",
   "ProductSlug": "crowded-mysteries-084054",
-  "Ranking_EOS_Progress": 918,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 950,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-02T22:00:00+00:00",
     "PcReleaseDate": "2023-08-22T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-08-20T20:13:58.8908741+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:09.1774083+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:57.6856009+00:00",
@@ -59,9 +64,9 @@
       "ID": "ach_credits_open",
       "SetID": "nig6n",
       "Name": "Read Me",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_extra_clue_11",
@@ -83,9 +88,9 @@
       "ID": "ach_extra_clue_5",
       "SetID": "nig6n",
       "Name": "Keen Eye",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_extra_clue_8",
@@ -99,9 +104,9 @@
       "ID": "ach_game_finished",
       "SetID": "nig6n",
       "Name": "Professional Detective",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_game_finished_night",
@@ -115,15 +120,15 @@
       "ID": "ach_hint_pass_level_10",
       "SetID": "nig6n",
       "Name": "Good Detective",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_hint_pass_level_14",
       "SetID": "nig6n",
       "Name": "Experienced Detective",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -131,33 +136,33 @@
       "ID": "ach_hint_pass_level_3",
       "SetID": "nig6n",
       "Name": "Promising Detective",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_hint_pass_level_7",
       "SetID": "nig6n",
       "Name": "Junior Detective",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_speedrun_finished",
       "SetID": "nig6n",
       "Name": "Lightning Bolt",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_stars_12_15",
       "SetID": "nig6n",
       "Name": "Star Major",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_stars_15_20",
@@ -173,53 +178,53 @@
       "Name": "Star Cadet",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_stars_3_6",
       "SetID": "nig6n",
       "Name": "Star Specialist",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_stars_6_9",
       "SetID": "nig6n",
       "Name": "Star Corporal",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_stars_9_12",
       "SetID": "nig6n",
       "Name": "Star Sergeant",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_streak_finished",
       "SetID": "nig6n",
       "Name": "Tenacious D(etective)!",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "nig6n",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-26T07:00:07.8266491+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:57.6856007+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:04.9538931+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:09.1774077+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:13:37.9607977+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:12.2153934+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:04.9539044+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:09.1774201+00:00"
 }

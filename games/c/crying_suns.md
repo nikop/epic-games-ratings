@@ -6,88 +6,88 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~318,801 |
-| Jeef Skeejj | 44.00% | ~212,534 |
-| Careful planning | 40.00% | ~193,213 |
-| Second Coming | 34.00% | ~164,231 |
-| Jeef Skagg | 30.00% | ~144,910 |
-| Mother | 25.00% | ~120,758 |
-| In space, no one can hear you scream | 24.00% | ~115,928 |
-| Excelsior Rule | 23.00% | ~111,097 |
-| Chapter I: Echoes | 22.00% | ~106,267 |
-| Things persisted in not being what they seemed | 20.00% | ~96,606 |
-| Knightmare Frames | 15.00% | ~72,455 |
-| May His passing cleanse the world | 15.00% | ~72,455 |
-| Chapter II: Fallible Flesh | 15.00% | ~72,455 |
-| Pope Zenon | 15.00% | ~72,455 |
-| Plan for the worst | 12.00% | ~57,964 |
-| Tetsuo | 11.00% | ~53,134 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~48,303 |
-| Back to Ganyma | 9.00% | ~43,473 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~38,643 |
-| Through the mirror | 8.00% | ~38,643 |
-| The Survivalists | 8.00% | ~38,643 |
-| General Vivar | 8.00% | ~38,643 |
-| Kaos Rule | 8.00% | ~38,643 |
-| Meet your maker | 7.00% | ~33,812 |
-| Admiral Okonkwo | 7.00% | ~33,812 |
-| The Tech Specialist | 7.00% | ~33,812 |
-| The Ace Pilot | 7.00% | ~33,812 |
-| The Mech Soldier | 7.00% | ~33,812 |
-| The lucky charm | 7.00% | ~33,812 |
-| The Anonymous | 7.00% | ~33,812 |
-| Chapter V: Memories of None | 6.00% | ~28,982 |
-| The Impersonator | 6.00% | ~28,982 |
-| The Kid | 6.00% | ~28,982 |
-| The Evangelist | 6.00% | ~28,982 |
-| The Inquisitor | 6.00% | ~28,982 |
-| The Tech Med | 6.00% | ~28,982 |
-| The Smuggler | 6.00% | ~28,982 |
-| The Crazy Repairman | 6.00% | ~28,982 |
-| The Weasel | 6.00% | ~28,982 |
-| Kill the Doctor | 5.00% | ~24,152 |
-| Forsaken | 5.00% | ~24,152 |
-| Mercy | 5.00% | ~24,152 |
-| Jericho Rule | 5.00% | ~24,152 |
-| Hammer Rule | 4.00% | ~19,321 |
-| Geno Rule | 3.00% | ~14,491 |
-| Emperor of Misery | 2.00% | ~9,661 |
-| Survivor | 2.00% | ~9,661 |
-| A Rock in the Dark | 1.00% | ~4,830 |
-| A Frozen Lady | 1.00% | ~4,830 |
-| Void Rule | 1.00% | ~4,830 |
-| Hand of the Emperor | 1.00% | ~270 |
-| Excelsior Mastery | 0.90% | ~4,347 |
-| Soldiers of Fortune | 0.80% | ~216 |
-| The greatest admiral of all time | 0.60% | ~2,898 |
-| The Extractor | 0.30% | ~81 |
-| The Executioner | 0.30% | ~81 |
-| The Blade | 0.20% | ~54 |
-| The Ghost | 0.20% | ~54 |
-| Kronos Rule | 0.20% | ~54 |
-| Liberator | 0.10% | ~483 |
-| The Art of War | 0.10% | ~483 |
-| Geno Mastery | 0.10% | ~483 |
-| Geno Supremacy | 0.10% | ~483 |
-| Jericho Mastery | 0.10% | ~483 |
-| Jericho Supremacy | 0.10% | ~483 |
-| Hammer Mastery | 0.10% | ~483 |
-| Hammer Supremacy | 0.10% | ~483 |
-| Void Mastery | 0.10% | ~483 |
-| Void Supremacy | 0.10% | ~483 |
-| Kaos Mastery | 0.10% | ~483 |
-| Kaos Supremacy | 0.10% | ~483 |
-| Excelsior Supremacy | 0.10% | ~483 |
-| Savior | 0.10% | ~27 |
-| The God of War | 0.10% | ~27 |
-| Horus Mastery | 0.10% | ~27 |
-| Horus Supremacy | 0.10% | ~27 |
-| Kronos Mastery | 0.10% | ~27 |
-| Kronos Supremacy | 0.10% | ~27 |
-| Horus Rule | 0.10% | ~27 |
+| The Shutdown | 66.00% | ~319,482 |
+| Jeef Skeejj | 44.00% | ~212,988 |
+| Careful planning | 40.00% | ~193,626 |
+| Second Coming | 34.00% | ~164,582 |
+| Jeef Skagg | 30.00% | ~145,219 |
+| Mother | 26.00% | ~125,857 |
+| In space, no one can hear you scream | 24.00% | ~116,175 |
+| Excelsior Rule | 23.00% | ~111,335 |
+| Chapter I: Echoes | 22.00% | ~106,494 |
+| Things persisted in not being what they seemed | 20.00% | ~96,813 |
+| Knightmare Frames | 15.00% | ~72,610 |
+| May His passing cleanse the world | 15.00% | ~72,610 |
+| Chapter II: Fallible Flesh | 15.00% | ~72,610 |
+| Pope Zenon | 15.00% | ~72,610 |
+| Plan for the worst | 12.00% | ~58,088 |
+| Tetsuo | 11.00% | ~53,247 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~48,406 |
+| Back to Ganyma | 9.00% | ~43,566 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~38,725 |
+| Through the mirror | 8.00% | ~38,725 |
+| The Survivalists | 8.00% | ~38,725 |
+| General Vivar | 8.00% | ~38,725 |
+| Kaos Rule | 8.00% | ~38,725 |
+| Meet your maker | 7.00% | ~33,884 |
+| Admiral Okonkwo | 7.00% | ~33,884 |
+| The Tech Specialist | 7.00% | ~33,884 |
+| The Ace Pilot | 7.00% | ~33,884 |
+| The Mech Soldier | 7.00% | ~33,884 |
+| The lucky charm | 7.00% | ~33,884 |
+| The Anonymous | 7.00% | ~33,884 |
+| The Crazy Repairman | 7.00% | ~33,884 |
+| Chapter V: Memories of None | 6.00% | ~29,044 |
+| The Impersonator | 6.00% | ~29,044 |
+| The Kid | 6.00% | ~29,044 |
+| The Evangelist | 6.00% | ~29,044 |
+| The Inquisitor | 6.00% | ~29,044 |
+| The Tech Med | 6.00% | ~29,044 |
+| The Smuggler | 6.00% | ~29,044 |
+| The Weasel | 6.00% | ~29,044 |
+| Kill the Doctor | 5.00% | ~24,203 |
+| Forsaken | 5.00% | ~24,203 |
+| Mercy | 5.00% | ~24,203 |
+| Jericho Rule | 5.00% | ~24,203 |
+| Hammer Rule | 4.00% | ~19,363 |
+| Geno Rule | 3.00% | ~14,522 |
+| Emperor of Misery | 2.00% | ~9,681 |
+| Survivor | 2.00% | ~9,681 |
+| A Rock in the Dark | 1.00% | ~4,841 |
+| A Frozen Lady | 1.00% | ~4,841 |
+| Void Rule | 1.00% | ~4,841 |
+| Hand of the Emperor | 1.00% | ~281 |
+| Excelsior Mastery | 0.90% | ~4,357 |
+| Soldiers of Fortune | 0.80% | ~225 |
+| The greatest admiral of all time | 0.60% | ~2,904 |
+| The Extractor | 0.30% | ~84 |
+| The Executioner | 0.30% | ~84 |
+| The Blade | 0.20% | ~56 |
+| The Ghost | 0.20% | ~56 |
+| Kronos Rule | 0.20% | ~56 |
+| Liberator | 0.10% | ~484 |
+| The Art of War | 0.10% | ~484 |
+| Geno Mastery | 0.10% | ~484 |
+| Geno Supremacy | 0.10% | ~484 |
+| Jericho Mastery | 0.10% | ~484 |
+| Jericho Supremacy | 0.10% | ~484 |
+| Hammer Mastery | 0.10% | ~484 |
+| Hammer Supremacy | 0.10% | ~484 |
+| Void Mastery | 0.10% | ~484 |
+| Void Supremacy | 0.10% | ~484 |
+| Kaos Mastery | 0.10% | ~484 |
+| Kaos Supremacy | 0.10% | ~484 |
+| Excelsior Supremacy | 0.10% | ~484 |
+| Savior | 0.10% | ~28 |
+| The God of War | 0.10% | ~28 |
+| Horus Mastery | 0.10% | ~28 |
+| Horus Supremacy | 0.10% | ~28 |
+| Kronos Mastery | 0.10% | ~28 |
+| Kronos Supremacy | 0.10% | ~28 |
+| Horus Rule | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,032 (Ranked 60)  
-Completed: 26 (0.01%) (Ranked 563)  
+Progressed: 484,064 (Ranked 61)  
+Completed: 27 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -377,6 +377,7 @@ Completed: 26 (0.01%) (Ranked 563)
 | 2024-08-09 | 481,789 | 26 |
 | 2024-08-20 | 482,170 | 26 |
 | 2024-09-14 | 483,032 | 26 |
+| 2024-10-17 | 484,064 | 27 |
 ## Awards
 Max (Character Customization): 265  (Ranked 340)  
 Sum: 396 (Ranked 455)  

@@ -2,10 +2,10 @@
   "ID": "6da5555f0d304bbe899fe6c21fe38b6e",
   "Name": "Astor: Blade of the Monolith",
   "ProductSlug": "astor-blade-of-the-monolith-708aed",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 902,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-30T16:00:00+00:00",
     "PcReleaseDate": "2024-05-30T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:27:34.7700532+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:45.5599074+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:55.1198742+00:00",
@@ -73,7 +78,7 @@
       "ID": "ACH_ALL_UPGRADES",
       "SetID": "j9mg94",
       "Name": "Ultimate Life Form",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -81,7 +86,7 @@
       "ID": "ACH_CHALLENGES",
       "SetID": "j9mg94",
       "Name": "Gladiator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -91,13 +96,13 @@
       "Name": "First Steps",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_COLISEUM",
       "SetID": "j9mg94",
       "Name": "Champion",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -121,15 +126,15 @@
       "ID": "ACH_CRYSTAL_HAVEN",
       "SetID": "j9mg94",
       "Name": "It\u0027s safer to live underground",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DEEP_FOREST",
       "SetID": "j9mg94",
       "Name": "Seeking a master",
-      "Percentage": 28,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -137,23 +142,23 @@
       "ID": "ACH_FIREFLY_FOREST",
       "SetID": "j9mg94",
       "Name": "The man that takes your face away",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRST_UPGRADE",
       "SetID": "j9mg94",
       "Name": "Upgrades people, upgrades",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_GAUNTLET_1",
       "SetID": "j9mg94",
       "Name": "Little Dragon",
-      "Percentage": 28,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -161,7 +166,7 @@
       "ID": "ACH_GAUNTLET_2",
       "SetID": "j9mg94",
       "Name": "One Punch Mask",
-      "Percentage": 24,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -169,7 +174,7 @@
       "ID": "ACH_GAUNTLET_MASTER",
       "SetID": "j9mg94",
       "Name": "Master of the Fists",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_HAMMER_1",
       "SetID": "j9mg94",
       "Name": "Crusher!",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -193,7 +198,7 @@
       "ID": "ACH_HAMMER_MASTER",
       "SetID": "j9mg94",
       "Name": "Master of the Hammer",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -201,7 +206,7 @@
       "ID": "ACH_INSIDE_MONOLITH",
       "SetID": "j9mg94",
       "Name": "Monolith",
-      "Percentage": 24,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -209,15 +214,15 @@
       "ID": "ACH_KALIOS_MOUNTAIN",
       "SetID": "j9mg94",
       "Name": "Kalios Mountain",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_LATIS_CAVERN",
       "SetID": "j9mg94",
       "Name": "The lady of the cave",
-      "Percentage": 28,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -225,7 +230,7 @@
       "ID": "ACH_OBSERVATORY",
       "SetID": "j9mg94",
       "Name": "Meeting the creator",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -233,7 +238,7 @@
       "ID": "ACH_ORACLE",
       "SetID": "j9mg94",
       "Name": "The Cartographer",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -241,7 +246,7 @@
       "ID": "ACH_OUTSIDE_MONOLITH",
       "SetID": "j9mg94",
       "Name": "The end of the road",
-      "Percentage": 24,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -249,15 +254,15 @@
       "ID": "ACH_PARRY_1",
       "SetID": "j9mg94",
       "Name": "Dante\u0027s Apprentice",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_PARRY_2",
       "SetID": "j9mg94",
       "Name": "Parry like the Wolf",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_SACRED_LAKE",
       "SetID": "j9mg94",
       "Name": "The secret of the lake",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -275,7 +280,7 @@
       "Name": "Secret Runes",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SPEAR_1",
@@ -297,7 +302,7 @@
       "ID": "ACH_SPEAR_MASTER",
       "SetID": "j9mg94",
       "Name": "Master of the Spear",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -305,7 +310,7 @@
       "ID": "ACH_SPIDER_DEN",
       "SetID": "j9mg94",
       "Name": "Ewww Spiders!!!!",
-      "Percentage": 34,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -315,21 +320,21 @@
       "Name": "Brave Sword",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SWORD_2",
       "SetID": "j9mg94",
       "Name": "Excalibur",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SWORD_MASTER",
       "SetID": "j9mg94",
       "Name": "Master of the Sword",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -337,15 +342,15 @@
       "ID": "ACH_TEMPLE_CHOSEN",
       "SetID": "j9mg94",
       "Name": "Touched by fate",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_TEMPLE_DEATH",
       "SetID": "j9mg94",
       "Name": "Where nightmares are created",
-      "Percentage": 28,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -353,7 +358,7 @@
       "ID": "ACH_TEMPLE_NEUMA",
       "SetID": "j9mg94",
       "Name": "The power of the lake",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -361,7 +366,7 @@
       "ID": "ACH_TEMPLE_PSYCHE",
       "SetID": "j9mg94",
       "Name": "The protector",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -369,15 +374,15 @@
       "ID": "ACH_TEMPLE_SOMA",
       "SetID": "j9mg94",
       "Name": "The heart of the machine",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_WEAPONS_MASTER",
       "SetID": "j9mg94",
       "Name": "Grand Master",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -385,23 +390,23 @@
       "ID": "ACH_XANIOS_DESERT",
       "SetID": "j9mg94",
       "Name": "An ocean of sand",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "j9mg94",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-31T14:57:50.2579599+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.1198741+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:34.7700527+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:45.5599067+00:00",
   "LastUpdate_AppInfo": "2024-10-11T05:57:24.6235769+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:29.1568849+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:34.7700762+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:40.7115491+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:45.5599287+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 495,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 511,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1589,6 +1589,11 @@
       "Time": "2024-09-14T14:19:44.3869868+00:00",
       "NumProgressed": 495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:54.9248807+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1601,15 +1606,15 @@
       "Name": "A new way",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "assemble_puzzles",
@@ -1625,7 +1630,7 @@
       "Name": "Breaking free",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "casting_finished",
@@ -1633,7 +1638,7 @@
       "Name": "Casting Finished",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "collect_items_mother",
@@ -1641,7 +1646,7 @@
       "Name": "Something to think about",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "collect_most_of_memories",
@@ -1649,7 +1654,7 @@
       "Name": "I remember It Like Was Yesterday",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "collect_most_of_myths",
@@ -1657,7 +1662,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "collect_most_of_posters",
@@ -1671,17 +1676,17 @@
       "ID": "collect_notes_mother",
       "SetID": "f2im8d",
       "Name": "Dark correspondence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 41
     },
     {
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 347
     },
     {
       "ID": "decrypt_one_myth",
@@ -1703,17 +1708,17 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 250
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 276
     },
     {
       "ID": "earn_all_trophies",
@@ -1727,9 +1732,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 210
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1753,7 +1758,7 @@
       "Name": "Scraps of love",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 317
     },
     {
       "ID": "find_one_photo",
@@ -1761,7 +1766,7 @@
       "Name": "A Slice of Life",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "find_one_poster",
@@ -1769,7 +1774,7 @@
       "Name": "Debut",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1777,7 +1782,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 301
     },
     {
       "ID": "finished_it",
@@ -1785,7 +1790,7 @@
       "Name": "Finished it",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "first_step",
@@ -1793,7 +1798,7 @@
       "Name": "First steps",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1801,7 +1806,7 @@
       "Name": "Full Scoop",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "hear_one_interview",
@@ -1809,7 +1814,7 @@
       "Name": "Sound Bite",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "heavy_burden",
@@ -1817,7 +1822,7 @@
       "Name": "Heavy Burden",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "in_one_take",
@@ -1847,9 +1852,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "once_upon_a_time",
@@ -1873,7 +1878,7 @@
       "Name": "A piece of the story",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 373
     },
     {
       "ID": "playtime",
@@ -1881,7 +1886,7 @@
       "Name": "Playtime",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "preferred_parent",
@@ -1889,7 +1894,7 @@
       "Name": "Preferred Parent",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rocket_science",
@@ -1905,7 +1910,7 @@
       "Name": "Se7en Seas",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "secret_ending",
@@ -1921,23 +1926,23 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 271
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 465
     },
     {
       "ID": "spy_one_item",
@@ -1945,7 +1950,7 @@
       "Name": "Fisherman",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1961,7 +1966,7 @@
       "Name": "The art of movement",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1969,15 +1974,15 @@
       "Name": "The tragedy unfolds",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "tough_conversation",
       "SetID": "f2im8d",
       "Name": "Tough conversation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "true_reflection",
@@ -1985,15 +1990,15 @@
       "Name": "True Reflection",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "view_most_of_photos",
       "SetID": "f2im8d",
       "Name": "A Mosaic of Misery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "wanderer",
@@ -2001,7 +2006,7 @@
       "Name": "Wanderer",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 301
     },
     {
       "ID": "whispers_long_forgotten",
@@ -2009,21 +2014,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 511,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:44.3869863+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:54.9248801+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:57.1336684+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:26.2449353+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:44.3870329+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:54.9249366+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d687fc7fa9814e76a19454c65a9ac863",
   "Name": "Werewolf: The Apocalypse - Purgatory",
   "ProductSlug": "werewolf-the-apocalypse-purgatory-db8b1f",
-  "Ranking_EOS_Progress": 1098,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-23T15:00:00+00:00",
     "PcReleaseDate": "2024-07-23T15:00:00+00:00",
@@ -435,8 +435,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-24T02:01:07.7044578+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:15.1360022+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:59.1427634+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:09.9203493+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:19.1675689+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:15.1360311+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:59.1427984+00:00"
 }

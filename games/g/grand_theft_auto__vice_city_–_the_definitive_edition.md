@@ -5,43 +5,43 @@ Rating: 4.53 (Ranked 656)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 49.00% | ~9,862 |
-| Greasy Palms | 45.00% | ~9,057 |
-| South American Connection | 29.00% | ~5,837 |
-| Life of the Party | 23.00% | ~4,629 |
-| Chauffeur | 18.00% | ~3,623 |
-| Tommy Two-Wheels | 18.00% | ~3,623 |
-| Big Heat from Little Havana | 17.00% | ~3,421 |
-| Salutations My Little Friend | 13.00% | ~2,616 |
-| Iron-y | 11.00% | ~2,214 |
-| Gun for Hire | 11.00% | ~2,214 |
-| Mischief Managed | 11.00% | ~2,214 |
-| Vice City Mogul | 8.00% | ~1,610 |
-| Catch Me if You Can | 7.00% | ~1,409 |
-| Bloodstained Hands | 7.00% | ~1,409 |
-| Not my First Time | 6.00% | ~1,208 |
-| Grand Theft Auto | 6.00% | ~1,208 |
-| Pie Guy | 5.00% | ~1,006 |
-| Point A to Point B | 4.00% | ~805 |
-| High Quality H2O | 4.00% | ~805 |
-| Bull in a China Shop | 4.00% | ~805 |
-| Don't Need Roads | 4.00% | ~805 |
-| Running Rampant | 3.00% | ~604 |
-| Somebody Call the Wambulance? | 3.00% | ~604 |
-| Just Like the Real Thing | 3.00% | ~604 |
-| Take the Cannoli | 3.00% | ~604 |
-| City Sleuth | 3.00% | ~604 |
-| One is Better Than Two | 2.00% | ~403 |
-| Keepie-Uppy Okie Dokie | 2.00% | ~403 |
-| Daredevil | 2.00% | ~403 |
-| Chopper’d Up | 2.00% | ~403 |
-| Born in the 80’s | 1.00% | ~201 |
-| I'm Famous! | 1.00% | ~201 |
-| Done it All | 1.00% | ~201 |
-| Kingpin | 0.80% | ~161 |
+| Legal Counsel | 49.00% | ~10,006 |
+| Greasy Palms | 45.00% | ~9,189 |
+| South American Connection | 29.00% | ~5,922 |
+| Life of the Party | 24.00% | ~4,901 |
+| Big Heat from Little Havana | 18.00% | ~3,676 |
+| Chauffeur | 18.00% | ~3,676 |
+| Tommy Two-Wheels | 18.00% | ~3,676 |
+| Salutations My Little Friend | 13.00% | ~2,655 |
+| Iron-y | 11.00% | ~2,246 |
+| Gun for Hire | 11.00% | ~2,246 |
+| Mischief Managed | 11.00% | ~2,246 |
+| Vice City Mogul | 8.00% | ~1,634 |
+| Catch Me if You Can | 7.00% | ~1,429 |
+| Bloodstained Hands | 7.00% | ~1,429 |
+| Not my First Time | 6.00% | ~1,225 |
+| Grand Theft Auto | 6.00% | ~1,225 |
+| Pie Guy | 5.00% | ~1,021 |
+| Point A to Point B | 4.00% | ~817 |
+| High Quality H2O | 4.00% | ~817 |
+| Bull in a China Shop | 4.00% | ~817 |
+| Don't Need Roads | 4.00% | ~817 |
+| Running Rampant | 3.00% | ~613 |
+| Somebody Call the Wambulance? | 3.00% | ~613 |
+| Just Like the Real Thing | 3.00% | ~613 |
+| Take the Cannoli | 3.00% | ~613 |
+| City Sleuth | 3.00% | ~613 |
+| One is Better Than Two | 2.00% | ~408 |
+| Keepie-Uppy Okie Dokie | 2.00% | ~408 |
+| I'm Famous! | 2.00% | ~408 |
+| Daredevil | 2.00% | ~408 |
+| Chopper’d Up | 2.00% | ~408 |
+| Born in the 80’s | 1.00% | ~204 |
+| Done it All | 1.00% | ~204 |
+| Kingpin | 0.90% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,126 (Ranked 225)  
-Completed: 169 (0.84%) (Ranked 307)  
+Progressed: 20,420 (Ranked 230)  
+Completed: 175 (0.86%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 169 (0.84%) (Ranked 307)
 | 2024-08-09 | 19,603 | 158 |
 | 2024-08-20 | 19,684 | 160 |
 | 2024-09-14 | 20,126 | 169 |
+| 2024-10-17 | 20,420 | 175 |
 ## Awards
 Max (Diverse Characters): 34  (Ranked 643)  
 Sum: 237 (Ranked 521)  

@@ -2,10 +2,10 @@
   "ID": "4aeb446ed8044b9bbdf98044832da06a",
   "Name": "Gunshots in the barren hills",
   "ProductSlug": "gunshots-in-the-barren-hills-f0202a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-03-01T02:30:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T17:57:40.8526997+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:36.9270255+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:40.2593457+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:51.9395434+00:00"
 }

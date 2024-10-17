@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~248 |
-| The Routine | 79.00% | ~220 |
-| Mother | 78.00% | ~218 |
-| Failure | 74.00% | ~206 |
-| Replace Fuse | 64.00% | ~179 |
-| Alarm | 62.00% | ~173 |
-| Air Filtration | 60.00% | ~167 |
-| Broken | 58.00% | ~162 |
-| Radiation | 57.00% | ~159 |
-| Descent | 54.00% | ~151 |
-| Awakenings | 54.00% | ~151 |
-| Cold Storage | 54.00% | ~151 |
-| Sam | 53.00% | ~148 |
-| Leave | 49.00% | ~137 |
-| Churchill | 47.00% | ~131 |
-| Soldier | 47.00% | ~131 |
-| Engineer | 46.00% | ~128 |
-| Commissioner | 45.00% | ~126 |
-| Doctor | 41.00% | ~114 |
-| Press Play | 32.00% | ~89 |
+| Last Goodbye | 89.00% | ~251 |
+| The Routine | 79.00% | ~223 |
+| Mother | 77.00% | ~217 |
+| Failure | 74.00% | ~209 |
+| Replace Fuse | 63.00% | ~178 |
+| Alarm | 62.00% | ~175 |
+| Air Filtration | 60.00% | ~169 |
+| Broken | 58.00% | ~164 |
+| Radiation | 57.00% | ~161 |
+| Descent | 54.00% | ~152 |
+| Awakenings | 54.00% | ~152 |
+| Cold Storage | 54.00% | ~152 |
+| Sam | 53.00% | ~149 |
+| Leave | 49.00% | ~138 |
+| Churchill | 47.00% | ~133 |
+| Soldier | 47.00% | ~133 |
+| Engineer | 46.00% | ~130 |
+| Commissioner | 45.00% | ~127 |
+| Doctor | 41.00% | ~116 |
+| Press Play | 32.00% | ~90 |
 | General | 25.00% | ~70 |
-| Bookworm | 23.00% | ~64 |
+| Bookworm | 23.00% | ~65 |
 | Floppy Disk Finder | 16.00% | ~45 |
-| Stay | 12.00% | ~33 |
+| Stay | 12.00% | ~34 |
 | Nurse | 10.00% | ~28 |
 | No Page Unturned | 5.00% | ~14 |
 | Friends | 5.00% | ~14 |
 | The Missing Piece | 5.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 564)  
-Completed: 11 (3.94%) (Ranked 159)  
+Progressed: 282 (Ranked 582)  
+Completed: 11 (3.90%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,6 +122,7 @@ Completed: 11 (3.94%) (Ranked 159)
 | 2024-08-09 | 271 | 11 |
 | 2024-08-20 | 274 | 11 |
 | 2024-09-14 | 279 | 11 |
+| 2024-10-17 | 282 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

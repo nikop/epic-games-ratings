@@ -2,10 +2,10 @@
   "ID": "d99b2443a1034447902438a935849b80",
   "Name": "Travel Cuisine 2: Sweet Life",
   "ProductSlug": "travel-cuisine-2-sweet-life-7a4239",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-02-10T21:00:00+00:00",
     "PcReleaseDate": "2023-07-22T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-02-15T18:57:54.7733019+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:16.2783026+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:37.3340675+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:06.9960397+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:12.8126521+00:00"
 }

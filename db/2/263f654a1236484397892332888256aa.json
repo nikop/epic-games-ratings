@@ -2,10 +2,10 @@
   "ID": "263f654a1236484397892332888256aa",
   "Name": "Watch Over Christmas",
   "ProductSlug": "watch-over-christmas-ca6e50",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-22T09:00:00+00:00",
     "PcReleaseDate": "2021-12-21T08:00:00+00:00",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2023-08-24T19:57:42.0627624+00:00",
   "FirstSeenAchievements": "2023-08-22T10:00:57.3986546+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:52.9218236+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:31.889054+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:07.3951416+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:36.1661857+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:52.9218474+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:31.8890837+00:00"
 }

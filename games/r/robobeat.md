@@ -4,50 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Passage | 76.00% | ~75 |
-| Let's Begin | 74.00% | ~73 |
-| Learning Combos | 66.00% | ~65 |
-| Beginner's Luck | 65.00% | ~64 |
-| Composer's Choice | 63.00% | ~62 |
-| Parry Pro | 60.00% | ~59 |
-| The Gallery | 59.00% | ~58 |
-| Chip Chap | 52.00% | ~51 |
-| High DPS | 47.00% | ~47 |
-| Punk Slayer | 30.00% | ~30 |
-| The Ruins | 30.00% | ~30 |
-| Rhythm Rider | 24.00% | ~24 |
-| Buzz Kill | 23.00% | ~23 |
-| Retail Raid | 23.00% | ~23 |
-| Rookie | 21.00% | ~21 |
-| The Remix | 21.00% | ~21 |
-| False Start | 14.00% | ~14 |
-| Monster Kill | 14.00% | ~14 |
-| 360 | 13.00% | ~13 |
-| The Citadel | 13.00% | ~13 |
-| Parkour Pioneer | 13.00% | ~13 |
-| Privacy | 12.00% | ~12 |
-| Advanced Duck Hunt | 12.00% | ~12 |
-| Monster Parry | 12.00% | ~12 |
-| Face Off | 9.00% | ~9 |
-| UnBEATable | 8.00% | ~8 |
-| Resourceful | 7.00% | ~7 |
-| Fancy Pants | 5.00% | ~5 |
-| The Machine | 5.00% | ~5 |
-| Rush Reveal | 4.00% | ~4 |
-| Break the Game | 2.00% | ~2 |
-| Infinity | 2.00% | ~2 |
+| The Passage | 79.00% | ~91 |
+| Let's Begin | 77.00% | ~89 |
+| Learning Combos | 70.00% | ~80 |
+| Beginner's Luck | 69.00% | ~79 |
+| Composer's Choice | 66.00% | ~76 |
+| Parry Pro | 63.00% | ~72 |
+| The Gallery | 63.00% | ~72 |
+| Chip Chap | 51.00% | ~59 |
+| High DPS | 46.00% | ~53 |
+| Punk Slayer | 31.00% | ~36 |
+| The Ruins | 31.00% | ~36 |
+| Buzz Kill | 25.00% | ~29 |
+| Rhythm Rider | 25.00% | ~29 |
+| Retail Raid | 24.00% | ~28 |
+| Rookie | 23.00% | ~26 |
+| The Remix | 20.00% | ~23 |
+| 360 | 17.00% | ~20 |
+| Advanced Duck Hunt | 16.00% | ~18 |
+| Monster Kill | 14.00% | ~16 |
+| The Citadel | 14.00% | ~16 |
+| False Start | 13.00% | ~15 |
+| Monster Parry | 13.00% | ~15 |
+| Parkour Pioneer | 13.00% | ~15 |
+| Privacy | 11.00% | ~13 |
+| Face Off | 10.00% | ~12 |
+| UnBEATable | 9.00% | ~10 |
+| The Machine | 7.00% | ~8 |
+| Resourceful | 6.00% | ~7 |
+| Fancy Pants | 6.00% | ~7 |
+| Rush Reveal | 4.00% | ~5 |
+| Break the Game | 3.00% | ~3 |
+| Infinity | 3.00% | ~3 |
 | Transcendence | 2.00% | ~2 |
 | Rush Runner-Up | 2.00% | ~2 |
-| Punk Humiliation | 1.00% | ~1 |
-| Loyal 'til the End | 1.00% | ~1 |
-| Rush Champion | 1.00% | ~1 |
-| Big Brain | 1.00% | ~1 |
+| Punk Humiliation | 0.90% | ~1 |
+| Loyal 'til the End | 0.90% | ~1 |
+| Rush Champion | 0.90% | ~1 |
+| Big Brain | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 712)  
-Completed: 1 (1.01%) (Ranked 282)  
+Progressed: 115 (Ranked 715)  
+Completed: 1 (0.87%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 32 | 0 |
 | 2024-08-09 | 78 | 0 |
 | 2024-09-14 | 99 | 1 |
+| 2024-10-17 | 115 | 1 |

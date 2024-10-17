@@ -2,10 +2,10 @@
   "ID": "dd2c84892f4945a48cf4213842f57fa0",
   "Name": "Battle Bits",
   "ProductSlug": "battle-bits-9503b2",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-04-28T16:00:00+00:00",
     "PcReleaseDate": "2025-04-28T16:00:00+00:00",
@@ -29,11 +29,678 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-10-17T05:06:25.8419869+00:00",
+  "TotalAchievements": 82,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Bit_1",
+      "SetID": "59b3i95",
+      "Name": "Bit 1",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_10",
+      "SetID": "59b3i95",
+      "Name": "Bit 10",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_100",
+      "SetID": "59b3i95",
+      "Name": "Bit 100",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_1000",
+      "SetID": "59b3i95",
+      "Name": "Bit 1,000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_10000",
+      "SetID": "59b3i95",
+      "Name": "Bit 10,000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_100000",
+      "SetID": "59b3i95",
+      "Name": "Bit 100,000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_1000000",
+      "SetID": "59b3i95",
+      "Name": "Bit 1,000,000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bit_10000000",
+      "SetID": "59b3i95",
+      "Name": "Bit 10,000,000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_0",
+      "SetID": "59b3i95",
+      "Name": "Boss 0",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_1",
+      "SetID": "59b3i95",
+      "Name": "Boss 1",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_2",
+      "SetID": "59b3i95",
+      "Name": "Boss 2",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_3",
+      "SetID": "59b3i95",
+      "Name": "Boss 3",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_4",
+      "SetID": "59b3i95",
+      "Name": "Boss 4",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_5",
+      "SetID": "59b3i95",
+      "Name": "Boss 5",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_6",
+      "SetID": "59b3i95",
+      "Name": "Boss 6",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_7",
+      "SetID": "59b3i95",
+      "Name": "Boss 7",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_8",
+      "SetID": "59b3i95",
+      "Name": "Boss 8",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss_9",
+      "SetID": "59b3i95",
+      "Name": "Boss 9",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Addition",
+      "SetID": "59b3i95",
+      "Name": "Collection Addition",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_All",
+      "SetID": "59b3i95",
+      "Name": "Collection All",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Colon",
+      "SetID": "59b3i95",
+      "Name": "Collection Colon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Division",
+      "SetID": "59b3i95",
+      "Name": "Collection Division",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Equal",
+      "SetID": "59b3i95",
+      "Name": "Collection Equal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Exclamation",
+      "SetID": "59b3i95",
+      "Name": "Collection Exclamation",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Hashtag",
+      "SetID": "59b3i95",
+      "Name": "Collection Hashtag",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Multiplication",
+      "SetID": "59b3i95",
+      "Name": "Collection Multiplication",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Question",
+      "SetID": "59b3i95",
+      "Name": "Collection Question",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collection_Subtraction",
+      "SetID": "59b3i95",
+      "Name": "Collection Subtraction",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_A",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 A",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_B",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 B",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_C",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 C",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_D",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 D",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_E",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 E",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_F",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 F",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_G",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 G",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_H",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 H",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_I",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 I",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_J",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 J",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_K",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 K",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_L",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 L",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_M",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 M",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_N",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 N",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_O",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 O",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_P",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 P",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_Q",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 Q",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_R",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 R",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_S",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 S",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_T",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 T",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_U",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 U",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_V",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 V",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_W",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 W",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_X",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 X",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_Y",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 Y",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_1000000_Z",
+      "SetID": "59b3i95",
+      "Name": "Kill 1,000,000 Z",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_10",
+      "SetID": "59b3i95",
+      "Name": "Level 10",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_100",
+      "SetID": "59b3i95",
+      "Name": "Level 100",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_15",
+      "SetID": "59b3i95",
+      "Name": "Level 15",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_20",
+      "SetID": "59b3i95",
+      "Name": "Level 20",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_25",
+      "SetID": "59b3i95",
+      "Name": "Level 25",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_30",
+      "SetID": "59b3i95",
+      "Name": "Level 30",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_35",
+      "SetID": "59b3i95",
+      "Name": "Level 35",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_40",
+      "SetID": "59b3i95",
+      "Name": "Level 40",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_45",
+      "SetID": "59b3i95",
+      "Name": "Level 45",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_5",
+      "SetID": "59b3i95",
+      "Name": "Level 5",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_50",
+      "SetID": "59b3i95",
+      "Name": "Level 50",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_55",
+      "SetID": "59b3i95",
+      "Name": "Level 55",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_60",
+      "SetID": "59b3i95",
+      "Name": "Level 60",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_65",
+      "SetID": "59b3i95",
+      "Name": "Level 65",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_70",
+      "SetID": "59b3i95",
+      "Name": "Level 70",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_75",
+      "SetID": "59b3i95",
+      "Name": "Level 75",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_80",
+      "SetID": "59b3i95",
+      "Name": "Level 80",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_85",
+      "SetID": "59b3i95",
+      "Name": "Level 85",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_90",
+      "SetID": "59b3i95",
+      "Name": "Level 90",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_95",
+      "SetID": "59b3i95",
+      "Name": "Level 95",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Addition",
+      "SetID": "59b3i95",
+      "Name": "Addition sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Colon",
+      "SetID": "59b3i95",
+      "Name": "Colon sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Division",
+      "SetID": "59b3i95",
+      "Name": "Division sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Equal",
+      "SetID": "59b3i95",
+      "Name": "Equal sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Hashtag",
+      "SetID": "59b3i95",
+      "Name": "Hashtag sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Multiplication",
+      "SetID": "59b3i95",
+      "Name": "Multiplication sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Question",
+      "SetID": "59b3i95",
+      "Name": "Question sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock_Subtraction",
+      "SetID": "59b3i95",
+      "Name": "Subtraction sign",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "59b3i95",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:25.8419868+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:25.8419853+00:00",
   "LastUpdate_AppInfo": "2024-10-15T21:57:28.6547757+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:12.1416529+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:09.0680618+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:13.7636374+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:25.8427564+00:00"
 }

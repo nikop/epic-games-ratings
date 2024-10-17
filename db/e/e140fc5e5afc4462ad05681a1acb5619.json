@@ -2,10 +2,10 @@
   "ID": "e140fc5e5afc4462ad05681a1acb5619",
   "Name": "Virtual Girlfriend Lia",
   "ProductSlug": "virtual-girlfriend-lia-c126e0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-15T12:00:00+00:00",
     "PcReleaseDate": "2024-06-15T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T09:57:17.0614509+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:48.3121+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:47.6606035+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:35.7222457+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:59.6283678+00:00"
 }

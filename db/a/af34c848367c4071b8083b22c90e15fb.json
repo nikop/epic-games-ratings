@@ -2,10 +2,10 @@
   "ID": "af34c848367c4071b8083b22c90e15fb",
   "Name": "Bmx Bastards",
   "ProductSlug": "bmx-bastards-013480",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T14:57:19.7856495+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:35.8687975+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:58.1086263+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:00.015081+00:00"
 }

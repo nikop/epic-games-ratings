@@ -2,10 +2,10 @@
   "ID": "c0faeee2598f4fcba5696d4fdda7d718",
   "Name": "Russian Village Simulator",
   "ProductSlug": "russian-village-simulator-ddedb6",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-02T13:00:00+00:00",
     "PcReleaseDate": "2023-09-25T01:00:00+00:00",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2024-05-08T20:57:37.9916112+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:20.8813465+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:02.1512873+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:44.3552496+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:21.5228133+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:50.477976+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:02.1513179+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:44.3552923+00:00"
 }

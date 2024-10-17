@@ -5,10 +5,10 @@
   "Ranking_Rating": 1318,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 440,
-  "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
-  "EOS_Completed": 6,
+  "EOS_Progressed": 852,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1546,6 +1546,11 @@
       "Time": "2024-09-14T14:15:37.2223938+00:00",
       "NumProgressed": 833,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-10-17T05:07:08.4916082+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 29,
@@ -1555,9 +1560,9 @@
       "ID": "80lvl_Gamer",
       "SetID": "ek310c",
       "Name": "Hardcore Gamer",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Agent_47",
@@ -1565,7 +1570,7 @@
       "Name": "Identity Theft",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Butterfly",
@@ -1581,7 +1586,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "Doors_Closing",
@@ -1589,15 +1594,15 @@
       "Name": "Mind the Gap",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Echoes",
       "SetID": "ek310c",
       "Name": "Echoes of the Past",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "Enjoyable_Read",
@@ -1605,15 +1610,15 @@
       "Name": "Between the Covers",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Gamer",
       "SetID": "ek310c",
       "Name": "Casual Gamer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "Graffiti_Artist",
@@ -1621,7 +1626,7 @@
       "Name": "Urban Scrawl",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Hacker",
@@ -1629,7 +1634,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Headshot",
@@ -1637,7 +1642,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Healthy_Child",
@@ -1645,7 +1650,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 417
     },
     {
       "ID": "Hitman",
@@ -1653,7 +1658,7 @@
       "Name": "Short Circuit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "Illustrator",
@@ -1661,15 +1666,15 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Investigative",
       "SetID": "ek310c",
       "Name": "Marvellous Toys",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "Left_Behind",
@@ -1677,7 +1682,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 366
     },
     {
       "ID": "Leisurely_Strol",
@@ -1685,7 +1690,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "MISSING_DATA",
@@ -1693,7 +1698,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Misanthrope",
@@ -1701,15 +1706,15 @@
       "Name": "Antisocial Club",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Missing_Shot",
       "SetID": "ek310c",
       "Name": "You Had One Job...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "Neighbor",
@@ -1717,7 +1722,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Ninja",
@@ -1725,7 +1730,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Old_Friend",
@@ -1733,7 +1738,7 @@
       "Name": "A Familiar Face",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "Paparazzi",
@@ -1741,7 +1746,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Park",
@@ -1749,7 +1754,7 @@
       "Name": "Catch You Later",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Party",
@@ -1765,7 +1770,7 @@
       "Name": "Smart cookie",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Strike",
@@ -1773,7 +1778,7 @@
       "Name": "Beat the Heat",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 187
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1781,23 +1786,23 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 833,
-      "Completed": 6
+      "Progressed": 852,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-10-16T19:59:16.521063+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:37.2223932+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:08.4916078+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:11.3867223+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:18.5106734+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:37.2224191+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:08.4916328+00:00"
 }

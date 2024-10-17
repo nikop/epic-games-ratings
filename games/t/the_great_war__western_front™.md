@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 1,284)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Earth Shattering | 45.00% | ~586 |
-| La Der des Ders | 14.00% | ~182 |
-| Das Ist Endgültig! | 14.00% | ~182 |
-| From the Pages of History | 9.00% | ~117 |
+| Earth Shattering | 46.00% | ~601 |
+| La Der des Ders | 14.00% | ~183 |
+| Das Ist Endgültig! | 14.00% | ~183 |
+| From the Pages of History | 9.00% | ~118 |
 | The Chemists' War | 5.00% | ~65 |
+| War with Friends | 2.00% | ~26 |
 | Nothing Can Stop Us! | 2.00% | ~26 |
-| War with Friends | 1.00% | ~13 |
 | That's Not What Happened | 1.00% | ~13 |
 | A Student of History | 0.90% | ~12 |
 | Bombs Away! | 0.20% | ~3 |
-| Eventful | 0.00% | ~0 |
+| Eventful | 0.10% | ~1 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,302 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,307 (Ranked 416)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,6 +271,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 1,227 | 0 |
 | 2024-09-14 | 1,281 | 0 |
 | 2024-10-09 | 1,302 | 0 |
+| 2024-10-17 | 1,307 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

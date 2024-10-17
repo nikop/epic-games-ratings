@@ -2,10 +2,10 @@
   "ID": "783e2df24ab34679842dd2e12fb373d3",
   "Name": "Necrodemic",
   "ProductSlug": "necrodemic-d50b38",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T13:57:20.7168355+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:33.1798878+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:20.9986667+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:11.7448898+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:01.6268641+00:00"
 }

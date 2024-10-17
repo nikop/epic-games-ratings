@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 80.00% | ~158 |
-| You Have Been Deaded | 74.00% | ~147 |
-| Rookie | 64.00% | ~127 |
-| Apprentice Destructor | 29.00% | ~57 |
+| Graduation | 79.00% | ~160 |
+| You Have Been Deaded | 74.00% | ~149 |
+| Rookie | 63.00% | ~127 |
+| Apprentice Destructor | 29.00% | ~59 |
 | I Prefer Jazz Fusion | 11.00% | ~22 |
 | Master Destructor | 11.00% | ~22 |
 | Avaricerite | 9.00% | ~18 |
 | Ball Galore | 9.00% | ~18 |
-| Easy Victory | 8.00% | ~16 |
-| Back From The Dead | 7.00% | ~14 |
+| Easy Victory | 7.00% | ~14 |
 | You Are Actually Supposed To Use Those | 7.00% | ~14 |
+| Back From The Dead | 6.00% | ~12 |
 | Ball Collector | 5.00% | ~10 |
 | Legendary Destructor | 5.00% | ~10 |
-| Nomad | 5.00% | ~10 |
 | Ball Protector | 4.00% | ~8 |
-| Medium Rare | 4.00% | ~8 |
+| Nomad | 4.00% | ~8 |
 | Ticking Clock | 4.00% | ~8 |
 | Collector | 3.00% | ~6 |
 | Detoxed | 3.00% | ~6 |
-| Ice Breaker | 3.00% | ~6 |
+| Medium Rare | 3.00% | ~6 |
 | Scrap Collector | 3.00% | ~6 |
 | Bullet Hell | 2.00% | ~4 |
-| Machine Man | 2.00% | ~4 |
+| Ice Breaker | 2.00% | ~4 |
 | Monster of Fashion | 2.00% | ~4 |
-| Mushroom Man | 2.00% | ~4 |
 | Single Person On Earth | 2.00% | ~4 |
-| Total Walrus | 2.00% | ~4 |
-| True Victory | 2.00% | ~4 |
 | Untouchable | 2.00% | ~4 |
-| What Even Are You? | 2.00% | ~4 |
+| Machine Man | 1.00% | ~2 |
+| Mushroom Man | 1.00% | ~2 |
+| Total Walrus | 1.00% | ~2 |
+| True Victory | 1.00% | ~2 |
 | Victory That Is Even More True | 1.00% | ~2 |
+| What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 608)  
-Completed: 2 (1.01%) (Ranked 282)  
+Progressed: 202 (Ranked 625)  
+Completed: 2 (0.99%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,6 +117,7 @@ Completed: 2 (1.01%) (Ranked 282)
 | 2024-06-17 | 190 | 2 |
 | 2024-08-09 | 196 | 2 |
 | 2024-09-14 | 198 | 2 |
+| 2024-10-17 | 202 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

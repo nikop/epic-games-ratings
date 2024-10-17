@@ -2,10 +2,10 @@
   "ID": "06c6603778ed47859ce523af7e0b566b",
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
-  "Ranking_EOS_Progress": 931,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 974,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
     "PcReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Grand Circus",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:54.012678+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:33.8830608+00:00",
   "LastUpdate_AppInfo": "2024-10-13T03:15:54.0736453+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:24.0462057+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:54.0127026+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:46.1502034+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:33.8831239+00:00"
 }

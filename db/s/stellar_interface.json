@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 736,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "BronzeMirrorBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Magic Bronze mirror; on the wall",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BronzeMissionsCompleted10Achievement",
@@ -500,9 +500,9 @@
       "ID": "BronzeMissionsCompleted20Achievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Ensign",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BronzeMissionsCompleted5Achievement",
@@ -556,9 +556,9 @@
       "ID": "Cleared100LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo III",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Cleared10LevelsAchievement",
@@ -668,9 +668,9 @@
       "ID": "CompleteFullRunWithCorvetteAchievement",
       "SetID": "a8djcgh",
       "Name": "Pedal to the Metal",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteFullRunWithDoveAchievement",
@@ -740,9 +740,9 @@
       "ID": "CompleteFullRunWithStarFuryAchievement",
       "SetID": "a8djcgh",
       "Name": "Wrath of the Stars",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ConsumableUsed1000TimesAchievement",
@@ -828,9 +828,9 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FlamethrowerDiarrheaAchievement",
@@ -868,9 +868,9 @@
       "ID": "GoldBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Tovarish",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldBallyBossDefeatedAchievement",
@@ -884,9 +884,9 @@
       "ID": "GoldGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Golden Fate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GoldHoberMallowBossDefeatedAchievement",
@@ -1028,9 +1028,9 @@
       "ID": "Killed100BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper IV",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed100EnemiesAchievement",
@@ -1068,9 +1068,9 @@
       "ID": "Killed50000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Rampage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed5000EnemiesAchievement",
@@ -1124,9 +1124,9 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PerksUnlocked10Achievement",
@@ -1180,9 +1180,9 @@
       "ID": "PlayedFor1DayAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Colonel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PlayedFor1HourAchievement",
@@ -1364,9 +1364,9 @@
       "ID": "VisitLostLord100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage IV",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VisitLostLord10TimeAchievement",
@@ -1491,8 +1491,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:33.1489933+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:02.7739393+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:25.9384728+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:10.184243+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:33.1491386+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:45.1215631+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:02.7740822+00:00"
 }

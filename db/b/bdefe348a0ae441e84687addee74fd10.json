@@ -6,9 +6,9 @@
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 501,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Completed": 518,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2019-11-09T00:00:00+00:00",
@@ -1592,11 +1592,11 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 30347,
-  "EOS_Completed": 14,
+  "EOS_Progressed": 33408,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:52.9224427+00:00",
@@ -1632,6 +1632,11 @@
       "Time": "2024-09-14T14:27:09.9606682+00:00",
       "NumProgressed": 30347,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-10-17T05:14:22.6324444+00:00",
+      "NumProgressed": 33408,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:52.9236989+00:00",
@@ -1644,15 +1649,15 @@
       "Name": "Welcome to Palm City",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 30044
+      "UsersEstimate": 33074
     },
     {
       "ID": "achievement_10",
       "SetID": "71cofm8",
       "Name": "Two Racers, One Event",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 10318
+      "UsersEstimate": 11693
     },
     {
       "ID": "achievement_11",
@@ -1660,23 +1665,23 @@
       "Name": "A Bit Of Paradise",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_12",
       "SetID": "71cofm8",
       "Name": "I Said Right Now!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 3642
+      "UsersEstimate": 4343
     },
     {
       "ID": "achievement_13",
       "SetID": "71cofm8",
       "Name": "Be The Very Best",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 152
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_14",
@@ -1684,87 +1689,87 @@
       "Name": "Comeback Kid",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2731
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_15",
       "SetID": "71cofm8",
       "Name": "Carving Turns",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3945
+      "UsersEstimate": 4677
     },
     {
       "ID": "achievement_16",
       "SetID": "71cofm8",
       "Name": "Off the Grid",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_17",
       "SetID": "71cofm8",
       "Name": "Friends Reunited",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_18",
       "SetID": "71cofm8",
       "Name": "Wrap It Up!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 14263
+      "UsersEstimate": 16036
     },
     {
       "ID": "achievement_19",
       "SetID": "71cofm8",
       "Name": "Don\u0027t Quit Your Day Job",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 23671
+      "UsersEstimate": 26392
     },
     {
       "ID": "achievement_2",
       "SetID": "71cofm8",
       "Name": "Consider Yourself Noticed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 16691
+      "UsersEstimate": 18708
     },
     {
       "ID": "achievement_20",
       "SetID": "71cofm8",
       "Name": "Drift, Drift, Drift",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_21",
       "SetID": "71cofm8",
       "Name": "Techin\u0027",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 11532
+      "UsersEstimate": 13029
     },
     {
       "ID": "achievement_22",
       "SetID": "71cofm8",
       "Name": "Blame The Vain",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1517
+      "UsersEstimate": 2004
     },
     {
       "ID": "achievement_23",
       "SetID": "71cofm8",
       "Name": "Travis, Who?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 4249
+      "UsersEstimate": 5011
     },
     {
       "ID": "achievement_24",
@@ -1772,103 +1777,103 @@
       "Name": "Benefits Are Nice",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2339
     },
     {
       "ID": "achievement_25",
       "SetID": "71cofm8",
       "Name": "You have friends?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4249
+      "UsersEstimate": 5011
     },
     {
       "ID": "achievement_26",
       "SetID": "71cofm8",
       "Name": "Get Shrimpin\u0027",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_27",
       "SetID": "71cofm8",
       "Name": "At The Last Second",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 15477
+      "UsersEstimate": 17372
     },
     {
       "ID": "achievement_28",
       "SetID": "71cofm8",
       "Name": "Graffer",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_29",
       "SetID": "71cofm8",
       "Name": "The Most Wanted",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3675
     },
     {
       "ID": "achievement_3",
       "SetID": "71cofm8",
       "Name": "Worlds Collide",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 10318
+      "UsersEstimate": 12027
     },
     {
       "ID": "achievement_30",
       "SetID": "71cofm8",
       "Name": "Full Send",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_31",
       "SetID": "71cofm8",
       "Name": "All For One",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 6980
+      "UsersEstimate": 8352
     },
     {
       "ID": "achievement_32",
       "SetID": "71cofm8",
       "Name": "Sideways Style",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 3945
+      "UsersEstimate": 4677
     },
     {
       "ID": "achievement_33",
       "SetID": "71cofm8",
       "Name": "The Hackney Dream",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2428
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_34",
       "SetID": "71cofm8",
       "Name": "Component Parts",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 12746
+      "UsersEstimate": 14365
     },
     {
       "ID": "achievement_35",
       "SetID": "71cofm8",
       "Name": "Redline",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 8497
+      "UsersEstimate": 10022
     },
     {
       "ID": "achievement_36",
@@ -1876,47 +1881,47 @@
       "Name": "Humble Beginnings",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 25188
+      "UsersEstimate": 27729
     },
     {
       "ID": "achievement_37",
       "SetID": "71cofm8",
       "Name": "Notorious",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 4249
+      "UsersEstimate": 5011
     },
     {
       "ID": "achievement_38",
       "SetID": "71cofm8",
       "Name": "Cashing In",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2673
     },
     {
       "ID": "achievement_39",
       "SetID": "71cofm8",
       "Name": "Danger Zone",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_4",
       "SetID": "71cofm8",
       "Name": "Home from Home",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 7283
+      "UsersEstimate": 8686
     },
     {
       "ID": "achievement_40",
       "SetID": "71cofm8",
       "Name": "Swappin\u0027",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 10621
+      "UsersEstimate": 12027
     },
     {
       "ID": "achievement_41",
@@ -1924,7 +1929,7 @@
       "Name": "Around The World",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1670
     },
     {
       "ID": "achievement_42",
@@ -1932,63 +1937,63 @@
       "Name": "Hear Me Roar",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 10015
+      "UsersEstimate": 11025
     },
     {
       "ID": "achievement_5",
       "SetID": "71cofm8",
       "Name": "Merciless",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 5766
+      "UsersEstimate": 7016
     },
     {
       "ID": "achievement_6",
       "SetID": "71cofm8",
       "Name": "Eleven - Fifty Six",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1517
+      "UsersEstimate": 2004
     },
     {
       "ID": "achievement_7",
       "SetID": "71cofm8",
       "Name": "Warp Speed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 2004
     },
     {
       "ID": "achievement_8",
       "SetID": "71cofm8",
       "Name": "The Brightest Stars",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_9",
       "SetID": "71cofm8",
       "Name": "Change My Name",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 8801
+      "UsersEstimate": 10022
     }
   ],
   "AchievementSets": [
     {
       "ID": "71cofm8",
       "IsBase": true,
-      "Progressed": 30347,
-      "Completed": 14
+      "Progressed": 33408,
+      "Completed": 19
     }
   ],
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
   "LastChanged": "2024-10-17T03:14:28.198187+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:09.9606677+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:22.6324438+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:20.3741941+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:45.1880547+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:09.9606973+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:05:51.9493616+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:22.6324823+00:00"
 }

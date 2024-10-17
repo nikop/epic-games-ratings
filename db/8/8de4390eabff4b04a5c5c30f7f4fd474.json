@@ -2,10 +2,10 @@
   "ID": "8de4390eabff4b04a5c5c30f7f4fd474",
   "Name": "Sphere Guider",
   "ProductSlug": "sphere-guider-e20c86",
-  "Ranking_EOS_Progress": 817,
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-15T05:00:00+00:00",
     "PcReleaseDate": "2023-05-24T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
-  "EOS_Completed": 11,
+  "EOS_Progressed": 51,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.92,
+  "EOS_Completed_Percentage": 23.53,
   "EosHistory": [
     {
       "Time": "2023-09-04T18:03:14.1392683+00:00",
@@ -124,6 +124,11 @@
       "Time": "2024-09-14T14:24:53.879847+00:00",
       "NumProgressed": 48,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-10-17T05:13:43.4461661+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-07-04T02:25:32.5797305+00:00",
@@ -136,55 +141,55 @@
       "Name": "Up Up Down Down...",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_LEVEL_1",
       "SetID": "69oldh4",
       "Name": "Small Ramps",
-      "Percentage": 98,
+      "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_LEVEL_10",
       "SetID": "69oldh4",
       "Name": "Disappearing Act",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEVEL_11",
       "SetID": "69oldh4",
       "Name": "Hole In One",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEVEL_12",
       "SetID": "69oldh4",
       "Name": "Bouncing In The Clouds",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEVEL_13",
       "SetID": "69oldh4",
       "Name": "Controlled Landings",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LEVEL_14",
       "SetID": "69oldh4",
       "Name": "Infiltrate The Lair",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_LEVEL_15",
@@ -192,85 +197,85 @@
       "Name": "The Final Act",
       "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_LEVEL_2",
       "SetID": "69oldh4",
       "Name": "Balance Beams",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_LEVEL_3",
       "SetID": "69oldh4",
       "Name": "Thread The Needle",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_LEVEL_4",
       "SetID": "69oldh4",
       "Name": "Moving Platforms",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_LEVEL_5",
       "SetID": "69oldh4",
       "Name": "Hold Steady",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LEVEL_6",
       "SetID": "69oldh4",
       "Name": "Follow The Platform",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_LEVEL_7",
       "SetID": "69oldh4",
       "Name": "Pipe Maze",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_LEVEL_8",
       "SetID": "69oldh4",
       "Name": "Feel The Wall",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 45,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LEVEL_9",
       "SetID": "69oldh4",
       "Name": "Mind The Gap",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 45,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "69oldh4",
       "IsBase": true,
-      "Progressed": 48,
-      "Completed": 11
+      "Progressed": 51,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-24T15:57:31.2167297+00:00",
   "FirstSeenAchievements": "2023-05-16T05:01:46.5155201+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:53.8798465+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:43.4461656+00:00",
   "LastUpdate_AppInfo": "2024-10-10T08:57:11.5749566+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:50.5531625+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:53.8798568+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:43.4461758+00:00"
 }

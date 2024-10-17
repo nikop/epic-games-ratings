@@ -2,10 +2,10 @@
   "ID": "dad8521e64e74ece84dafbb0470b8ccf",
   "Name": "Nerth Downfall",
   "ProductSlug": "nerth-downfall-3617a0",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-24T23:00:00+00:00",
     "PcReleaseDate": "2024-06-24T23:00:00+00:00",
@@ -139,8 +139,8 @@
   ],
   "FirstSeen": "2024-06-25T10:57:56.3340425+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.5462446+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:03.9262775+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:19.4561951+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:54.1948681+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:51.5579825+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:03.9262862+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:13.6683964+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:19.4562038+00:00"
 }

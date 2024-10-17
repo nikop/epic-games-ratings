@@ -5,44 +5,44 @@ Rating: 4.38 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,101 |
-| First fall | 36.00% | ~5,850 |
-| Don't play with fire, kids | 27.00% | ~4,388 |
-| First steps | 27.00% | ~4,388 |
-| 1.000.000 Scovilles | 19.00% | ~3,088 |
-| An Old Timer | 18.00% | ~2,925 |
-| I'll give this one a 0 star rating | 18.00% | ~2,925 |
-| Hands up! | 16.00% | ~2,600 |
-| Feeling Better | 16.00% | ~2,600 |
-| Unfortunate Plumber | 15.00% | ~2,438 |
-| Don't interrupt my research! | 14.00% | ~2,275 |
-| A Good Read | 11.00% | ~1,788 |
+| Fire safety | 56.00% | ~9,098 |
+| First fall | 36.00% | ~5,849 |
+| Don't play with fire, kids | 27.00% | ~4,386 |
+| First steps | 27.00% | ~4,386 |
+| 1.000.000 Scovilles | 19.00% | ~3,087 |
+| An Old Timer | 18.00% | ~2,924 |
+| I'll give this one a 0 star rating | 18.00% | ~2,924 |
+| Hands up! | 16.00% | ~2,599 |
+| Feeling Better | 16.00% | ~2,599 |
+| Unfortunate Plumber | 15.00% | ~2,437 |
+| Don't interrupt my research! | 14.00% | ~2,274 |
+| A Good Read | 11.00% | ~1,787 |
 | Boot for an eye | 10.00% | ~1,625 |
-| Pacifist Run | 7.00% | ~1,138 |
+| Pacifist Run | 7.00% | ~1,137 |
 | Uh, Which Key is the Right One? | 6.00% | ~975 |
-| Golden fingers | 5.00% | ~813 |
-| OMG I FOUND A BUG | 5.00% | ~813 |
+| Golden fingers | 5.00% | ~812 |
+| OMG I FOUND A BUG | 5.00% | ~812 |
 | Spiky chin | 4.00% | ~650 |
 | I Think I'm Lost | 4.00% | ~650 |
 | Meat Machine | 4.00% | ~650 |
 | Untouchable | 4.00% | ~650 |
-| Merchant | 3.00% | ~488 |
-| Groovy! | 3.00% | ~488 |
-| Gentle hugs | 3.00% | ~488 |
-| Mmm, tasty | 3.00% | ~488 |
-| Good Murder | 3.00% | ~488 |
+| Merchant | 3.00% | ~487 |
+| Groovy! | 3.00% | ~487 |
+| Gentle hugs | 3.00% | ~487 |
+| Mmm, tasty | 3.00% | ~487 |
+| Good Murder | 3.00% | ~487 |
 | Infinite pleasure | 2.00% | ~325 |
 | Body Building | 2.00% | ~325 |
 | Stranger in the Elevator | 2.00% | ~325 |
-| Can i be more unfortunate? | 1.00% | ~163 |
-| Golden tongue | 1.00% | ~163 |
-| Smothered in Meat | 1.00% | ~163 |
-| No Love | 1.00% | ~163 |
-| Vampire Killer | 1.00% | ~163 |
-| Where are those diamonds? | 1.00% | ~163 |
-| Blue Valentine | 1.00% | ~163 |
+| Can i be more unfortunate? | 1.00% | ~162 |
+| Golden tongue | 1.00% | ~162 |
+| Smothered in Meat | 1.00% | ~162 |
+| No Love | 1.00% | ~162 |
+| Vampire Killer | 1.00% | ~162 |
+| Where are those diamonds? | 1.00% | ~162 |
+| Blue Valentine | 1.00% | ~162 |
 | Now you see | 0.80% | ~130 |
-| Don't Come Near Me | 0.60% | ~98 |
+| Don't Come Near Me | 0.60% | ~97 |
 | Athletic | 0.50% | ~81 |
 | A Heap of Raw Meat | 0.50% | ~81 |
 | Golden eyes | 0.40% | ~65 |
@@ -50,10 +50,10 @@ Rating: 4.38 (Ranked 946)
 | Swim in the Asphalt | 0.40% | ~65 |
 | Love through meat | 0.30% | ~49 |
 | Hate Me | 0.30% | ~49 |
-| I AM MEAT | 0.20% | ~33 |
-| I'm not a sushi | 0.20% | ~33 |
-| Taste of Your Own Poison | 0.20% | ~33 |
-| Wild Circus | 0.20% | ~33 |
+| I AM MEAT | 0.20% | ~32 |
+| I'm not a sushi | 0.20% | ~32 |
+| Taste of Your Own Poison | 0.20% | ~32 |
+| Wild Circus | 0.20% | ~32 |
 | Golden heart | 0.10% | ~16 |
 | Ram of Hell | 0.10% | ~16 |
 | Good father | 0.10% | ~16 |
@@ -73,8 +73,8 @@ Rating: 4.38 (Ranked 946)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,251 (Ranked 236)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 16,246 (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-03-21 | 16,249 | 0 |
 | 2024-06-17 | 16,250 | 0 |
 | 2024-07-24 | 16,251 | 0 |
+| 2024-10-17 | 16,246 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

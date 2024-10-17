@@ -5,38 +5,38 @@ Rating: 3.73 (Ranked 1,318)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~408 |
-| A Friend in Need... | 43.00% | ~358 |
-| Bosom Buddies | 29.00% | ~242 |
-| Beat the Heat | 22.00% | ~183 |
-| A Familiar Face | 13.00% | ~108 |
-| Unexpected Consequences | 13.00% | ~108 |
-| F is for Feline | 12.00% | ~100 |
-| Does Not Compute | 12.00% | ~100 |
-| Identity Theft | 11.00% | ~92 |
-| Mind the Gap | 11.00% | ~92 |
-| U Mad Bro? | 11.00% | ~92 |
-| A Trip to Remember | 11.00% | ~92 |
-| Short Circuit | 10.00% | ~83 |
-| Catch You Later | 7.00% | ~58 |
-| A Stealthy Outlook | 6.00% | ~50 |
-| Den Mother | 5.00% | ~42 |
-| Between the Covers | 4.00% | ~33 |
-| Smart cookie | 4.00% | ~33 |
-| Everything Must Go! | 3.00% | ~25 |
-| Antisocial Club | 3.00% | ~25 |
-| You Had One Job... | 3.00% | ~25 |
-| Paparazzi | 3.00% | ~25 |
+| Bundle of Joy | 49.00% | ~417 |
+| A Friend in Need... | 43.00% | ~366 |
+| Bosom Buddies | 29.00% | ~247 |
+| Beat the Heat | 22.00% | ~187 |
+| A Familiar Face | 13.00% | ~111 |
+| Unexpected Consequences | 13.00% | ~111 |
+| F is for Feline | 12.00% | ~102 |
+| Does Not Compute | 12.00% | ~102 |
+| Identity Theft | 11.00% | ~94 |
+| Mind the Gap | 11.00% | ~94 |
+| U Mad Bro? | 11.00% | ~94 |
+| A Trip to Remember | 11.00% | ~94 |
+| Short Circuit | 10.00% | ~85 |
+| Catch You Later | 7.00% | ~60 |
+| A Stealthy Outlook | 6.00% | ~51 |
+| Den Mother | 5.00% | ~43 |
+| Between the Covers | 4.00% | ~34 |
+| You Had One Job... | 4.00% | ~34 |
+| Smart cookie | 4.00% | ~34 |
+| Everything Must Go! | 3.00% | ~26 |
+| Antisocial Club | 3.00% | ~26 |
+| Paparazzi | 3.00% | ~26 |
 | The Butterfly Effect | 2.00% | ~17 |
+| Echoes of the Past | 2.00% | ~17 |
+| Casual Gamer | 2.00% | ~17 |
+| Marvellous Toys | 2.00% | ~17 |
 | Life of the Party | 2.00% | ~17 |
-| Echoes of the Past | 1.00% | ~8 |
-| Casual Gamer | 1.00% | ~8 |
-| Urban Scrawl | 1.00% | ~8 |
-| Marvellous Toys | 1.00% | ~8 |
-| Hardcore Gamer | 0.80% | ~7 |
+| Hardcore Gamer | 1.00% | ~9 |
+| Urban Scrawl | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 440)  
-Completed: 6 (0.72%) (Ranked 321)  
+Progressed: 852 (Ranked 455)  
+Completed: 7 (0.82%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,6 +195,7 @@ Completed: 6 (0.72%) (Ranked 321)
 | 2024-06-17 | 791 | 6 |
 | 2024-08-09 | 820 | 6 |
 | 2024-09-14 | 833 | 6 |
+| 2024-10-17 | 852 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

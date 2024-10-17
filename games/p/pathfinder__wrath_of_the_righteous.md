@@ -6,86 +6,87 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wings of Stone | 6.00% | ~813 |
-| Sellout | 4.00% | ~542 |
-| Elements of Success | 4.00% | ~542 |
-| Devoured by Darkness | 3.00% | ~443 |
-| Burning City | 2.00% | ~296 |
-| Banner over the Citadel | 2.00% | ~296 |
-| Mythic Choices | 2.00% | ~296 |
-| Queen's Gratitude | 2.00% | ~296 |
-| Defender's Heart | 2.00% | ~296 |
-| A Spark | 2.00% | ~296 |
-| Fifth Crusade | 1.00% | ~148 |
-| Embrace of the Abyss | 1.00% | ~148 |
-| Demonic and Divine | 0.90% | ~133 |
-| Path of the Angel | 0.80% | ~118 |
-| Transformation | 0.80% | ~118 |
-| The Legacy | 0.80% | ~118 |
-| Great Upstart | 0.80% | ~118 |
-| Divide and Rule | 0.80% | ~118 |
-| All Paths Open | 0.80% | ~118 |
-| The Lady of the Forest | 0.80% | ~108 |
-| Path of the Azata | 0.70% | ~103 |
-| Voice from Your Dreams | 0.70% | ~103 |
-| A Flame | 0.70% | ~103 |
-| Next-Door Play | 0.70% | ~103 |
-| Get the Toad | 0.70% | ~103 |
-| Sarkoris Will Be Green | 0.70% | ~95 |
-| Beware Still Water | 0.70% | ~95 |
-| A Shard In a Cave | 0.70% | ~95 |
-| A Shard In a Tower | 0.70% | ~95 |
-| Prohibition | 0.70% | ~95 |
-| Heart of the Fallen Land | 0.60% | ~89 |
-| Mythic Reinforcements | 0.60% | ~89 |
-| Stay Underground | 0.60% | ~81 |
-| Hanged Man's Notes | 0.60% | ~81 |
-| Path of the Trickster | 0.50% | ~74 |
-| Core of the Riddle | 0.50% | ~74 |
-| Hey, I Know You! | 0.50% | ~74 |
-| Path of the Demon | 0.40% | ~59 |
-| Path of the Aeon | 0.40% | ~59 |
-| Path of the Lich | 0.40% | ~59 |
-| Heroic Victory | 0.40% | ~59 |
-| Capitulation Is Now Moot | 0.40% | ~59 |
-| Your First Big Enemy | 0.40% | ~59 |
-| This Wall Won't Fall | 0.40% | ~54 |
-| A Shard In the Shadows | 0.40% | ~54 |
-| Odious Treasure | 0.40% | ~54 |
-| The Living Fraud | 0.40% | ~54 |
-| The Final Threshold | 0.30% | ~44 |
-| Truly Important Deed | 0.30% | ~44 |
-| Not the Last Sarkorian | 0.30% | ~41 |
+| Wings of Stone | 6.00% | ~823 |
+| Sellout | 4.00% | ~548 |
+| Elements of Success | 4.00% | ~548 |
+| Devoured by Darkness | 3.00% | ~448 |
+| Burning City | 3.00% | ~448 |
+| A Spark | 3.00% | ~448 |
+| Banner over the Citadel | 2.00% | ~299 |
+| Fifth Crusade | 2.00% | ~299 |
+| Mythic Choices | 2.00% | ~299 |
+| Queen's Gratitude | 2.00% | ~299 |
+| Defender's Heart | 2.00% | ~299 |
+| Embrace of the Abyss | 1.00% | ~149 |
+| Path of the Angel | 1.00% | ~149 |
+| Transformation | 1.00% | ~149 |
+| The Legacy | 1.00% | ~149 |
+| Great Upstart | 1.00% | ~149 |
+| All Paths Open | 1.00% | ~149 |
+| Demonic and Divine | 1.00% | ~149 |
+| Divide and Rule | 0.90% | ~134 |
+| Voice from Your Dreams | 0.90% | ~134 |
+| A Flame | 0.90% | ~134 |
+| Next-Door Play | 0.90% | ~134 |
+| Get the Toad | 0.90% | ~134 |
+| The Lady of the Forest | 0.90% | ~123 |
+| Beware Still Water | 0.90% | ~123 |
+| Heart of the Fallen Land | 0.80% | ~119 |
+| Path of the Azata | 0.80% | ~119 |
+| Mythic Reinforcements | 0.80% | ~119 |
+| Hanged Man's Notes | 0.80% | ~110 |
+| Sarkoris Will Be Green | 0.80% | ~110 |
+| A Shard In a Cave | 0.80% | ~110 |
+| A Shard In a Tower | 0.80% | ~110 |
+| Path of the Trickster | 0.70% | ~105 |
+| Hey, I Know You! | 0.70% | ~105 |
+| Stay Underground | 0.70% | ~96 |
+| Prohibition | 0.70% | ~96 |
+| Heroic Victory | 0.60% | ~90 |
+| Core of the Riddle | 0.60% | ~90 |
+| Path of the Demon | 0.50% | ~75 |
+| Path of the Lich | 0.50% | ~75 |
+| Capitulation Is Now Moot | 0.50% | ~75 |
+| Your First Big Enemy | 0.50% | ~75 |
+| This Wall Won't Fall | 0.50% | ~69 |
+| The Living Fraud | 0.50% | ~69 |
+| Path of the Aeon | 0.40% | ~60 |
+| Truly Important Deed | 0.40% | ~60 |
+| Not the Last Sarkorian | 0.40% | ~55 |
+| A Shard In the Shadows | 0.40% | ~55 |
+| Odious Treasure | 0.40% | ~55 |
+| Triumphant Glory | 0.40% | ~55 |
+| Craving the Glory | 0.40% | ~55 |
+| Seeking the Glory | 0.40% | ~55 |
+| Chasing the Glory | 0.40% | ~55 |
+| The Final Threshold | 0.30% | ~45 |
+| Path of the Dragon | 0.30% | ~45 |
+| Strategic Victory | 0.30% | ~45 |
+| Abyssal Conspiracy | 0.30% | ~45 |
 | I Wonder What's Inside | 0.30% | ~41 |
+| Frozen Pork Chops | 0.30% | ~41 |
 | Pain And Pleasure, Indivisible | 0.30% | ~41 |
-| Triumphant Glory | 0.30% | ~41 |
-| Craving the Glory | 0.30% | ~41 |
-| Seeking the Glory | 0.30% | ~41 |
-| Chasing the Glory | 0.30% | ~41 |
-| Path of the Dragon | 0.20% | ~30 |
+| True Love's Kiss | 0.30% | ~41 |
 | Path of the Legend | 0.20% | ~30 |
-| Strategic Victory | 0.20% | ~30 |
-| Abyssal Conspiracy | 0.20% | ~30 |
+| Masterful Charge | 0.20% | ~30 |
+| Prelate's Nemesis | 0.20% | ~30 |
 | End of Eternal Guard | 0.20% | ~30 |
 | Playful Mood | 0.20% | ~30 |
 | Dreadful Dragon | 0.20% | ~30 |
 | Truly Profane Gift | 0.20% | ~30 |
+| You Don't Need It Anymore | 0.20% | ~27 |
+| Stealthier Than a Shadow | 0.20% | ~27 |
 | The Last Adventure | 0.20% | ~27 |
-| Frozen Pork Chops | 0.20% | ~27 |
-| True Love's Kiss | 0.20% | ~27 |
+| More Fun Together | 0.20% | ~27 |
 | Path of the Swarm | 0.10% | ~15 |
 | Equal to Aroden | 0.10% | ~15 |
 | Spirit of Adventure | 0.10% | ~15 |
 | Test of the Starstone | 0.10% | ~15 |
 | Masterful Craftsmanship | 0.10% | ~15 |
-| Masterful Charge | 0.10% | ~15 |
 | Masterful Dispel | 0.10% | ~15 |
-| Prelate's Nemesis | 0.10% | ~15 |
 | Just Pathetic | 0.10% | ~15 |
 | Ashes to Ashes | 0.10% | ~15 |
 | Endangered Species | 0.10% | ~14 |
-| You Don't Need It Anymore | 0.10% | ~14 |
-| Stealthier Than a Shadow | 0.10% | ~14 |
 | Scattered Notes | 0.10% | ~14 |
 | The Last Spell | 0.10% | ~14 |
 | The Last Shot | 0.10% | ~14 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Thaw | 0.10% | ~14 |
 | Glaciation | 0.10% | ~14 |
 | Unofficial Visit | 0.10% | ~14 |
-| More Fun Together | 0.10% | ~14 |
 | Dig In! | 0.10% | ~14 |
 | Blight of Drezen | 0.00% | ~0 |
 | Memories Frozen in Time | 0.00% | ~0 |
@@ -159,8 +159,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Cold Snap | 0.00% | ~0 |
 | Tailed! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,776 (Ranked 240)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 14,929 (Ranked 248)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -449,6 +449,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 14,577 | 0 |
 | 2024-08-20 | 14,614 | 0 |
 | 2024-09-14 | 14,776 | 0 |
+| 2024-10-17 | 14,929 | 0 |
 ## Awards
 Max (Character Customization): 1,936  (Ranked 148)  
 Sum: 8,011 (Ranked 147)  

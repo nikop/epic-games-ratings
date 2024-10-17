@@ -2,10 +2,10 @@
   "ID": "6416a7e47acb440da6f7fc0eff798318",
   "Name": "The InVincible Iron Ivy - Enter the Pretty Pretty Princess",
   "ProductSlug": "the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
-  "Ranking_EOS_Progress": 1164,
+  "Ranking_EOS_Progress": 1221,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-10T03:00:00+00:00",
     "PcReleaseDate": "2023-10-20T04:00:00+00:00",
@@ -104,8 +104,8 @@
   ],
   "FirstSeen": "2023-11-09T23:58:20.8656687+00:00",
   "FirstSeenAchievements": "2023-10-26T07:05:55.7899277+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:26.7910517+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:21.6947378+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:55.4752458+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:36.9521737+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:26.7910598+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:21.6947452+00:00"
 }

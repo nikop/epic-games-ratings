@@ -5,10 +5,10 @@
   "Ranking_Rating": 890,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 160,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-20T03:00:00+00:00",
     "PcReleaseDate": "2024-09-20T03:00:00+00:00",
@@ -204,29 +204,261 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 87281,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 0.01,
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:20.3837904+00:00",
+      "NumProgressed": 87281,
+      "NumCompleted": 11
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:20.3837934+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_01",
+      "SetID": "7f82a2k",
+      "Name": "Ultimate Vacation",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_02",
+      "SetID": "7f82a2k",
+      "Name": "Undefeated Penguin",
+      "Percentage": 0.8,
+      "XP": 70,
+      "UsersEstimate": 698
+    },
+    {
+      "ID": "ACH_03",
+      "SetID": "7f82a2k",
+      "Name": "Penguin Survivor",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_04",
+      "SetID": "7f82a2k",
+      "Name": "A Regular on the Podium",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_05",
+      "SetID": "7f82a2k",
+      "Name": "Expert Racer",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_06",
+      "SetID": "7f82a2k",
+      "Name": "Make Way for the Honorable Penguin",
+      "Percentage": 1,
+      "XP": 70,
+      "UsersEstimate": 873
+    },
+    {
+      "ID": "ACH_07",
+      "SetID": "7f82a2k",
+      "Name": "Sardine Can-Getter",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_08",
+      "SetID": "7f82a2k",
+      "Name": "Combo Master",
+      "Percentage": 0.9,
+      "XP": 70,
+      "UsersEstimate": 786
+    },
+    {
+      "ID": "ACH_09",
+      "SetID": "7f82a2k",
+      "Name": "Don\u0027t Bite That",
+      "Percentage": 1,
+      "XP": 40,
+      "UsersEstimate": 873
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "7f82a2k",
+      "Name": "Seasoned Slider",
+      "Percentage": 0.8,
+      "XP": 40,
+      "UsersEstimate": 698
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "7f82a2k",
+      "Name": "Veteran Slider",
+      "Percentage": 0.3,
+      "XP": 40,
+      "UsersEstimate": 262
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "7f82a2k",
+      "Name": "VIP Penguin",
+      "Percentage": 0.2,
+      "XP": 40,
+      "UsersEstimate": 175
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "7f82a2k",
+      "Name": "I\u0027d Like to Excuse Myself",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "7f82a2k",
+      "Name": "Time of Bliss",
+      "Percentage": 1,
+      "XP": 40,
+      "UsersEstimate": 873
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "7f82a2k",
+      "Name": "Promise-Keeping Penguin",
+      "Percentage": 0.1,
+      "XP": 40,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "7f82a2k",
+      "Name": "Who Do You Think I Am?",
+      "Percentage": 4,
+      "XP": 40,
+      "UsersEstimate": 3491
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "7f82a2k",
+      "Name": "Beginner Penguin",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 9601
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "7f82a2k",
+      "Name": "Finisher Penguin",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 5237
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "7f82a2k",
+      "Name": "First-Time Victory",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 2618
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "7f82a2k",
+      "Name": "Podium",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 2618
+    },
+    {
+      "ID": "ACH_21",
+      "SetID": "7f82a2k",
+      "Name": "Beware of Scammers",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 8728
+    },
+    {
+      "ID": "ACH_22",
+      "SetID": "7f82a2k",
+      "Name": "Flying Penguin",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 8728
+    },
+    {
+      "ID": "ACH_23",
+      "SetID": "7f82a2k",
+      "Name": "Combo Penguin",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 5237
+    },
+    {
+      "ID": "ACH_24",
+      "SetID": "7f82a2k",
+      "Name": "I can fly",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 2618
+    },
+    {
+      "ID": "ACH_25",
+      "SetID": "7f82a2k",
+      "Name": "Knockout",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 5237
+    },
+    {
+      "ID": "ACH_26",
+      "SetID": "7f82a2k",
+      "Name": "Here\u0027s the Prompt",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 4364
+    },
+    {
+      "ID": "ACH_27",
+      "SetID": "7f82a2k",
+      "Name": "Favorite Food",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 2618
+    },
+    {
+      "ID": "ACH_28",
+      "SetID": "7f82a2k",
+      "Name": "Good Communicator",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 6110
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7f82a2k",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 87281,
+      "Completed": 11
     }
   ],
   "FirstSeen": "2024-09-20T03:57:14.4271232+00:00",
   "FirstSeenRating": "2024-09-25T18:59:08.0551935+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.9376197+00:00",
   "LastChanged": "2024-10-16T11:58:13.0382998+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:04.9376148+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:20.3837895+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:26.4589071+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:02.6663822+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:04.9376217+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:58.6274417+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:20.3846347+00:00"
 }

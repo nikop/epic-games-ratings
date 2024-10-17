@@ -2,10 +2,10 @@
   "ID": "4a8d265d048b4423bf30317aa9ad371d",
   "Name": "SEIDEN",
   "ProductSlug": "seiden-58e90d",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T09:57:11.2529244+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:40.1454329+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:22.6069178+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:32.5986706+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:32.2919413+00:00"
 }

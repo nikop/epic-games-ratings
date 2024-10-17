@@ -6,78 +6,78 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 10.00% | ~933 |
-| Smooth Operator: Madison | 8.00% | ~747 |
-| Caught in the Act | 5.00% | ~467 |
-| Katherine | 5.00% | ~467 |
-| If at First You Don't Succeed... | 5.00% | ~467 |
-| The Brahdyssey | 4.00% | ~373 |
-| Relentless | 4.00% | ~373 |
-| Drunk and Disorderly: Stephanie | 3.00% | ~280 |
-| Amy | 2.00% | ~187 |
-| Drunk and Disorderly: Ashley | 2.00% | ~187 |
-| IRL Let's Player | 2.00% | ~187 |
-| Inspector | 2.00% | ~187 |
-| Life Found a Way | 2.00% | ~127 |
-| Newcomer: Vickie | 2.00% | ~187 |
-| Social Butterfly | 2.00% | ~187 |
-| The Muse: Madison | 2.00% | ~187 |
-| Amy: Scavenger Hunt | 1.00% | ~93 |
-| Benedict Brahrnold | 1.00% | ~93 |
-| Casanova | 1.00% | ~93 |
-| It Smells Like Roses | 1.00% | ~64 |
-| Now It's a Party! | 1.00% | ~93 |
-| Smooth Operator: Ashley | 1.00% | ~93 |
-| Stephanie | 1.00% | ~93 |
-| The Crush | 1.00% | ~93 |
-| The Magic Number | 1.00% | ~93 |
-| Vickie | 1.00% | ~93 |
-| Te Amo Lety | 1.00% | ~93 |
-| I'll Be Back | 0.90% | ~84 |
-| Love Conquers All | 0.90% | ~84 |
-| Ashley | 0.80% | ~75 |
-| Deck the Balls | 0.80% | ~51 |
-| Rule 34 | 0.70% | ~65 |
-| The Elder Brahs | 0.70% | ~65 |
-| Rachael | 0.60% | ~56 |
-| The Bride | 0.50% | ~47 |
-| Drunk and Disorderly: Madison | 0.50% | ~47 |
-| First Impressions | 0.50% | ~47 |
-| The Harder They Fall...Dood | 0.50% | ~47 |
-| The Muse: Derek | 0.50% | ~47 |
-| Good Ol' Days | 0.50% | ~47 |
-| Beyond the Call of Dude-y | 0.40% | ~37 |
-| Do Not Burn | 0.40% | ~37 |
-| Do You Smell Blood? | 0.40% | ~37 |
-| A Striking Resemblance | 0.40% | ~37 |
-| Howz It Goin Dood | 0.40% | ~37 |
-| Derezzed | 0.40% | ~37 |
-| Against All Odds | 0.30% | ~28 |
-| Doja's Dope-Ass Dinolicious Danceapalooza | 0.30% | ~19 |
-| Duck n' Weave | 0.30% | ~28 |
-| Ronin | 0.30% | ~28 |
-| La Coochadora | 0.30% | ~28 |
-| Snapped | 0.30% | ~28 |
-| Casabrova | 0.20% | ~19 |
+| A Friend in Need... | 10.00% | ~951 |
+| Smooth Operator: Madison | 9.00% | ~856 |
+| Caught in the Act | 5.00% | ~475 |
+| Katherine | 5.00% | ~475 |
+| Relentless | 5.00% | ~475 |
+| If at First You Don't Succeed... | 5.00% | ~475 |
+| The Brahdyssey | 4.00% | ~380 |
+| Drunk and Disorderly: Stephanie | 3.00% | ~285 |
+| Amy | 2.00% | ~190 |
+| Drunk and Disorderly: Ashley | 2.00% | ~190 |
+| IRL Let's Player | 2.00% | ~190 |
+| Inspector | 2.00% | ~190 |
+| Life Found a Way | 2.00% | ~131 |
+| Newcomer: Vickie | 2.00% | ~190 |
+| Social Butterfly | 2.00% | ~190 |
+| The Muse: Madison | 2.00% | ~190 |
+| Amy: Scavenger Hunt | 1.00% | ~95 |
+| Ashley | 1.00% | ~95 |
+| Benedict Brahrnold | 1.00% | ~95 |
+| I'll Be Back | 1.00% | ~95 |
+| Casanova | 1.00% | ~95 |
+| It Smells Like Roses | 1.00% | ~65 |
+| Love Conquers All | 1.00% | ~95 |
+| Now It's a Party! | 1.00% | ~95 |
+| Smooth Operator: Ashley | 1.00% | ~95 |
+| Stephanie | 1.00% | ~95 |
+| The Crush | 1.00% | ~95 |
+| The Magic Number | 1.00% | ~95 |
+| Vickie | 1.00% | ~95 |
+| Te Amo Lety | 1.00% | ~95 |
+| Deck the Balls | 0.80% | ~52 |
+| Rule 34 | 0.80% | ~76 |
+| The Elder Brahs | 0.70% | ~67 |
+| The Bride | 0.60% | ~57 |
+| Rachael | 0.60% | ~57 |
+| The Muse: Derek | 0.60% | ~57 |
+| Beyond the Call of Dude-y | 0.50% | ~48 |
+| Drunk and Disorderly: Madison | 0.50% | ~48 |
+| Do Not Burn | 0.50% | ~48 |
+| First Impressions | 0.50% | ~48 |
+| The Harder They Fall...Dood | 0.50% | ~48 |
+| Howz It Goin Dood | 0.50% | ~48 |
+| Derezzed | 0.50% | ~48 |
+| Good Ol' Days | 0.50% | ~48 |
+| Ronin | 0.40% | ~38 |
+| Do You Smell Blood? | 0.40% | ~38 |
+| A Striking Resemblance | 0.40% | ~38 |
+| Against All Odds | 0.30% | ~29 |
+| Casabrova | 0.30% | ~29 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.30% | ~20 |
+| Duck n' Weave | 0.30% | ~29 |
+| I Know Grump-Fu | 0.30% | ~29 |
+| Ice Bath | 0.30% | ~29 |
+| The Crush(es) | 0.30% | ~29 |
+| La Coochadora | 0.30% | ~29 |
+| Snapped | 0.30% | ~29 |
 | Congrats, A Celebrity Hates You | 0.20% | ~13 |
 | Good Riddance! | 0.20% | ~19 |
-| I Know Grump-Fu | 0.20% | ~19 |
 | Hijinks Averted | 0.20% | ~19 |
 | Hungry Hungry Hot Tubs | 0.20% | ~13 |
-| Ice Bath | 0.20% | ~19 |
 | Money Shot | 0.20% | ~19 |
 | Party Pooper | 0.20% | ~19 |
-| The Crush(es) | 0.20% | ~19 |
-| D-Club Certified | 0.10% | ~9 |
-| Host Hijinks | 0.10% | ~9 |
-| Notice Me, Sensei | 0.10% | ~9 |
-| Sucker Punch | 0.10% | ~9 |
-| That's a Nice Bush! | 0.10% | ~6 |
-| The Most Wonderful Time of the Year | 0.10% | ~6 |
-| Simple Geometry | 0.10% | ~9 |
+| D-Club Certified | 0.10% | ~10 |
+| Host Hijinks | 0.10% | ~10 |
+| Notice Me, Sensei | 0.10% | ~10 |
+| Sucker Punch | 0.10% | ~10 |
+| That's a Nice Bush! | 0.10% | ~7 |
+| The Most Wonderful Time of the Year | 0.10% | ~7 |
+| Simple Geometry | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,333 (Ranked 258)  
-Completed: 3 (0.03%) (Ranked 525)  
+Progressed: 9,506 (Ranked 270)  
+Completed: 3 (0.03%) (Ranked 552)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -358,6 +358,7 @@ Completed: 3 (0.03%) (Ranked 525)
 | 2024-08-09 | 8,830 | 3 |
 | 2024-08-20 | 8,870 | 3 |
 | 2024-09-14 | 9,333 | 3 |
+| 2024-10-17 | 9,506 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

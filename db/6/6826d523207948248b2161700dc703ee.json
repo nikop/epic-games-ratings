@@ -2,10 +2,10 @@
   "ID": "6826d523207948248b2161700dc703ee",
   "Name": "Cleaning Queens 2: Sparkling Palace",
   "ProductSlug": "cleaning-queens-2-sparkling-palace-b29049",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-04T22:00:00+00:00",
     "PcReleaseDate": "2023-08-28T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-20T17:58:05.472427+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:22.3574139+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:22.2573159+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:48.1185581+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:29.7332411+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:59.8302286+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tee K.O.: COMFY'S CHOICE | 28.00% | ~126 |
-| Tee K.O.: I FOLD | 28.00% | ~126 |
-| Trivia Murder Party 2: Password (un)Protected | 21.00% | ~95 |
-| Tee K.O.: SLEEVELESS VICTORY | 19.00% | ~86 |
-| Quiplash 3: Worst to First | 16.00% | ~72 |
-| Tee K.O.: SHIRTALITY | 13.00% | ~59 |
-| Tee K.O.: SUPPORT GARMENT | 10.00% | ~45 |
-| Quiplash 3: Schmitty Schmackdown | 9.00% | ~41 |
-| Quiplash 3: Safety Net | 6.00% | ~27 |
-| Trivia Murder Party 2: Time's Up | 4.00% | ~18 |
-| Trivia Murder Party 2: Quiplash! | 4.00% | ~18 |
-| Trivia Murder Party 2: One-Sided | 4.00% | ~18 |
+| Tee K.O.: COMFY'S CHOICE | 28.00% | ~132 |
+| Tee K.O.: I FOLD | 27.00% | ~127 |
+| Trivia Murder Party 2: Password (un)Protected | 21.00% | ~99 |
+| Tee K.O.: SLEEVELESS VICTORY | 19.00% | ~89 |
+| Quiplash 3: Worst to First | 16.00% | ~75 |
+| Tee K.O.: SHIRTALITY | 13.00% | ~61 |
+| Tee K.O.: SUPPORT GARMENT | 11.00% | ~52 |
+| Quiplash 3: Schmitty Schmackdown | 9.00% | ~42 |
+| Quiplash 3: Safety Net | 6.00% | ~28 |
+| Trivia Murder Party 2: Time's Up | 4.00% | ~19 |
+| Trivia Murder Party 2: Quiplash! | 4.00% | ~19 |
+| Trivia Murder Party 2: One-Sided | 4.00% | ~19 |
 | Tee K.O.: DOMINATION | 3.00% | ~14 |
 | Quiplash 3: Great Minds | 2.00% | ~9 |
 | Quiplash 3: Domination | 2.00% | ~9 |
@@ -25,8 +25,8 @@
 | Tee K.O.: DYE! DYE! DYE! | 1.00% | ~5 |
 | Trivia Murder Party 2: Runaways | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 510)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 470 (Ranked 525)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,6 +35,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 271 | 0 |
 | 2024-09-14 | 379 | 0 |
 | 2024-10-09 | 451 | 0 |
+| 2024-10-17 | 470 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

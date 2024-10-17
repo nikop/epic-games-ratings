@@ -5,10 +5,10 @@
   "Ranking_Rating": 656,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 28,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -23156,13 +23156,19 @@
       "IsBase": true,
       "Progressed": 0,
       "Completed": 0
+    },
+    {
+      "ID": "2bhh595",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
   "FirstSeenAchievements": "2024-10-09T19:02:52.730809+00:00",
   "LastChanged": "2024-10-17T03:13:55.9776192+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:52.7308029+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:29.1735022+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:01.1602444+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:54.5181842+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:52.7308105+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:29.173506+00:00"
 }

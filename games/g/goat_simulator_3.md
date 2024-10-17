@@ -5,63 +5,63 @@ Rating: 4.83 (Ranked 65)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Took Half My Life | 3.00% | ~495 |
-| Forgotten Sorority | 2.00% | ~6,206 |
-| Private Club | 2.00% | ~6,206 |
-| Reach the Stratosphere | 2.00% | ~6,206 |
-| It's All a Simulation | 2.00% | ~330 |
-| You Mined Too Greedily and Too Deep | 2.00% | ~330 |
-| Gastroscopy | 2.00% | ~330 |
-| Goat Got Brains | 2.00% | ~330 |
-| Appliance in Disguise | 2.00% | ~330 |
-| Goat Queen | 1.00% | ~3,103 |
-| Into the Matrix | 1.00% | ~3,103 |
-| I Watched the Intro | 1.00% | ~3,103 |
-| Covert Consortium | 1.00% | ~3,103 |
-| Synchronization Complete | 1.00% | ~3,103 |
-| Rogue Guild | 1.00% | ~3,103 |
-| Egg Simulator | 0.90% | ~2,793 |
-| What a Waste of Money | 0.90% | ~2,793 |
-| Secret Society | 0.90% | ~2,793 |
-| New Goat Order | 0.80% | ~2,482 |
-| Shadow Syndicate | 0.80% | ~2,482 |
-| Real Buoy | 0.80% | ~2,482 |
-| Hell of a Ride | 0.80% | ~132 |
-| Don't touch the servers | 0.70% | ~2,172 |
-| Welcome to Earth | 0.60% | ~1,862 |
-| San Angora: Become Human | 0.60% | ~1,862 |
-| Raider of the Lost Parking Garage | 0.60% | ~1,862 |
-| Lousy References | 0.50% | ~83 |
-| Try Hard With a Vengeance | 0.50% | ~83 |
-| Who Baywatches the Baywatch? | 0.40% | ~1,241 |
-| Where is It? | 0.40% | ~1,241 |
-| Beauty, Mindfulness and Meditation | 0.40% | ~1,241 |
-| 401(K.O.) | 0.40% | ~1,241 |
-| Car Cave | 0.30% | ~931 |
-| Club Mohair | 0.30% | ~931 |
-| Black Market | 0.30% | ~931 |
-| A Center for Ants? | 0.30% | ~931 |
-| You Gotta Licket to Ride | 0.30% | ~50 |
-| French Fika | 0.20% | ~621 |
-| Ultrasonic Speedy | 0.20% | ~33 |
-| Dr. Pheelsgood | 0.20% | ~33 |
-| Cannibanana | 0.10% | ~310 |
-| Crocsquatch | 0.10% | ~310 |
-| G.O.A.T | 0.10% | ~310 |
-| You Trusted Your Instincts | 0.10% | ~310 |
-| Nasty! | 0.10% | ~310 |
-| Certified Fresh | 0.10% | ~310 |
-| Daredevil | 0.10% | ~310 |
-| [REDACTED] | 0.10% | ~310 |
-| Move! That! Bus! | 0.10% | ~310 |
-| Streaking | 0.10% | ~310 |
-| Try Hard 2 | 0.10% | ~310 |
-| I Love History | 0.10% | ~17 |
-| Wow, Such Instincts | 0.10% | ~17 |
-| So Aerodynamic | 0.10% | ~17 |
+| Forgotten Sorority | 3.00% | ~9,468 |
+| This Took Half My Life | 3.00% | ~656 |
+| Goat Queen | 2.00% | ~6,312 |
+| I Watched the Intro | 2.00% | ~6,312 |
+| Private Club | 2.00% | ~6,312 |
+| Reach the Stratosphere | 2.00% | ~6,312 |
+| Covert Consortium | 2.00% | ~6,312 |
+| Synchronization Complete | 2.00% | ~6,312 |
+| Rogue Guild | 2.00% | ~6,312 |
+| It's All a Simulation | 2.00% | ~438 |
+| You Mined Too Greedily and Too Deep | 2.00% | ~438 |
+| Gastroscopy | 2.00% | ~438 |
+| Goat Got Brains | 2.00% | ~438 |
+| Appliance in Disguise | 2.00% | ~438 |
+| New Goat Order | 1.00% | ~3,156 |
+| Don't touch the servers | 1.00% | ~3,156 |
+| Egg Simulator | 1.00% | ~3,156 |
+| What a Waste of Money | 1.00% | ~3,156 |
+| Into the Matrix | 1.00% | ~3,156 |
+| Secret Society | 1.00% | ~3,156 |
+| Shadow Syndicate | 1.00% | ~3,156 |
+| Real Buoy | 1.00% | ~3,156 |
+| San Angora: Become Human | 0.90% | ~2,841 |
+| Raider of the Lost Parking Garage | 0.90% | ~2,841 |
+| Hell of a Ride | 0.90% | ~197 |
+| Welcome to Earth | 0.80% | ~2,525 |
+| Where is It? | 0.60% | ~1,894 |
+| Try Hard With a Vengeance | 0.60% | ~131 |
+| Who Baywatches the Baywatch? | 0.50% | ~1,578 |
+| Beauty, Mindfulness and Meditation | 0.50% | ~1,578 |
+| Black Market | 0.50% | ~1,578 |
+| 401(K.O.) | 0.50% | ~1,578 |
+| Lousy References | 0.50% | ~109 |
+| Car Cave | 0.40% | ~1,262 |
+| You Gotta Licket to Ride | 0.40% | ~88 |
+| Club Mohair | 0.30% | ~947 |
+| French Fika | 0.30% | ~947 |
+| A Center for Ants? | 0.30% | ~947 |
+| Nasty! | 0.20% | ~631 |
+| Daredevil | 0.20% | ~631 |
+| [REDACTED] | 0.20% | ~631 |
+| Wow, Such Instincts | 0.20% | ~44 |
+| Ultrasonic Speedy | 0.20% | ~44 |
+| Dr. Pheelsgood | 0.20% | ~44 |
+| Cannibanana | 0.10% | ~316 |
+| Crocsquatch | 0.10% | ~316 |
+| G.O.A.T | 0.10% | ~316 |
+| You Trusted Your Instincts | 0.10% | ~316 |
+| Certified Fresh | 0.10% | ~316 |
+| Move! That! Bus! | 0.10% | ~316 |
+| Streaking | 0.10% | ~316 |
+| Try Hard 2 | 0.10% | ~316 |
+| I Love History | 0.10% | ~22 |
+| So Aerodynamic | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,287 (Ranked 82)  
-Completed: 1,168 (0.38%) (Ranked 376)  
+Progressed: 315,613 (Ranked 83)  
+Completed: 1,194 (0.38%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,6 +351,7 @@ Completed: 1,168 (0.38%) (Ranked 376)
 | 2024-08-09 | 306,666 | 1,149 |
 | 2024-08-20 | 308,310 | 1,153 |
 | 2024-09-14 | 310,287 | 1,168 |
+| 2024-10-17 | 315,613 | 1,194 |
 ## Awards
 Max (Great for Beginners): 955  (Ranked 215)  
 Sum: 7,344 (Ranked 155)  

@@ -2,10 +2,10 @@
   "ID": "c2a984900e22447d972c96e65a62da2e",
   "Name": "Divine Rush",
   "ProductSlug": "divine-rush-11093b",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-04T14:00:00+00:00",
     "PcReleaseDate": "2024-04-04T14:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-04T20:57:58.8009123+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:15.5036363+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:49.1457915+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:15.3631875+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:36.9073291+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:25.5807137+00:00"
 }

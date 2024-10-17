@@ -2,10 +2,10 @@
   "ID": "7aa0633c4f714b949071394d35de89bf",
   "Name": "EMULATED: OpsRunner",
   "ProductSlug": "emulated-opsrunner-636fc3",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-17T16:00:00+00:00",
     "PcReleaseDate": "2024-04-16T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T09:57:10.471002+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:43.6623376+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:51.1463455+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:28.359928+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:31.4355384+00:00"
 }

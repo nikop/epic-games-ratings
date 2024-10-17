@@ -2,10 +2,10 @@
   "ID": "90f53a7187d7472598d25f765f7cba82",
   "Name": "Beyond CAD",
   "ProductSlug": "beyond-cad",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.7614544+00:00",
   "LastChanged": "2023-03-31T05:57:47.7614545+00:00",
   "LastUpdate_AppInfo": "2024-10-14T07:57:22.1709402+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:33.7250208+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:02.5300767+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:47.435012+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:17.1277696+00:00"
 }

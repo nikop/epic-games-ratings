@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2024-10-09T19:04:00.132844+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:46.694262+00:00",
+      "NumProgressed": 1156,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2626,9 +2631,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 301
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2660,15 +2665,15 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 324
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2690,9 +2695,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 532
     },
     {
       "ID": "TIME_ORWELL",
@@ -2706,9 +2711,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 519
+      "UsersEstimate": 532
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2755,14 +2760,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:00.1328431+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:46.6942617+00:00",
   "LastUpdate_AppInfo": "2024-10-13T03:15:52.1109017+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:47.3573573+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:00.1328685+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:34.1668435+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:46.6942874+00:00"
 }

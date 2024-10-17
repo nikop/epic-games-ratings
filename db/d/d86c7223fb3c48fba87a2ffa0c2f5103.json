@@ -2,10 +2,10 @@
   "ID": "d86c7223fb3c48fba87a2ffa0c2f5103",
   "Name": "Block Buster Billy",
   "ProductSlug": "block-buster-billy-108756",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-24T15:00:00+00:00",
     "PcReleaseDate": "2023-08-28T05:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-01-08T19:59:11.84699+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:12.9217841+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:14.5336958+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:10.4057363+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:57.4430322+00:00"
 }

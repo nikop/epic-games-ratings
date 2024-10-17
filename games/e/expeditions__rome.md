@@ -6,62 +6,62 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Patronus | 68.00% | ~549 |
-| Legatus Legionis | 49.00% | ~396 |
-| Tuebor | 49.00% | ~396 |
-| Para Bellum | 46.00% | ~372 |
-| Abundans Cautela Non Nocet | 40.00% | ~323 |
-| Causa Mortis | 38.00% | ~307 |
-| Prima Facie | 31.00% | ~250 |
-| Ad Altiora Tendo | 29.00% | ~234 |
-| Pax Romana | 28.00% | ~226 |
-| Oleum Camino | 28.00% | ~226 |
-| Regina Aegypti | 26.00% | ~210 |
-| Citius Altius Fortius | 26.00% | ~210 |
-| Festina Lente | 23.00% | ~186 |
-| Familia Supra Omnia | 23.00% | ~186 |
-| Memento Mori | 21.00% | ~170 |
-| Carthago Delenda Est | 21.00% | ~170 |
-| Amor Vincit Omnia | 20.00% | ~162 |
-| Aut Viam Inveniam Aut Faciam | 19.00% | ~154 |
-| Morior Invictus | 19.00% | ~154 |
-| XVII | 18.00% | ~145 |
-| Audi, Vide, Tace | 16.00% | ~129 |
-| Lex Talionis | 16.00% | ~129 |
-| Collige Virgo Rosas | 15.00% | ~121 |
-| Bellum Gallicum | 15.00% | ~121 |
-| Pede Poena Claudo | 14.00% | ~113 |
-| Sanguinem Sacrificium | 13.00% | ~105 |
-| In Loco Parentis | 13.00% | ~105 |
-| Ab Antiquo | 13.00% | ~105 |
-| Semper Paratus | 12.00% | ~97 |
-| Magnum Opus | 11.00% | ~89 |
-| Veni, Vidi, Vici | 11.00% | ~89 |
-| Cum Gladio Et Sale | 11.00% | ~89 |
-| Nec Aspera Terrent | 11.00% | ~89 |
+| Patronus | 68.00% | ~554 |
+| Legatus Legionis | 49.00% | ~399 |
+| Tuebor | 49.00% | ~399 |
+| Para Bellum | 46.00% | ~374 |
+| Abundans Cautela Non Nocet | 40.00% | ~326 |
+| Causa Mortis | 38.00% | ~309 |
+| Prima Facie | 31.00% | ~252 |
+| Ad Altiora Tendo | 29.00% | ~236 |
+| Pax Romana | 28.00% | ~228 |
+| Oleum Camino | 28.00% | ~228 |
+| Citius Altius Fortius | 27.00% | ~220 |
+| Regina Aegypti | 26.00% | ~212 |
+| Festina Lente | 23.00% | ~187 |
+| Familia Supra Omnia | 23.00% | ~187 |
+| Memento Mori | 21.00% | ~171 |
+| Carthago Delenda Est | 21.00% | ~171 |
+| Aut Viam Inveniam Aut Faciam | 20.00% | ~163 |
+| Amor Vincit Omnia | 20.00% | ~163 |
+| Morior Invictus | 20.00% | ~163 |
+| XVII | 19.00% | ~155 |
+| Lex Talionis | 17.00% | ~138 |
+| Audi, Vide, Tace | 16.00% | ~130 |
+| Collige Virgo Rosas | 15.00% | ~122 |
+| Pede Poena Claudo | 15.00% | ~122 |
+| Bellum Gallicum | 15.00% | ~122 |
+| In Loco Parentis | 14.00% | ~114 |
+| Ab Antiquo | 14.00% | ~114 |
+| Sanguinem Sacrificium | 13.00% | ~106 |
+| Semper Paratus | 12.00% | ~98 |
+| Cum Laude | 11.00% | ~90 |
+| Magnum Opus | 11.00% | ~90 |
+| Veni, Vidi, Vici | 11.00% | ~90 |
+| Cum Gladio Et Sale | 11.00% | ~90 |
+| Nec Aspera Terrent | 11.00% | ~90 |
 | Non Plus Ultra | 10.00% | ~81 |
-| Cum Laude | 10.00% | ~81 |
 | Legio Patria Nostra | 10.00% | ~81 |
 | Romani Ite Domum | 10.00% | ~81 |
 | Damnum Absque Injuria | 9.00% | ~73 |
-| Ante Omnia Armari | 8.00% | ~65 |
+| Ante Omnia Armari | 9.00% | ~73 |
 | Iuncta Iuvant | 7.00% | ~57 |
 | Magna Cum Laude | 7.00% | ~57 |
 | Morituri te Salutant | 7.00% | ~57 |
 | Julius Caesar | 7.00% | ~57 |
 | Accipe Hoc | 7.00% | ~57 |
 | Miserere Nobis | 7.00% | ~57 |
-| Summa Cum Laude | 6.00% | ~48 |
-| Absit Iniuria | 6.00% | ~48 |
-| De Legibus | 6.00% | ~48 |
-| Post Coitum | 6.00% | ~48 |
-| Arcana Imperii | 5.00% | ~40 |
-| Gaius Octavius | 4.00% | ~32 |
-| Marcus Antonius | 4.00% | ~32 |
-| Quinctius Cincinnatus | 4.00% | ~32 |
-| Ad Leones | 4.00% | ~32 |
-| Per Pedes | 4.00% | ~32 |
-| Ophidia In Herba | 4.00% | ~32 |
+| Summa Cum Laude | 6.00% | ~49 |
+| Absit Iniuria | 6.00% | ~49 |
+| De Legibus | 6.00% | ~49 |
+| Post Coitum | 6.00% | ~49 |
+| Arcana Imperii | 5.00% | ~41 |
+| Quinctius Cincinnatus | 5.00% | ~41 |
+| Gaius Octavius | 4.00% | ~33 |
+| Marcus Antonius | 4.00% | ~33 |
+| Ad Leones | 4.00% | ~33 |
+| Per Pedes | 4.00% | ~33 |
+| Ophidia In Herba | 4.00% | ~33 |
 | Junius Brutus | 3.00% | ~24 |
 | Mors Tua Vita Mea | 3.00% | ~24 |
 | Pompeius Magnus | 2.00% | ~16 |
@@ -77,8 +77,8 @@ Number of Ratings: 68  (23.09.2022)
 | Nil Per Os | 0.10% | ~1 |
 | Peccatum Originale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 814 (Ranked 458)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 677 | 0 |
 | 2024-09-14 | 764 | 0 |
 | 2024-10-09 | 808 | 0 |
+| 2024-10-17 | 814 | 0 |
 ## Awards
 Max (Character Customization): 59  (Ranked 560)  
 Sum: 59 (Ranked 645)  

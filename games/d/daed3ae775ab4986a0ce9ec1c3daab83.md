@@ -11,8 +11,8 @@
 | Planet 5 | 20.00% | ~2 |
 | Planet 6 | 20.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 1,004)  
-Completed: 1 (10.00%) (Ranked 71)  
+Progressed: 10 (Ranked 1,046)  
+Completed: 1 (10.00%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

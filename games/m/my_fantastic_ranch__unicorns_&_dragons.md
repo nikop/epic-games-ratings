@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 59.00% | ~41 |
+| Let the Adventure Begin! | 60.00% | ~42 |
 | Spirit of competition | 40.00% | ~28 |
 | Creature Evolution | 36.00% | ~25 |
 | Prized Possession | 36.00% | ~25 |
@@ -20,9 +20,9 @@
 | Landscaper | 7.00% | ~5 |
 | Diamonds in the Rough | 6.00% | ~4 |
 | Kindred Spirits | 6.00% | ~4 |
+| Kingdom Champions | 3.00% | ~2 |
 | Protected Nature Reserve | 3.00% | ~2 |
 | Fully Booked! | 3.00% | ~2 |
-| Kingdom Champions | 1.00% | ~1 |
 | Paving the Way | 1.00% | ~1 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 762)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 70 (Ranked 791)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

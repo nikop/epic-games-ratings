@@ -2,10 +2,10 @@
   "ID": "05f5de9a159b47a5b653684a0ac13f16",
   "Name": "Beatbuddy: On Tour",
   "ProductSlug": "beatbuddy-on-tour-f450e6",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-03T23:00:00+00:00",
     "PcReleaseDate": "2015-12-14T00:00:00+00:00",
@@ -265,8 +265,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:18.4384519+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:27.4305819+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:37.3214484+00:00",
   "LastUpdate_AppInfo": "2024-10-11T15:57:20.8208923+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:32.4756632+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:27.430596+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:54.6509371+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:37.3214635+00:00"
 }

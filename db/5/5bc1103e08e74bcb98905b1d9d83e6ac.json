@@ -2,10 +2,10 @@
   "ID": "5bc1103e08e74bcb98905b1d9d83e6ac",
   "Name": "OverKnights",
   "ProductSlug": "overknights-6e332e",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-06-30T00:00:00+00:00",
     "PcReleaseDate": "2025-06-30T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T14:57:09.9610377+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:35.3336722+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:15.1657612+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:08.8146716+00:00"
 }

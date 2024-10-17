@@ -2,10 +2,10 @@
   "ID": "62681f0dc1b14afea3f65c97225ea517",
   "Name": "Mars Battle",
   "ProductSlug": "mars-battle-6d58c4",
-  "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-20T20:00:00+00:00",
     "PcReleaseDate": "2024-04-20T20:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2801,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:26:42.831493+00:00",
       "NumProgressed": 2801,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:07.4898473+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:44.3145952+00:00",
@@ -83,7 +88,7 @@
       "Name": "Sharpshooter",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "headshots_50",
@@ -91,15 +96,15 @@
       "Name": "Blaster",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 128
     },
     {
       "ID": "kills_1",
       "SetID": "96ddppi",
       "Name": "First Blood",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1600
     },
     {
       "ID": "kills_100",
@@ -107,7 +112,7 @@
       "Name": "Killer",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "kills_50",
@@ -115,21 +120,21 @@
       "Name": "Rookie",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 140
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
     {
       "ID": "96ddppi",
       "IsBase": true,
-      "Progressed": 2801,
+      "Progressed": 3201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-21T13:58:02.2976646+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:44.3145952+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:42.8314922+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:07.4898468+00:00",
   "LastUpdate_AppInfo": "2024-10-10T08:57:12.5124581+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:01.3637463+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:42.8315032+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:07.489853+00:00"
 }

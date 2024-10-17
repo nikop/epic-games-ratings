@@ -2,10 +2,10 @@
   "ID": "527f5ab0c1924d1fa31340c6cb2246f3",
   "Name": "Mirrors Edge",
   "ProductSlug": "mirrors-edge-774f40",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2009-01-13T06:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-19T08:59:56.8509143+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:08.952965+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:41.6970549+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:34.29599+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:03.7136339+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:44.9911403+00:00"
 }

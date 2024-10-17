@@ -2,10 +2,10 @@
   "ID": "dda406e1f3d54507b7de96870809da62",
   "Name": "Dumbriel - Magnificent Adventure in Hell",
   "ProductSlug": "dumbriel-magnificent-adventure-in-hell-a3d6d8",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T17:57:43.7303254+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:55.5213614+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:17.5707497+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:51.7157895+00:00"
 }

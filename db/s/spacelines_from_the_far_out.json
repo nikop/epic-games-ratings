@@ -2,10 +2,10 @@
   "ID": "dd03e221bdd24f12a95aba54cbe5d757",
   "Name": "Spacelines from the Far Out",
   "ProductSlug": "spacelines-from-the-far-out",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T10:57:21.9785338+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:58.0498545+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:20.2036908+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:25.9801692+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:54.8682083+00:00"
 }

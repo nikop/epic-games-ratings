@@ -2,10 +2,10 @@
   "ID": "93037c70ec2a4681bc1fb26d558cc5a4",
   "Name": "Murder On Space Station 52",
   "ProductSlug": "murder-on-space-station-52-cf249f",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1122,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-25T10:00:00+00:00",
     "PcReleaseDate": "2024-09-25T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-09-14T14:15:44.8138539+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:07:20.2098268+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -44,33 +49,33 @@
       "ID": "ach_antiquity_stranded",
       "SetID": "7b39kf3",
       "Name": "Antiquity Stranded",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_bilge_water",
       "SetID": "7b39kf3",
       "Name": "Bilge Water",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_capsized_da_capo",
       "SetID": "7b39kf3",
       "Name": "Capsized Da Capo",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_coffee_lover",
       "SetID": "7b39kf3",
       "Name": "Coffee Lover",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_dad_jokes",
@@ -84,33 +89,33 @@
       "ID": "ach_dockside_dirge",
       "SetID": "7b39kf3",
       "Name": "Dockside Dirge",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_eavesdropping",
       "SetID": "7b39kf3",
       "Name": "Eavesdropping",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_fathomless_grave",
       "SetID": "7b39kf3",
       "Name": "Fathomless Grave",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_forlorn_isle",
       "SetID": "7b39kf3",
       "Name": "Forlorn Isle",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_hoarder",
@@ -140,9 +145,9 @@
       "ID": "ach_key_chain_key_change",
       "SetID": "7b39kf3",
       "Name": "Key Chain Key Change",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_lighthouse_lullaby",
@@ -164,9 +169,9 @@
       "ID": "ach_nort",
       "SetID": "7b39kf3",
       "Name": "Nort",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_sherlock_holmes",
@@ -180,17 +185,17 @@
       "ID": "ach_the_aquarium",
       "SetID": "7b39kf3",
       "Name": "The Aquarium",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_the_drowning_sailor",
       "SetID": "7b39kf3",
       "Name": "The Drowning Sailor",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_the_keychain_killer",
@@ -204,9 +209,9 @@
       "ID": "ach_the_schafer",
       "SetID": "7b39kf3",
       "Name": "The Schafer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_the_truth",
@@ -229,14 +234,14 @@
     {
       "ID": "7b39kf3",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-10-02T16:58:13.1907031+00:00",
   "FirstSeenAchievements": "2024-01-27T13:06:17.8652299+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:44.8138533+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:20.2098262+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:16.832653+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:39.7325468+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:44.8147464+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:22.131851+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:20.2098445+00:00"
 }

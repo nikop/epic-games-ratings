@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Waste Air | 21.00% | ~3 |
+| Don't Waste Air | 20.00% | ~3 |
 | The Complete Set | 7.00% | ~1 |
 | Air Activated | 7.00% | ~1 |
 | Light as Air | 7.00% | ~1 |
@@ -34,8 +34,8 @@
 | Interconnected | 0.00% | ~0 |
 | A Real Low Point | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 975)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 15 (Ranked 1,009)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,3 +44,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-03-21 | 9 | 0 |
 | 2024-04-10 | 12 | 0 |
 | 2024-06-17 | 14 | 0 |
+| 2024-10-17 | 15 | 0 |

@@ -2,10 +2,10 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1396,
-  "EOS_Completed": 33,
+  "EOS_Progressed": 1421,
+  "EOS_Completed": 34,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.36,
+  "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -2106,6 +2106,11 @@
       "Time": "2024-09-14T14:23:27.1482965+00:00",
       "NumProgressed": 1396,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-10-17T05:12:02.8882555+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 20,
@@ -2117,15 +2122,15 @@
       "Name": "Beat It",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 628
+      "UsersEstimate": 639
     },
     {
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1179
     },
     {
       "ID": "deadly_secret",
@@ -2133,7 +2138,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "ending_1",
@@ -2141,7 +2146,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ending_2",
@@ -2149,7 +2154,7 @@
       "Name": "Second Chances",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ending_3",
@@ -2157,7 +2162,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "ending_4",
@@ -2165,7 +2170,7 @@
       "Name": "The Promise",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "ending_5",
@@ -2173,23 +2178,23 @@
       "Name": "Lab Rat",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 384
     },
     {
       "ID": "ending_6",
       "SetID": "d4f4pll",
       "Name": "Stalemate",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 355
     },
     {
       "ID": "ending_7",
       "SetID": "d4f4pll",
       "Name": "Trust Me For Once",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 341
     },
     {
       "ID": "ending_8",
@@ -2197,7 +2202,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "falling_for_you",
@@ -2205,7 +2210,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 586
+      "UsersEstimate": 597
     },
     {
       "ID": "free_champagne",
@@ -2213,7 +2218,7 @@
       "Name": "Free Champagne",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 726
+      "UsersEstimate": 739
     },
     {
       "ID": "kamikaze",
@@ -2221,15 +2226,15 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 907
+      "UsersEstimate": 924
     },
     {
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 227
     },
     {
       "ID": "not_a_people_person",
@@ -2237,7 +2242,7 @@
       "Name": "Not A People Person",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "people_pleaser",
@@ -2245,7 +2250,7 @@
       "Name": "People Pleaser",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "storage_hunter",
@@ -2253,7 +2258,7 @@
       "Name": "Storage Hunter",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 682
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -2261,7 +2266,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 796
+      "UsersEstimate": 810
     },
     {
       "ID": "tough_decision",
@@ -2269,23 +2274,23 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1293
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 1396,
-      "Completed": 33
+      "Progressed": 1421,
+      "Completed": 34
     }
   ],
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:27.1482959+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:02.8882549+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:23.2676477+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:25.6275139+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:27.148316+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:47.8672913+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:02.8882838+00:00"
 }

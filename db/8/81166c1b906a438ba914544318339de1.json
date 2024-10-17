@@ -2,10 +2,10 @@
   "ID": "81166c1b906a438ba914544318339de1",
   "Name": "Strike Protocol",
   "ProductSlug": "strike-protocol-c4d50b",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-24T00:00:00+00:00",
     "PcReleaseDate": "2024-07-24T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-11T09:00:03.5167677+00:00",
   "LastUpdate_AppInfo": "2024-10-12T02:06:17.5191455+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:03.9214325+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:19.9577213+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:26.0570285+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:29.2778034+00:00"
 }

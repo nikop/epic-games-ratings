@@ -6,45 +6,45 @@ Number of Ratings: 24  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Machine Puncher | 21.00% | ~124,877 |
-| The key to it all | 17.00% | ~101,091 |
-| Brain Puncher | 8.00% | ~47,572 |
-| 2014 | 5.00% | ~29,733 |
-| Door Puncher | 4.00% | ~23,786 |
-| Punch Drunk | 4.00% | ~23,786 |
-| Fetus Puncher | 3.00% | ~17,840 |
-| Looks familiar | 3.00% | ~17,840 |
-| God Puncher | 1.00% | ~5,947 |
-| Green Screen Hero | 0.40% | ~2,379 |
-| I remember you | 0.30% | ~1,784 |
-| Pink Bomber | 0.20% | ~1,189 |
-| Afraid no more | 0.10% | ~595 |
-| A race against Time | 0.10% | ~595 |
-| Buffer Overrun | 0.10% | ~595 |
-| Development Boy | 0.10% | ~595 |
-| Dilation Boy | 0.10% | ~595 |
-| For the vegans | 0.10% | ~595 |
-| Golden God! | 0.10% | ~595 |
-| Heat Death Girl | 0.10% | ~595 |
-| Insurance Fraud | 0.10% | ~595 |
-| Lock Jaw Girl | 0.10% | ~595 |
-| Not a real doctor | 0.10% | ~595 |
-| Oak Boy | 0.10% | ~595 |
-| Page Fault | 0.10% | ~595 |
-| Psychopharmacology Boy | 0.10% | ~595 |
-| Relationship Goals | 0.10% | ~595 |
-| Research Girl | 0.10% | ~595 |
-| Second time's a charm | 0.10% | ~595 |
-| S has come to | 0.10% | ~595 |
-| Similar yet legally distinct | 0.10% | ~595 |
-| Straight Jacket Girl | 0.10% | ~595 |
-| Teak Girl | 0.10% | ~595 |
-| Vaccine Boy | 0.10% | ~595 |
-| We have a new champion! | 0.10% | ~595 |
-| What even is this game? | 0.10% | ~595 |
+| Machine Puncher | 21.00% | ~126,678 |
+| The key to it all | 17.00% | ~102,549 |
+| Brain Puncher | 8.00% | ~48,258 |
+| 2014 | 5.00% | ~30,161 |
+| Door Puncher | 4.00% | ~24,129 |
+| Punch Drunk | 4.00% | ~24,129 |
+| Fetus Puncher | 3.00% | ~18,097 |
+| Looks familiar | 3.00% | ~18,097 |
+| God Puncher | 1.00% | ~6,032 |
+| Green Screen Hero | 0.40% | ~2,413 |
+| I remember you | 0.30% | ~1,810 |
+| Pink Bomber | 0.20% | ~1,206 |
+| We have a new champion! | 0.20% | ~1,206 |
+| Afraid no more | 0.10% | ~603 |
+| A race against Time | 0.10% | ~603 |
+| Buffer Overrun | 0.10% | ~603 |
+| Development Boy | 0.10% | ~603 |
+| Dilation Boy | 0.10% | ~603 |
+| For the vegans | 0.10% | ~603 |
+| Golden God! | 0.10% | ~603 |
+| Heat Death Girl | 0.10% | ~603 |
+| Insurance Fraud | 0.10% | ~603 |
+| Lock Jaw Girl | 0.10% | ~603 |
+| Not a real doctor | 0.10% | ~603 |
+| Oak Boy | 0.10% | ~603 |
+| Page Fault | 0.10% | ~603 |
+| Psychopharmacology Boy | 0.10% | ~603 |
+| Relationship Goals | 0.10% | ~603 |
+| Research Girl | 0.10% | ~603 |
+| Second time's a charm | 0.10% | ~603 |
+| S has come to | 0.10% | ~603 |
+| Similar yet legally distinct | 0.10% | ~603 |
+| Straight Jacket Girl | 0.10% | ~603 |
+| Teak Girl | 0.10% | ~603 |
+| Vaccine Boy | 0.10% | ~603 |
+| What even is this game? | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 594,653 (Ranked 47)  
-Completed: 2 (0.00%) (Ranked 595)  
+Progressed: 603,228 (Ranked 46)  
+Completed: 2 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,6 +53,7 @@ Completed: 2 (0.00%) (Ranked 595)
 | 2024-06-17 | 563,197 | 2 |
 | 2024-08-09 | 583,087 | 2 |
 | 2024-09-14 | 594,653 | 2 |
+| 2024-10-17 | 603,228 | 2 |
 ## Awards
 Max (Great Boss Battles): 168  (Ranked 409)  
 Sum: 168 (Ranked 556)  

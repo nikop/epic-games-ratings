@@ -2,10 +2,10 @@
   "ID": "b42792c248724e988066e575f59c1df9",
   "Name": "Dustborn",
   "ProductSlug": "dustborn-467935",
-  "Ranking_EOS_Progress": 1024,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1040,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2024-08-20T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-09-14T14:15:21.7467861+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:44.9371456+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -44,23 +49,23 @@
       "ID": "BadLanding",
       "SetID": "5jb3n71",
       "Name": "Bad landing",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Band-aid",
       "SetID": "5jb3n71",
       "Name": "Band-aid",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BatterUp",
       "SetID": "5jb3n71",
       "Name": "Batter up!",
-      "Percentage": 25,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -68,7 +73,7 @@
       "ID": "BeautyAndTheBot",
       "SetID": "5jb3n71",
       "Name": "Beauty and the Bot",
-      "Percentage": 25,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -76,39 +81,39 @@
       "ID": "BestInShow",
       "SetID": "5jb3n71",
       "Name": "Best in show",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Bricked",
       "SetID": "5jb3n71",
       "Name": "Bricked",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "BrokenPromise",
       "SetID": "5jb3n71",
       "Name": "Broken promise",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CareTaken",
       "SetID": "5jb3n71",
       "Name": "Care taken",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Coda",
       "SetID": "5jb3n71",
       "Name": "Coda",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -116,15 +121,15 @@
       "ID": "Combpleted",
       "SetID": "5jb3n71",
       "Name": "Combpleted",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EagerBeaver",
       "SetID": "5jb3n71",
       "Name": "Eager beaver",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 130,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "Expat",
       "SetID": "5jb3n71",
       "Name": "Expat",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "GG",
       "SetID": "5jb3n71",
       "Name": "GG",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -148,23 +153,23 @@
       "ID": "Ghost-buster",
       "SetID": "5jb3n71",
       "Name": "Ghost-buster",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Gotaway",
       "SetID": "5jb3n71",
       "Name": "Gotaway",
-      "Percentage": 63,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "Librarian",
       "SetID": "5jb3n71",
       "Name": "Librarian",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -172,15 +177,15 @@
       "ID": "Lit",
       "SetID": "5jb3n71",
       "Name": "Lit",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ManualLabor",
       "SetID": "5jb3n71",
       "Name": "Manual labor",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "Moctober",
       "SetID": "5jb3n71",
       "Name": "Moctober",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -196,15 +201,15 @@
       "ID": "PickupPatrol",
       "SetID": "5jb3n71",
       "Name": "Pickup Patrol",
-      "Percentage": 38,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Reflective",
       "SetID": "5jb3n71",
       "Name": "Reflective",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -212,7 +217,7 @@
       "ID": "RockSolid",
       "SetID": "5jb3n71",
       "Name": "Rock solid",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "Ronin",
       "SetID": "5jb3n71",
       "Name": "Ronin",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -228,39 +233,39 @@
       "ID": "RotownAndOut",
       "SetID": "5jb3n71",
       "Name": "Rotown and out",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Seeker",
       "SetID": "5jb3n71",
       "Name": "Seeker",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WarmedUp",
       "SetID": "5jb3n71",
       "Name": "Warmed up",
-      "Percentage": 38,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jb3n71",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-21T20:58:26.7411255+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:12.7807977+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:21.7467855+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:44.9371452+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:14.3010188+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:28.0366856+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:21.7475374+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:50.2353199+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:44.9371626+00:00"
 }

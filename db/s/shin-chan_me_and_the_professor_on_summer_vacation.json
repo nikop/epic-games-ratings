@@ -2,10 +2,10 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 793,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "Trophy_13",
       "SetID": "cf5h6dl",
       "Name": "My Fair Ladybug",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Trophy_14",
@@ -329,9 +329,9 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Trophy_20",
@@ -465,9 +465,9 @@
       "ID": "Trophy_36",
       "SetID": "cf5h6dl",
       "Name": "Brachio Battler",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Trophy_37",
@@ -562,8 +562,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:23.0918525+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:37.0382285+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:03.7757761+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:02.7595547+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:23.0918955+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:37.0382589+00:00"
 }

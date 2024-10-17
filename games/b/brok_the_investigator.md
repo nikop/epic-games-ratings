@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 72.00% | ~50 |
-| Chapter 1 | 42.00% | ~29 |
+| Introduction completed | 73.00% | ~51 |
+| Chapter 1 | 41.00% | ~29 |
 | Chapter 2 | 39.00% | ~27 |
 | Chapter 3 | 33.00% | ~23 |
 | Your Days Are Numbered | 33.00% | ~23 |
@@ -13,9 +13,9 @@
 | Chapter 4 | 30.00% | ~21 |
 | Chapter 5 | 30.00% | ~21 |
 | All Materials | 30.00% | ~21 |
-| Chapter 6 | 25.00% | ~17 |
+| Chapter 6 | 24.00% | ~17 |
 | Best Student | 17.00% | ~12 |
-| Food Thief | 12.00% | ~8 |
+| Food Thief | 11.00% | ~8 |
 | Highway Survival | 10.00% | ~7 |
 | Sugar Pills Lover | 10.00% | ~7 |
 | Tramp Saver | 10.00% | ~7 |
@@ -34,8 +34,8 @@
 | The World Is My Doormat | 1.00% | ~1 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 764)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 70 (Ranked 791)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 64 | 0 |
 | 2024-08-09 | 67 | 0 |
 | 2024-09-14 | 69 | 0 |
+| 2024-10-17 | 70 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

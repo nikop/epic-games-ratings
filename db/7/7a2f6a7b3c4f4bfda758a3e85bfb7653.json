@@ -2,10 +2,10 @@
   "ID": "7a2f6a7b3c4f4bfda758a3e85bfb7653",
   "Name": "Plot of the Druid",
   "ProductSlug": "plot-of-the-druid-32cc49",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-07T20:30:00+00:00",
     "PcReleaseDate": "2022-10-31T22:00:00+00:00",
@@ -211,8 +211,8 @@
   ],
   "FirstSeen": "2024-09-25T17:59:35.5792631+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:15.4404672+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:23.7997144+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:33.7203795+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:51.6381251+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:04.9339628+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:23.7997259+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:33.7203913+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "18c28ba59bcd422d82458f75452d6c34",
   "Name": "Zoological Era II",
   "ProductSlug": "zoological-era-ii-0869e0",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-14T00:00:00+00:00",
     "PcReleaseDate": "2019-08-12T07:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T18:57:25.604641+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:21.1539888+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:52.1030774+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:12.6759922+00:00"
 }

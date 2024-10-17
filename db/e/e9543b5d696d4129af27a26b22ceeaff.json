@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 634,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -434,6 +434,11 @@
       "Time": "2024-09-14T14:16:13.9942776+00:00",
       "NumProgressed": 172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:03.1410267+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -446,7 +451,7 @@
       "Name": "I Like Winning Games",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_20_CHAMPIONSHIPS",
@@ -470,15 +475,15 @@
       "Name": "Winning is Quite Alright",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -486,13 +491,13 @@
       "Name": "Best Assistant",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 46
     },
@@ -508,9 +513,9 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
@@ -518,15 +523,15 @@
       "Name": "The First Star",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -534,7 +539,7 @@
       "Name": "Five Star Manager",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FRANCHISE_PLAYER",
@@ -542,7 +547,7 @@
       "Name": "Franchise Player",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FULL_ARENA",
@@ -550,7 +555,7 @@
       "Name": "Full Arena",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -574,7 +579,7 @@
       "Name": "What a man!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LOSER_STREAK",
@@ -590,7 +595,7 @@
       "Name": "If Only I Had Known",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -614,7 +619,7 @@
       "Name": "Recruited player",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REBOUNDER",
@@ -628,9 +633,9 @@
       "ID": "ACH_SCORING_MACHINE",
       "SetID": "1lnhagg",
       "Name": "Cumpulsive Scorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_STAR_IS_BORN",
@@ -638,7 +643,7 @@
       "Name": "A Star is Born",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_TRIPLE_DOUBLE",
@@ -652,15 +657,15 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -670,7 +675,7 @@
       "Name": "Overpowered",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -678,7 +683,7 @@
       "Name": "Europe is Mine",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WIN_NBA",
@@ -701,14 +706,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:13.9942773+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:03.141026+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:15.113004+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:35.7639999+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:13.9942954+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:15.7703239+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:03.1410546+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 52.00% | ~27 |
-| Recycling newbie | 48.00% | ~25 |
-| New recruit | 29.00% | ~15 |
-| Interesting | 27.00% | ~14 |
-| Amateur photographer | 21.00% | ~11 |
+| Welcome to Maupiroa | 49.00% | ~27 |
+| Recycling newbie | 45.00% | ~25 |
+| New recruit | 27.00% | ~15 |
+| Interesting | 25.00% | ~14 |
+| Amateur photographer | 20.00% | ~11 |
 | Let's get started | 15.00% | ~8 |
 | Rescuer | 15.00% | ~8 |
 | In search of knowledge | 15.00% | ~8 |
 | Power of the dolphin | 15.00% | ~8 |
 | Power of the ray | 13.00% | ~7 |
-| Power of the turtle | 12.00% | ~6 |
-| Pro Photographer | 10.00% | ~5 |
-| Recycling expert | 10.00% | ~5 |
-| Island gardian angel | 8.00% | ~4 |
-| Heroic member | 8.00% | ~4 |
-| Legend of the association | 8.00% | ~4 |
-| Picture of the bay | 8.00% | ~4 |
-| Power of the shark | 8.00% | ~4 |
-| Picture of the atoll | 6.00% | ~3 |
-| Picture of the reef | 6.00% | ~3 |
+| Recycling expert | 11.00% | ~6 |
+| Power of the turtle | 11.00% | ~6 |
+| Pro Photographer | 9.00% | ~5 |
+| Island gardian angel | 7.00% | ~4 |
+| Heroic member | 7.00% | ~4 |
+| Legend of the association | 7.00% | ~4 |
+| Picture of the bay | 7.00% | ~4 |
+| Power of the shark | 7.00% | ~4 |
+| Island protector | 5.00% | ~3 |
+| Picture of the atoll | 5.00% | ~3 |
+| Picture of the reef | 5.00% | ~3 |
 | Animal reporter | 4.00% | ~2 |
 | Creek cleanup | 4.00% | ~2 |
 | Atoll cleanup | 4.00% | ~2 |
 | Reef cleanup | 4.00% | ~2 |
-| Island protector | 4.00% | ~2 |
 | Picture of the creek | 4.00% | ~2 |
 | Picture of the island | 4.00% | ~2 |
 | Well of science | 4.00% | ~2 |
@@ -37,8 +37,8 @@
 | Bay cleanup | 2.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 798)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 55 (Ranked 823)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,3 +70,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 45 | 0 |
 | 2024-08-09 | 50 | 0 |
 | 2024-09-14 | 52 | 0 |
+| 2024-10-17 | 55 | 0 |

@@ -2,10 +2,10 @@
   "ID": "eddf515e12ef4159aee9962a83e8cdfb",
   "Name": "EVERYWHERE",
   "ProductSlug": "everywhere-cbf9c6",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-27T13:00:00+00:00",
     "PcReleaseDate": "2024-06-18T09:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T15:58:08.8891839+00:00",
   "LastUpdate_AppInfo": "2024-10-15T14:57:15.4164327+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:08.9162107+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:03.9520786+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:08.6681258+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:18.7434582+00:00"
 }

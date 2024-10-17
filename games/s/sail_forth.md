@@ -5,56 +5,56 @@ Rating: 4.41 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 67.00% | ~303,022 |
-| Wind Master | 53.00% | ~239,704 |
-| Davy Jones | 18.00% | ~81,409 |
-| Hook, Line and Stinker | 11.00% | ~49,750 |
-| Gateway Slug | 7.00% | ~31,659 |
-| Race In Yo Face | 6.00% | ~27,136 |
-| Nice Shootin' Duds | 6.00% | ~27,136 |
-| By The Power Of Underskull | 5.00% | ~22,614 |
-| Great Balls Of Fire | 5.00% | ~22,614 |
-| Baby's First Thingamabob | 5.00% | ~22,614 |
-| Boarding Party | 5.00% | ~22,614 |
-| Light Up the Night | 4.00% | ~18,091 |
-| I Don't Like The Slugs | 4.00% | ~18,091 |
-| This Is Fine | 3.00% | ~13,568 |
-| Pengy Fun | 3.00% | ~13,568 |
-| Polar Pontification | 2.00% | ~9,045 |
-| Aggro Kreb | 2.00% | ~9,045 |
-| No More Splosions | 2.00% | ~9,045 |
-| Crovert Ops | 2.00% | ~9,045 |
-| Fish Kabob | 2.00% | ~9,045 |
-| Enter The Croakers | 2.00% | ~9,045 |
-| But The Slugs Like Me | 2.00% | ~9,045 |
-| Snapping Turtle | 1.00% | ~4,523 |
-| Tekk Savvy | 1.00% | ~4,523 |
-| Blowfish Me Down | 0.80% | ~3,618 |
-| Getting Hooked | 0.70% | ~3,166 |
-| Fish And Tips | 0.70% | ~3,166 |
-| This Magik Moment | 0.70% | ~3,166 |
-| Total Eclipse of the Eel | 0.60% | ~2,714 |
-| Sweeter Than Honey | 0.50% | ~2,261 |
-| Over The Moon | 0.50% | ~2,261 |
-| Fish On | 0.40% | ~1,809 |
-| 1.21 Ribbitwatts | 0.40% | ~1,809 |
-| Guiding Light | 0.40% | ~1,809 |
-| All Good Things... | 0.30% | ~1,357 |
-| Sail Forth! | 0.30% | ~1,357 |
-| For Whom The Bells Toll | 0.30% | ~1,357 |
-| What's Krakalackin? | 0.20% | ~905 |
-| Lights Out | 0.20% | ~905 |
-| Built For Speed | 0.20% | ~905 |
-| Crackshot | 0.20% | ~905 |
-| Don't I Know You? | 0.20% | ~905 |
-| Whosits And Whatsits Galore | 0.10% | ~452 |
-| Croaker Command's Most Wanted | 0.10% | ~452 |
-| In Service Of Glory And Valor | 0.10% | ~452 |
-| Shooting Star | 0.10% | ~452 |
-| Crushed Ice | 0.10% | ~452 |
+| Tootorial | 67.00% | ~305,700 |
+| Wind Master | 53.00% | ~241,823 |
+| Davy Jones | 18.00% | ~82,128 |
+| Hook, Line and Stinker | 11.00% | ~50,190 |
+| Gateway Slug | 7.00% | ~31,939 |
+| Race In Yo Face | 6.00% | ~27,376 |
+| Nice Shootin' Duds | 6.00% | ~27,376 |
+| By The Power Of Underskull | 5.00% | ~22,813 |
+| Great Balls Of Fire | 5.00% | ~22,813 |
+| Baby's First Thingamabob | 5.00% | ~22,813 |
+| Boarding Party | 5.00% | ~22,813 |
+| Light Up the Night | 4.00% | ~18,251 |
+| I Don't Like The Slugs | 4.00% | ~18,251 |
+| This Is Fine | 3.00% | ~13,688 |
+| Pengy Fun | 3.00% | ~13,688 |
+| Polar Pontification | 2.00% | ~9,125 |
+| Aggro Kreb | 2.00% | ~9,125 |
+| No More Splosions | 2.00% | ~9,125 |
+| Crovert Ops | 2.00% | ~9,125 |
+| Fish Kabob | 2.00% | ~9,125 |
+| Enter The Croakers | 2.00% | ~9,125 |
+| But The Slugs Like Me | 2.00% | ~9,125 |
+| Snapping Turtle | 1.00% | ~4,563 |
+| Tekk Savvy | 1.00% | ~4,563 |
+| Blowfish Me Down | 0.80% | ~3,650 |
+| Getting Hooked | 0.70% | ~3,194 |
+| Fish And Tips | 0.70% | ~3,194 |
+| This Magik Moment | 0.70% | ~3,194 |
+| Total Eclipse of the Eel | 0.60% | ~2,738 |
+| Sweeter Than Honey | 0.50% | ~2,281 |
+| Over The Moon | 0.50% | ~2,281 |
+| Fish On | 0.40% | ~1,825 |
+| 1.21 Ribbitwatts | 0.40% | ~1,825 |
+| Guiding Light | 0.40% | ~1,825 |
+| All Good Things... | 0.30% | ~1,369 |
+| Sail Forth! | 0.30% | ~1,369 |
+| For Whom The Bells Toll | 0.30% | ~1,369 |
+| What's Krakalackin? | 0.20% | ~913 |
+| Lights Out | 0.20% | ~913 |
+| Built For Speed | 0.20% | ~913 |
+| Crackshot | 0.20% | ~913 |
+| Crushed Ice | 0.20% | ~913 |
+| Don't I Know You? | 0.20% | ~913 |
+| Whosits And Whatsits Galore | 0.10% | ~456 |
+| Croaker Command's Most Wanted | 0.10% | ~456 |
+| In Service Of Glory And Valor | 0.10% | ~456 |
+| Shooting Star | 0.10% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,272 (Ranked 65)  
-Completed: 28 (0.01%) (Ranked 563)  
+Progressed: 456,269 (Ranked 67)  
+Completed: 28 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 28 (0.01%) (Ranked 563)
 | 2024-06-17 | 437,424 | 25 |
 | 2024-08-09 | 446,948 | 28 |
 | 2024-09-14 | 452,272 | 28 |
+| 2024-10-17 | 456,269 | 28 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 621)  
 Sum: 222 (Ranked 528)  

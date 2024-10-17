@@ -2,10 +2,10 @@
   "ID": "d00a1f7b44a14dddab853280118f8580",
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
-  "Ranking_EOS_Progress": 501,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
-  "EOS_Completed": 108,
+  "EOS_Progressed": 482,
+  "EOS_Completed": 109,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.59,
+  "EOS_Completed_Percentage": 22.61,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -1754,6 +1754,11 @@
       "Time": "2024-09-14T14:24:09.4570748+00:00",
       "NumProgressed": 478,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-10-17T05:12:52.4437156+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 109
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -1766,7 +1771,7 @@
       "Name": "Clever thinking!",
       "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 397
+      "UsersEstimate": 400
     },
     {
       "ID": "ach_complete_30",
@@ -1774,7 +1779,7 @@
       "Name": "Brilliant mind!",
       "Percentage": 54,
       "XP": 200,
-      "UsersEstimate": 258
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_complete_tutorial",
@@ -1782,7 +1787,7 @@
       "Name": "Welcome aboard!",
       "Percentage": 96,
       "XP": 80,
-      "UsersEstimate": 459
+      "UsersEstimate": 463
     },
     {
       "ID": "ach_hint_3",
@@ -1790,7 +1795,7 @@
       "Name": "A helping hand!",
       "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 325
+      "UsersEstimate": 328
     },
     {
       "ID": "ach_hint_6",
@@ -1798,7 +1803,7 @@
       "Name": "Supported success!",
       "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 268
+      "UsersEstimate": 270
     },
     {
       "ID": "ach_hint_9",
@@ -1806,7 +1811,7 @@
       "Name": "Together is better!",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_items_50",
@@ -1814,7 +1819,7 @@
       "Name": "Sharp-sighted!",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 368
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_minigames_10",
@@ -1822,7 +1827,7 @@
       "Name": "Inquiring mind!",
       "Percentage": 72,
       "XP": 80,
-      "UsersEstimate": 344
+      "UsersEstimate": 347
     },
     {
       "ID": "ach_skip_1",
@@ -1830,7 +1835,7 @@
       "Name": "Keep moving on!",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 258
+      "UsersEstimate": 260
     },
     {
       "ID": "ach_skip_3",
@@ -1838,7 +1843,7 @@
       "Name": "Advance further!",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_skip_5",
@@ -1846,21 +1851,21 @@
       "Name": "Skip and conquer!",
       "Percentage": 23,
       "XP": 150,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "5e260i9",
       "IsBase": true,
-      "Progressed": 478,
-      "Completed": 108
+      "Progressed": 482,
+      "Completed": 109
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:09.4570739+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:52.4437152+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:11.0954286+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:40.5897436+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:09.4570922+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:52.4437311+00:00"
 }

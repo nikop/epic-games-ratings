@@ -2,10 +2,10 @@
   "ID": "c532b0ba77e64c64b44bcd2d5e8d1546",
   "Name": "Wrath: Aeon of Ruin",
   "ProductSlug": "wrath-aeon-of-ruin",
-  "Ranking_EOS_Progress": 704,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-18T18:00:00+00:00",
     "PcReleaseDate": "2021-02-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
     {
       "Time": "2024-10-09T19:04:21.9066824+00:00",
       "NumProgressed": 107,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:52.8765058+00:00",
+      "NumProgressed": 108,
       "NumCompleted": 0
     }
   ],
@@ -140,9 +145,9 @@
       "ID": "SP_FEAT_COFFER_26",
       "SetID": "4hch943",
       "Name": "Treasure Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "SP_FEAT_COFFER_ALL",
@@ -164,7 +169,7 @@
       "ID": "SP_FEAT_CYST_PLANT",
       "SetID": "4hch943",
       "Name": "Minelayer",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 51
     },
@@ -236,9 +241,9 @@
       "ID": "SP_GRIND_ANIMUS",
       "SetID": "4hch943",
       "Name": "Bone Idol",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SP_GRIND_ATTAR",
@@ -246,15 +251,15 @@
       "Name": "Purple Haze",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SP_GRIND_BLADE",
       "SetID": "4hch943",
       "Name": "Slash And Dash",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 33
     },
     {
       "ID": "SP_GRIND_DEFLECTION",
@@ -268,15 +273,15 @@
       "ID": "SP_GRIND_FLASK",
       "SetID": "4hch943",
       "Name": "Rampage",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "SP_GRIND_KICK",
       "SetID": "4hch943",
       "Name": "Kickstatter",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -286,7 +291,7 @@
       "Name": "Total Massacre",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SP_GRIND_LORE_ALL",
@@ -302,7 +307,7 @@
       "Name": "Harvester",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SP_GRIND_SHOCKWAVE",
@@ -446,7 +451,7 @@
       "Name": "In Snow And Moonlight",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SP_STORY_HUB2",
@@ -470,22 +475,22 @@
       "Name": "With A Single Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "SP_STORY_ORRERY",
       "SetID": "4hch943",
       "Name": "Worlds Within Whirls",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hch943",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
@@ -493,8 +498,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.3987798+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:49.7973841+00:00",
   "LastChanged": "2023-03-31T05:57:23.3987799+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:21.906682+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:52.8765055+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:45.3680034+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:46.7444318+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:21.9067125+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:52.8765438+00:00"
 }

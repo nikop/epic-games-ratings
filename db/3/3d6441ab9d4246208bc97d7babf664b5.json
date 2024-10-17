@@ -2,10 +2,10 @@
   "ID": "3d6441ab9d4246208bc97d7babf664b5",
   "Name": "Mark of the Deep",
   "ProductSlug": "mark-of-the-deep-f7dc08",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -23,16 +23,114 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:11.502785+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:11.5027923+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_0_MARKKEEPERTRIUMPH",
+      "SetID": "8960l0g",
+      "Name": "Mark Keeper Triumph",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_1_MERMAIDSATSEA",
+      "SetID": "8960l0g",
+      "Name": "Mermaids at sea",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_2_ATRAITORSCOAT",
+      "SetID": "8960l0g",
+      "Name": "A Traitor\u0027s Coat",
+      "Percentage": 33,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_3_OLDFOLKSLEGACY",
+      "SetID": "8960l0g",
+      "Name": "Old Folk\u0027s Legacy",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4_THEMOSTESSENTIALARTIFACT",
+      "SetID": "8960l0g",
+      "Name": "The Most Essential Artifact",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_5_READYFORANYTHING",
+      "SetID": "8960l0g",
+      "Name": "Ready for Anything",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_6_CULTISTSRISE",
+      "SetID": "8960l0g",
+      "Name": "Cultist\u0027s Rise",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_7_THEINTRIGUINGSTONETABLETS",
+      "SetID": "8960l0g",
+      "Name": "The Intriguing Stone Tablet",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_8_PURSUETHEJOURNEY",
+      "SetID": "8960l0g",
+      "Name": "Pursue the Journey",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_9_RECORDINGHISTORY",
+      "SetID": "8960l0g",
+      "Name": "Recording History",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8960l0g",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:11.5027923+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:11.5027846+00:00",
   "LastUpdate_AppInfo": "2024-10-11T14:57:12.7307346+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:58.3476887+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:51.7696681+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:11.5036373+00:00"
 }

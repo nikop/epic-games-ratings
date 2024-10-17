@@ -2,10 +2,10 @@
   "ID": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
   "Name": "Backpack Hero",
   "ProductSlug": "backpack-hero-449c5e",
-  "Ranking_EOS_Progress": 1118,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-14T18:00:00+00:00",
     "PcReleaseDate": "2023-11-14T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2024-03-21T17:07:32.5087624+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:05.0021574+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -217,9 +222,9 @@
       "ID": "UnlockedCR8",
       "SetID": "cdhh3ge",
       "Name": "Robotic Hero",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UnlockedDeepCave",
@@ -330,14 +335,14 @@
     {
       "ID": "cdhh3ge",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-16T10:58:07.1046411+00:00",
   "FirstSeenAchievements": "2023-11-14T19:03:04.5661186+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:38.0839697+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:05.0021569+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:09.917198+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:15.6615682+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:38.0839926+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:05.0021793+00:00"
 }

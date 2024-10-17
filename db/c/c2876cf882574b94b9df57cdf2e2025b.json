@@ -2,10 +2,10 @@
   "ID": "c2876cf882574b94b9df57cdf2e2025b",
   "Name": "Gori Cuddly Carnage",
   "ProductSlug": "gori-cuddly-carnage-8d3ed9",
-  "Ranking_EOS_Progress": 659,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 656,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-29T15:00:00+00:00",
     "PcReleaseDate": "2024-08-29T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-09-14T14:19:03.961498+00:00",
       "NumProgressed": 138,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:09.4402683+00:00",
+      "NumProgressed": 166,
       "NumCompleted": 0
     }
   ],
@@ -44,9 +49,9 @@
       "ID": "9_lives_are_for_pussy_cats",
       "SetID": "cd9o9nf",
       "Name": "9 lives are for pussy cats",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "A_New_Adventure_Can_Begin",
@@ -54,7 +59,7 @@
       "Name": "A New Adventure Can Begin",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Aquarium_Medalist",
@@ -68,7 +73,7 @@
       "ID": "Arcade_Medalist",
       "SetID": "cd9o9nf",
       "Name": "Arcade Medalist",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -76,9 +81,9 @@
       "ID": "Boss_Medalist",
       "SetID": "cd9o9nf",
       "Name": "Boss Medalist",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Carnival_Medalist",
@@ -94,31 +99,31 @@
       "Name": "City Medalist",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Cuddly_Carnage",
       "SetID": "cd9o9nf",
       "Name": "Cuddly Carnage",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "Death_to_the_Unicorns",
       "SetID": "cd9o9nf",
       "Name": "Death to the Unicorns",
-      "Percentage": 22,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "Debugged",
       "SetID": "cd9o9nf",
       "Name": "Debugged",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 18
     },
     {
       "ID": "Doll_House_Medalist",
@@ -132,9 +137,9 @@
       "ID": "Environmental_Hazard",
       "SetID": "cd9o9nf",
       "Name": "Environmental Hazard",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "Factory_Medalist",
@@ -148,49 +153,49 @@
       "ID": "Fit_as_a_Fiddle",
       "SetID": "cd9o9nf",
       "Name": "Fit as a Fiddle",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "Heart_stopper",
       "SetID": "cd9o9nf",
       "Name": "Heart stopper",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "Heroes_of_Earth",
       "SetID": "cd9o9nf",
       "Name": "Heroes of Earth",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 12
     },
     {
       "ID": "I_loved_that_ship...",
       "SetID": "cd9o9nf",
       "Name": "I loved that ship...",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 55
     },
     {
       "ID": "Intro-duck-tion",
       "SetID": "cd9o9nf",
       "Name": "Intro-duck-tion",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "It\u0027s_all_in_the_fur",
       "SetID": "cd9o9nf",
       "Name": "It\u0027s all in the fur",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Jail_Breaker",
@@ -212,9 +217,9 @@
       "ID": "Murder_Party",
       "SetID": "cd9o9nf",
       "Name": "Murder Party",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 10
+      "UsersEstimate": 22
     },
     {
       "ID": "Nightmare_Medalist",
@@ -228,9 +233,9 @@
       "ID": "Ow_my_eye",
       "SetID": "cd9o9nf",
       "Name": "Ow my eye",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 23
     },
     {
       "ID": "Purr-fectionist",
@@ -246,13 +251,13 @@
       "Name": "Savior of Unicorns",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Shopaholic",
       "SetID": "cd9o9nf",
       "Name": "Shopaholic",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -260,9 +265,9 @@
       "ID": "Smells_fishy",
       "SetID": "cd9o9nf",
       "Name": "Smells fishy",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 18
     },
     {
       "ID": "Stylish_Cat",
@@ -270,15 +275,15 @@
       "Name": "Stylish Cat",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Stylish_Hoverboard",
       "SetID": "cd9o9nf",
       "Name": "Stylish Hoverboard",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "Taste_the_Rainbow",
@@ -292,39 +297,39 @@
       "ID": "The_Keys_to_Success",
       "SetID": "cd9o9nf",
       "Name": "The Keys to Success",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "Too_old_for_dolls",
       "SetID": "cd9o9nf",
       "Name": "Too old for dolls",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "Toy_Mayhem",
       "SetID": "cd9o9nf",
       "Name": "Toy Mayhem",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "cd9o9nf",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-30T16:57:16.614309+00:00",
   "FirstSeenAchievements": "2024-02-22T21:03:54.1849774+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:03.9614975+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:09.4402681+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:54.0412425+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:47.8477853+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:03.9623878+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:09.8540616+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:09.4402879+00:00"
 }

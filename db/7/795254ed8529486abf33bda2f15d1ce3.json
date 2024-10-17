@@ -2,10 +2,10 @@
   "ID": "795254ed8529486abf33bda2f15d1ce3",
   "Name": "MOBIUS BAND*",
   "ProductSlug": "mobiusband-4a352b",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1104,
+  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-02T01:00:33.817+00:00",
     "PcReleaseDate": "2023-12-28T00:00:00+00:00",
@@ -227,8 +227,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:13.0827166+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:20.9145918+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:30.4079448+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:52.9335028+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:18.9526551+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:20.9146054+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:58.9992737+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:30.4079597+00:00"
 }

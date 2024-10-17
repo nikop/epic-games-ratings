@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 54.00% | ~281 |
-| So it goes | 46.00% | ~240 |
-| A New Broom Sweeps Clean | 22.00% | ~115 |
-| Off to a Good Start | 19.00% | ~99 |
-| Small-time Finder | 19.00% | ~99 |
-| Business as usual | 16.00% | ~83 |
-| Mr. Hygeni | 11.00% | ~57 |
-| Pride and Joy | 10.00% | ~52 |
+| Clean Conscience | 54.00% | ~284 |
+| So it goes | 47.00% | ~247 |
+| A New Broom Sweeps Clean | 23.00% | ~121 |
+| Off to a Good Start | 19.00% | ~100 |
+| Small-time Finder | 19.00% | ~100 |
+| Business as usual | 16.00% | ~84 |
+| Pride and Joy | 10.00% | ~53 |
+| Mr. Hygeni | 10.00% | ~53 |
 | Hackathon | 8.00% | ~42 |
-| Eyes Yet To Open | 7.00% | ~36 |
-| Total Recall | 6.00% | ~31 |
+| Eyes Yet To Open | 7.00% | ~37 |
+| Total Recall | 6.00% | ~32 |
 | All the Stories | 5.00% | ~26 |
 | Something Rotten | 5.00% | ~26 |
 | Witness Protection | 5.00% | ~26 |
 | The Wing and the Thigh | 5.00% | ~26 |
-| Blood Capade | 2.00% | ~10 |
+| Blood Capade | 2.00% | ~11 |
 | … Women Inherit The Earth | 2.00% | ~8 |
-| Bee Squat | 2.00% | ~10 |
-| The Germophobes | 2.00% | ~10 |
+| Bee Squat | 2.00% | ~11 |
+| The Germophobes | 2.00% | ~11 |
 | The Crush And Smash The Dino Four | 1.00% | ~4 |
 | Crazy SOB, You Did It | 0.40% | ~2 |
+| Cha Cha Real Smooth | 0.40% | ~2 |
 | Do-you-think-he-saurus | 0.20% | ~1 |
-| Cha Cha Real Smooth | 0.20% | ~1 |
 | That’s One Big Pile | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521 (Ranked 488)  
-Completed: 7 (1.34%) (Ranked 251)  
+Progressed: 526 (Ranked 505)  
+Completed: 7 (1.33%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 7 (1.34%) (Ranked 251)
 | 2024-08-09 | 478 | 7 |
 | 2024-09-14 | 493 | 7 |
 | 2024-10-09 | 521 | 7 |
+| 2024-10-17 | 526 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

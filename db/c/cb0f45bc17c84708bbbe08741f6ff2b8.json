@@ -2,10 +2,10 @@
   "ID": "cb0f45bc17c84708bbbe08741f6ff2b8",
   "Name": "Survival: Fountain of Youth",
   "ProductSlug": "survival-fountain-of-youth-e7036f",
-  "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-21T16:09:04.618+00:00",
     "PcReleaseDate": "2024-05-21T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 138,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:18.9510642+00:00",
@@ -55,6 +55,11 @@
       "Time": "2024-09-14T14:27:44.0803111+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:56.4416896+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:18.9510663+00:00",
@@ -65,97 +70,97 @@
       "ID": "CRAFT_ALCOHOL_MACHINE",
       "SetID": "79bfh30",
       "Name": "Bottoms Up!",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 28
     },
     {
       "ID": "CRAFT_BOW",
       "SetID": "79bfh30",
       "Name": "Time to Shoot",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 59
     },
     {
       "ID": "CRAFT_CART",
       "SetID": "79bfh30",
       "Name": "Reinventing the Wheel",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 40
     },
     {
       "ID": "CRAFT_CHEMICAL_TABLE",
       "SetID": "79bfh30",
       "Name": "Master of Alchemy",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 41
     },
     {
       "ID": "CRAFT_COMPOST",
       "SetID": "79bfh30",
       "Name": "Getting Dirty",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 30
     },
     {
       "ID": "CRAFT_CROSSBOW",
       "SetID": "79bfh30",
       "Name": "Pulling the Trigger",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "CRAFT_INDIAN_SET",
       "SetID": "79bfh30",
       "Name": "Ultimate Predator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CRAFT_INDIAN_SHIP",
       "SetID": "79bfh30",
       "Name": "The Eye of the Storm",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "CRAFT_KILN",
       "SetID": "79bfh30",
       "Name": "No Smoke Without Fire",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "CRAFT_LONGMUSKET",
       "SetID": "79bfh30",
       "Name": "Fire in the Hole!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "CRAFT_SCHOONER",
       "SetID": "79bfh30",
       "Name": "Master and Commander",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "CRAFT_SHIP",
       "SetID": "79bfh30",
       "Name": "Off We Go",
-      "Percentage": 28,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "CRAFT_SPEAR",
@@ -163,31 +168,31 @@
       "Name": "Sharp Eye, Strong Hand",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 113
     },
     {
       "ID": "CRAFT_WATER_MACHINE",
       "SetID": "79bfh30",
       "Name": "Let There Be Rain!",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "CROPS_20",
       "SetID": "79bfh30",
       "Name": "Constant Gardener",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "DEATH_1",
       "SetID": "79bfh30",
       "Name": "Oops",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 59
     },
     {
       "ID": "DEATH_10",
@@ -195,109 +200,109 @@
       "Name": "Rising and Falling",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "END_GAME",
       "SetID": "79bfh30",
       "Name": "Journey\u0027s End",
-      "Percentage": 0.9,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "KILL_ANACONDA_BOSS",
       "SetID": "79bfh30",
       "Name": "If It Bleeds, We Can Kill It!",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 14
     },
     {
       "ID": "KILL_BOAR",
       "SetID": "79bfh30",
       "Name": "Can Pigs Fly?",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 58
     },
     {
       "ID": "KILL_CAIMAN",
       "SetID": "79bfh30",
       "Name": "See You Later, Alligator",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 28
     },
     {
       "ID": "KILL_FINAL_BOSS",
       "SetID": "79bfh30",
       "Name": "The Lord\u0027s Way",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "KILL_JACKAL",
       "SetID": "79bfh30",
       "Name": "The Jackal in the Hide",
-      "Percentage": 34,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 54
     },
     {
       "ID": "KILL_JACKAL_BOSS",
       "SetID": "79bfh30",
       "Name": "Who\u0027s the Boss?!",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 19
     },
     {
       "ID": "KILL_JAGUAR",
       "SetID": "79bfh30",
       "Name": "Hey Kitty",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 39
     },
     {
       "ID": "KILL_PANTHER_BLACK",
       "SetID": "79bfh30",
       "Name": "You\u0027re not\u2026Mowgli...",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "KILL_RAY",
       "SetID": "79bfh30",
       "Name": "Ray Ban",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 22
     },
     {
       "ID": "KILL_SHARK",
       "SetID": "79bfh30",
       "Name": "Under the Sea",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "KILL_TURTLE",
       "SetID": "79bfh30",
       "Name": "Achilles and the Tortoise",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 70
     },
     {
       "ID": "KILL_WITH_SHOVEL",
       "SetID": "79bfh30",
       "Name": "Some Grave to Dig",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -305,167 +310,167 @@
       "ID": "PLAY_10_HOURS",
       "SetID": "79bfh30",
       "Name": "It Ain\u0027t That Bad Here!",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 46
     },
     {
       "ID": "PLAY_2_HOURS",
       "SetID": "79bfh30",
       "Name": "Newcomer Robinson",
-      "Percentage": 49,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 73
     },
     {
       "ID": "QUEST_SAIL_TO_BIMINI_INDIAN",
       "SetID": "79bfh30",
       "Name": "Song of the New Native",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "RECIPES_20",
       "SetID": "79bfh30",
       "Name": "It Worked!",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 119
     },
     {
       "ID": "RECIPES_200",
       "SetID": "79bfh30",
       "Name": "Walking Factory",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 39
     },
     {
       "ID": "RECIPES_50",
       "SetID": "79bfh30",
       "Name": "Jack-of-all-trades",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 87
     },
     {
       "ID": "STATUS_COUNT_10",
       "SetID": "79bfh30",
       "Name": "Full House",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 39
     },
     {
       "ID": "SURVIVAL_TASKS_10",
       "SetID": "79bfh30",
       "Name": "True Islander",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "SURVIVED_DAYS_100",
       "SetID": "79bfh30",
       "Name": "Survivalist",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "TAKE_CLAY",
       "SetID": "79bfh30",
       "Name": "Time to Clay",
-      "Percentage": 36,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 58
     },
     {
       "ID": "TAKE_COPPER_ORE",
       "SetID": "79bfh30",
       "Name": "Shining!",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "TAKE_FISH",
       "SetID": "79bfh30",
       "Name": "Catching the Big Fish",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 41
     },
     {
       "ID": "TAKE_IRON_ORE",
       "SetID": "79bfh30",
       "Name": "Iron Maiden",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "TAKE_OBSIDIAN",
       "SetID": "79bfh30",
       "Name": "Gifts of the Volcano",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 63
     },
     {
       "ID": "TAKE_SILVER_ORE",
       "SetID": "79bfh30",
       "Name": "Thirty Pieces of Silver",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 26
     },
     {
       "ID": "TAKE_WATER_PLANT",
       "SetID": "79bfh30",
       "Name": "Able Diver",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "UNDERWATER_CHESTS_10",
       "SetID": "79bfh30",
       "Name": "Treasure Hunter",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "VISIT_ISLAND_ALL",
       "SetID": "79bfh30",
       "Name": "Discoverer and Explorer",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "VISIT_ISLAND_OF_HOPE",
       "SetID": "79bfh30",
       "Name": "Survivor",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "79bfh30",
       "IsBase": true,
-      "Progressed": 113,
-      "Completed": 0
+      "Progressed": 138,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-05-22T13:57:34.697687+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:18.9510663+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:44.0803105+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:56.4416888+00:00",
   "LastUpdate_AppInfo": "2024-10-16T07:57:21.5950216+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:10.0910324+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:44.0803456+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:10.6307777+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:56.4417185+00:00"
 }

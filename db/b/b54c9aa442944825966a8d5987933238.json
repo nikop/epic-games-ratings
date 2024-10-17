@@ -2,10 +2,10 @@
   "ID": "b54c9aa442944825966a8d5987933238",
   "Name": "InFlux Redux",
   "ProductSlug": "influx-redux-253dba",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -23,16 +23,106 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:14.8128909+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:14.8128939+00:00",
+  "TotalAchievements": 9,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ART",
+      "SetID": "3cb550h",
+      "Name": "Gallerist",
+      "Percentage": 100,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CHAPTER1",
+      "SetID": "3cb550h",
+      "Name": "Landfall",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CHAPTER2",
+      "SetID": "3cb550h",
+      "Name": "Megaptera Novaeangliae",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHAPTER3",
+      "SetID": "3cb550h",
+      "Name": "Cracked",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHAPTER4",
+      "SetID": "3cb550h",
+      "Name": "On A Roll",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHAPTER5",
+      "SetID": "3cb550h",
+      "Name": "Hitchhiking",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE",
+      "SetID": "3cb550h",
+      "Name": "The Message",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ERUPTION",
+      "SetID": "3cb550h",
+      "Name": "Collateral Damage",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WHALE",
+      "SetID": "3cb550h",
+      "Name": "Marine Biology",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3cb550h",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:14.8128938+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:14.8128903+00:00",
   "LastUpdate_AppInfo": "2024-10-13T03:15:52.1805915+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:45.7890152+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:31.700414+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:14.8135579+00:00"
 }

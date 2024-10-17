@@ -2,10 +2,10 @@
   "ID": "a4368659166c4e53aed26aa64f86f9d7",
   "Name": "Sniper Wild West Shooting Simulator",
   "ProductSlug": "sniper-wild-west-shooting-simulator-e3378a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-28T18:00:00+00:00",
     "PcReleaseDate": "2023-09-04T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-12T08:58:29.7635276+00:00",
   "LastUpdate_AppInfo": "2024-10-16T02:11:25.141533+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:41.3331432+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:18.9290622+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:24.6584984+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:03.4310391+00:00"
 }

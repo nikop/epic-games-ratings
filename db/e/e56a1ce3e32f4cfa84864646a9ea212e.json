@@ -2,10 +2,10 @@
   "ID": "e56a1ce3e32f4cfa84864646a9ea212e",
   "Name": "Dead Space\u2122 (2008)",
   "ProductSlug": "dead-space-2008-f45921",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2008-10-13T07:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-03-29T05:00:25.1636015+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:19.440785+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:36.3475698+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:59.9531852+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:06.3629937+00:00"
 }

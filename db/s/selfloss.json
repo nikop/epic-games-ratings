@@ -2,10 +2,10 @@
   "ID": "f64e89cc12ef4afea8609ca8a6a2f7ea",
   "Name": "Selfloss",
   "ProductSlug": "selfloss",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-12T13:00:00.477+00:00",
     "PcReleaseDate": "2024-09-12T13:00:00+00:00",
@@ -45,8 +45,8 @@
   ],
   "FirstSeen": "2024-10-16T16:57:45.7499886+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:36.7073509+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:49.1073928+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:07:26.4034127+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:46.4257233+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:48.4795888+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:49.1073964+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:07:26.4034161+00:00"
 }

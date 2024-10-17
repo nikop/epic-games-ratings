@@ -5,10 +5,10 @@
   "Ranking_Rating": 996,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -106,11 +106,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2639,
+  "EOS_Progressed": 2905,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.42,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.8863145+00:00",
@@ -2096,6 +2096,11 @@
       "Time": "2024-09-14T14:15:24.027551+00:00",
       "NumProgressed": 2639,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-10-17T05:06:48.4352958+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 19,
@@ -2107,15 +2112,15 @@
       "Name": "So do we just stay up here, or?...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "collect_dyes",
       "SetID": "236b9eg",
       "Name": "Nothing to Wear",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 818
+      "UsersEstimate": 872
     },
     {
       "ID": "complete_act_one",
@@ -2123,15 +2128,15 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 739
+      "UsersEstimate": 813
     },
     {
       "ID": "complete_act_three",
       "SetID": "236b9eg",
       "Name": "The Third Law of Thermodynamics",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 264
+      "UsersEstimate": 261
     },
     {
       "ID": "complete_act_two",
@@ -2139,47 +2144,47 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 396
+      "UsersEstimate": 436
     },
     {
       "ID": "complete_tutorial",
       "SetID": "236b9eg",
       "Name": "On the Shoulders of Giants",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2382
     },
     {
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1540
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2179
     },
     {
       "ID": "defeat_tree_dummy",
       "SetID": "236b9eg",
       "Name": "Do you feel like a tough guy?",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1191
     },
     {
       "ID": "fail_planet",
       "SetID": "236b9eg",
       "Name": "At Least We Have Each Other...",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 2033
     },
     {
       "ID": "piercing_beam",
@@ -2187,15 +2192,15 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 261
     },
     {
       "ID": "reach_heat",
       "SetID": "236b9eg",
       "Name": "Turn Up The HEAT",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1191
     },
     {
       "ID": "reach_high_heat",
@@ -2203,39 +2208,39 @@
       "Name": "Better Than the Devs",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 116
     },
     {
       "ID": "save_planet",
       "SetID": "236b9eg",
       "Name": "Frogbot",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1926
+      "UsersEstimate": 2092
     },
     {
       "ID": "save_planet_bestfriend",
       "SetID": "236b9eg",
       "Name": "Do you trust me?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 465
     },
     {
       "ID": "save_planet_coop",
       "SetID": "236b9eg",
       "Name": "The Interdimensional Power of Friendship",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1394
     },
     {
       "ID": "stick_decoy",
       "SetID": "236b9eg",
       "Name": "Stop Hitting Yourself!",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 871
+      "UsersEstimate": 901
     },
     {
       "ID": "stun_enemies",
@@ -2243,22 +2248,22 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1540
     },
     {
       "ID": "trash_truck",
       "SetID": "236b9eg",
       "Name": "Taking Out the Trash",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 349
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2639,
+      "Progressed": 2905,
       "Completed": 11
     }
   ],
@@ -2266,8 +2271,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2024-02-18T20:57:12.4726729+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:24.0275501+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:48.4352942+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:44.594178+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:20.0085135+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:24.0275693+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:00.5778044+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:48.4353247+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "cc66d1c61f4d41c9b5377b5e13e92d80",
   "Name": "The Dark Isle",
   "ProductSlug": "the-dark-isle-4504b4",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-22T18:30:00+00:00",
     "PcReleaseDate": "2024-05-22T18:30:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T15:59:01.0369598+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:13.7842689+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:33.0059934+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:44.2997614+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:21.3147528+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:56.6545742+00:00"
 }

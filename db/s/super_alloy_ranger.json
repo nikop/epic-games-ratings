@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 607,
-  "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 628,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 200,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -831,6 +831,11 @@
       "Time": "2024-09-14T14:19:34.1503072+00:00",
       "NumProgressed": 199,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:09:43.4225707+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -978,7 +983,7 @@
       "Name": "Gear Up",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Achi_19",
@@ -994,7 +999,7 @@
       "Name": "Freshen Up",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Achi_21",
@@ -1010,7 +1015,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Achi_23",
@@ -1050,7 +1055,7 @@
       "Name": "GG EZ",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Achi_28",
@@ -1074,7 +1079,7 @@
       "Name": "A Grand Show",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Achi_31",
@@ -1088,9 +1093,9 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_33",
@@ -1241,7 +1246,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 1
     }
   ],
@@ -1249,8 +1254,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:34.1503064+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:43.4225699+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:31.5200406+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:19.3337898+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:34.1503431+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:43.4226088+00:00"
 }

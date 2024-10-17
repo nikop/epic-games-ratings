@@ -2,10 +2,10 @@
   "ID": "13f8834eac4e40dbb24a1340686ad8c4",
   "Name": "Lotus Lantern: Rescue Mother",
   "ProductSlug": "lotus-lantern-rescue-mother-fb6e87",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-04-12T03:00:00+00:00",
@@ -177,8 +177,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T00:02:24.9953397+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:39.3772005+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:05.6869711+00:00",
   "LastUpdate_AppInfo": "2024-10-16T07:57:22.0183021+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:27.7778251+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:39.3772127+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:38.5544802+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:05.686979+00:00"
 }

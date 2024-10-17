@@ -2,13 +2,13 @@
   "ID": "97f91a3e4a7449fa9f4505a09efe1645",
   "Name": "Hellpoint",
   "ProductSlug": "hellpoint",
-  "Ranking_Rating": 1151,
+  "Ranking_Rating": 1150,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-07-30T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -164,5 +164,5 @@
   "LastChanged": "2024-08-15T16:58:12.4601213+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:26.9292971+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:03.864022+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:12.4054838+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:19.0556628+00:00"
 }

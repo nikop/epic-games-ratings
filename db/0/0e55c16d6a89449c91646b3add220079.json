@@ -2,10 +2,10 @@
   "ID": "0e55c16d6a89449c91646b3add220079",
   "Name": "Seed of Heroes",
   "ProductSlug": "seed-of-heroes-2a7e47",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-17T17:00:00+00:00",
     "PcReleaseDate": "2024-09-17T17:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-09-27T07:59:07.5830011+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.7813047+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:04.7812998+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:20.0080131+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:58.0496508+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:23.221891+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:04.7813064+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:20.0080158+00:00"
 }

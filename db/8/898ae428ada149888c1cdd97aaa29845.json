@@ -2,10 +2,10 @@
   "ID": "898ae428ada149888c1cdd97aaa29845",
   "Name": "Rogue Waters",
   "ProductSlug": "rogue-waters-9764d6",
-  "Ranking_EOS_Progress": 817,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 784,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-30T15:00:00+00:00",
     "PcReleaseDate": "2024-09-30T15:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-10-09T19:02:03.6359567+00:00",
       "NumProgressed": 48,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:16.6991547+00:00",
+      "NumProgressed": 73,
       "NumCompleted": 0
     }
   ],
@@ -53,9 +58,9 @@
       "ID": "MAX_BRUTE",
       "SetID": "pnik57",
       "Name": "Masterchef",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MAX_CLEAVER",
@@ -69,7 +74,7 @@
       "ID": "MAX_CUTTER",
       "SetID": "pnik57",
       "Name": "The Legendary Captain Cutter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -77,33 +82,33 @@
       "ID": "MAX_HUB_CREW",
       "SetID": "pnik57",
       "Name": "All Decked Out",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "MAX_HUB_EQUIPMENT",
       "SetID": "pnik57",
       "Name": "Quartermaster",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "MAX_HUB_MONSTER",
       "SetID": "pnik57",
       "Name": "Rise of the Sea Shepherd",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MAX_HUB_SHIP",
       "SetID": "pnik57",
       "Name": "Priority Shipping",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "MAX_RIFLEMAN",
@@ -117,7 +122,7 @@
       "ID": "MAX_SPEARMAIDEN",
       "SetID": "pnik57",
       "Name": "That\u0027s the Spear-it!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -125,33 +130,33 @@
       "ID": "MAX_WRESTLER",
       "SetID": "pnik57",
       "Name": "He\u0027s Flippin\u0027 Brilliant!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WIN_ACT_1",
       "SetID": "pnik57",
       "Name": "A Rogue Reborn",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "WIN_ACT_2",
       "SetID": "pnik57",
       "Name": "Heart of Glass",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "WIN_ACT_3",
       "SetID": "pnik57",
       "Name": "Plunder and Ruin!",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "WIN_ENDLESS_1",
@@ -183,21 +188,21 @@
       "Name": "Betrayed",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "pnik57",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-10-01T16:58:18.7715643+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:06.553232+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:03.6359561+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:16.6991541+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:13:38.2104985+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:24.274985+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:03.6366857+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:16.6991658+00:00"
 }

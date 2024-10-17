@@ -2,10 +2,10 @@
   "ID": "3ef48399a4044d9eb00beb44623fe5e5",
   "Name": "Thymesia",
   "ProductSlug": "thymesia-f4f399",
-  "Ranking_EOS_Progress": 810,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 786,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-01T15:00:02.447+00:00",
     "PcReleaseDate": "2022-08-18T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2024-09-14T14:15:15.1064322+00:00",
       "NumProgressed": 49,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:35.2604124+00:00",
+      "NumProgressed": 72,
       "NumCompleted": 0
     }
   ],
@@ -73,25 +78,25 @@
       "ID": "ACH_COLLECT_ALL_INGREDIENTS",
       "SetID": "3hbhonb",
       "Name": "Herb Gatherer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COLLECT_ALL_LORES",
       "SetID": "3hbhonb",
       "Name": "Good Listener",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COLLECT_ALL_STORIES",
       "SetID": "3hbhonb",
       "Name": "Memory Weaver",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COLLECT_ALL_WEAPONS",
@@ -99,7 +104,7 @@
       "Name": "Lord of Plague",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COLLECT_EVERYTHING",
@@ -113,127 +118,127 @@
       "ID": "ACH_COMPLETE_ALL_LEVELS",
       "SetID": "3hbhonb",
       "Name": "Completed Memory",
-      "Percentage": 2,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_CIRCUS",
       "SetID": "3hbhonb",
       "Name": "Sea of Trees",
-      "Percentage": 10,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_FORTRESS",
       "SetID": "3hbhonb",
       "Name": "Hermes Fortress",
-      "Percentage": 4,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_GARDEN",
       "SetID": "3hbhonb",
       "Name": "Royal Garden",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_TUTORIAL",
       "SetID": "3hbhonb",
       "Name": "Darkness!!!",
-      "Percentage": 71,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_DEFEAT_BAT",
       "SetID": "3hbhonb",
       "Name": "The Hanged Queen",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DEFEAT_BOSS_NO_POTION",
       "SetID": "3hbhonb",
       "Name": "Piece of Cake",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DEFEAT_BUG",
       "SetID": "3hbhonb",
       "Name": "Sound of the Abyss",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_CORVUS",
       "SetID": "3hbhonb",
       "Name": "Corvus",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_MAGICIAN",
       "SetID": "3hbhonb",
       "Name": "Odur",
-      "Percentage": 10,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_DEFEAT_MAGICIAN_LV2",
       "SetID": "3hbhonb",
       "Name": "Mutated Odur",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DEFEAT_PUPPET",
       "SetID": "3hbhonb",
       "Name": "God of the Fools",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_TUTORIAL_VARG",
       "SetID": "3hbhonb",
       "Name": "YOU SHALL NOT PASS!!!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_URD",
       "SetID": "3hbhonb",
       "Name": "Urd",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DEFEAT_VARG",
       "SetID": "3hbhonb",
       "Name": "Varg",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENDING_001",
       "SetID": "3hbhonb",
       "Name": "Chaotic Power",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -241,41 +246,41 @@
       "ID": "ACH_ENDING_002",
       "SetID": "3hbhonb",
       "Name": "Power of Vile Blood",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENDING_003",
       "SetID": "3hbhonb",
       "Name": "Blessing of Pure Blood",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENDING_004",
       "SetID": "3hbhonb",
       "Name": "Harmonized Force",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ENDING_005",
       "SetID": "3hbhonb",
       "Name": "Power of Cleansing",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_CRAFT_FORMULA",
       "SetID": "3hbhonb",
       "Name": "Is this Alchemy?",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_DEATH",
@@ -283,31 +288,31 @@
       "Name": "Memory Interrupted",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_FIRST_ENTER_LEVEL",
       "SetID": "3hbhonb",
       "Name": "Start Recalling",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FIRST_FULL_UPGRADE_POTION",
       "SetID": "3hbhonb",
       "Name": "Alchemist",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIRST_MAX_LEVEL_WEAPON",
       "SetID": "3hbhonb",
       "Name": "Weapon Master",
-      "Percentage": 8,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FIRST_REACH_BEACON",
@@ -315,7 +320,7 @@
       "Name": "Take a break",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_FIRST_REAVE_WEAPON",
@@ -323,15 +328,15 @@
       "Name": "Test Ride",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_FIRST_UNLOCK_WEAPON",
       "SetID": "3hbhonb",
       "Name": "It\u0027s mine now!",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_MISC_BREAK_1000_BARRELS",
@@ -345,23 +350,23 @@
       "ID": "ACH_MISC_MAX_LEVEL",
       "SetID": "3hbhonb",
       "Name": "Peak Performance",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "3hbhonb",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-04T02:57:10.1370134+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:04.5681156+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:15.1064316+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:35.260412+00:00",
   "LastUpdate_AppInfo": "2024-10-10T23:57:17.2071591+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:31.7968741+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:15.106459+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:09.5413379+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:35.260435+00:00"
 }

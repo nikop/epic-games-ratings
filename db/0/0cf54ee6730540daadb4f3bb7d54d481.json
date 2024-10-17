@@ -2,10 +2,10 @@
   "ID": "0cf54ee6730540daadb4f3bb7d54d481",
   "Name": "Republic of Pirates",
   "ProductSlug": "republic-of-pirates-b6dfa6",
-  "Ranking_EOS_Progress": 636,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 653,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-19T16:00:00+00:00",
     "PcReleaseDate": "2024-06-19T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-10-09T19:03:11.9781076+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:34.1875545+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:12:28.7853315+00:00",
@@ -70,15 +75,15 @@
       "Name": "The French are Coming",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Aiders_Spain",
       "SetID": "b9ni7g2",
       "Name": "The Spanish are Coming",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "BasicRoads_I",
@@ -86,7 +91,7 @@
       "Name": "Roads to Riches I",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "BasicRoads_II",
@@ -94,15 +99,15 @@
       "Name": "Roads to Riches II",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BrickRoads_I",
       "SetID": "b9ni7g2",
       "Name": "Roads to Riches III",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "BrickRoads_II",
@@ -142,15 +147,15 @@
       "Name": "Architect I",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Build_Any_II",
       "SetID": "b9ni7g2",
       "Name": "Architect II",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "Build_Any_III",
@@ -158,7 +163,7 @@
       "Name": "Architect III",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Build_DefensiveTower",
@@ -166,15 +171,15 @@
       "Name": "Turtling",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Build_Lumberjack",
       "SetID": "b9ni7g2",
       "Name": "Deforestation",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "Build_Storage",
@@ -182,7 +187,7 @@
       "Name": "17th Century Amazon",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "CaptainLevel_I",
@@ -190,7 +195,7 @@
       "Name": "First Mate I",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "CaptainLevel_II",
@@ -198,7 +203,7 @@
       "Name": "First Mate II",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CaptainLevel_III",
@@ -236,9 +241,9 @@
       "ID": "ConqueringIslands_All",
       "SetID": "b9ni7g2",
       "Name": "Island Conqueror",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ConqueringIslands_I",
@@ -246,15 +251,15 @@
       "Name": "Island Marauder",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ConqueringIslands_II",
       "SetID": "b9ni7g2",
       "Name": "Island Dominator",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "Debris_I",
@@ -262,7 +267,7 @@
       "Name": "Plunderer I",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "Debris_II",
@@ -270,7 +275,7 @@
       "Name": "Plunderer II",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Debris_III",
@@ -278,7 +283,7 @@
       "Name": "Plunderer III",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DestroyShips_Any",
@@ -286,7 +291,7 @@
       "Name": "Rule the Waves",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "DestroyShips_England",
@@ -318,7 +323,7 @@
       "Name": "You\u0027re Welcome",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FinishCampaign_Easy",
@@ -350,7 +355,7 @@
       "Name": "Pirate Fortune I",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "HaveGold_II",
@@ -366,15 +371,15 @@
       "Name": "Improved Sails, Me Hearties!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "HaveResource_EnglishInsignia",
       "SetID": "b9ni7g2",
       "Name": "English Insignia Raid",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "HaveResource_SpanishGold",
@@ -382,15 +387,15 @@
       "Name": "Spanish Gold Heist",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LegendaryCaptain",
       "SetID": "b9ni7g2",
       "Name": "Legend of the Seas",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "Pacifist",
@@ -406,7 +411,7 @@
       "Name": "Brethren of the Coast I",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Population_II",
@@ -414,7 +419,7 @@
       "Name": "Brethren of the Coast II",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Population_III",
@@ -430,7 +435,7 @@
       "Name": "Unfettered Freedom",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "StylishBuildings",
@@ -454,21 +459,21 @@
       "Name": "Master of Trade",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "b9ni7g2",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-20T02:59:10.8529598+00:00",
   "FirstSeenAchievements": "2024-04-10T06:03:53.1915936+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:11.9781071+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:34.1875541+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:11.2611137+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:31.1304251+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:11.9781431+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:53.3073521+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:34.1875869+00:00"
 }

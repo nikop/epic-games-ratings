@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 91.00% | ~258 |
+| Advanced Armaments | 13.00% | ~37 |
 | Dousing a Venerable Flame | 12.00% | ~34 |
-| Advanced Armaments | 12.00% | ~34 |
 | A Small Thirsty Thing | 11.00% | ~31 |
 | Spirit Within | 11.00% | ~31 |
-| Overboard | 9.00% | ~25 |
-| Bladesmith | 9.00% | ~25 |
-| Leisis Bless You | 9.00% | ~25 |
+| Bladesmith | 10.00% | ~28 |
+| Overboard | 9.00% | ~26 |
+| Leisis Bless You | 9.00% | ~26 |
 | Rain Must Fall | 8.00% | ~23 |
 | The Guardian of Fire | 8.00% | ~23 |
 | Explorer | 7.00% | ~20 |
@@ -22,7 +22,7 @@
 | Sommelier | 5.00% | ~14 |
 | A Sandwyrm's Hoard | 5.00% | ~14 |
 | Frigid Winds | 4.00% | ~11 |
-| Missing Melodies | 3.00% | ~8 |
+| Missing Melodies | 3.00% | ~9 |
 | Transformative Nature | 2.00% | ~6 |
 | Pommelsmith | 1.00% | ~3 |
 | Redeemer | 1.00% | ~3 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 560)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 284 (Ranked 581)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 266 | 0 |
 | 2024-09-14 | 274 | 0 |
 | 2024-10-09 | 283 | 0 |
+| 2024-10-17 | 284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,34 +6,34 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 98.00% | ~2,253 |
-| One HIT wonder | 32.00% | ~736 |
-| Wanderer | 30.00% | ~690 |
-| One shot, one kill | 24.00% | ~552 |
-| Traveler | 22.00% | ~506 |
-| Explorer | 16.00% | ~368 |
-| Grave Robber | 16.00% | ~368 |
-| Head Burst | 15.00% | ~345 |
-| Double agent | 14.00% | ~322 |
-| Paranoia | 14.00% | ~322 |
-| Savant | 10.00% | ~230 |
-| Kraina Grzybow | 9.00% | ~207 |
-| Love Guru | 8.00% | ~184 |
-| Superhuman | 8.00% | ~184 |
-| Bustin' nuts | 7.00% | ~161 |
-| Not-so-private Eye | 7.00% | ~161 |
-| The Vitinsky Rifle | 6.00% | ~138 |
-| Protection racket | 4.00% | ~92 |
-| Sacrifice | 4.00% | ~92 |
-| Secret room | 4.00% | ~92 |
-| Indy | 3.00% | ~69 |
-| Wishmaster | 3.00% | ~69 |
+| Atom Agent | 98.00% | ~2,276 |
+| One HIT wonder | 32.00% | ~743 |
+| Wanderer | 30.00% | ~697 |
+| One shot, one kill | 24.00% | ~557 |
+| Traveler | 22.00% | ~511 |
+| Explorer | 16.00% | ~372 |
+| Grave Robber | 16.00% | ~372 |
+| Head Burst | 15.00% | ~348 |
+| Double agent | 14.00% | ~325 |
+| Paranoia | 14.00% | ~325 |
+| Savant | 10.00% | ~232 |
+| Kraina Grzybow | 9.00% | ~209 |
+| Love Guru | 8.00% | ~186 |
+| Superhuman | 8.00% | ~186 |
+| Bustin' nuts | 7.00% | ~163 |
+| Not-so-private Eye | 7.00% | ~163 |
+| The Vitinsky Rifle | 6.00% | ~139 |
+| Protection racket | 4.00% | ~93 |
+| Sacrifice | 4.00% | ~93 |
+| Secret room | 4.00% | ~93 |
+| Indy | 3.00% | ~70 |
+| Wishmaster | 3.00% | ~70 |
 | Career criminal | 2.00% | ~46 |
 | Neanderthal | 1.00% | ~23 |
 | It was worth a shot | 1.00% | ~23 |
 | Cosmic Horror | 1.00% | ~23 |
-| Ghostbuster | 0.70% | ~16 |
-| Comrade Yogi | 0.50% | ~11 |
+| Ghostbuster | 0.60% | ~14 |
+| Comrade Yogi | 0.50% | ~12 |
 | Cheeki Breeki | 0.40% | ~9 |
 | It's a classic! | 0.40% | ~9 |
 | Tourist Korallov | 0.40% | ~9 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~2 |
 | Mystical relics | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,299 (Ranked 356)  
-Completed: 1 (0.04%) (Ranked 513)  
+Progressed: 2,322 (Ranked 369)  
+Completed: 1 (0.04%) (Ranked 539)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,6 +285,7 @@ Completed: 1 (0.04%) (Ranked 513)
 | 2024-08-09 | 2,255 | 1 |
 | 2024-08-20 | 2,271 | 1 |
 | 2024-09-14 | 2,299 | 1 |
+| 2024-10-17 | 2,322 | 1 |
 ## Awards
 Max (Character Customization): 63  (Ranked 549)  
 Sum: 63 (Ranked 640)  

@@ -5,28 +5,28 @@ Rating: 4.33 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 78.00% | ~338 |
-| Grau Hill | 76.00% | ~329 |
-| A forgotten language | 68.00% | ~294 |
-| Lord Wesley | 33.00% | ~143 |
-| One step down | 26.00% | ~113 |
-| My dear Magda | 25.00% | ~108 |
-| Lord Clayton | 22.00% | ~95 |
-| The other side of the mirror | 16.00% | ~69 |
-| Little Mary | 14.00% | ~61 |
-| There is freedom in awakening | 11.00% | ~48 |
-| Ritual | 10.00% | ~43 |
-| Cowardice | 9.00% | ~39 |
-| Bloodrush | 8.00% | ~35 |
-| The moth and the flame | 7.00% | ~30 |
-| True magic doesn't exist | 7.00% | ~30 |
-| Moon Cloudiness Sonata by Danloop | 5.00% | ~22 |
-| Redemption | 4.00% | ~17 |
-| Sacrifice | 3.00% | ~13 |
-| Lamentum | 3.00% | ~13 |
+| The creature | 79.00% | ~356 |
+| Grau Hill | 76.00% | ~343 |
+| A forgotten language | 68.00% | ~307 |
+| Lord Wesley | 33.00% | ~149 |
+| One step down | 27.00% | ~122 |
+| My dear Magda | 26.00% | ~117 |
+| Lord Clayton | 23.00% | ~104 |
+| The other side of the mirror | 17.00% | ~77 |
+| Little Mary | 14.00% | ~63 |
+| There is freedom in awakening | 11.00% | ~50 |
+| Ritual | 10.00% | ~45 |
+| Cowardice | 9.00% | ~41 |
+| Bloodrush | 8.00% | ~36 |
+| The moth and the flame | 7.00% | ~32 |
+| True magic doesn't exist | 7.00% | ~32 |
+| Moon Cloudiness Sonata by Danloop | 5.00% | ~23 |
+| Redemption | 4.00% | ~18 |
+| Sacrifice | 3.00% | ~14 |
+| Lamentum | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 512)  
-Completed: 11 (2.54%) (Ranked 205)  
+Progressed: 451 (Ranked 526)  
+Completed: 12 (2.66%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 11 (2.54%) (Ranked 205)
 | 2024-08-09 | 416 | 11 |
 | 2024-08-20 | 427 | 11 |
 | 2024-09-14 | 433 | 11 |
+| 2024-10-17 | 451 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

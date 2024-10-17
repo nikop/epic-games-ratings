@@ -2,10 +2,10 @@
   "ID": "9f496f3ce2cc4a25b4e16d262c215f19",
   "Name": "Looney Tunes: Wacky World of Sports",
   "ProductSlug": "looney-tunes-wacky-world-of-sports-99219d",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1009,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-27T16:00:00+00:00",
     "PcReleaseDate": "2024-09-27T16:00:00+00:00",
@@ -25,17 +25,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:02.5076814+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:02.5076899+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_1",
+      "SetID": "1m5b2a4",
+      "Name": "Top Notch Top Spin!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "1m5b2a4",
+      "Name": "What\u0027s Opera, Doc?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "1m5b2a4",
+      "Name": "More Holes Than Swiss Cheese!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "1m5b2a4",
+      "Name": "Bots Ain\u0027t Got No Swing",
+      "Percentage": 7,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "1m5b2a4",
+      "Name": "Interactive Initiative",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "1m5b2a4",
+      "Name": "No Bogey-men Here!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "1m5b2a4",
+      "Name": "Allies, For Now...",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "1m5b2a4",
+      "Name": "Basket Case",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "1m5b2a4",
+      "Name": "Block Those Bots!",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "1m5b2a4",
+      "Name": "That... Why, That\u0027s a Dunk, Son.",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "1m5b2a4",
+      "Name": "Super Slam Dunk",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "1m5b2a4",
+      "Name": "Aced Those Bots!",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "1m5b2a4",
+      "Name": "Bring the House Down!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_21",
+      "SetID": "1m5b2a4",
+      "Name": "The Cup Runneth Over",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_22",
+      "SetID": "1m5b2a4",
+      "Name": "Don\u0027t Ever Call Me Doll!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_23",
+      "SetID": "1m5b2a4",
+      "Name": "Duck Season... Wabbit Season",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_24",
+      "SetID": "1m5b2a4",
+      "Name": "More Places to Play",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_25",
+      "SetID": "1m5b2a4",
+      "Name": "The Gang\u0027s All Here!",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_26",
+      "SetID": "1m5b2a4",
+      "Name": "The Ultimate Challenger",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "1m5b2a4",
+      "Name": "Hit\u0027em With Your Best Shots",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "1m5b2a4",
+      "Name": "Game, Set, Match!",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "1m5b2a4",
+      "Name": "Space Cadets",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_6",
+      "SetID": "1m5b2a4",
+      "Name": "... And Here\u0027s the Kicker!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_7",
+      "SetID": "1m5b2a4",
+      "Name": "The Booter Bots",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_8",
+      "SetID": "1m5b2a4",
+      "Name": "Back Off, Bub!",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_9",
+      "SetID": "1m5b2a4",
+      "Name": "Gooaaaalllll!!! And More Goooooaaallllsss!!",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 3
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1m5b2a4",
+      "IsBase": true,
+      "Progressed": 15,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-10-01T13:59:50.9315381+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:02.5076898+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:02.5076808+00:00",
   "LastUpdate_AppInfo": "2024-10-16T13:57:15.9624631+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:39.7984303+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:32.0654169+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:02.5084552+00:00"
 }

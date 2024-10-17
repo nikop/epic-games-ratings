@@ -2,10 +2,10 @@
   "ID": "d998151b857341e29d5241b6d7f6fd3a",
   "Name": "Get Slapped!",
   "ProductSlug": "get-slapped-d1aea8",
-  "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-01T07:00:00+00:00",
     "PcReleaseDate": "2024-05-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2024-09-14T14:23:51.1053255+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:12:31.2247517+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:30.8192119+00:00",
@@ -87,7 +92,7 @@
       "ID": "CSAchieve",
       "SetID": "8ko4ph7",
       "Name": "Crouching Slapper Hidden Cockroach",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 200,
       "UsersEstimate": 20
     },
@@ -113,7 +118,7 @@
       "Name": "Early Access Supporter",
       "Percentage": 98,
       "XP": 200,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "SlappaAchieve",
@@ -121,21 +126,21 @@
       "Name": "For A Few Slappers More",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ko4ph7",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-04T06:59:08.967281+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:30.8192118+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:51.105325+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:31.224751+00:00",
   "LastUpdate_AppInfo": "2024-10-12T17:57:20.9048702+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:39.6166061+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:51.1053323+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:31.2247589+00:00"
 }

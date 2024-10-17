@@ -5,10 +5,10 @@
   "Ranking_Rating": 1224,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 136,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-09T13:00:00+00:00",
     "PcReleaseDate": "2024-04-09T13:00:00+00:00",
@@ -277,7 +277,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 107850,
+  "EOS_Progressed": 114380,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -286,6 +286,11 @@
     {
       "Time": "2024-09-14T14:21:14.8174191+00:00",
       "NumProgressed": 107850,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:10:54.9187282+00:00",
+      "NumProgressed": 114380,
       "NumCompleted": 0
     }
   ],
@@ -299,7 +304,7 @@
       "Name": "The Call To Adventure",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 8628
+      "UsersEstimate": 9150
     },
     {
       "ID": "ACCOUNT_LEVEL_200_ACHIEVEMENT",
@@ -307,7 +312,7 @@
       "Name": "Crossing The Threshold",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "ACCOUNT_LEVEL_20_ACHIEVEMENT",
@@ -315,7 +320,7 @@
       "Name": "The Path to Greatness",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2288
     },
     {
       "ID": "ALL_HERO_MASTERY_CHALLENGES_COMPLETE",
@@ -323,7 +328,7 @@
       "Name": "Golden Fortune",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "ALL_HERO_MASTERY_CHALLENGES_COMPLETED_10_HEROES",
@@ -347,7 +352,7 @@
       "Name": "Creature Comforts",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4575
     },
     {
       "ID": "FIRST_PENTA_KILL_ACHIEVED",
@@ -355,7 +360,7 @@
       "Name": "Exceptionally Deadly",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 229
     },
     {
       "ID": "FIRST_QUADRA_KILL_ACHIEVED",
@@ -363,15 +368,15 @@
       "Name": "Devastatingly Deadly",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2288
     },
     {
       "ID": "FIRST_TRIPLE_KILL_ACHIEVED",
       "SetID": "228nkj9",
       "Name": "Extra Deadly",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 11864
+      "UsersEstimate": 11438
     },
     {
       "ID": "GENERAL_CHALLENGES_25_COMPLETE",
@@ -379,7 +384,7 @@
       "Name": "Major Arcana",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "GENERAL_CHALLENGES_50_COMPLETE",
@@ -427,7 +432,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4575
     },
     {
       "ID": "PERFORMANCE_RATING_A_100_TIMES",
@@ -435,7 +440,7 @@
       "Name": "Going for the Gold",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "PERFORMANCE_RATING_S_100_TIMES",
@@ -443,7 +448,7 @@
       "Name": "Prestigious Effort",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "POWER_RACE_MATCHES_WON_50",
@@ -459,7 +464,7 @@
       "Name": "Power Thief!",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6863
     },
     {
       "ID": "RING_OUT_BADGE_EARNED",
@@ -467,23 +472,23 @@
       "Name": "Ring Out Your Dead!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2288
     },
     {
       "ID": "SHOOTING_STAR_BADGE_EARNED",
       "SetID": "228nkj9",
       "Name": "Meteoric Rise",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 971
+      "UsersEstimate": 915
     },
     {
       "ID": "TOTAL_DAMAGE_DONE",
       "SetID": "228nkj9",
       "Name": "The Harder They Fall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 229
     },
     {
       "ID": "TOTAL_RANKED_MATCHES_PLAYED",
@@ -499,14 +504,14 @@
       "Name": "Never Give Up",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "228nkj9",
       "IsBase": true,
-      "Progressed": 107850,
+      "Progressed": 114380,
       "Completed": 0
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2024-05-22T13:59:53.4146913+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:06.8983561+00:00",
   "LastChanged": "2024-10-16T14:00:21.5775821+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:14.8174186+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:54.9187276+00:00",
   "LastUpdate_AppInfo": "2024-10-16T13:57:16.2967987+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:08.7483843+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:14.8183716+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:30.8313754+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:54.9187479+00:00"
 }

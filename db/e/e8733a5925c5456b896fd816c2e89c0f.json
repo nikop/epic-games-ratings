@@ -2,10 +2,10 @@
   "ID": "e8733a5925c5456b896fd816c2e89c0f",
   "Name": "Distant Bloom",
   "ProductSlug": "distant-bloom-8f9993",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-19T11:00:00+00:00",
     "PcReleaseDate": "2024-08-13T11:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-08-23T23:57:43.8401465+00:00",
   "LastUpdate_AppInfo": "2024-10-15T08:57:14.0708926+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:10.6420216+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:08.754761+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:25.4648922+00:00"
 }

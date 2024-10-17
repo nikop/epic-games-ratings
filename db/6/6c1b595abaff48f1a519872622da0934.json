@@ -2,10 +2,10 @@
   "ID": "6c1b595abaff48f1a519872622da0934",
   "Name": "Ertugrul of Ulukayin",
   "ProductSlug": "ertugrul-of-ulukayin-8bc359",
-  "Ranking_EOS_Progress": 1098,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-16T19:00:00+00:00",
     "PcReleaseDate": "2024-08-16T19:00:00+00:00",
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 144,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2024-08-20T20:13:28.5112147+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:47.1513318+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2024-08-20T20:13:28.5112182+00:00",
@@ -45,63 +50,63 @@
       "ID": "Beginnings",
       "SetID": "1m4gg2",
       "Name": "Beginnings",
-      "Percentage": 0,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 91
     },
     {
       "ID": "Bittersweet Victory",
       "SetID": "1m4gg2",
       "Name": "Bittersweet Victory",
-      "Percentage": 0,
+      "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 35
     },
     {
       "ID": "Crafty",
       "SetID": "1m4gg2",
       "Name": "Crafty",
-      "Percentage": 0,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 33
     },
     {
       "ID": "Culling the Evil",
       "SetID": "1m4gg2",
       "Name": "Culling the Evil",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 19
     },
     {
       "ID": "Hitting Back",
       "SetID": "1m4gg2",
       "Name": "Hitting Back",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "Savior",
       "SetID": "1m4gg2",
       "Name": "Savior",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "1m4gg2",
       "IsBase": true,
-      "Progressed": 3,
-      "Completed": 0
+      "Progressed": 144,
+      "Completed": 18
     }
   ],
   "FirstSeen": "2024-08-16T21:58:25.1607255+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:59.6785433+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:36.1433423+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:47.1513315+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:18.3789376+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:27.6546369+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:36.1433539+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:38.3532853+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:47.1513383+00:00"
 }

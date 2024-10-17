@@ -5,10 +5,10 @@
   "Ranking_Rating": 390,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 469,
-  "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-31T15:00:00+00:00",
     "PcReleaseDate": "2024-05-31T15:00:00+00:00",
@@ -1149,7 +1149,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3130,
+  "EOS_Progressed": 3578,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1179,6 +1179,11 @@
       "Time": "2024-09-14T14:24:21.6353712+00:00",
       "NumProgressed": 3130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:06.4861778+00:00",
+      "NumProgressed": 3578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:15:55.919289+00:00",
@@ -1191,7 +1196,7 @@
       "Name": "Lights, Camera, Action!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_0002",
@@ -1199,15 +1204,15 @@
       "Name": "Downtown Snapper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_0003",
       "SetID": "30pj6i",
       "Name": "Tremendous Trio",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 608
     },
     {
       "ID": "achievement_0004",
@@ -1215,15 +1220,15 @@
       "Name": "Up At The Pointy End",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 3041
     },
     {
       "ID": "achievement_0005",
       "SetID": "30pj6i",
       "Name": "Takes The Flag!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 2911
+      "UsersEstimate": 3363
     },
     {
       "ID": "achievement_0006",
@@ -1231,7 +1236,7 @@
       "Name": "Showing Them How It\u0027s Done",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0007",
@@ -1239,7 +1244,7 @@
       "Name": "A Great Weekend",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 751
     },
     {
       "ID": "achievement_0008",
@@ -1247,7 +1252,7 @@
       "Name": "Well Seasoned",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1431
     },
     {
       "ID": "achievement_0009",
@@ -1255,15 +1260,15 @@
       "Name": "A Lump In My Throat",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 470
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_0010",
       "SetID": "30pj6i",
       "Name": "Mechanical Marvel",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 344
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_0011",
@@ -1271,7 +1276,7 @@
       "Name": "All Areas Covered",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_0012",
@@ -1279,7 +1284,7 @@
       "Name": "Front Row Friends!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_0013",
@@ -1287,7 +1292,7 @@
       "Name": "Development Race",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_0014",
@@ -1295,23 +1300,23 @@
       "Name": "Crafty!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_0015",
       "SetID": "30pj6i",
       "Name": "One Of A Kind",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_0016",
       "SetID": "30pj6i",
       "Name": "Pass The Spanner",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1682
     },
     {
       "ID": "achievement_0017",
@@ -1319,7 +1324,7 @@
       "Name": "Up And Running",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 644
     },
     {
       "ID": "achievement_0018",
@@ -1327,23 +1332,23 @@
       "Name": "Safely Does It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_0019",
       "SetID": "30pj6i",
       "Name": "Got, got, got, got..",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_0020",
       "SetID": "30pj6i",
       "Name": "99 Club",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_0021",
@@ -1351,7 +1356,7 @@
       "Name": "Custom Hotshot",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_0022",
@@ -1359,7 +1364,7 @@
       "Name": "Laser Focused",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_0023",
@@ -1367,7 +1372,7 @@
       "Name": "Just Better",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_0024",
@@ -1375,15 +1380,15 @@
       "Name": "It\u0027s Getting Hot In Here",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_0025",
       "SetID": "30pj6i",
       "Name": "It\u0027s Not Me, It\u0027s You",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_0026",
@@ -1391,15 +1396,15 @@
       "Name": "Not Making Friends",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0027",
       "SetID": "30pj6i",
       "Name": "Rise To The Challenge!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_0028",
@@ -1407,47 +1412,47 @@
       "Name": "GOAT",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 63
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_0029",
       "SetID": "30pj6i",
       "Name": "Objectively Dynamic",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 823
     },
     {
       "ID": "achievement_0030",
       "SetID": "30pj6i",
       "Name": "Strong Relations",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0031",
       "SetID": "30pj6i",
       "Name": "Silly Season",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_0032",
       "SetID": "30pj6i",
       "Name": "Extra Curricular",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1753
     },
     {
       "ID": "achievement_0033",
       "SetID": "30pj6i",
       "Name": "Target Acquired",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 859
     },
     {
       "ID": "achievement_0034",
@@ -1455,23 +1460,23 @@
       "Name": "Do I Recognise You?",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_0035",
       "SetID": "30pj6i",
       "Name": "The First Of Many",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_0036",
       "SetID": "30pj6i",
       "Name": "Sign On The Dotted Line",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 219
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_0037",
@@ -1479,7 +1484,7 @@
       "Name": "Perk-fection",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_0038",
@@ -1487,15 +1492,15 @@
       "Name": "Sum of its Parts",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_0039",
       "SetID": "30pj6i",
       "Name": "Vending Machine",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_0040",
@@ -1503,7 +1508,7 @@
       "Name": "Going Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_0041",
@@ -1511,23 +1516,23 @@
       "Name": "Double Dutch",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_0042",
       "SetID": "30pj6i",
       "Name": "Full English",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_0043",
       "SetID": "30pj6i",
       "Name": "True Fan",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_0044",
@@ -1535,7 +1540,7 @@
       "Name": "Reach Out to the Fans",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_0045",
@@ -1543,31 +1548,31 @@
       "Name": "Hey Big Fan Token Spender!",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_0046",
       "SetID": "30pj6i",
       "Name": "In the Zone",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_0047",
       "SetID": "30pj6i",
       "Name": "Tough Choices",
-      "Percentage": 0.4,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_0048",
       "SetID": "30pj6i",
       "Name": "Express Your Fandom",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 859
     },
     {
       "ID": "achievement_0049",
@@ -1575,22 +1580,22 @@
       "Name": "All The Points",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_0050",
       "SetID": "30pj6i",
       "Name": "Everyone\u0027s a winner",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "30pj6i",
       "IsBase": true,
-      "Progressed": 3130,
+      "Progressed": 3578,
       "Completed": 0
     }
   ],
@@ -1598,8 +1603,8 @@
   "FirstSeenRating": "2024-06-08T16:01:02.7098356+00:00",
   "FirstSeenAchievements": "2024-06-17T16:15:55.9192889+00:00",
   "LastChanged": "2024-10-16T19:57:28.1041652+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:21.6353706+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:06.4861773+00:00",
   "LastUpdate_AppInfo": "2024-10-16T14:57:06.2457483+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:29.9732319+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:21.6354041+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:52.1452728+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:06.4862154+00:00"
 }

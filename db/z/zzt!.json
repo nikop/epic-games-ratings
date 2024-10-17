@@ -5,10 +5,10 @@
   "Ranking_Rating": 1305,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 309,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4036,
-  "EOS_Completed": 225,
+  "EOS_Progressed": 4087,
+  "EOS_Completed": 231,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.57,
+  "EOS_Completed_Percentage": 5.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -6774,6 +6774,11 @@
       "Time": "2024-09-14T14:23:49.7950807+00:00",
       "NumProgressed": 4036,
       "NumCompleted": 225
+    },
+    {
+      "Time": "2024-10-17T05:12:29.8222836+00:00",
+      "NumProgressed": 4087,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 5,
@@ -6785,7 +6790,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4087
     },
     {
       "ID": "2",
@@ -6793,7 +6798,7 @@
       "Name": "Traveler",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 363
+      "UsersEstimate": 368
     },
     {
       "ID": "3",
@@ -6801,7 +6806,7 @@
       "Name": "Explorer",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 283
+      "UsersEstimate": 286
     },
     {
       "ID": "4",
@@ -6809,7 +6814,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 242
+      "UsersEstimate": 245
     },
     {
       "ID": "5",
@@ -6817,23 +6822,23 @@
       "Name": "Hero",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 242
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 4036,
-      "Completed": 225
+      "Progressed": 4087,
+      "Completed": 231
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2024-10-11T08:57:21.7414932+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:49.79508+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:29.8222822+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:43.9583336+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:47.0527669+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:49.7951232+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:29.8223349+00:00"
 }

@@ -6,45 +6,45 @@ Number of Ratings: 212  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Home | 83.00% | ~925 |
-| Subjugation | 79.00% | ~880 |
-| The First Experiment | 74.00% | ~824 |
-| New Home - Medium | 70.00% | ~780 |
-| Subjugation - Medium | 66.00% | ~735 |
-| The First Experiment - Medium | 53.00% | ~590 |
-| New Home - Challenge | 45.00% | ~501 |
-| Quantity, not Quality | 39.00% | ~434 |
-| Subjugation - Challenge | 34.00% | ~379 |
-| Queen of the Hill | 27.00% | ~301 |
-| Rising Tide | 26.00% | ~290 |
-| New Home - Hard | 25.00% | ~278 |
-| The Second Experiment | 24.00% | ~267 |
-| First Innings | 23.00% | ~256 |
-| Separation Of Duties | 23.00% | ~256 |
-| Queen of the Hill - Medium | 23.00% | ~256 |
-| The Harvest | 23.00% | ~256 |
-| Front Line | 23.00% | ~256 |
-| Rising Tide - Medium | 22.00% | ~245 |
-| Cold Blood | 22.00% | ~245 |
-| Subjugation - Hard | 21.00% | ~234 |
-| A Bridge Too Far | 20.00% | ~223 |
-| The Second Experiment - Medium | 20.00% | ~223 |
-| Possibly the Final Experiment | 19.00% | ~212 |
-| The Final Experiment | 19.00% | ~212 |
+| New Home | 83.00% | ~929 |
+| Subjugation | 79.00% | ~884 |
+| The First Experiment | 74.00% | ~828 |
+| New Home - Medium | 70.00% | ~783 |
+| Subjugation - Medium | 66.00% | ~739 |
+| The First Experiment - Medium | 53.00% | ~593 |
+| New Home - Challenge | 45.00% | ~504 |
+| Quantity, not Quality | 39.00% | ~436 |
+| Subjugation - Challenge | 34.00% | ~380 |
+| Queen of the Hill | 27.00% | ~302 |
+| Rising Tide | 26.00% | ~291 |
+| New Home - Hard | 25.00% | ~280 |
+| First Innings | 23.00% | ~257 |
+| Separation Of Duties | 23.00% | ~257 |
+| Queen of the Hill - Medium | 23.00% | ~257 |
+| The Harvest | 23.00% | ~257 |
+| Front Line | 23.00% | ~257 |
+| The Second Experiment | 23.00% | ~257 |
+| Rising Tide - Medium | 22.00% | ~246 |
+| Cold Blood | 22.00% | ~246 |
+| Subjugation - Hard | 21.00% | ~235 |
+| A Bridge Too Far | 20.00% | ~224 |
+| The Second Experiment - Medium | 20.00% | ~224 |
+| Possibly the Final Experiment | 19.00% | ~213 |
+| The Final Experiment | 19.00% | ~213 |
 | The Harvest - Medium | 18.00% | ~201 |
 | Front Line - Medium | 18.00% | ~201 |
 | The First Experiment - Hard | 18.00% | ~201 |
-| Rapid Growth | 17.00% | ~189 |
+| Rapid Growth | 17.00% | ~190 |
 | Cold Blood - Medium | 13.00% | ~145 |
 | A Bridge Too Far - Medium | 13.00% | ~145 |
 | Possibly the Final Experiment - Medium | 13.00% | ~145 |
 | Queen of the Hill - Challenge | 11.00% | ~123 |
-| Front Line - Challenge | 10.00% | ~111 |
-| The Final Experiment - Medium | 10.00% | ~111 |
-| Vanilla | 9.00% | ~100 |
-| New Home - Impossible | 9.00% | ~100 |
-| Rising Tide - Challenge | 9.00% | ~100 |
-| The Harvest - Challenge | 9.00% | ~100 |
+| Front Line - Challenge | 10.00% | ~112 |
+| The Final Experiment - Medium | 10.00% | ~112 |
+| Vanilla | 9.00% | ~101 |
+| New Home - Impossible | 9.00% | ~101 |
+| Rising Tide - Challenge | 9.00% | ~101 |
+| The Harvest - Challenge | 9.00% | ~101 |
 | Queen of the Hill - Hard | 7.00% | ~78 |
 | Rising Tide - Hard | 6.00% | ~67 |
 | The First Experiment - Impossible | 6.00% | ~67 |
@@ -55,12 +55,12 @@ Number of Ratings: 212  (23.09.2022)
 | Clever Little Ants | 4.00% | ~45 |
 | New Home - Extreme | 4.00% | ~45 |
 | Front Line - Hard | 4.00% | ~45 |
-| Stand Your Ground | 3.00% | ~33 |
-| Free Willis | 3.00% | ~33 |
-| Grab The Bull By The Horns | 3.00% | ~33 |
-| Subjugation - Impossible | 3.00% | ~33 |
-| The First Experiment - Extreme | 3.00% | ~33 |
-| Possibly the Final Experiment - Hard | 3.00% | ~33 |
+| Stand Your Ground | 3.00% | ~34 |
+| Free Willis | 3.00% | ~34 |
+| Grab The Bull By The Horns | 3.00% | ~34 |
+| Subjugation - Impossible | 3.00% | ~34 |
+| The First Experiment - Extreme | 3.00% | ~34 |
+| Possibly the Final Experiment - Hard | 3.00% | ~34 |
 | Work With What You’ve Got | 2.00% | ~22 |
 | Trypanophobia | 2.00% | ~22 |
 | Subjugation - Extreme Challenge | 2.00% | ~22 |
@@ -140,8 +140,8 @@ Number of Ratings: 212  (23.09.2022)
 | New Year's Feast - Impossible | 0.00% | ~0 |
 | New Year's Feast - Medium | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,114 (Ranked 413)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 1,119 (Ranked 427)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 1,100 | 0 |
 | 2024-08-20 | 1,106 | 0 |
 | 2024-09-14 | 1,114 | 0 |
+| 2024-10-17 | 1,119 | 0 |
 ## Awards
 Max (Great for Beginners): 102  (Ranked 480)  
 Sum: 749 (Ranked 382)  

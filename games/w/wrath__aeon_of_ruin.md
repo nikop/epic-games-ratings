@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| With A Single Step | 89.00% | ~95 |
-| In Snow And Moonlight | 72.00% | ~77 |
+| With A Single Step | 89.00% | ~96 |
+| In Snow And Moonlight | 72.00% | ~78 |
 | Friendly Fire | 53.00% | ~57 |
-| Minelayer | 48.00% | ~51 |
-| Kickstatter | 47.00% | ~50 |
+| Minelayer | 47.00% | ~51 |
+| Kickstatter | 46.00% | ~50 |
 | Lifesaver | 37.00% | ~40 |
-| Slash And Dash | 32.00% | ~34 |
+| Slash And Dash | 31.00% | ~33 |
 | Naked And Savage | 25.00% | ~27 |
 | Scattershot | 23.00% | ~25 |
-| Purple Haze | 21.00% | ~22 |
+| Purple Haze | 21.00% | ~23 |
 | Bounceback | 16.00% | ~17 |
 | Heart Attack | 15.00% | ~16 |
 | Ascension | 14.00% | ~15 |
 | In Sand And Starlight | 14.00% | ~15 |
 | Thick As Thieves | 12.00% | ~13 |
+| Worlds Within Whirls | 12.00% | ~13 |
 | No Stone Unturned | 11.00% | ~12 |
-| Worlds Within Whirls | 11.00% | ~12 |
 | Passing Of The Torch | 10.00% | ~11 |
+| Bone Idol | 9.00% | ~10 |
 | Chain Reaction | 9.00% | ~10 |
 | In The Mouth Of Madness | 9.00% | ~10 |
-| Bone Idol | 8.00% | ~9 |
 | Transcendence | 8.00% | ~9 |
-| Treasure Hunter | 7.00% | ~7 |
-| Rampage | 7.00% | ~7 |
-| Total Massacre | 7.00% | ~7 |
-| Harvester | 7.00% | ~7 |
+| Total Massacre | 7.00% | ~8 |
+| Harvester | 7.00% | ~8 |
+| Treasure Hunter | 6.00% | ~6 |
+| Rampage | 6.00% | ~6 |
 | Act Of Wrath | 5.00% | ~5 |
 | Crystal Cave | 5.00% | ~5 |
 | Victory | 5.00% | ~5 |
@@ -55,8 +55,8 @@
 | Secrets Of The Domain | 0.00% | ~0 |
 | Desecration | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 704)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 108 (Ranked 727)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 96 | 0 |
 | 2024-09-14 | 97 | 0 |
 | 2024-10-09 | 107 | 0 |
+| 2024-10-17 | 108 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

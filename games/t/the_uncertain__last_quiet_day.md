@@ -5,41 +5,41 @@ Rating: 3.67 (Ranked 1,326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~470 |
-| Buckle up | 59.00% | ~455 |
-| Quick charge | 59.00% | ~455 |
-| Hands up! | 52.00% | ~401 |
-| Now you know | 52.00% | ~401 |
-| Short circuit | 52.00% | ~401 |
-| Curious | 42.00% | ~324 |
-| Everybody lies | 36.00% | ~278 |
-| Trick or Treat? | 22.00% | ~170 |
-| There is another way | 22.00% | ~170 |
-| Sysadmin | 21.00% | ~162 |
-| Every little helps | 20.00% | ~154 |
-| Hacker | 19.00% | ~146 |
-| He is just a child | 19.00% | ~146 |
-| The Walking Robot Among Us | 19.00% | ~146 |
-| Annoying | 18.00% | ~139 |
-| Uncertain | 18.00% | ~139 |
-| Ace | 16.00% | ~123 |
-| Concrete painting | 16.00% | ~123 |
-| Goody | 16.00% | ~123 |
-| Please oh pleeease! | 16.00% | ~123 |
-| Found it! | 15.00% | ~116 |
-| Hipster | 15.00% | ~116 |
-| Not what it seems | 15.00% | ~116 |
-| That's much better! | 15.00% | ~116 |
-| Not as clumsy or random | 12.00% | ~93 |
-| Blade Runner | 10.00% | ~77 |
-| Perfect hearing | 8.00% | ~62 |
-| Meticulous | 7.00% | ~54 |
+| I can do a thing or two | 60.00% | ~469 |
+| Buckle up | 59.00% | ~461 |
+| Quick charge | 59.00% | ~461 |
+| Hands up! | 52.00% | ~406 |
+| Now you know | 52.00% | ~406 |
+| Short circuit | 52.00% | ~406 |
+| Curious | 42.00% | ~328 |
+| Everybody lies | 36.00% | ~281 |
+| Trick or Treat? | 22.00% | ~172 |
+| Sysadmin | 22.00% | ~172 |
+| There is another way | 22.00% | ~172 |
+| Every little helps | 20.00% | ~156 |
+| Annoying | 19.00% | ~148 |
+| Hacker | 19.00% | ~148 |
+| He is just a child | 19.00% | ~148 |
+| The Walking Robot Among Us | 19.00% | ~148 |
+| Uncertain | 18.00% | ~141 |
+| Concrete painting | 17.00% | ~133 |
+| Ace | 16.00% | ~125 |
+| Goody | 16.00% | ~125 |
+| Please oh pleeease! | 16.00% | ~125 |
+| Found it! | 15.00% | ~117 |
+| Hipster | 15.00% | ~117 |
+| Not what it seems | 15.00% | ~117 |
+| That's much better! | 15.00% | ~117 |
+| Not as clumsy or random | 13.00% | ~102 |
+| Blade Runner | 10.00% | ~78 |
+| Perfect hearing | 9.00% | ~70 |
+| Meticulous | 7.00% | ~55 |
+| Lucky dog | 5.00% | ~39 |
 | Accurate | 5.00% | ~39 |
-| Lucky dog | 4.00% | ~31 |
 | Silent | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 771 (Ranked 447)  
-Completed: 22 (2.85%) (Ranked 193)  
+Progressed: 781 (Ranked 463)  
+Completed: 25 (3.20%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,6 +207,7 @@ Completed: 22 (2.85%) (Ranked 193)
 | 2024-08-09 | 761 | 20 |
 | 2024-08-20 | 764 | 22 |
 | 2024-09-14 | 771 | 22 |
+| 2024-10-17 | 781 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

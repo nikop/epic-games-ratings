@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 672,
-  "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -264,9 +264,9 @@
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "05-DrumsInTheDeep",
@@ -320,9 +320,9 @@
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "12-RedbeardsRevenger",
@@ -344,25 +344,25 @@
       "ID": "14-EggOnHisFace",
       "SetID": "5iij4gg",
       "Name": "Egg On His Face",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "16-MrMagic",
       "SetID": "5iij4gg",
       "Name": "Mr. Magic",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "17-BatteriesNotIncluded",
@@ -400,25 +400,25 @@
       "ID": "21-ColossalCaveExplorer",
       "SetID": "5iij4gg",
       "Name": "Colossal Cave Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "22-MasterCavePlunderer",
       "SetID": "5iij4gg",
       "Name": "Master Cave Plunderer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "23-WhatAWinner",
       "SetID": "5iij4gg",
       "Name": "What a Winner!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "24-PerfectJustPerfect",
@@ -441,8 +441,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:44.4029801+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:40.3195704+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:52.7713047+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:41.3651913+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:44.4029973+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:40.3195906+00:00"
 }

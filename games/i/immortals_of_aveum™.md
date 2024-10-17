@@ -1,60 +1,60 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.18 (Ranked 1,164)  
+Rating: 4.18 (Ranked 1,163)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~4,051 |
-| Battlefields Have Memories | 84.00% | ~3,781 |
-| Enlisted | 79.00% | ~3,556 |
-| Maybe Engage a Little | 75.00% | ~3,376 |
-| No More Names | 60.00% | ~2,701 |
-| Initiate | 47.00% | ~2,115 |
-| Thrada-Kul | 43.00% | ~1,935 |
-| Gravity-Challenged Rocks | 37.00% | ~1,665 |
-| Soldier | 33.00% | ~1,485 |
-| All the Major Food Groups | 33.00% | ~1,485 |
-| Beggars Would Ride | 31.00% | ~1,395 |
-| Control is an Illusion | 30.00% | ~1,350 |
-| Socialite | 28.00% | ~1,260 |
-| The Means to Save It | 27.00% | ~1,215 |
-| Resilience to Sin | 25.00% | ~1,125 |
-| A Familiar Nest | 25.00% | ~1,125 |
-| Geas Aristeya | 24.00% | ~1,080 |
-| Periapt Alizarin | 24.00% | ~1,080 |
-| A Perfect Cycle | 23.00% | ~1,035 |
-| Recruit | 23.00% | ~1,035 |
-| Armsman | 18.00% | ~810 |
-| Lights Army | 16.00% | ~720 |
-| Periapt Cerulean | 13.00% | ~585 |
-| Good Boy | 13.00% | ~585 |
-| Periapt Viridian | 10.00% | ~450 |
-| Best Dressed | 9.00% | ~405 |
-| Shroudfane Explorer | 9.00% | ~405 |
-| Scholar | 7.00% | ~315 |
-| Kitted Out | 7.00% | ~315 |
-| Armaments Azure | 7.00% | ~315 |
-| Armaments Gules | 7.00% | ~315 |
-| Armaments Vert | 6.00% | ~270 |
-| Veteran | 5.00% | ~225 |
-| Grand Magnus | 3.00% | ~135 |
-| Master of Carmine | 2.00% | ~90 |
-| Shroudfane Surveyor | 2.00% | ~90 |
-| Tip of the Spear | 2.00% | ~90 |
-| Family Business | 1.00% | ~45 |
-| Diplomat | 1.00% | ~45 |
-| Petite Bourgeoisie | 1.00% | ~45 |
-| Witch-Taker | 1.00% | ~45 |
-| Master of Ultramarine | 1.00% | ~45 |
-| Backtracker | 1.00% | ~45 |
+| Unforeseen | 90.00% | ~4,108 |
+| Battlefields Have Memories | 84.00% | ~3,835 |
+| Enlisted | 79.00% | ~3,606 |
+| Maybe Engage a Little | 75.00% | ~3,424 |
+| No More Names | 60.00% | ~2,739 |
+| Initiate | 47.00% | ~2,146 |
+| Thrada-Kul | 44.00% | ~2,009 |
+| Gravity-Challenged Rocks | 37.00% | ~1,689 |
+| Soldier | 34.00% | ~1,552 |
+| All the Major Food Groups | 33.00% | ~1,506 |
+| Beggars Would Ride | 31.00% | ~1,415 |
+| Control is an Illusion | 30.00% | ~1,370 |
+| Socialite | 28.00% | ~1,278 |
+| The Means to Save It | 27.00% | ~1,233 |
+| Resilience to Sin | 26.00% | ~1,187 |
+| A Familiar Nest | 25.00% | ~1,141 |
+| Periapt Alizarin | 25.00% | ~1,141 |
+| Geas Aristeya | 24.00% | ~1,096 |
+| A Perfect Cycle | 23.00% | ~1,050 |
+| Recruit | 23.00% | ~1,050 |
+| Armsman | 18.00% | ~822 |
+| Lights Army | 16.00% | ~730 |
+| Periapt Cerulean | 14.00% | ~639 |
+| Good Boy | 13.00% | ~593 |
+| Periapt Viridian | 10.00% | ~456 |
+| Best Dressed | 9.00% | ~411 |
+| Shroudfane Explorer | 9.00% | ~411 |
+| Scholar | 7.00% | ~320 |
+| Kitted Out | 7.00% | ~320 |
+| Armaments Azure | 7.00% | ~320 |
+| Armaments Gules | 7.00% | ~320 |
+| Armaments Vert | 6.00% | ~274 |
+| Veteran | 5.00% | ~228 |
+| Grand Magnus | 3.00% | ~137 |
+| Master of Carmine | 2.00% | ~91 |
+| Shroudfane Surveyor | 2.00% | ~91 |
+| Tip of the Spear | 2.00% | ~91 |
+| Family Business | 1.00% | ~46 |
+| Diplomat | 1.00% | ~46 |
+| Petite Bourgeoisie | 1.00% | ~46 |
+| Witch-Taker | 1.00% | ~46 |
+| Master of Ultramarine | 1.00% | ~46 |
+| Backtracker | 1.00% | ~46 |
+| Master of Malachite | 0.90% | ~41 |
 | Treasure Hunter | 0.90% | ~41 |
-| Out of Time | 0.80% | ~36 |
-| Master of Malachite | 0.80% | ~36 |
+| Out of Time | 0.80% | ~37 |
 | Fowl Play | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,501 (Ranked 303)  
-Completed: 7 (0.16%) (Ranked 437)  
+Progressed: 4,565 (Ranked 314)  
+Completed: 8 (0.18%) (Ranked 449)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,6 +183,7 @@ Completed: 7 (0.16%) (Ranked 437)
 | 2024-08-09 | 4,453 | 7 |
 | 2024-08-20 | 4,472 | 7 |
 | 2024-09-14 | 4,501 | 7 |
+| 2024-10-17 | 4,565 | 8 |
 ## Awards
 Max (Quickly Understood Controls): 38  (Ranked 625)  
 Sum: 239 (Ranked 519)  

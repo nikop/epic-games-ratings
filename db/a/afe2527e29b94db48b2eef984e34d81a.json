@@ -6,9 +6,9 @@
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Completed": 530,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-16T14:30:00+00:00",
     "PcReleaseDate": "2014-11-18T02:00:00+00:00",
@@ -3320,11 +3320,11 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 340768,
-  "EOS_Completed": 151,
+  "EOS_Progressed": 355834,
+  "EOS_Completed": 170,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.04,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:54.7600699+00:00",
@@ -3350,6 +3350,11 @@
       "Time": "2024-09-14T14:27:34.7080551+00:00",
       "NumProgressed": 340768,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-10-17T05:14:45.4805316+00:00",
+      "NumProgressed": 355834,
+      "NumCompleted": 170
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:54.7600777+00:00",
@@ -3362,15 +3367,15 @@
       "Name": "The Wrath of Heaven",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 282837
+      "UsersEstimate": 295342
     },
     {
       "ID": "achievement_10",
       "SetID": "dmgohpl",
       "Name": "Beloved and Precious",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13631
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_11",
@@ -3378,15 +3383,15 @@
       "Name": "They Who Stand",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 74969
+      "UsersEstimate": 78283
     },
     {
       "ID": "achievement_12",
       "SetID": "dmgohpl",
       "Name": "Speak Only the Word",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 78377
+      "UsersEstimate": 85400
     },
     {
       "ID": "achievement_13",
@@ -3394,47 +3399,47 @@
       "Name": "Saddled Up",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 34077
+      "UsersEstimate": 35583
     },
     {
       "ID": "achievement_14",
       "SetID": "dmgohpl",
       "Name": "Well-Prepared",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 88600
+      "UsersEstimate": 96075
     },
     {
       "ID": "achievement_15",
       "SetID": "dmgohpl",
       "Name": "Customized",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 88600
+      "UsersEstimate": 96075
     },
     {
       "ID": "achievement_16",
       "SetID": "dmgohpl",
       "Name": "Commander",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 95415
+      "UsersEstimate": 103192
     },
     {
       "ID": "achievement_17",
       "SetID": "dmgohpl",
       "Name": "Trailblazer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 146530
+      "UsersEstimate": 156567
     },
     {
       "ID": "achievement_18",
       "SetID": "dmgohpl",
       "Name": "Sharp-Eyed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 122676
+      "UsersEstimate": 131659
     },
     {
       "ID": "achievement_19",
@@ -3442,23 +3447,23 @@
       "Name": "Well-Read",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 81784
+      "UsersEstimate": 85400
     },
     {
       "ID": "achievement_2",
       "SetID": "dmgohpl",
       "Name": "Opposition in All Things",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 51115
+      "UsersEstimate": 56933
     },
     {
       "ID": "achievement_20",
       "SetID": "dmgohpl",
       "Name": "Skilled",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 173792
+      "UsersEstimate": 185034
     },
     {
       "ID": "achievement_21",
@@ -3466,23 +3471,23 @@
       "Name": "Specialized",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27261
+      "UsersEstimate": 28467
     },
     {
       "ID": "achievement_22",
       "SetID": "dmgohpl",
       "Name": "Cavalier",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 95415
+      "UsersEstimate": 103192
     },
     {
       "ID": "achievement_23",
       "SetID": "dmgohpl",
       "Name": "Synergized",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 255576
+      "UsersEstimate": 270434
     },
     {
       "ID": "achievement_24",
@@ -3490,7 +3495,7 @@
       "Name": "Botanist",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2491
     },
     {
       "ID": "achievement_25",
@@ -3498,15 +3503,15 @@
       "Name": "Wyrmslayer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 37484
+      "UsersEstimate": 39142
     },
     {
       "ID": "achievement_26",
       "SetID": "dmgohpl",
       "Name": "Decorator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10223
+      "UsersEstimate": 14233
     },
     {
       "ID": "achievement_27",
@@ -3514,7 +3519,7 @@
       "Name": "Belle of the Ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_28",
@@ -3522,7 +3527,7 @@
       "Name": "Hard Hitter",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 61338
+      "UsersEstimate": 64050
     },
     {
       "ID": "achievement_29",
@@ -3530,7 +3535,7 @@
       "Name": "Master Builder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13631
+      "UsersEstimate": 14233
     },
     {
       "ID": "achievement_3",
@@ -3538,7 +3543,7 @@
       "Name": "In Your Heart Shall Burn",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 51115
+      "UsersEstimate": 53375
     },
     {
       "ID": "achievement_30",
@@ -3546,7 +3551,7 @@
       "Name": "Master Alchemist",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3558
     },
     {
       "ID": "achievement_31",
@@ -3554,7 +3559,7 @@
       "Name": "Dragons\u0027 Bane",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_32",
@@ -3562,7 +3567,7 @@
       "Name": "Herald",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2135
     },
     {
       "ID": "achievement_33",
@@ -3570,7 +3575,7 @@
       "Name": "Inquisitor",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 682
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_34",
@@ -3578,23 +3583,23 @@
       "Name": "Stargazer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_35",
       "SetID": "dmgohpl",
       "Name": "Focused",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 54523
+      "UsersEstimate": 60492
     },
     {
       "ID": "achievement_36",
       "SetID": "dmgohpl",
       "Name": "Well-Funded",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27261
+      "UsersEstimate": 32025
     },
     {
       "ID": "achievement_37",
@@ -3602,7 +3607,7 @@
       "Name": "Keymaster",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6815
+      "UsersEstimate": 7117
     },
     {
       "ID": "achievement_38",
@@ -3610,55 +3615,55 @@
       "Name": "Pathfinder",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20446
+      "UsersEstimate": 21350
     },
     {
       "ID": "achievement_39",
       "SetID": "dmgohpl",
       "Name": "Liberator",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17038
+      "UsersEstimate": 21350
     },
     {
       "ID": "achievement_4",
       "SetID": "dmgohpl",
       "Name": "Wicked Eyes and Wicked Hearts",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27261
+      "UsersEstimate": 32025
     },
     {
       "ID": "achievement_40",
       "SetID": "dmgohpl",
       "Name": "High Commander",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30669
+      "UsersEstimate": 35583
     },
     {
       "ID": "achievement_41",
       "SetID": "dmgohpl",
       "Name": "Regal",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10223
+      "UsersEstimate": 14233
     },
     {
       "ID": "achievement_42",
       "SetID": "dmgohpl",
       "Name": "Persuasive",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17038
+      "UsersEstimate": 21350
     },
     {
       "ID": "achievement_43",
       "SetID": "dmgohpl",
       "Name": "Veteran",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30669
+      "UsersEstimate": 35583
     },
     {
       "ID": "achievement_44",
@@ -3666,23 +3671,23 @@
       "Name": "Peerless",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 34077
+      "UsersEstimate": 35583
     },
     {
       "ID": "achievement_45",
       "SetID": "dmgohpl",
       "Name": "People Person",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13631
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_46",
       "SetID": "dmgohpl",
       "Name": "Loremaster",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 44300
+      "UsersEstimate": 49817
     },
     {
       "ID": "achievement_47",
@@ -3690,15 +3695,15 @@
       "Name": "Demonslayer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17038
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_48",
       "SetID": "dmgohpl",
       "Name": "Invincible",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23854
+      "UsersEstimate": 28467
     },
     {
       "ID": "achievement_49",
@@ -3706,7 +3711,7 @@
       "Name": "Quartermaster",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20446
+      "UsersEstimate": 21350
     },
     {
       "ID": "achievement_5",
@@ -3714,7 +3719,7 @@
       "Name": "Here Lies the Abyss",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27261
+      "UsersEstimate": 28467
     },
     {
       "ID": "achievement_50",
@@ -3722,7 +3727,7 @@
       "Name": "Marked for Greatness",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13631
+      "UsersEstimate": 14233
     },
     {
       "ID": "achievement_51",
@@ -3730,15 +3735,15 @@
       "Name": "Firestarter",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1779
     },
     {
       "ID": "achievement_52",
       "SetID": "48l28en",
       "Name": "Legend-Marked",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6815
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_53",
@@ -3746,7 +3751,7 @@
       "Name": "Historian",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_54",
@@ -3754,7 +3759,7 @@
       "Name": "Winter\u0027s End",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_55",
@@ -3762,7 +3767,7 @@
       "Name": "Deep Roads Commander",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23854
+      "UsersEstimate": 24908
     },
     {
       "ID": "achievement_56",
@@ -3770,7 +3775,7 @@
       "Name": "Giant Slayer",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 27261
+      "UsersEstimate": 28467
     },
     {
       "ID": "achievement_57",
@@ -3778,15 +3783,15 @@
       "Name": "Fact Finder",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 17038
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_58",
       "SetID": "48l28en",
       "Name": "Shaper of Stone",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 13631
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_59",
@@ -3794,7 +3799,7 @@
       "Name": "Trial of the Hermit",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_6",
@@ -3802,7 +3807,7 @@
       "Name": "What Pride Had Wrought",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20446
+      "UsersEstimate": 21350
     },
     {
       "ID": "achievement_60",
@@ -3810,7 +3815,7 @@
       "Name": "Trial of Temperance",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_61",
@@ -3818,7 +3823,7 @@
       "Name": "Trial of the Magician",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_62",
@@ -3826,7 +3831,7 @@
       "Name": "Trial of the Tower",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_63",
@@ -3834,7 +3839,7 @@
       "Name": "Trial of the Emperor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6815
+      "UsersEstimate": 7117
     },
     {
       "ID": "achievement_64",
@@ -3842,7 +3847,7 @@
       "Name": "Trial of the Empress",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_65",
@@ -3850,7 +3855,7 @@
       "Name": "Trial of the Fool",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_66",
@@ -3858,7 +3863,7 @@
       "Name": "Trial of the Lovers",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_67",
@@ -3866,7 +3871,7 @@
       "Name": "Forever Marked",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_68",
@@ -3874,23 +3879,23 @@
       "Name": "Lateral Thinker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_69",
       "SetID": "48l28en",
       "Name": "Coroner",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3558
     },
     {
       "ID": "achievement_7",
       "SetID": "dmgohpl",
       "Name": "On Burning Wings",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6815
+      "UsersEstimate": 10675
     },
     {
       "ID": "achievement_8",
@@ -3898,37 +3903,37 @@
       "Name": "Doom upon All the World",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 17038
+      "UsersEstimate": 17792
     },
     {
       "ID": "achievement_9",
       "SetID": "dmgohpl",
       "Name": "The Brightest of Their Age",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 34077
+      "UsersEstimate": 39142
     }
   ],
   "AchievementSets": [
     {
       "ID": "48l28en",
       "IsBase": false,
-      "Progressed": 340768,
-      "Completed": 95
+      "Progressed": 355834,
+      "Completed": 103
     },
     {
       "ID": "dmgohpl",
       "IsBase": true,
-      "Progressed": 340768,
-      "Completed": 151
+      "Progressed": 355834,
+      "Completed": 170
     }
   ],
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
   "LastChanged": "2024-10-17T03:58:31.5615768+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:34.7080543+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:45.4805311+00:00",
   "LastUpdate_AppInfo": "2024-10-11T03:12:09.3171545+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:31.5615774+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:34.7081339+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:45.4805861+00:00"
 }

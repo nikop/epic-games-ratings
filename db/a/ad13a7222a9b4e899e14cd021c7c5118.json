@@ -2,10 +2,10 @@
   "ID": "ad13a7222a9b4e899e14cd021c7c5118",
   "Name": "Infinity Nikki",
   "ProductSlug": "infinity-nikki-71fc64",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T13:57:23.1248459+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:11.2996836+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:14.1563266+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:12.3942487+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:33.8101379+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d5761edf0cbb4815a96c65013863cc9a",
   "Name": "Football Stars Legend 24",
   "ProductSlug": "football-stars-legend-24-1b101c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-15T15:30:00+00:00",
     "PcReleaseDate": "2023-08-31T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T09:57:13.7927794+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:35.2570502+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:26.4017377+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:24.8612934+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:34.754436+00:00"
 }

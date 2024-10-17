@@ -5,10 +5,10 @@
   "Ranking_Rating": 996,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 503,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -89,7 +89,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 478,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -574,6 +574,11 @@
       "Time": "2024-09-14T14:24:45.4471288+00:00",
       "NumProgressed": 474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:13:33.7992738+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -591,17 +596,17 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "CampaignStars2",
       "SetID": "c2k469b",
       "Name": "Campaign Silver",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "CampaignStars3",
@@ -665,15 +670,15 @@
       "Name": "Metropolis",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Multitalent",
       "SetID": "c2k469b",
       "Name": "Multitalent",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "PlanetBora",
@@ -681,7 +686,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PlanetEdora",
@@ -705,7 +710,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 206
     },
     {
       "ID": "PlanetLorian",
@@ -713,7 +718,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "PlanetMagni",
@@ -729,7 +734,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PlanetThera",
@@ -737,7 +742,7 @@
       "Name": "Thera",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PlanetTuto",
@@ -745,7 +750,7 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 282
     },
     {
       "ID": "PlanetUdionTorix",
@@ -761,7 +766,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WorldCreator",
@@ -776,7 +781,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 478,
       "Completed": 0
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2024-09-28T16:57:44.2171903+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:45.4471283+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:33.7992734+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:06.703404+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:37.1445024+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:45.4471495+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:13:33.7992922+00:00"
 }

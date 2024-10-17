@@ -2,10 +2,10 @@
   "ID": "6acda0e8f5d744c094ef0b85e1cae86f",
   "Name": "The Coma 2B: Catacomb",
   "ProductSlug": "the-coma-2b-catacomb-c3842a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-25T15:00:00+00:00",
     "PcReleaseDate": "2024-10-25T15:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5pn4ccf",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:14:55.5930249+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:55.5930232+00:00",
   "LastUpdate_AppInfo": "2024-10-11T20:57:40.2139304+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:32.734896+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:43.4203766+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:55.5930266+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "148264e2cdc74c22a95cc6010533fe31",
   "Name": "BattleJuice Alchemist",
   "ProductSlug": "battlejuice-alchemist-0b3ffa",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-21T20:00:00+00:00",
     "PcReleaseDate": "2024-03-21T20:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.5609554+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:38.8328483+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:01.6972965+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:07.3026369+00:00"
 }

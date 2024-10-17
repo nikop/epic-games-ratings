@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor lv1 | 88.00% | ~53 |
-| Survival lv2 | 78.00% | ~47 |
-| Survival lv3 | 48.00% | ~29 |
-| Gul'dan Zidian | 43.00% | ~26 |
-| Thunder Warrior | 40.00% | ~24 |
-| Survival lv4 | 40.00% | ~24 |
-| Survival lv5 | 38.00% | ~23 |
-| Survivor lv6 | 37.00% | ~22 |
-| Peacock - Rogue Saint | 35.00% | ~21 |
-| Survival lv7 | 33.00% | ~20 |
-| Survival lv8 | 33.00% | ~20 |
-| Survivor lv9 | 33.00% | ~20 |
-| Survival lv10 | 33.00% | ~20 |
-| Survivor lv11 | 33.00% | ~20 |
-| Survivor lv12 | 33.00% | ~20 |
-| Survival lv13 | 32.00% | ~19 |
-| Survival lv15 | 32.00% | ~19 |
-| Survivor lv16 | 32.00% | ~19 |
-| Survivor lv17 | 32.00% | ~19 |
-| Survivor lv18 | 32.00% | ~19 |
-| Survivor lv19 | 32.00% | ~19 |
-| Survival lv20 | 32.00% | ~19 |
-| Survivor lv21 | 32.00% | ~19 |
-| Survivor lv22 | 32.00% | ~19 |
-| Survivor lv23 | 32.00% | ~19 |
-| Survivor lv24 | 32.00% | ~19 |
-| Survival lv25 | 32.00% | ~19 |
-| Survivor lv26 | 32.00% | ~19 |
-| Survivor lv27 | 32.00% | ~19 |
-| Survivor lv28 | 32.00% | ~19 |
-| nameless | 30.00% | ~18 |
-| Agat Crazy | 30.00% | ~18 |
-| Survivor lv29 | 30.00% | ~18 |
-| Survival lv30 | 30.00% | ~18 |
-| Clergy · Apocalypse | 27.00% | ~16 |
+| Survivor lv1 | 88.00% | ~61 |
+| Survival lv2 | 77.00% | ~53 |
+| Survival lv3 | 48.00% | ~33 |
+| Gul'dan Zidian | 41.00% | ~28 |
+| Survival lv4 | 41.00% | ~28 |
+| Thunder Warrior | 38.00% | ~26 |
+| Survival lv5 | 36.00% | ~25 |
+| Survivor lv6 | 35.00% | ~24 |
+| Peacock - Rogue Saint | 33.00% | ~23 |
+| Survival lv7 | 32.00% | ~22 |
+| Survival lv8 | 32.00% | ~22 |
+| Survivor lv9 | 32.00% | ~22 |
+| Survival lv10 | 32.00% | ~22 |
+| Survivor lv11 | 32.00% | ~22 |
+| Survivor lv12 | 32.00% | ~22 |
+| Survival lv13 | 30.00% | ~21 |
+| Survival lv15 | 30.00% | ~21 |
+| Survivor lv16 | 30.00% | ~21 |
+| Survivor lv17 | 30.00% | ~21 |
+| Survivor lv18 | 30.00% | ~21 |
+| Survivor lv19 | 30.00% | ~21 |
+| Survival lv20 | 30.00% | ~21 |
+| Survivor lv21 | 30.00% | ~21 |
+| Survivor lv22 | 30.00% | ~21 |
+| Survivor lv23 | 30.00% | ~21 |
+| Survivor lv24 | 30.00% | ~21 |
+| Survival lv25 | 30.00% | ~21 |
+| Survivor lv26 | 30.00% | ~21 |
+| Survivor lv27 | 30.00% | ~21 |
+| Survivor lv28 | 30.00% | ~21 |
+| nameless | 29.00% | ~20 |
+| Agat Crazy | 29.00% | ~20 |
+| Survivor lv29 | 29.00% | ~20 |
+| Survival lv30 | 29.00% | ~20 |
+| Clergy · Apocalypse | 26.00% | ~18 |
 | Survivor lv14 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 777)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 69 (Ranked 794)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 40 | 0 |
 | 2024-08-20 | 49 | 0 |
 | 2024-09-14 | 60 | 0 |
+| 2024-10-17 | 69 | 0 |

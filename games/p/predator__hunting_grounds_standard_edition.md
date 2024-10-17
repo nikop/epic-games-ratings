@@ -3,6 +3,61 @@
 [View Rawdata](../../db/p/predator__hunting_grounds_standard_edition.json)  
 Rating: 4.45 (Ranked 820)  
 Number of Ratings: 1,373  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| If it Bleeds... | 65.00% | ~1,890 |
+| Elite Mercenary | 60.00% | ~1,744 |
+| Salt in the Wound | 57.00% | ~1,657 |
+| Destroyer | 55.00% | ~1,599 |
+| One Ugly Mother... | 53.00% | ~1,541 |
+| Early Bird | 52.00% | ~1,512 |
+| Distinguished Hunter | 51.00% | ~1,483 |
+| GET TO THE CHOPPA | 51.00% | ~1,483 |
+| Clutch | 50.00% | ~1,454 |
+| The Archives | 50.00% | ~1,454 |
+| Leave No Trace | 49.00% | ~1,424 |
+| Learning the Ropes | 48.00% | ~1,395 |
+| Mud Aficionado | 48.00% | ~1,395 |
+| Sneaky Medic | 45.00% | ~1,308 |
+| Last Man Standing | 44.00% | ~1,279 |
+| Splash Damage | 38.00% | ~1,105 |
+| Vulnerable | 36.00% | ~1,047 |
+| We can kill it... | 36.00% | ~1,047 |
+| Hunting Grounds Master | 34.00% | ~988 |
+| 30-50 Feral Hogs | 30.00% | ~872 |
+| Mercenary | 30.00% | ~872 |
+| Against All Odds | 28.00% | ~814 |
+| Experienced Hunter | 28.00% | ~814 |
+| Blooded | 27.00% | ~785 |
+| Pruning | 27.00% | ~785 |
+| Guarded to Perfection | 22.00% | ~640 |
+| Safety Net | 20.00% | ~581 |
+| Two Birds, One Stone | 19.00% | ~552 |
+| That was close... | 16.00% | ~465 |
+| Wrap Artist | 16.00% | ~465 |
+| Headhunter | 14.00% | ~407 |
+| Savior | 14.00% | ~407 |
+| Trophy Taker | 14.00% | ~407 |
+| Ankle Buster | 13.00% | ~378 |
+| Practice Makes Perfect | 13.00% | ~378 |
+| Blaine's Revenge | 12.00% | ~349 |
+| Elite | 12.00% | ~349 |
+| Mission Accomplished | 12.00% | ~349 |
+| Precision Leaper | 11.00% | ~320 |
+| So Close, Yet so far... | 11.00% | ~320 |
+| Boom | 8.00% | ~233 |
+| Ancient | 7.00% | ~203 |
+| Traditionalist | 7.00% | ~203 |
+| Predkour Master | 3.00% | ~87 |
+| Precision | 2.00% | ~58 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2,907 (Ranked 350)  
+Completed: 8 (0.28%) (Ranked 423)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-10-17 | 2,907 | 8 |
 ## Awards
 Max (Great for Quick Sessions): 236  (Ranked 357)  
 Sum: 1,828 (Ranked 275)  

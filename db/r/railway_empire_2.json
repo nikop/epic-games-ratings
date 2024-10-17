@@ -5,10 +5,10 @@
   "Ranking_Rating": 878,
   "Ranking_Popularity": 609,
   "Ranking_PopularitySum": 633,
-  "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -769,7 +769,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3327,
+  "EOS_Progressed": 3384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -8709,6 +8709,11 @@
       "Time": "2024-09-14T14:16:20.7951019+00:00",
       "NumProgressed": 3327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:12.8781101+00:00",
+      "NumProgressed": 3384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -8718,9 +8723,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 203
     },
     {
       "ID": "A01",
@@ -8728,31 +8733,31 @@
       "Name": "Stoker",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "A02",
       "SetID": "9b7p7eo",
       "Name": "Trailblazer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 135
     },
     {
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 135
     },
     {
       "ID": "A05",
@@ -8760,23 +8765,23 @@
       "Name": "A new Hope",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "A06",
       "SetID": "9b7p7eo",
       "Name": "Unstoppable",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 102
     },
     {
       "ID": "A07",
       "SetID": "9b7p7eo",
       "Name": "Track to the Future",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 102
     },
     {
       "ID": "A08",
@@ -8784,7 +8789,7 @@
       "Name": "Conductor",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "A09",
@@ -8792,15 +8797,15 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 406
     },
     {
       "ID": "A11",
@@ -8814,49 +8819,49 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 406
     },
     {
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 406
     },
     {
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 338
     },
     {
       "ID": "A18",
@@ -8864,39 +8869,39 @@
       "Name": "General Manager",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 203
     },
     {
       "ID": "A19",
       "SetID": "9b7p7eo",
       "Name": "Tycoon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 440
     },
     {
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 372
     },
     {
       "ID": "A23",
@@ -8904,15 +8909,15 @@
       "Name": "Three Cheers for Progress",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A25",
@@ -8926,41 +8931,41 @@
       "ID": "A26",
       "SetID": "9b7p7eo",
       "Name": "Max Power",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 135
     },
     {
       "ID": "A27",
       "SetID": "9b7p7eo",
       "Name": "Let off some steam",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 68
     },
     {
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 406
     },
     {
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 271
     },
     {
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A31",
@@ -8968,7 +8973,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "A32",
@@ -8976,23 +8981,23 @@
       "Name": "Assimilated",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "A33",
       "SetID": "9b7p7eo",
       "Name": "Locusts",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 102
     },
     {
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 338
     },
     {
       "ID": "A35",
@@ -9000,119 +9005,119 @@
       "Name": "Traffic Junction",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 406
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 372
     },
     {
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 338
     },
     {
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 406
     },
     {
       "ID": "A41",
       "SetID": "9b7p7eo",
       "Name": "Right through the middle",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 338
     },
     {
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 271
     },
     {
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 203
     },
     {
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 406
     },
     {
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 372
     },
     {
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 271
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 237
     },
     {
       "ID": "A50",
@@ -9120,23 +9125,23 @@
       "Name": "Accurate",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "A51",
       "SetID": "9b7p7eo",
       "Name": "Call of Duty",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 169
     },
     {
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 135
     },
     {
       "ID": "A53",
@@ -9144,7 +9149,7 @@
       "Name": "Networker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "A54",
@@ -9158,9 +9163,9 @@
       "ID": "A56",
       "SetID": "bpekcal",
       "Name": "Sissi would be proud",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 12
     },
     {
       "ID": "A57",
@@ -9176,7 +9181,7 @@
       "Name": "Other countries, other candies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A59",
@@ -9190,9 +9195,9 @@
       "ID": "A60",
       "SetID": "bpekcal",
       "Name": "Nerves of steel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 12
     },
     {
       "ID": "A61",
@@ -9206,17 +9211,17 @@
       "ID": "A62",
       "SetID": "bpekcal",
       "Name": "Peak Voltage",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "A63",
       "SetID": "bpekcal",
       "Name": "Resistance is\u2026 voltage divided by current?!",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "A64",
@@ -9232,28 +9237,28 @@
       "Name": "Not free of charge",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A66",
       "SetID": "bpekcal",
       "Name": "E-LOC Musk",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 3327,
+      "Progressed": 3384,
       "Completed": 0
     },
     {
       "ID": "bpekcal",
       "IsBase": false,
-      "Progressed": 532,
+      "Progressed": 589,
       "Completed": 96
     }
   ],
@@ -9261,8 +9266,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-10-15T20:59:59.2369914+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:20.7951013+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:12.8781098+00:00",
   "LastUpdate_AppInfo": "2024-10-14T15:57:15.5295346+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:25.5584624+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:20.7951809+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:12.8782214+00:00"
 }

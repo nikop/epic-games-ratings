@@ -2,10 +2,10 @@
   "ID": "ff16c1b1e9104e3a870276c9ded227e1",
   "Name": "The Alters",
   "ProductSlug": "the-alters-5df5b6",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T16:58:33.5331054+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:36.7333528+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:45.0531026+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:27.1952211+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:23.518584+00:00"
 }

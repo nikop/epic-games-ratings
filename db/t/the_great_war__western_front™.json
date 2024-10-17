@@ -5,10 +5,10 @@
   "Ranking_Rating": 1284,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1302,
+  "EOS_Progressed": 1307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4395,6 +4395,11 @@
       "Time": "2024-10-09T19:05:46.8060702+00:00",
       "NumProgressed": 1302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:16:15.1930093+00:00",
+      "NumProgressed": 1307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4404,9 +4409,9 @@
       "ID": "COMPLETE_300_STRATEGIC_EVENTS",
       "SetID": "6kcl14p",
       "Name": "Eventful",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
@@ -4430,15 +4435,15 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
       "SetID": "6kcl14p",
       "Name": "War with Friends",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -4468,9 +4473,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 586
+      "UsersEstimate": 601
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4478,7 +4483,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4486,7 +4491,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4501,7 +4506,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 1302,
+      "Progressed": 1307,
       "Completed": 0
     }
   ],
@@ -4509,8 +4514,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-09-23T18:58:09.070593+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:05:46.8060697+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:15.1930087+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:36.1860381+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:30.5224189+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:05:46.8060989+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:16:15.1930461+00:00"
 }

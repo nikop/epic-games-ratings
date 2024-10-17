@@ -5,10 +5,10 @@
   "Ranking_Rating": 233,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 331,
-  "Ranking_EOS_Progress": 118,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 99,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-09T16:00:00+00:00",
     "PcReleaseDate": "2024-09-09T16:00:00+00:00",
@@ -897,8 +897,8 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 147344,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 217364,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
@@ -907,6 +907,11 @@
       "Time": "2024-09-14T14:23:36.8395868+00:00",
       "NumProgressed": 147344,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:12:14.6665369+00:00",
+      "NumProgressed": 217364,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2024-09-14T14:23:36.8395899+00:00",
@@ -917,25 +922,25 @@
       "ID": "ATTACK_LICTOR",
       "SetID": "bnoof7j",
       "Name": "One Ugly Xenos",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1179
+      "UsersEstimate": 2174
     },
     {
       "ID": "BERSERK_GUNSTRIKES",
       "SetID": "bnoof7j",
       "Name": "Lightning Strike",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 652
     },
     {
       "ID": "CHAPLAIN_INSTRUCTIONS",
       "SetID": "bnoof7j",
       "Name": "Why Is It Always You Three?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2947
+      "UsersEstimate": 6521
     },
     {
       "ID": "DATASLATES",
@@ -943,31 +948,31 @@
       "Name": "Data Mining",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "FINISHERS",
       "SetID": "bnoof7j",
       "Name": "The Art of Dismemberment",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1473
+      "UsersEstimate": 4347
     },
     {
       "ID": "KILLS_ALERT",
       "SetID": "bnoof7j",
       "Name": "Silence",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 4347
     },
     {
       "ID": "KILLS_BY_TRAPS",
       "SetID": "bnoof7j",
       "Name": "Field of Battle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 8695
     },
     {
       "ID": "KILLS_IN_FURY",
@@ -975,15 +980,15 @@
       "Name": "Furious Retribution",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 4347
     },
     {
       "ID": "KILL_LESSER_SOURCERER",
       "SetID": "bnoof7j",
       "Name": "An End to Heresy",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 2174
     },
     {
       "ID": "MARKING_TOOL",
@@ -991,167 +996,167 @@
       "Name": "Purge Them All",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "PERFECT_PARRY",
       "SetID": "bnoof7j",
       "Name": "Know No Fear",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 869
     },
     {
       "ID": "PICKUPS",
       "SetID": "bnoof7j",
       "Name": "Principia Imperialis",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 2174
     },
     {
       "ID": "PVE_ACID_BOMB",
       "SetID": "bnoof7j",
       "Name": "Crude but Effective",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 6521
     },
     {
       "ID": "PVE_ANCIENT_WEAPON",
       "SetID": "bnoof7j",
       "Name": "Resurrection",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVE_CHAOS_KILLS",
       "SetID": "bnoof7j",
       "Name": "The Thousand Dead Sons",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 2174
     },
     {
       "ID": "PVE_DAEMONHOST",
       "SetID": "bnoof7j",
       "Name": "Voice in the Dark",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVE_FIRESTORM",
       "SetID": "bnoof7j",
       "Name": "Douse the Flames",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVE_FULL_ARMOR",
       "SetID": "bnoof7j",
       "Name": "Bespoke",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 2174
     },
     {
       "ID": "PVE_MAX_FIREARM",
       "SetID": "bnoof7j",
       "Name": "Strongest Shot",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 1087
     },
     {
       "ID": "PVE_MAX_LEVEL",
       "SetID": "bnoof7j",
       "Name": "Strategic Specialty",
-      "Percentage": 0.1,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 1304
     },
     {
       "ID": "PVE_MAX_MELEE",
       "SetID": "bnoof7j",
       "Name": "Sharpest Edge",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 869
     },
     {
       "ID": "PVE_RUTHLESS",
       "SetID": "bnoof7j",
       "Name": "Valour Crest",
-      "Percentage": 0.2,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 1739
     },
     {
       "ID": "PVE_TRAIN",
       "SetID": "bnoof7j",
       "Name": "Outbound Payload",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVE_TYRANID_KILLS",
       "SetID": "bnoof7j",
       "Name": "Xenos Exterminator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVE_TYRANT",
       "SetID": "bnoof7j",
       "Name": "Sic Semper Tyrannis",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 6521
     },
     {
       "ID": "PVP_DEATHMATCH",
       "SetID": "bnoof7j",
       "Name": "War Machine",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 1087
     },
     {
       "ID": "PVP_DOMINATION",
       "SetID": "bnoof7j",
       "Name": "Dominator",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 652
     },
     {
       "ID": "PVP_KILLS",
       "SetID": "bnoof7j",
       "Name": "Merciless",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 737
+      "UsersEstimate": 1739
     },
     {
       "ID": "PVP_KOH",
       "SetID": "bnoof7j",
       "Name": "Unwavering Faith",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 652
     },
     {
       "ID": "PVP_WIN",
       "SetID": "bnoof7j",
       "Name": "Glorious Victory",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 4347
     },
     {
       "ID": "PVP_WIN_CLASSES",
@@ -1159,31 +1164,31 @@
       "Name": "Tactical Genius",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "RAIDER_GROUNDPOUND",
       "SetID": "bnoof7j",
       "Name": "Thunderous Impact",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 1087
     },
     {
       "ID": "RAVENER_CANCEL_GRAB",
       "SetID": "bnoof7j",
       "Name": "Unhand My Brother!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2947
+      "UsersEstimate": 6521
     },
     {
       "ID": "SNIPER_HEADSHOTS",
       "SetID": "bnoof7j",
       "Name": "Dead Center",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 1304
     },
     {
       "ID": "SOLDIER_KILLS",
@@ -1191,55 +1196,55 @@
       "Name": "Master of Arsenal",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "STORY_ASSASSINATION",
       "SetID": "bnoof7j",
       "Name": "Chaos All Along",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4420
+      "UsersEstimate": 8695
     },
     {
       "ID": "STORY_BLACKSTONE",
       "SetID": "bnoof7j",
       "Name": "Break of Dawn",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 6521
     },
     {
       "ID": "STORY_CANNON",
       "SetID": "bnoof7j",
       "Name": "Unleash the Cannon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5894
+      "UsersEstimate": 10868
     },
     {
       "ID": "STORY_FINALE",
       "SetID": "bnoof7j",
       "Name": "I\u0027ll Be Watching You",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1473
+      "UsersEstimate": 6521
     },
     {
       "ID": "STORY_INTRO",
       "SetID": "bnoof7j",
       "Name": "The Die is Cast",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7367
+      "UsersEstimate": 13042
     },
     {
       "ID": "STORY_LAST_STAND",
       "SetID": "bnoof7j",
       "Name": "Into the Abyss",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 6521
     },
     {
       "ID": "STORY_ORBITAL_DROP",
@@ -1247,47 +1252,47 @@
       "Name": "My Face Is My Shield",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "STORY_RESCUE",
       "SetID": "bnoof7j",
       "Name": "Vital Asset",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2947
+      "UsersEstimate": 8695
     },
     {
       "ID": "STORY_SKYLAB",
       "SetID": "bnoof7j",
       "Name": "Target Acquired",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4420
+      "UsersEstimate": 8695
     },
     {
       "ID": "STORY_TOWER",
       "SetID": "bnoof7j",
       "Name": "Enemy Revealed",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2947
+      "UsersEstimate": 6521
     },
     {
       "ID": "SUPPORT_KILLS",
       "SetID": "bnoof7j",
       "Name": "Immovable Object",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 1522
     },
     {
       "ID": "TANK_KILLS",
       "SetID": "bnoof7j",
       "Name": "Guardian\u0027s Might",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 435
     },
     {
       "ID": "TOTAL_KILLS",
@@ -1295,31 +1300,31 @@
       "Name": "Still a True Son of the Emperor",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 217
     },
     {
       "ID": "TOTAL_KILLS_SILVER",
       "SetID": "bnoof7j",
       "Name": "A Blight to Be Purged",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 869
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnoof7j",
       "IsBase": true,
-      "Progressed": 147344,
-      "Completed": 1
+      "Progressed": 217364,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2024-09-09T17:59:34.2597996+00:00",
   "FirstSeenRating": "2024-09-10T15:57:34.5232299+00:00",
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
   "LastChanged": "2024-10-16T22:59:38.9013561+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:36.8395859+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:14.6665363+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:37.6740372+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:54.2337244+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:36.8402529+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:16.2636731+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:14.6665843+00:00"
 }

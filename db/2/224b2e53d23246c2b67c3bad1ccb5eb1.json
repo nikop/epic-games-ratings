@@ -2,10 +2,10 @@
   "ID": "224b2e53d23246c2b67c3bad1ccb5eb1",
   "Name": "Spellbound Survivors",
   "ProductSlug": "spellbound-survivors-4da8c1",
-  "Ranking_EOS_Progress": 958,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-11T17:00:00+00:00",
     "PcReleaseDate": "2023-12-29T09:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "FROZEN_TUNDRA",
       "SetID": "15bl9lg",
       "Name": "Frozen Tundra",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GLAMOR",
@@ -289,9 +289,9 @@
       "ID": "MASTER",
       "SetID": "15bl9lg",
       "Name": "Master",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MASTERY",
@@ -305,9 +305,9 @@
       "ID": "MONK",
       "SetID": "15bl9lg",
       "Name": "Monk",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MUMMY",
@@ -385,9 +385,9 @@
       "ID": "SHAMAN",
       "SetID": "15bl9lg",
       "Name": "Shaman",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SHINOBI",
@@ -425,9 +425,9 @@
       "ID": "TROLL",
       "SetID": "15bl9lg",
       "Name": "Orc",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UNDEAD",
@@ -496,8 +496,8 @@
   ],
   "FirstSeen": "2024-06-11T15:57:44.3042591+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:36.5774189+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:57.2793249+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:04.7772696+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:11.5199431+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:12.4095471+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:57.2793666+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:04.7773114+00:00"
 }

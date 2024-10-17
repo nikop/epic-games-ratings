@@ -2,10 +2,10 @@
   "ID": "1f631325713047fc8ec24312c5516155",
   "Name": "1001 Jigsaw. Cute Cats 2",
   "ProductSlug": "1001-jigsaw-cute-cats-2-65dacb",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-29T03:00:00+00:00",
     "PcReleaseDate": "2022-08-01T02:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T14:57:33.3150648+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:16.6501804+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:15.8129595+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:59.8292426+00:00"
 }

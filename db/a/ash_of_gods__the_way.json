@@ -2,10 +2,10 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -466,6 +466,11 @@
       "Time": "2024-08-09T18:04:36.7020214+00:00",
       "NumProgressed": 103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:10:29.309348+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -483,7 +488,7 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -525,7 +530,7 @@
       "Name": "Berkanan Borgia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "collect8",
@@ -555,7 +560,7 @@
       "ID": "fights3",
       "SetID": "c64if4d",
       "Name": "The champion of the arena",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -579,9 +584,9 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "fights7",
@@ -603,9 +608,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "special10",
@@ -701,7 +706,7 @@
       "Name": "First success",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "story10",
@@ -789,7 +794,7 @@
       "Name": "Suicide squad",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "story20",
@@ -813,7 +818,7 @@
       "Name": "Train hard, fight easy",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "story4",
@@ -821,7 +826,7 @@
       "Name": "Royal blessing",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "story5",
@@ -829,7 +834,7 @@
       "Name": "Under cover",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "story6",
@@ -837,7 +842,7 @@
       "Name": "First blood",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "story7",
@@ -853,7 +858,7 @@
       "Name": "Blood and sand",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "story9",
@@ -868,7 +873,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:50.526585+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:29.3093471+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:08.7275354+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:57.6816008+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:50.5266169+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:25.3814755+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:29.3093891+00:00"
 }

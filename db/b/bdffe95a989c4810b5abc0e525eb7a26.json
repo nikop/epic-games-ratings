@@ -5,10 +5,10 @@
   "Ranking_Rating": 890,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 719,
-  "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-03T13:00:00+00:00",
     "PcReleaseDate": "2024-09-03T13:00:00+00:00",
@@ -321,7 +321,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -330,6 +330,11 @@
     {
       "Time": "2024-09-14T14:27:33.680572+00:00",
       "NumProgressed": 988,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:44.3490349+00:00",
+      "NumProgressed": 1359,
       "NumCompleted": 0
     }
   ],
@@ -341,57 +346,57 @@
       "ID": "yerawizard.beater-brilliantbutscary",
       "SetID": "8he2hb8",
       "Name": "Brilliant, but Scary",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 340
     },
     {
       "ID": "yerawizard.beater-knockonwood",
       "SetID": "8he2hb8",
       "Name": "Knock on Wood",
-      "Percentage": 13,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 285
     },
     {
       "ID": "yerawizard.beater-makeafairbeater",
       "SetID": "8he2hb8",
       "Name": "You\u0027d Make a Fair Beater",
-      "Percentage": 32,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 557
     },
     {
       "ID": "yerawizard.chaser-extraresponsibilities",
       "SetID": "8he2hb8",
       "Name": "Chasers With Extra Responsibilities",
-      "Percentage": 22,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 367
     },
     {
       "ID": "yerawizard.chaser-porskoffploy",
       "SetID": "8he2hb8",
       "Name": "The Porskoff Ploy",
-      "Percentage": 31,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 666
     },
     {
       "ID": "yerawizard.chaser-up",
       "SetID": "8he2hb8",
       "Name": "Up!",
-      "Percentage": 34,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 612
     },
     {
       "ID": "yerawizard.general-bottlefame",
       "SetID": "8he2hb8",
       "Name": "Bottle Fame",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 1291
     },
     {
       "ID": "yerawizard.general-brewglory",
@@ -405,192 +410,192 @@
       "ID": "yerawizard.general-easytounderstand",
       "SetID": "8he2hb8",
       "Name": "Quidditch is Easy Enough to Understand",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 69
+      "UsersEstimate": 122
     },
     {
       "ID": "yerawizard.general-eforexceedexpectations",
       "SetID": "8he2hb8",
       "Name": "\u201CE\u201D for Exceeds Expectations",
-      "Percentage": 7,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 163
     },
     {
       "ID": "yerawizard.general-friendswiththewrongsort",
       "SetID": "8he2hb8",
       "Name": "Don\u2019t Go Making Friends with the Wrong Sort\u2026",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 136
     },
     {
       "ID": "yerawizard.general-hogwartshero",
       "SetID": "8he2hb8",
       "Name": "Hogwarts Hero",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 489
     },
     {
       "ID": "yerawizard.general-itsnotanybroomstick",
       "SetID": "8he2hb8",
       "Name": "It\u0027s Not Any Broomstick, it\u0027s a Nimbus 2000",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 346
+      "UsersEstimate": 544
     },
     {
       "ID": "yerawizard.general-itsnotmuchbutitshome",
       "SetID": "8he2hb8",
       "Name": "It\u0027s Not Much, but it\u0027s Home!",
-      "Percentage": 32,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 544
     },
     {
       "ID": "yerawizard.general-mischiefmanaged",
       "SetID": "8he2hb8",
       "Name": "Mischief Managed",
-      "Percentage": 22,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 408
     },
     {
       "ID": "yerawizard.general-mummadeyouasweater",
       "SetID": "8he2hb8",
       "Name": "Look! Mum Made You a Sweater!",
-      "Percentage": 87,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 860
+      "UsersEstimate": 1223
     },
     {
       "ID": "yerawizard.general-quidditchchampion",
       "SetID": "8he2hb8",
       "Name": "Quidditch Champion",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 40
+      "UsersEstimate": 109
     },
     {
       "ID": "yerawizard.general-rolestar",
       "SetID": "8he2hb8",
       "Name": "Role-Star",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 68
     },
     {
       "ID": "yerawizard.general-roughgamequdditchbrutal",
       "SetID": "8he2hb8",
       "Name": "Rough Game, Quidditch. Brutal!",
-      "Percentage": 27,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 571
     },
     {
       "ID": "yerawizard.general-startsatthebeginning",
       "SetID": "8he2hb8",
       "Name": "Everyone Starts at the Beginning at Hogwarts",
-      "Percentage": 30,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 666
     },
     {
       "ID": "yerawizard.general-triwizardtitan",
       "SetID": "8he2hb8",
       "Name": "Triwizard Titan",
-      "Percentage": 22,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 408
     },
     {
       "ID": "yerawizard.general-tutshilltornado",
       "SetID": "8he2hb8",
       "Name": "Tutshill Tornado",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 367
     },
     {
       "ID": "yerawizard.general-wantanicecleangame",
       "SetID": "8he2hb8",
       "Name": "I Want a Nice, Clean Game",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 178
+      "UsersEstimate": 313
     },
     {
       "ID": "yerawizard.general-wantedtousethatspell",
       "SetID": "8he2hb8",
       "Name": "I\u0027ve Always Wanted to Use That Spell",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 366
+      "UsersEstimate": 544
     },
     {
       "ID": "yerawizard.general-worldcupconqueror",
       "SetID": "8he2hb8",
       "Name": "World Cup Wonder",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 299
     },
     {
       "ID": "yerawizard.keeper-keeperthatsme",
       "SetID": "8he2hb8",
       "Name": "The Keeper, That\u0027s Me...",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 571
     },
     {
       "ID": "yerawizard.keeper-playcaller",
       "SetID": "8he2hb8",
       "Name": "Playcaller",
-      "Percentage": 0.2,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 27
     },
     {
       "ID": "yerawizard.keeper-superbkeeper",
       "SetID": "8he2hb8",
       "Name": "A Superb Keeper!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 82
     },
     {
       "ID": "yerawizard.seeker-constantvigilance",
       "SetID": "8he2hb8",
       "Name": "Constant Vigilance!",
-      "Percentage": 29,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 287
+      "UsersEstimate": 571
     },
     {
       "ID": "yerawizard.seeker-plumptonsprotege",
       "SetID": "8he2hb8",
       "Name": "Roderick Plumpton\u2019s Prot\u00E9g\u00E9",
-      "Percentage": 29,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 625
     },
     {
       "ID": "yerawizard.seeker-youngestseeker",
       "SetID": "8he2hb8",
       "Name": "The Youngest Seeker in a Century",
-      "Percentage": 32,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 544
     }
   ],
   "AchievementSets": [
     {
       "ID": "8he2hb8",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
@@ -598,8 +603,8 @@
   "FirstSeenRating": "2024-09-06T03:57:30.8777801+00:00",
   "FirstSeenAchievements": "2024-08-20T20:13:24.6120024+00:00",
   "LastChanged": "2024-10-15T04:58:52.7569376+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:33.6805714+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:44.3490344+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:15.3721054+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:43.1955559+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:33.6812516+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:27.6276557+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:44.3490556+00:00"
 }

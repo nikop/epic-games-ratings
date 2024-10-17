@@ -2,10 +2,10 @@
   "ID": "a0ce5ad3290c4bbfae201a21962ad7a3",
   "Name": "RATSHAKER\u2122",
   "ProductSlug": "ratshaker-cbb957",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "25cd92g",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:09.3392274+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:09.3392206+00:00",
   "LastUpdate_AppInfo": "2024-10-16T17:57:03.6759631+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:53.1250667+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:18.188656+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:09.3392293+00:00"
 }

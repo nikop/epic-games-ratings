@@ -2,10 +2,10 @@
   "ID": "952df933162b4007b4b07d38b1998f3b",
   "Name": "AWAKEN - Astral Blade",
   "ProductSlug": "awaken-astral-blade-c48b0c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:27:32.1475438+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:32.1475416+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:42.782618+00:00",
   "LastUpdate_AppInfo": "2024-10-11T03:12:11.3208056+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:52.3068914+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:32.1475451+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:42.7826193+00:00"
 }

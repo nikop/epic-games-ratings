@@ -2,10 +2,10 @@
   "ID": "e0d342096dbe47e9a41a2b7735683edd",
   "Name": "The Smurfs - Village Party",
   "ProductSlug": "smurfs-village-party-665dc8",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-24T09:00:00+00:00",
     "PcReleaseDate": "2024-06-06T08:00:00+00:00",
@@ -340,8 +340,8 @@
   ],
   "FirstSeen": "2024-09-10T05:58:36.3170348+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:50.6043711+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:28.6705143+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:25.9963304+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:13.7858891+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:48.6806874+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:28.6705379+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:16:25.9963539+00:00"
 }

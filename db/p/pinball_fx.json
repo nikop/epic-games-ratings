@@ -5,10 +5,10 @@
   "Ranking_Rating": 1224,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 268,
-  "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 82,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -4015,7 +4015,7 @@
       "Count": 137
     }
   ],
-  "EOS_Progressed": 329739,
+  "EOS_Progressed": 331473,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -36470,6 +36470,11 @@
       "Time": "2024-09-14T14:18:53.8933612+00:00",
       "NumProgressed": 329739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:54.664087+00:00",
+      "NumProgressed": 331473,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -36527,9 +36532,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "83b4cpd",
       "Name": "Contender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -36545,7 +36550,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -36553,7 +36558,7 @@
       "Name": "Collect Them All",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -36561,15 +36566,15 @@
       "Name": "Shiny Memento",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "83b4cpd",
       "Name": "First but not Last",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 994
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -36577,7 +36582,7 @@
       "Name": "Table Mastered, part 10",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -36585,7 +36590,7 @@
       "Name": "Medal Hunter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -36593,15 +36598,15 @@
       "Name": "Medal Wizard",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_16",
       "SetID": "83b4cpd",
       "Name": "Ready Steady Score",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -36609,7 +36614,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -36617,7 +36622,7 @@
       "Name": "Virtual Pinball Museum",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -36625,7 +36630,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -36633,15 +36638,15 @@
       "Name": "Challenge Accepted!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_21",
       "SetID": "83b4cpd",
       "Name": "I Found it!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2968
+      "UsersEstimate": 3315
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -36649,7 +36654,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -36657,7 +36662,7 @@
       "Name": "Relic Hunter",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -36665,7 +36670,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -36673,7 +36678,7 @@
       "Name": "Show Them",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -36681,7 +36686,7 @@
       "Name": "Totally Furnished",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -36689,7 +36694,7 @@
       "Name": "Dress Code",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -36697,7 +36702,7 @@
       "Name": "Customizer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -36705,15 +36710,15 @@
       "Name": "Ball Launched",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6629
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "83b4cpd",
       "Name": "I know the Rules",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1319
+      "UsersEstimate": 2983
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -36721,7 +36726,7 @@
       "Name": "Catomic Bomb",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -36737,7 +36742,7 @@
       "Name": "The Captain",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -36753,7 +36758,7 @@
       "Name": "Battle of Cardassia",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -36761,7 +36766,7 @@
       "Name": "Did It for the Dowry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -36769,7 +36774,7 @@
       "Name": "Glorious victory",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -36785,7 +36790,7 @@
       "Name": "End of Gloom",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -36799,9 +36804,9 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "5ld4kno",
       "Name": "Balanced Chakram",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -36809,7 +36814,7 @@
       "Name": "Daybreak",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -36817,7 +36822,7 @@
       "Name": "Knight Rider",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -36825,7 +36830,7 @@
       "Name": "True Neural",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -36833,15 +36838,15 @@
       "Name": "Golden Boot Trophy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_47",
       "SetID": "5ld4kno",
       "Name": "Leveling Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -36849,7 +36854,7 @@
       "Name": "Getting The Hang Of It",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -36857,7 +36862,7 @@
       "Name": "Halfway There",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -36865,7 +36870,7 @@
       "Name": "A Few More Steps",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_51",
@@ -36873,7 +36878,7 @@
       "Name": "Maxed Out",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -36881,7 +36886,7 @@
       "Name": "As you wish",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_53",
@@ -36889,28 +36894,28 @@
       "Name": "Destroy the Dam",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 329739,
+      "Progressed": 331473,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 47898,
+      "Progressed": 49729,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-10-16T23:58:16.2107103+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:53.8933607+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:54.6640867+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:45.1199827+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:34.9321404+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:53.8935123+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:08:54.6643114+00:00"
 }

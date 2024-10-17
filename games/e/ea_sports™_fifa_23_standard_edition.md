@@ -5,48 +5,48 @@ Rating: 4.26 (Ranked 1,081)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~186,216 |
-| Dead-ball specialist | 61.00% | ~151,456 |
-| European Legend | 52.00% | ~129,110 |
-| Multitasking | 51.00% | ~126,627 |
-| Balanced Path | 49.00% | ~121,661 |
-| High Grades | 48.00% | ~119,178 |
-| Aiming High | 46.00% | ~114,212 |
-| A Moment of Your Time | 45.00% | ~111,730 |
-| Let the Games Begin | 45.00% | ~111,730 |
-| Tactical Tinkerer | 39.00% | ~96,832 |
-| Intuition and Execution | 39.00% | ~96,832 |
-| Squad Building Connoisseur | 36.00% | ~89,384 |
-| The Winning Formula | 35.00% | ~86,901 |
-| Parking the Bus | 27.00% | ~67,038 |
-| Best of Five | 26.00% | ~64,555 |
-| Safe House | 25.00% | ~62,072 |
-| Football is Everything | 24.00% | ~59,589 |
-| The Chosen One | 21.00% | ~52,140 |
-| Fresh Fit | 20.00% | ~49,658 |
-| Bring it on | 18.00% | ~44,692 |
-| Life-Like | 14.00% | ~34,760 |
-| Make the Grade | 12.00% | ~29,795 |
-| I Played Them All | 10.00% | ~24,829 |
-| Specialist | 10.00% | ~24,829 |
-| First of Many | 9.00% | ~22,346 |
-| Teamwork works | 8.00% | ~19,863 |
-| Momentous Achievement | 5.00% | ~12,414 |
-| Becoming Unplayable | 5.00% | ~12,414 |
-| Shop till you drop | 5.00% | ~12,414 |
-| On the way up | 5.00% | ~12,414 |
-| Volta's best | 4.00% | ~9,932 |
-| In Cahoots | 4.00% | ~9,932 |
-| Tune Your Club | 4.00% | ~9,932 |
-| Full-House | 3.00% | ~7,449 |
-| Sharing is Caring | 3.00% | ~7,449 |
-| Full wardrobe | 0.50% | ~1,241 |
-| Girl Power | 0.40% | ~993 |
-| Training Addict | 0.10% | ~248 |
-| Dazzling Personality | 0.10% | ~248 |
+| Power Shot | 75.00% | ~187,870 |
+| Dead-ball specialist | 61.00% | ~152,801 |
+| European Legend | 52.00% | ~130,256 |
+| Multitasking | 51.00% | ~127,751 |
+| Balanced Path | 49.00% | ~122,742 |
+| High Grades | 48.00% | ~120,237 |
+| Aiming High | 46.00% | ~115,227 |
+| A Moment of Your Time | 45.00% | ~112,722 |
+| Let the Games Begin | 45.00% | ~112,722 |
+| Intuition and Execution | 40.00% | ~100,197 |
+| Tactical Tinkerer | 39.00% | ~97,692 |
+| Squad Building Connoisseur | 36.00% | ~90,177 |
+| The Winning Formula | 35.00% | ~87,673 |
+| Parking the Bus | 27.00% | ~67,633 |
+| Best of Five | 26.00% | ~65,128 |
+| Safe House | 25.00% | ~62,623 |
+| Football is Everything | 24.00% | ~60,118 |
+| The Chosen One | 21.00% | ~52,604 |
+| Fresh Fit | 20.00% | ~50,099 |
+| Bring it on | 18.00% | ~45,089 |
+| Life-Like | 14.00% | ~35,069 |
+| Make the Grade | 12.00% | ~30,059 |
+| I Played Them All | 10.00% | ~25,049 |
+| Specialist | 10.00% | ~25,049 |
+| Teamwork works | 8.00% | ~20,039 |
+| First of Many | 8.00% | ~20,039 |
+| Momentous Achievement | 5.00% | ~12,525 |
+| Becoming Unplayable | 5.00% | ~12,525 |
+| Shop till you drop | 5.00% | ~12,525 |
+| On the way up | 5.00% | ~12,525 |
+| Volta's best | 4.00% | ~10,020 |
+| In Cahoots | 4.00% | ~10,020 |
+| Tune Your Club | 4.00% | ~10,020 |
+| Full-House | 3.00% | ~7,515 |
+| Sharing is Caring | 3.00% | ~7,515 |
+| Full wardrobe | 0.50% | ~1,252 |
+| Girl Power | 0.40% | ~1,002 |
+| Training Addict | 0.10% | ~250 |
+| Dazzling Personality | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,288 (Ranked 93)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 250,493 (Ranked 93)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,16 +186,17 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 239,265 | 0 |
 | 2024-08-09 | 245,697 | 0 |
 | 2024-09-14 | 248,288 | 0 |
+| 2024-10-17 | 250,493 | 0 |
 ## Awards
 Max (Diverse Characters): 24,909  (Ranked 27)  
-Sum: 122,517 (Ranked 21)  
+Sum: 122,520 (Ranked 21)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 24,909 |
 | This game is Highly Recommended | 16,646 |
 | This game has a Competitive Community | 15,835 |
-| This game has Amazing Characters | 13,556 |
+| This game has Amazing Characters | 13,559 |
 | This game has Competitive Players | 13,438 |
 | This game is Extremely Fun | 13,138 |
 | This game has Amazing Storytelling | 12,813 |
@@ -855,4 +856,4 @@ Diff (max vs sum): 6
 | 2024-10-14 | 4.26 | 24,899 | 122,496 |
 | 2024-10-15 | 4.26 | 24,899 | 122,504 |
 | 2024-10-16 | 4.26 | 24,909 | 122,516 |
-| 2024-10-17 | 4.26 | 24,909 | 122,517 |
+| 2024-10-17 | 4.26 | 24,909 | 122,520 |

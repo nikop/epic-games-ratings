@@ -2,10 +2,10 @@
   "ID": "d3f8b5fc530c4445824813a1366a25d3",
   "Name": "Surmount",
   "ProductSlug": "surmount-d33e62",
-  "Ranking_EOS_Progress": 1078,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1122,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-02T13:00:00+00:00",
     "PcReleaseDate": "2024-05-02T13:00:00+00:00",
@@ -171,8 +171,8 @@
   ],
   "FirstSeen": "2024-05-30T09:59:16.1893676+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:09.1470288+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:09.0194423+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:49.3136846+00:00",
   "LastUpdate_AppInfo": "2024-10-16T11:57:06.4399203+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:22.8498765+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:09.0194526+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:49.3136948+00:00"
 }

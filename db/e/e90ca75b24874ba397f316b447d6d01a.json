@@ -2,10 +2,10 @@
   "ID": "e90ca75b24874ba397f316b447d6d01a",
   "Name": "Lost in Random\u2122",
   "ProductSlug": "lost-in-random-1804af",
-  "Ranking_EOS_Progress": 1036,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 843,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2021-09-10T08:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 49,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:51.7695596+00:00",
@@ -48,6 +48,11 @@
       "Time": "2024-09-14T14:27:13.4180369+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:14:24.511581+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:51.7695657+00:00",
@@ -58,145 +63,145 @@
       "ID": "achievement_1",
       "SetID": "a6bincp",
       "Name": "Lost In Random",
-      "Percentage": 14,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_11",
       "SetID": "a6bincp",
       "Name": "Go Fetch!",
-      "Percentage": 57,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_12",
       "SetID": "a6bincp",
       "Name": "Knock Knock",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_13",
       "SetID": "a6bincp",
       "Name": "Third Time\u0027s a Charm",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_14",
       "SetID": "a6bincp",
       "Name": "All In",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_15",
       "SetID": "a6bincp",
       "Name": "Bombastic",
-      "Percentage": 14,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_16",
       "SetID": "a6bincp",
       "Name": "Once Upon a Time",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_17",
       "SetID": "a6bincp",
       "Name": "Ghost Story",
-      "Percentage": 29,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_18",
       "SetID": "a6bincp",
       "Name": "Gazoo, Gazaak!",
-      "Percentage": 29,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_19",
       "SetID": "a6bincp",
       "Name": "Bern, Baby, Bern",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_20",
       "SetID": "a6bincp",
       "Name": "Closure",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_21",
       "SetID": "a6bincp",
       "Name": "Happy Birthday",
-      "Percentage": 114,
+      "Percentage": 102,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_22",
       "SetID": "a6bincp",
       "Name": "Runaway",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_23",
       "SetID": "a6bincp",
       "Name": "You\u0027re a Dice Wielder, Even",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_24",
       "SetID": "a6bincp",
       "Name": "Whisked Away",
-      "Percentage": 57,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_25",
       "SetID": "a6bincp",
       "Name": "Two Sides of the Same Coin",
-      "Percentage": 29,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_26",
       "SetID": "a6bincp",
       "Name": "Grown-ups Do the Talking",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_27",
       "SetID": "a6bincp",
       "Name": "One Way Ticket To Sixtopia",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_28",
@@ -204,47 +209,47 @@
       "Name": "A Dicey Situation",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_29",
       "SetID": "a6bincp",
       "Name": "Without a Trace",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_3",
       "SetID": "a6bincp",
       "Name": "Checkmate",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_30",
       "SetID": "a6bincp",
       "Name": "Back on Track",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_31",
       "SetID": "a6bincp",
       "Name": "Down the Rabbit Hole",
-      "Percentage": 14,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_32",
       "SetID": "a6bincp",
       "Name": "Served",
-      "Percentage": 57,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_33",
@@ -252,47 +257,47 @@
       "Name": "Not Over Until the Nanny Sings",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_34",
       "SetID": "a6bincp",
       "Name": "A Grim Fairy Tale",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_35",
       "SetID": "a6bincp",
       "Name": "Ding Dong",
-      "Percentage": 14,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_36",
       "SetID": "a6bincp",
       "Name": "Through Thick and Thin",
-      "Percentage": 14,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_37",
       "SetID": "a6bincp",
       "Name": "Dockworker",
-      "Percentage": 29,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_38",
       "SetID": "a6bincp",
       "Name": "Bridger",
-      "Percentage": 43,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_39",
@@ -300,92 +305,92 @@
       "Name": "Upside Downtowner",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_4",
       "SetID": "a6bincp",
       "Name": "En Garde!",
-      "Percentage": 14,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_40",
       "SetID": "a6bincp",
       "Name": "Sharpshooter",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_41",
       "SetID": "a6bincp",
       "Name": "Catapult Slinger",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_42",
       "SetID": "a6bincp",
       "Name": "Tinkerer",
-      "Percentage": 14,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_43",
       "SetID": "a6bincp",
       "Name": "Master Puzzler",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_5",
       "SetID": "a6bincp",
       "Name": "Resourceful",
-      "Percentage": 14,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_6",
       "SetID": "a6bincp",
       "Name": "Card Collector",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_7",
       "SetID": "a6bincp",
       "Name": "Dice and Slice",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_9",
       "SetID": "a6bincp",
       "Name": "The Menace",
-      "Percentage": 43,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6bincp",
       "IsBase": true,
-      "Progressed": 7,
-      "Completed": 0
+      "Progressed": 49,
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:51.7695656+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:13.4180362+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:24.5115804+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:25.6579767+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:46.7580931+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:13.4180642+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:24.5116105+00:00"
 }

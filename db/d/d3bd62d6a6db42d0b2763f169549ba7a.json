@@ -2,10 +2,10 @@
   "ID": "d3bd62d6a6db42d0b2763f169549ba7a",
   "Name": "Rune Seeker",
   "ProductSlug": "rune-seeker-06cdca",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T13:57:17.2030026+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:11.765506+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:37.3478182+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:48.5465557+00:00"
 }

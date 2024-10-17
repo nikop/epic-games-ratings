@@ -2,10 +2,10 @@
   "ID": "3b5e4301fa6c47c0b139115468ea6088",
   "Name": "Wizened Dream",
   "ProductSlug": "wizened-dream-ec61c3",
-  "Ranking_EOS_Progress": 595,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 587,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-02-17T00:00:00+00:00",
     "PcReleaseDate": "2024-02-11T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
-  "EOS_Completed": 2,
+  "EOS_Progressed": 270,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:15:55.6663562+00:00",
@@ -49,6 +49,11 @@
       "Time": "2024-09-14T14:21:22.0293184+00:00",
       "NumProgressed": 216,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:11:02.7112279+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-06-17T16:15:55.6663587+00:00",
@@ -61,23 +66,23 @@
       "Name": "Card Collector",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "A_GameEnd_1_1",
       "SetID": "5n5i5a0",
       "Name": "Gastropathy",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 186
     },
     {
       "ID": "A_GameEnd_1_2",
       "SetID": "5n5i5a0",
       "Name": "Dropped Out",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 159
     },
     {
       "ID": "A_GameEnd_1_3",
@@ -85,15 +90,15 @@
       "Name": "Graduated from college",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 119
     },
     {
       "ID": "A_GameEnd_1_4",
       "SetID": "5n5i5a0",
       "Name": "Game Company Offer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "A_GameEnd_2_1",
@@ -101,15 +106,15 @@
       "Name": "Dismissed",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "A_GameEnd_2_2",
       "SetID": "5n5i5a0",
       "Name": "Dimission",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "A_GameEnd_3_1",
@@ -117,7 +122,7 @@
       "Name": "Strange Cats",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "A_GameEnd_3_2",
@@ -125,7 +130,7 @@
       "Name": "The First Game",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 43
     },
     {
       "ID": "A_GameLaunch",
@@ -133,7 +138,7 @@
       "Name": "Game, launch!",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 270
     },
     {
       "ID": "A_Speedrunism",
@@ -141,21 +146,21 @@
       "Name": "Speedrunism",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "5n5i5a0",
       "IsBase": true,
-      "Progressed": 216,
-      "Completed": 2
+      "Progressed": 270,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-17T16:58:48.0166367+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:18.4536774+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:22.0293178+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:02.7112277+00:00",
   "LastUpdate_AppInfo": "2024-10-10T11:57:15.2055826+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:24.5652593+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:22.0293275+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:33.3879407+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:02.7112359+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "40f6e4beb45a4bbfb77fdb6774331e83",
   "Name": "Golfing in Aether",
   "ProductSlug": "golfing-in-aether-cfac43",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1046,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-23T18:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -47,6 +47,11 @@
       "Time": "2024-08-09T18:03:08.2093508+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:20.5232814+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T01:41:24.9647964+00:00",
@@ -57,7 +62,7 @@
       "ID": "AroundTheWorld",
       "SetID": "8ohdpka",
       "Name": "Around the World",
-      "Percentage": 80,
+      "Percentage": 40,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -65,9 +70,9 @@
       "ID": "BounceBack",
       "SetID": "8ohdpka",
       "Name": "Bounce Back",
-      "Percentage": 100,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "Completionist",
@@ -81,7 +86,7 @@
       "ID": "Eclectic",
       "SetID": "8ohdpka",
       "Name": "Eclectic",
-      "Percentage": 40,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -89,9 +94,9 @@
       "ID": "GettingGood!",
       "SetID": "8ohdpka",
       "Name": "Getting Good!",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "GhostBuster",
@@ -99,15 +104,15 @@
       "Name": "Ghost Buster",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "LevellingUp",
       "SetID": "8ohdpka",
       "Name": "Levelling Up",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "NiceShot",
@@ -115,15 +120,15 @@
       "Name": "Nice Shot",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "Pathfinder",
       "SetID": "8ohdpka",
       "Name": "Pathfinder",
-      "Percentage": 100,
+      "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "Perfect",
@@ -137,7 +142,7 @@
       "ID": "Replay",
       "SetID": "8ohdpka",
       "Name": "Replay",
-      "Percentage": 20,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "Seasonal",
       "SetID": "8ohdpka",
       "Name": "Seasonal",
-      "Percentage": 80,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -155,28 +160,28 @@
       "Name": "Tee Time",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "Turkey",
       "SetID": "8ohdpka",
       "Name": "Turkey",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ohdpka",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:16:26.0156019+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:20.5232802+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:24.5651765+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:56.6203938+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:16:26.0156123+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:23.6691462+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:20.5232945+00:00"
 }

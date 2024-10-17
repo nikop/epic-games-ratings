@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 86.00% | ~74 |
-| Jalopy Poppy | 83.00% | ~71 |
-| Green-Bodied Monster | 70.00% | ~60 |
-| Chopper Stopper | 60.00% | ~52 |
-| Aerosolized | 55.00% | ~47 |
+| Terror Rising | 87.00% | ~74 |
+| Jalopy Poppy | 85.00% | ~72 |
+| Green-Bodied Monster | 71.00% | ~60 |
+| Chopper Stopper | 61.00% | ~52 |
+| Aerosolized | 56.00% | ~48 |
 | Monstrosity Atrocity | 48.00% | ~41 |
-| Test of Faith | 44.00% | ~38 |
+| Test of Faith | 45.00% | ~38 |
 | Reign of Terror | 42.00% | ~36 |
 | Crushing All Cars | 28.00% | ~24 |
-| Brain Chopper | 24.00% | ~21 |
+| Brain Chopper | 25.00% | ~21 |
 | Night Bird | 20.00% | ~17 |
 | Horror Show | 20.00% | ~17 |
 | Demolition Ambition | 13.00% | ~11 |
-| Hindenburgerer | 10.00% | ~9 |
+| Hindenburgerer | 11.00% | ~9 |
 | Punchy Wagon | 8.00% | ~7 |
 | Trash the Planet. | 8.00% | ~7 |
 | Kill All Humans! | 7.00% | ~6 |
@@ -25,18 +25,18 @@
 | Midair Affair | 5.00% | ~4 |
 | Demolition Tactician | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
-| Demolition Exhibition | 3.00% | ~3 |
-| Rocket Science | 3.00% | ~3 |
-| Meat Catcher | 3.00% | ~3 |
-| Hot Potato | 3.00% | ~3 |
-| Oblideration Nation | 3.00% | ~3 |
-| SWATing Flies | 3.00% | ~3 |
-| Shakedown Breakdown | 3.00% | ~3 |
-| Juggle the People | 3.00% | ~3 |
-| Simulation 8e7d28c1 | 3.00% | ~3 |
+| Demolition Exhibition | 4.00% | ~3 |
+| Rocket Science | 4.00% | ~3 |
+| Meat Catcher | 4.00% | ~3 |
+| Hot Potato | 4.00% | ~3 |
+| Oblideration Nation | 4.00% | ~3 |
+| SWATing Flies | 4.00% | ~3 |
+| Shakedown Breakdown | 4.00% | ~3 |
+| Juggle the People | 4.00% | ~3 |
+| Simulation 8e7d28c1 | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 733)  
-Completed: 1 (1.16%) (Ranked 269)  
+Progressed: 85 (Ranked 761)  
+Completed: 1 (1.18%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 1 (1.16%) (Ranked 269)
 | 2024-06-17 | 86 | 1 |
 | 2024-08-09 | 87 | 1 |
 | 2024-08-20 | 86 | 1 |
+| 2024-10-17 | 85 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

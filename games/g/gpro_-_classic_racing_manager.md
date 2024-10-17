@@ -5,24 +5,24 @@ Rating: 3.97 (Ranked 1,271)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 70.00% | ~503 |
-| Photo shoot | 19.00% | ~136 |
+| Newbie | 70.00% | ~505 |
+| Photo shoot | 19.00% | ~137 |
 | No brakes | 15.00% | ~108 |
-| Wannabe | 12.00% | ~86 |
+| Wannabe | 12.00% | ~87 |
 | First taste | 10.00% | ~72 |
-| Amateur hitchhiker | 8.00% | ~57 |
-| Better than cake | 7.00% | ~50 |
+| Amateur hitchhiker | 8.00% | ~58 |
+| Better than cake | 7.00% | ~51 |
 | Amateur newbie | 4.00% | ~29 |
 | Reliability expert | 3.00% | ~22 |
 | Hattrick | 3.00% | ~22 |
 | Amateur photo shoot | 3.00% | ~22 |
-| On the top | 3.00% | ~22 |
 | Pro hitchhiker | 2.00% | ~14 |
 | Loyalty | 2.00% | ~14 |
 | Hero | 2.00% | ~14 |
 | Drama queen | 2.00% | ~14 |
 | Mr. Whiting | 2.00% | ~14 |
 | No brakes Amateur | 2.00% | ~14 |
+| On the top | 2.00% | ~14 |
 | Amateur wannabe | 1.00% | ~7 |
 | First Amateur taste | 1.00% | ~7 |
 | Untouchable | 1.00% | ~7 |
@@ -168,8 +168,8 @@ Rating: 3.97 (Ranked 1,271)
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 722 (Ranked 472)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,6 +334,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-20 | 675 | 0 |
 | 2024-09-14 | 699 | 0 |
 | 2024-10-09 | 718 | 0 |
+| 2024-10-17 | 722 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

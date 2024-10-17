@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 561,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 288,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -549,6 +549,11 @@
       "Time": "2024-09-14T14:23:15.868085+00:00",
       "NumProgressed": 280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-10-17T05:11:51.5543861+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -560,15 +565,15 @@
       "Name": "Full and Final Settlement",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "AutoBullets_0",
       "SetID": "9e3d06k",
       "Name": "Hunter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "AutoBullets_1",
@@ -584,7 +589,7 @@
       "Name": "Sapper",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "EnemyDefeat_0",
@@ -592,7 +597,7 @@
       "Name": "Unstoppable",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "EnemyDefeat_1",
@@ -600,7 +605,7 @@
       "Name": "Cyborg",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ExpertChoice",
@@ -608,7 +613,7 @@
       "Name": "Tough Decision",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -616,7 +621,7 @@
       "Name": "Breaking Through",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "FirstSkillBuy",
@@ -624,7 +629,7 @@
       "Name": "A.I. Training",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "GunUnlock",
@@ -632,7 +637,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "Headshots_0",
@@ -640,7 +645,7 @@
       "Name": "Sniper",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "Headshots_1",
@@ -648,7 +653,7 @@
       "Name": "Veteran Sniper",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "KyklosPlan",
@@ -656,15 +661,15 @@
       "Name": "The Red Herring",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "LiftEnemies_0",
       "SetID": "9e3d06k",
       "Name": "Lifter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "LiftEnemies_1",
@@ -672,7 +677,7 @@
       "Name": "Zero Gravity",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Neuroconnector",
@@ -680,15 +685,15 @@
       "Name": "The Neuro-connector",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "SecretEnding",
@@ -704,7 +709,7 @@
       "Name": "Flatline",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "StealthDefeat_1",
@@ -720,7 +725,7 @@
       "Name": "One Click Away",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -728,7 +733,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -744,14 +749,14 @@
       "Name": "Telekinesis",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 288,
       "Completed": 4
     }
   ],
@@ -759,8 +764,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:15.8680844+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:51.5543856+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:40.5073629+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:39.9874864+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:15.8680997+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:51.5544041+00:00"
 }

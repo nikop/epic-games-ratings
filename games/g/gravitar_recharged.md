@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Big Science | 5.00% | ~204 |
-| If You Can't Talk About It, Point To It | 4.00% | ~163 |
-| Walking And Falling | 3.00% | ~123 |
-| Let X=X | 1.00% | ~41 |
+| Big Science | 4.00% | ~168 |
+| If You Can't Talk About It, Point To It | 4.00% | ~168 |
+| Walking And Falling | 3.00% | ~126 |
+| Let X=X | 1.00% | ~42 |
 | Violin Walk | 0.60% | ~25 |
-| Born, Never Asked | 0.50% | ~20 |
-| Difficult Hour | 0.30% | ~12 |
+| Born, Never Asked | 0.50% | ~21 |
+| Difficult Hour | 0.30% | ~13 |
 | A Virus From Outer Space | 0.20% | ~8 |
 | Say Hello | 0.20% | ~8 |
 | Closed Circuits | 0.10% | ~4 |
@@ -24,8 +24,8 @@
 | Violin Solo | 0.10% | ~4 |
 | Walk The Dog | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,085 (Ranked 308)  
-Completed: 1 (0.02%) (Ranked 540)  
+Progressed: 4,188 (Ranked 320)  
+Completed: 1 (0.02%) (Ranked 570)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -41,6 +41,7 @@ Completed: 1 (0.02%) (Ranked 540)
 | 2024-06-17 | 3,665 | 1 |
 | 2024-08-09 | 3,929 | 1 |
 | 2024-09-14 | 4,085 | 1 |
+| 2024-10-17 | 4,188 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

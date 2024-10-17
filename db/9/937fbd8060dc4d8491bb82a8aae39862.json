@@ -2,10 +2,10 @@
   "ID": "937fbd8060dc4d8491bb82a8aae39862",
   "Name": "Arcane Wars",
   "ProductSlug": "arcane-wars-5945db",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T20:57:40.3508344+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:38.1061377+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:08.9326053+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:25.7525964+00:00"
 }

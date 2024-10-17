@@ -1,33 +1,33 @@
 # The Bridge
 [Store](https://store.epicgames.com/en-US/p/the-bridge)  
 [View Rawdata](../../db/t/the_bridge.json)  
-Rating: 4.20 (Ranked 1,143)  
+Rating: 4.20 (Ranked 1,142)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Thinker | 43.00% | ~78,449 |
-| Academic | 20.00% | ~36,488 |
-| Scholar | 11.00% | ~20,068 |
-| Aftermath-Inverter | 8.00% | ~14,595 |
-| Runner | 4.00% | ~7,298 |
-| Bridgewalker | 2.00% | ~3,649 |
-| Challenger | 2.00% | ~3,649 |
-| Plummeter | 2.00% | ~3,649 |
-| Catcher | 1.00% | ~1,824 |
-| Corridor-Inverter | 1.00% | ~1,824 |
-| Heretic | 1.00% | ~1,824 |
-| Outcast | 0.70% | ~1,277 |
-| Hermit | 0.60% | ~1,095 |
-| Refrainer | 0.50% | ~912 |
-| Genius | 0.40% | ~730 |
-| Visionary | 0.40% | ~730 |
-| Whisperer | 0.40% | ~730 |
-| Garden-Inverter | 0.30% | ~547 |
-| Slider | 0.30% | ~547 |
-| Collector | 0.20% | ~365 |
+| Thinker | 43.00% | ~78,687 |
+| Academic | 20.00% | ~36,598 |
+| Scholar | 11.00% | ~20,129 |
+| Aftermath-Inverter | 8.00% | ~14,639 |
+| Runner | 4.00% | ~7,320 |
+| Bridgewalker | 2.00% | ~3,660 |
+| Challenger | 2.00% | ~3,660 |
+| Plummeter | 2.00% | ~3,660 |
+| Catcher | 1.00% | ~1,830 |
+| Corridor-Inverter | 1.00% | ~1,830 |
+| Heretic | 1.00% | ~1,830 |
+| Outcast | 0.80% | ~1,464 |
+| Hermit | 0.60% | ~1,098 |
+| Refrainer | 0.50% | ~915 |
+| Genius | 0.40% | ~732 |
+| Visionary | 0.40% | ~732 |
+| Whisperer | 0.40% | ~732 |
+| Garden-Inverter | 0.30% | ~549 |
+| Slider | 0.30% | ~549 |
+| Collector | 0.20% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,439 (Ranked 104)  
-Completed: 341 (0.19%) (Ranked 422)  
+Progressed: 182,992 (Ranked 105)  
+Completed: 345 (0.19%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -37,6 +37,7 @@ Completed: 341 (0.19%) (Ranked 422)
 | 2024-08-09 | 176,424 | 305 |
 | 2024-09-14 | 180,202 | 326 |
 | 2024-10-09 | 182,439 | 341 |
+| 2024-10-17 | 182,992 | 345 |
 ## Awards
 Max (Challenging Puzzles): 26  (Ranked 692)  
 Sum: 26 (Ranked 704)  

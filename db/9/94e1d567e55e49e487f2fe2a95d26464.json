@@ -2,10 +2,10 @@
   "ID": "94e1d567e55e49e487f2fe2a95d26464",
   "Name": "Dead No-Head",
   "ProductSlug": "dead-nohead-81bb07",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-30T19:00:00+00:00",
     "PcReleaseDate": "2022-01-19T19:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "78ged4o",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:06:12.1059155+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:12.1058831+00:00",
   "LastUpdate_AppInfo": "2024-10-13T19:57:00.4048418+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:36.1767085+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:01:36.1767085+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:12.1059169+00:00"
 }

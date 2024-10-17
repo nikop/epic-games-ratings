@@ -2,10 +2,10 @@
   "ID": "43fc2169b9d44923bbce3c372911de05",
   "Name": "DATA2073",
   "ProductSlug": "data2073-9d83d4",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-17T03:13:37.7025651+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:25.9477461+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:53.5472843+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:34.1915616+00:00"
 }

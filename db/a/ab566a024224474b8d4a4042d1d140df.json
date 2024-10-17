@@ -2,10 +2,10 @@
   "ID": "ab566a024224474b8d4a4042d1d140df",
   "Name": "SPGP",
   "ProductSlug": "spgp-43c03b",
-  "Ranking_EOS_Progress": 1078,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1122,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-26T07:00:00+00:00",
     "PcReleaseDate": "2024-08-06T07:00:00+00:00",
@@ -138,7 +138,7 @@
     {
       "ID": "ACHI_20",
       "SetID": "4e8704c",
-      "Name": "Emergancy Repairs",
+      "Name": "Emergency Repairs",
       "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 2
@@ -305,8 +305,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:02:03.3400043+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:14.5139416+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:34.4766664+00:00",
   "LastUpdate_AppInfo": "2024-10-16T19:57:07.5212792+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:21.16821+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:14.5139695+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:34.4766868+00:00"
 }

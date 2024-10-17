@@ -2,10 +2,10 @@
   "ID": "e37cc2b5002a46bd9d0207d4b5b70d0c",
   "Name": "EBOLA VILLAGE",
   "ProductSlug": "ebola-village-895e2a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T04:57:09.0961611+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:18.8257945+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:38.5579495+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:05.2927105+00:00"
 }

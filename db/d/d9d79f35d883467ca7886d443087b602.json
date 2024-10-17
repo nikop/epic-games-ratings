@@ -2,10 +2,10 @@
   "ID": "d9d79f35d883467ca7886d443087b602",
   "Name": "G.I. Joe Wrath of Cobra",
   "ProductSlug": "gi-joe-wrath-of-cobra-45e4ed",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-26T15:00:00+00:00",
     "PcReleaseDate": "2024-09-26T15:00:00+00:00",
@@ -30,9 +30,123 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-10-17T05:08:35.9073131+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AIR_SUPERIORITY",
+      "SetID": "1g276f8",
+      "Name": "Air Superiority",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETIONIST",
+      "SetID": "1g276f8",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOME_TURF",
+      "SetID": "1g276f8",
+      "Name": "Home Turf",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_HOPPER",
+      "SetID": "1g276f8",
+      "Name": "Island Hopper",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIBERATOR",
+      "SetID": "1g276f8",
+      "Name": "Liberator",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_OF_MADNESS",
+      "SetID": "1g276f8",
+      "Name": "Master of Madness",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOON_WALKER",
+      "SetID": "1g276f8",
+      "Name": "Moon Walker",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEIGHBOURHOOD_WATCH",
+      "SetID": "1g276f8",
+      "Name": "Neighborhood Watch",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REAL_AMERICAN_HERO",
+      "SetID": "1g276f8",
+      "Name": "Real American Hero",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROOKIE",
+      "SetID": "1g276f8",
+      "Name": "Rookie",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SINK_OR_SWIM",
+      "SetID": "1g276f8",
+      "Name": "Sink or Swim",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPECIAL_MISSION_FORCE",
+      "SetID": "1g276f8",
+      "Name": "Special Mission Force",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "URBAN_WARRIOR",
+      "SetID": "1g276f8",
+      "Name": "Urban Warrior",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YO_JOE",
+      "SetID": "1g276f8",
+      "Name": "Yo Joe!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1g276f8",
@@ -43,8 +157,8 @@
   ],
   "FirstSeen": "2024-09-26T20:59:30.2557674+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.4823052+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:41.5349285+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:35.9073116+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:09.1239993+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:18.834804+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:41.5349319+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:24.33778+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:35.9081302+00:00"
 }

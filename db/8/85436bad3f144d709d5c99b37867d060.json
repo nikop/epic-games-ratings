@@ -2,10 +2,10 @@
   "ID": "85436bad3f144d709d5c99b37867d060",
   "Name": "Ekikoi: The Young Miss Falls for the Station Attendant - VAM",
   "ProductSlug": "ekikoi-the-young-miss-falls-for-the-station-attendant-vam-e1ef50",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-02-14T07:00:00+00:00",
     "PcReleaseDate": "2024-02-14T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T21:57:11.49415+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:31.0945267+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:53.4841932+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:43.3833198+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:32.931881+00:00"
 }

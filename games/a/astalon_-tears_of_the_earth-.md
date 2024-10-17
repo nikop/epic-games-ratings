@@ -5,38 +5,38 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 50.00% | ~62 |
-| Beast Quest | 38.00% | ~47 |
-| Orb Gatherer | 37.00% | ~46 |
-| Monster Hunt | 37.00% | ~46 |
-| Space worm! | 37.00% | ~46 |
+| Orb Gatherer | 38.00% | ~48 |
+| Beast Quest | 38.00% | ~48 |
+| Monster Hunt | 38.00% | ~48 |
+| Space worm! | 38.00% | ~48 |
+| Orb Collector | 34.00% | ~42 |
 | Beast Hunter | 34.00% | ~42 |
-| Orb Collector | 33.00% | ~41 |
-| Unmasked! | 33.00% | ~41 |
-| Loot, loot! | 33.00% | ~41 |
-| Twin slayer! | 32.00% | ~39 |
-| Mercenary! | 32.00% | ~39 |
-| Vanquisher! | 31.00% | ~38 |
-| Snakehead! | 31.00% | ~38 |
-| Fly, you fool! | 30.00% | ~37 |
-| Beast Knight | 26.00% | ~32 |
-| Relic Collector | 24.00% | ~30 |
-| Cartographer | 23.00% | ~28 |
-| God of the Tower! | 22.00% | ~27 |
-| Wizard Mastery | 17.00% | ~21 |
+| Unmasked! | 34.00% | ~42 |
+| Loot, loot! | 34.00% | ~42 |
+| Twin slayer! | 33.00% | ~41 |
+| Mercenary! | 33.00% | ~41 |
+| Vanquisher! | 32.00% | ~40 |
+| Snakehead! | 32.00% | ~40 |
+| Fly, you fool! | 30.00% | ~38 |
+| Beast Knight | 28.00% | ~35 |
+| Relic Collector | 23.00% | ~29 |
+| God of the Tower! | 22.00% | ~28 |
+| Cartographer | 22.00% | ~28 |
+| Wizard Mastery | 18.00% | ~22 |
 | Rogue Mastery | 17.00% | ~21 |
-| Destoy all monsters! | 15.00% | ~18 |
-| Fighter Mastery | 14.00% | ~17 |
-| Slay the Monster! | 14.00% | ~17 |
+| Destoy all monsters! | 16.00% | ~20 |
+| Fighter Mastery | 14.00% | ~18 |
+| Slay the Monster! | 14.00% | ~18 |
 | Gorgonslayer Mastery | 11.00% | ~14 |
 | Built for adventure | 11.00% | ~14 |
 | Collector Mastery | 11.00% | ~14 |
 | True Black Knight | 10.00% | ~12 |
 | Freedom Monster | 10.00% | ~12 |
-| No match for me! | 6.00% | ~7 |
-| True Titan | 6.00% | ~7 |
+| No match for me! | 6.00% | ~8 |
+| True Titan | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 677)  
-Completed: 6 (4.88%) (Ranked 139)  
+Progressed: 125 (Ranked 699)  
+Completed: 6 (4.80%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 6 (4.88%) (Ranked 139)
 | 2024-08-09 | 120 | 5 |
 | 2024-08-20 | 121 | 6 |
 | 2024-09-14 | 123 | 6 |
+| 2024-10-17 | 125 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

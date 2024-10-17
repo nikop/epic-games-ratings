@@ -6,59 +6,59 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 78.00% | ~57,297 |
-| Circus Electrique Proudly Presents... | 54.00% | ~39,667 |
-| Grand Opening | 53.00% | ~38,933 |
-| Path of Learning | 52.00% | ~38,198 |
-| Built in a Day | 33.00% | ~24,241 |
-| More Brain Than Brawn | 30.00% | ~22,037 |
-| Perfect Illusion | 20.00% | ~14,692 |
-| Hundred Percent First | 20.00% | ~14,692 |
-| Fan Service | 13.00% | ~9,550 |
-| Dirty Dozen | 12.00% | ~8,815 |
-| Lion Tamer | 10.00% | ~7,346 |
-| Amazing! | 10.00% | ~7,346 |
-| King of District 1 | 9.00% | ~6,611 |
-| Lucky Day | 7.00% | ~5,142 |
-| Bar Brawler | 7.00% | ~5,142 |
-| Flawless Presentation | 7.00% | ~5,142 |
-| One More Thing... | 6.00% | ~4,407 |
-| Time Travel! | 6.00% | ~4,407 |
-| King of District 2 | 6.00% | ~4,407 |
-| Circus Versus Circus | 4.00% | ~2,938 |
-| Hundred Percent Second | 4.00% | ~2,938 |
-| King of District 3 | 4.00% | ~2,938 |
-| Marketing Manager | 4.00% | ~2,938 |
-| Mobile Infantry | 4.00% | ~2,938 |
-| Spirits High | 3.00% | ~2,204 |
-| Around the Clock | 2.00% | ~1,469 |
-| Club Member | 2.00% | ~1,469 |
-| Club Champion | 2.00% | ~1,469 |
-| City Savior | 2.00% | ~1,469 |
-| King of District 4 | 2.00% | ~1,469 |
-| King of District 5 | 2.00% | ~1,469 |
-| Perfect Chemistry | 2.00% | ~1,469 |
-| Last Man Standing | 2.00% | ~1,469 |
-| Accomplished Veteran | 1.00% | ~735 |
-| Hundred Percent Third | 1.00% | ~735 |
-| Circus Maximus | 1.00% | ~735 |
-| Victorian Victor | 1.00% | ~735 |
-| Unmatched Skills | 0.80% | ~588 |
-| King of District 6 | 0.80% | ~588 |
-| Hundred Percent Fourth | 0.70% | ~514 |
-| The Greatest Show | 0.60% | ~441 |
-| Hundred Percent Fifth | 0.50% | ~367 |
-| Grand Slam | 0.40% | ~294 |
-| Devastating Blow | 0.40% | ~294 |
-| Vicious Busters | 0.30% | ~220 |
-| Clown Care | 0.30% | ~220 |
-| Hundred Percent Sixth | 0.20% | ~147 |
-| London Liberator | 0.10% | ~73 |
-| Versatile Tactics | 0.10% | ~73 |
-| Guest Stars | 0.10% | ~73 |
+| Self Defense | 78.00% | ~59,058 |
+| Circus Electrique Proudly Presents... | 54.00% | ~40,886 |
+| Grand Opening | 53.00% | ~40,129 |
+| Path of Learning | 52.00% | ~39,372 |
+| Built in a Day | 33.00% | ~24,986 |
+| More Brain Than Brawn | 30.00% | ~22,714 |
+| Perfect Illusion | 20.00% | ~15,143 |
+| Hundred Percent First | 20.00% | ~15,143 |
+| Fan Service | 13.00% | ~9,843 |
+| Dirty Dozen | 12.00% | ~9,086 |
+| Lion Tamer | 10.00% | ~7,572 |
+| King of District 1 | 10.00% | ~7,572 |
+| Amazing! | 10.00% | ~7,572 |
+| Bar Brawler | 8.00% | ~6,057 |
+| Flawless Presentation | 8.00% | ~6,057 |
+| Lucky Day | 7.00% | ~5,300 |
+| One More Thing... | 6.00% | ~4,543 |
+| Time Travel! | 6.00% | ~4,543 |
+| King of District 2 | 6.00% | ~4,543 |
+| Circus Versus Circus | 4.00% | ~3,029 |
+| Hundred Percent Second | 4.00% | ~3,029 |
+| King of District 3 | 4.00% | ~3,029 |
+| Marketing Manager | 4.00% | ~3,029 |
+| Mobile Infantry | 4.00% | ~3,029 |
+| Club Member | 3.00% | ~2,271 |
+| Spirits High | 3.00% | ~2,271 |
+| Around the Clock | 2.00% | ~1,514 |
+| Club Champion | 2.00% | ~1,514 |
+| City Savior | 2.00% | ~1,514 |
+| King of District 4 | 2.00% | ~1,514 |
+| King of District 5 | 2.00% | ~1,514 |
+| Perfect Chemistry | 2.00% | ~1,514 |
+| Last Man Standing | 2.00% | ~1,514 |
+| Accomplished Veteran | 1.00% | ~757 |
+| Hundred Percent Third | 1.00% | ~757 |
+| Circus Maximus | 1.00% | ~757 |
+| Victorian Victor | 1.00% | ~757 |
+| Unmatched Skills | 0.90% | ~681 |
+| King of District 6 | 0.90% | ~681 |
+| Hundred Percent Fourth | 0.70% | ~530 |
+| The Greatest Show | 0.70% | ~530 |
+| Hundred Percent Fifth | 0.50% | ~379 |
+| Grand Slam | 0.40% | ~303 |
+| Devastating Blow | 0.40% | ~303 |
+| Hundred Percent Sixth | 0.30% | ~227 |
+| Vicious Busters | 0.30% | ~227 |
+| Clown Care | 0.30% | ~227 |
+| London Liberator | 0.10% | ~76 |
+| Versatile Tactics | 0.10% | ~76 |
+| Guest Stars | 0.10% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,458 (Ranked 163)  
-Completed: 28 (0.04%) (Ranked 513)  
+Progressed: 75,715 (Ranked 168)  
+Completed: 31 (0.04%) (Ranked 539)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,6 +147,7 @@ Completed: 28 (0.04%) (Ranked 513)
 | 2024-08-09 | 70,301 | 25 |
 | 2024-08-20 | 71,379 | 25 |
 | 2024-09-14 | 73,458 | 28 |
+| 2024-10-17 | 75,715 | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

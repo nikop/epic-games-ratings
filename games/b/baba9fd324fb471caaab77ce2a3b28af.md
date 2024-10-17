@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terra Atlantus | 23.00% | ~7 |
-| Brute Force | 19.00% | ~6 |
+| Terra Atlantus | 19.00% | ~7 |
+| Brute Force | 17.00% | ~6 |
 | Under the Radar | 6.00% | ~2 |
 | No Harm Done | 6.00% | ~2 |
 | Probably Just the Wind | 6.00% | ~2 |
@@ -35,8 +35,8 @@
 | Backfired | 0.00% | ~0 |
 | The Great Gabber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 870)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 36 (Ranked 889)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,3 +44,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 6 | 0 |
 | 2024-08-09 | 23 | 0 |
 | 2024-09-14 | 31 | 0 |
+| 2024-10-17 | 36 | 0 |

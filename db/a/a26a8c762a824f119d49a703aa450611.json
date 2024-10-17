@@ -2,10 +2,10 @@
   "ID": "a26a8c762a824f119d49a703aa450611",
   "Name": "Language Learning Simulator : Alphabet",
   "ProductSlug": "language-learning-simulator-alphabet-00beee",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-11T22:00:00+00:00",
     "PcReleaseDate": "2024-03-11T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T03:16:55.1171374+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:57.9286694+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:04.7588905+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:19.8869908+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:09.0013932+00:00"
 }

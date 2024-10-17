@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Butcher | 50.00% | ~1 |
-| Kärrhäxan | 50.00% | ~1 |
-| Näcken | 50.00% | ~1 |
-| Pesta | 50.00% | ~1 |
-| Bramble | 50.00% | ~1 |
-| Skogsrået | 50.00% | ~1 |
-| Book worm | 50.00% | ~1 |
-| Witchcraft | 50.00% | ~1 |
-| Gnome Figurine | 50.00% | ~1 |
-| Lyktgubben Figurine | 50.00% | ~1 |
-| Näcken Figurine | 50.00% | ~1 |
-| Pesta Figurine | 50.00% | ~1 |
-| Lillemor Figurine | 50.00% | ~1 |
-| Skogsrået Figurine | 50.00% | ~1 |
-| Troll Figurine | 50.00% | ~1 |
-| Tuva Figurine | 50.00% | ~1 |
-| Bouncy | 50.00% | ~1 |
-| Proper burial | 50.00% | ~1 |
-| Bait | 50.00% | ~1 |
+| Butcher | 33.00% | ~1 |
+| Kärrhäxan | 33.00% | ~1 |
+| Näcken | 33.00% | ~1 |
+| Pesta | 33.00% | ~1 |
+| Bramble | 33.00% | ~1 |
+| Skogsrået | 33.00% | ~1 |
+| Book worm | 33.00% | ~1 |
+| Witchcraft | 33.00% | ~1 |
+| Collector | 33.00% | ~1 |
+| Gnome Figurine | 33.00% | ~1 |
+| Lyktgubben Figurine | 33.00% | ~1 |
+| Näcken Figurine | 33.00% | ~1 |
+| Pesta Figurine | 33.00% | ~1 |
+| Lillemor Figurine | 33.00% | ~1 |
+| Skogsrået Figurine | 33.00% | ~1 |
+| Troll Figurine | 33.00% | ~1 |
+| Tuva Figurine | 33.00% | ~1 |
+| Bouncy | 33.00% | ~1 |
+| Proper burial | 33.00% | ~1 |
+| Bait | 33.00% | ~1 |
 | Goal! | 0.00% | ~0 |
 | The Mountain King | 0.00% | ~0 |
-| Collector | 0.00% | ~0 |
 | Home Again | 0.00% | ~0 |
 | Kärrhäxan Figurine | 0.00% | ~0 |
 | Lemus Figurine | 0.00% | ~0 |
@@ -36,12 +36,13 @@ Rating: 4.55 (Ranked 608)
 | Savior | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,118)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 3 (Ranked 1,143)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-09 | 2 | 0 |
+| 2024-10-17 | 3 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

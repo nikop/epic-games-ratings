@@ -5,29 +5,29 @@ Rating: 4.65 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 92.00% | ~7,507 |
-| Learn the Ropes | 46.00% | ~3,754 |
-| Practice Makes Postmasters | 21.00% | ~1,714 |
-| Working for the Kiweekend | 20.00% | ~1,632 |
-| Fun in the Bungalow Basin Sun | 16.00% | ~1,306 |
-| A Startling Discovery | 15.00% | ~1,224 |
-| Pumpkins and Postage Stamps | 6.00% | ~490 |
-| Kiwinter Kiwonderland | 2.00% | ~163 |
-| Summer Postmasters | 0.90% | ~73 |
-| Secrets of the Telepost | 0.50% | ~41 |
-| Autumn Postmasters | 0.50% | ~41 |
-| Stocking Up | 0.30% | ~24 |
-| Against All Odds | 0.20% | ~16 |
-| Postmasters General | 0.20% | ~16 |
-| Winter Postmasters | 0.20% | ~16 |
-| Off to the Races | 0.10% | ~8 |
-| KeyWe are the Champions | 0.10% | ~8 |
-| Tournamasters | 0.10% | ~8 |
-| Fully Stocked | 0.10% | ~8 |
-| Working Overtime | 0.10% | ~8 |
+| You're Hired | 92.00% | ~11,623 |
+| Learn the Ropes | 47.00% | ~5,938 |
+| Practice Makes Postmasters | 22.00% | ~2,779 |
+| Working for the Kiweekend | 21.00% | ~2,653 |
+| Fun in the Bungalow Basin Sun | 18.00% | ~2,274 |
+| A Startling Discovery | 17.00% | ~2,148 |
+| Pumpkins and Postage Stamps | 7.00% | ~884 |
+| Kiwinter Kiwonderland | 2.00% | ~253 |
+| Summer Postmasters | 1.00% | ~126 |
+| Secrets of the Telepost | 0.50% | ~63 |
+| Autumn Postmasters | 0.50% | ~63 |
+| Stocking Up | 0.40% | ~51 |
+| Against All Odds | 0.20% | ~25 |
+| Off to the Races | 0.20% | ~25 |
+| Postmasters General | 0.20% | ~25 |
+| Working Overtime | 0.20% | ~25 |
+| Winter Postmasters | 0.20% | ~25 |
+| KeyWe are the Champions | 0.10% | ~13 |
+| Tournamasters | 0.10% | ~13 |
+| Fully Stocked | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,160 (Ranked 268)  
-Completed: 4 (0.05%) (Ranked 501)  
+Progressed: 12,634 (Ranked 256)  
+Completed: 10 (0.08%) (Ranked 495)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,6 +124,7 @@ Completed: 4 (0.05%) (Ranked 501)
 | 2024-08-09 | 447 | 1 |
 | 2024-08-20 | 457 | 1 |
 | 2024-09-14 | 8,160 | 4 |
+| 2024-10-17 | 12,634 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

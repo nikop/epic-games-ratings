@@ -2,10 +2,10 @@
   "ID": "ffdc5ced10554d2ab6f7ab1b920573a4",
   "Name": "YouCanDomino",
   "ProductSlug": "youcandomino-04e596",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-22T15:00:00+00:00",
     "PcReleaseDate": "2023-02-06T15:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-09-25T16:58:32.3874611+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:14.1691194+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:41.1749536+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:47.4497597+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:10.0400455+00:00"
 }

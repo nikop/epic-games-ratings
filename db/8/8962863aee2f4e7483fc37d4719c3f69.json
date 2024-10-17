@@ -5,10 +5,10 @@
   "Ranking_Rating": 1253,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
     "PcReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -2712,11 +2712,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "elo8f4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:54.7717381+00:00",
   "LastChanged": "2024-10-15T23:57:25.2600576+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:54.7717346+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:13.1445963+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:19.2802294+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:28.1561061+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:54.7717397+00:00"
 }

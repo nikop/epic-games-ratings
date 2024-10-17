@@ -2,10 +2,10 @@
   "ID": "945620b4eca746e0991d17d4ea450d6a",
   "Name": "The Karate Kid Street Rumble",
   "ProductSlug": "the-karate-kid-street-rumble-630b37",
-  "Ranking_EOS_Progress": 1024,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1046,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-20T16:00:00+00:00",
     "PcReleaseDate": "2024-09-20T16:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-10-09T19:01:59.7313919+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:15.7005627+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -123,9 +128,9 @@
       "ID": "COMPLETE_LEVEL_1",
       "SetID": "6d0dpll",
       "Name": "Sand got everywhere",
-      "Percentage": 88,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_LEVEL_10",
@@ -155,7 +160,7 @@
       "ID": "COMPLETE_LEVEL_2",
       "SetID": "6d0dpll",
       "Name": "School is tough, man",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -163,7 +168,7 @@
       "ID": "COMPLETE_LEVEL_3",
       "SetID": "6d0dpll",
       "Name": "Boo!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -171,7 +176,7 @@
       "ID": "COMPLETE_LEVEL_4",
       "SetID": "6d0dpll",
       "Name": "Money Gauntlet",
-      "Percentage": 13,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -251,17 +256,17 @@
       "ID": "GET_S_PLUS_RATING",
       "SetID": "6d0dpll",
       "Name": "Perfectionist",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GET_S_RATING",
       "SetID": "6d0dpll",
       "Name": "Like the Wind",
-      "Percentage": 75,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GET_S_RATING_ALL_LEVELS",
@@ -420,13 +425,13 @@
     {
       "ID": "6d0dpll",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-10-09T19:01:59.7313997+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:01:59.7313914+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:15.7005622+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:55.3118653+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:09.5391591+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:01:59.7323419+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:15.7005968+00:00"
 }

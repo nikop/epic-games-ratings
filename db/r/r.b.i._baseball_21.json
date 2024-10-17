@@ -2,10 +2,10 @@
   "ID": "bbb19a1dae4d4a46991533cfabd04383",
   "Name": "DevMtForakerAudience",
   "ProductSlug": "rbi-baseball-21",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T17:57:11.214333+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:54.8744624+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:48.4032549+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:46.3709433+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:26.818675+00:00"
 }

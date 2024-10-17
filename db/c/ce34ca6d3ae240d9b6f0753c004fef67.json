@@ -2,10 +2,10 @@
   "ID": "ce34ca6d3ae240d9b6f0753c004fef67",
   "Name": "Carpathian Survival",
   "ProductSlug": "carpathian-survival-fbd84c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-10-11T17:00:00+00:00",
     "PcReleaseDate": "2024-10-11T17:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T19:57:07.8082879+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:15.6661462+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:12.2991941+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:30.7676513+00:00"
 }

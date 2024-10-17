@@ -5,10 +5,10 @@
   "Ranking_Rating": 946,
   "Ranking_Popularity": 680,
   "Ranking_PopularitySum": 607,
-  "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 129,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-23T17:00:00+00:00",
     "PcReleaseDate": "2024-07-23T17:00:00+00:00",
@@ -493,9 +493,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 126839,
+  "EOS_Progressed": 127409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -512,6 +512,11 @@
     {
       "Time": "2024-10-09T19:02:59.0128652+00:00",
       "NumProgressed": 126839,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:30.8156259+00:00",
+      "NumProgressed": 127409,
       "NumCompleted": 0
     }
   ],
@@ -531,9 +536,9 @@
       "ID": "ALL_YOUR_BOUILLABAISSE",
       "SetID": "3el58oc",
       "Name": "All Your Bouillabaisse Are Belong to Us",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 382
     },
     {
       "ID": "BEASTMASTER",
@@ -541,7 +546,7 @@
       "Name": "Beastmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7610
+      "UsersEstimate": 7645
     },
     {
       "ID": "BIG_DIPPER",
@@ -549,7 +554,7 @@
       "Name": "Big Dipper",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 60883
+      "UsersEstimate": 61156
     },
     {
       "ID": "BON_VIVANT",
@@ -557,7 +562,7 @@
       "Name": "Bon Vivant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30441
+      "UsersEstimate": 30578
     },
     {
       "ID": "BROTHSPORT",
@@ -565,7 +570,7 @@
       "Name": "Brothsport",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 35515
+      "UsersEstimate": 35675
     },
     {
       "ID": "CHALLENGE_A_DAY",
@@ -581,7 +586,7 @@
       "Name": "Chiliad",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "CREATURE_OF_HABIT",
@@ -597,7 +602,7 @@
       "Name": "Death from Above",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3822
     },
     {
       "ID": "DILETTANTE",
@@ -605,7 +610,7 @@
       "Name": "Dilettante",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 114155
+      "UsersEstimate": 114668
     },
     {
       "ID": "DRESSED_TO_CHILL",
@@ -613,7 +618,7 @@
       "Name": "Dressed to Chill",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 510
     },
     {
       "ID": "FANCY_PANTS",
@@ -629,7 +634,7 @@
       "Name": "Flavor of the Month",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "FRESH_MEAT",
@@ -637,7 +642,7 @@
       "Name": "Fresh Meat",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 95129
+      "UsersEstimate": 95557
     },
     {
       "ID": "GLOBETROTTER",
@@ -645,7 +650,7 @@
       "Name": "Globetrotter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3822
     },
     {
       "ID": "HARD_DAYS_WORK",
@@ -653,7 +658,7 @@
       "Name": "Hard Day\u0027s Work",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 510
     },
     {
       "ID": "HIT_EM_FOR_SIX",
@@ -661,7 +666,7 @@
       "Name": "Hit em\u0027 for Six",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "HOLY_SPLIT",
@@ -669,7 +674,7 @@
       "Name": "Holy Split!!!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 43125
+      "UsersEstimate": 43319
     },
     {
       "ID": "HUMBLE_FLEX",
@@ -701,7 +706,7 @@
       "Name": "My Immortal",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11416
+      "UsersEstimate": 11467
     },
     {
       "ID": "NICE",
@@ -717,7 +722,7 @@
       "Name": "Nice to Meat You",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "OLD_ENOUGH",
@@ -725,7 +730,7 @@
       "Name": "Old Enough",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "PERFECTION",
@@ -733,7 +738,7 @@
       "Name": "Perfection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1147
     },
     {
       "ID": "POP_GOES_THE_WEASEL",
@@ -741,7 +746,7 @@
       "Name": "Pop Goes the Weasel",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 21563
+      "UsersEstimate": 21660
     },
     {
       "ID": "POT_SHOT",
@@ -749,7 +754,7 @@
       "Name": "Pot Shot",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 93861
+      "UsersEstimate": 94283
     },
     {
       "ID": "POULTRY_IN_MOTION",
@@ -757,7 +762,7 @@
       "Name": "Poultry in Motion",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "QUINCEANERA",
@@ -765,7 +770,7 @@
       "Name": "Quincea\u00F1era!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 764
     },
     {
       "ID": "SEASONED_VETERAN",
@@ -773,7 +778,7 @@
       "Name": "Seasoned Veteran",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 634
+      "UsersEstimate": 637
     },
     {
       "ID": "SEASONING_GREETINGS",
@@ -797,7 +802,7 @@
       "Name": "Soup Supplier",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "SUPPLY_AND_DEMAND",
@@ -805,7 +810,7 @@
       "Name": "Soupply and Demand",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 637
     },
     {
       "ID": "TALKIN_ABOUT_PRACTICE",
@@ -813,23 +818,23 @@
       "Name": "Talkin\u0027 About Practice",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1274
     },
     {
       "ID": "TEAMWORK_MAKES_MEME",
       "SetID": "3el58oc",
       "Name": "Teamwork Makes the Meme Work",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 83714
+      "UsersEstimate": 85364
     },
     {
       "ID": "THE_GOOSE_IS_LOOSE",
       "SetID": "3el58oc",
       "Name": "The Goose is Loose",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 382
     },
     {
       "ID": "THE_SOUP_SAVIOR",
@@ -845,7 +850,7 @@
       "Name": "Three-peat",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3822
     },
     {
       "ID": "WEEK_SAUCE",
@@ -853,7 +858,7 @@
       "Name": "Week Sauce",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "WISECRACKER",
@@ -861,14 +866,14 @@
       "Name": "Wisecracker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     }
   ],
   "AchievementSets": [
     {
       "ID": "3el58oc",
       "IsBase": true,
-      "Progressed": 126839,
+      "Progressed": 127409,
       "Completed": 0
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
   "LastChanged": "2024-10-16T14:58:47.4031557+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:02:59.0128646+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:30.8156256+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:50.5987506+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:59.2446238+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:59.0128977+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:30.8156497+00:00"
 }

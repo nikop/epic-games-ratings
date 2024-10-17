@@ -5,10 +5,10 @@
   "Ranking_Rating": 305,
   "Ranking_Popularity": 638,
   "Ranking_PopularitySum": 571,
-  "Ranking_EOS_Progress": 250,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -749,9 +749,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 11313,
+  "EOS_Progressed": 11456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10199,6 +10199,11 @@
       "Time": "2024-10-09T19:05:10.8303104+00:00",
       "NumProgressed": 11313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:16:05.5726671+00:00",
+      "NumProgressed": 11456,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -10211,7 +10216,7 @@
       "Name": "First Love",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5317
+      "UsersEstimate": 5384
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -10219,7 +10224,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5155
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -10227,7 +10232,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2177
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -10235,7 +10240,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1031
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -10243,7 +10248,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2406
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -10251,7 +10256,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 687
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -10259,7 +10264,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -10267,7 +10272,7 @@
       "Name": "I Want One Too!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2635
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -10275,15 +10280,15 @@
       "Name": "Is It the Right Size?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1260
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3437
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -10291,7 +10296,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -10299,7 +10304,7 @@
       "Name": "Legendary!!!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2635
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -10315,7 +10320,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2979
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -10323,7 +10328,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -10339,7 +10344,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 687
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -10347,7 +10352,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 458
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -10355,7 +10360,7 @@
       "Name": "Back in Blighty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -10363,7 +10368,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 687
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -10371,7 +10376,7 @@
       "Name": "Romantic Races",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 573
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -10379,7 +10384,7 @@
       "Name": "Breathtaking Views",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -10387,7 +10392,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1489
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -10395,7 +10400,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -10411,7 +10416,7 @@
       "Name": "Evangelist",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1031
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -10419,7 +10424,7 @@
       "Name": "Clean Race",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5317
+      "UsersEstimate": 5384
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -10435,7 +10440,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -10443,7 +10448,7 @@
       "Name": "Globe-trotter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -10451,7 +10456,7 @@
       "Name": "All My Own Toys",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -10467,7 +10472,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2177
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -10475,7 +10480,7 @@
       "Name": "Next Level",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -10499,7 +10504,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3895
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -10507,7 +10512,7 @@
       "Name": "Eat My Dust",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5843
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -10515,7 +10520,7 @@
       "Name": "Champagne Spray",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3895
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -10523,7 +10528,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -10531,7 +10536,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 573
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -10539,7 +10544,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -10547,7 +10552,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -10555,7 +10560,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -10563,7 +10568,7 @@
       "Name": "Rivals to the End",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3780
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -10602,7 +10607,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 11313,
+      "Progressed": 11456,
       "Completed": 0
     }
   ],
@@ -10610,8 +10615,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-10-16T08:58:11.7126891+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:05:10.8303098+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:05.5726667+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:28.0108809+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:13.2813919+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:05:10.8303793+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:35.4672832+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:05.57275+00:00"
 }

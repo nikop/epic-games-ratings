@@ -6,110 +6,110 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 24.00% | ~1,329 |
-| A new beginning | 23.00% | ~1,274 |
-| Tax-man I | 22.00% | ~1,219 |
-| Friends from the past | 19.00% | ~1,052 |
-| I like to build stuff... I | 17.00% | ~942 |
-| Builder I | 15.00% | ~831 |
-| Tax-man II | 15.00% | ~831 |
-| A time consuming game I | 15.00% | ~831 |
-| An honorable Governor I | 14.00% | ~775 |
-| Researcher | 14.00% | ~775 |
-| Time for some trade | 14.00% | ~775 |
-| Full-time job I | 13.00% | ~720 |
-| Bread for the people I | 12.00% | ~665 |
-| I like to build stuff... II | 12.00% | ~665 |
-| Completionist I | 12.00% | ~665 |
-| Full-time job II | 11.00% | ~609 |
-| A time consuming game II | 11.00% | ~609 |
-| Knee deep in snow | 11.00% | ~609 |
-| Tools of the trade I | 10.00% | ~554 |
-| The King's new clothes I | 9.00% | ~499 |
-| Builder II | 9.00% | ~499 |
-| Tax-man III | 9.00% | ~499 |
-| Bread for the people II | 8.00% | ~443 |
-| I like to build stuff... III | 8.00% | ~443 |
-| Conflicting parties | 8.00% | ~443 |
-| An honorable Governor II | 7.00% | ~388 |
-| Full-time job III | 7.00% | ~388 |
-| Tax-man IV | 7.00% | ~388 |
-| A time consuming game III | 7.00% | ~388 |
-| Not a small trader anymore | 6.00% | ~332 |
-| Another one bites the dust | 6.00% | ~332 |
-| I like to build stuff... IV | 6.00% | ~332 |
-| Experienced decorator | 6.00% | ~332 |
-| My precious... I | 6.00% | ~332 |
-| Tools of the trade II | 6.00% | ~332 |
-| Bread for the people III | 5.00% | ~277 |
-| The King's new clothes II | 5.00% | ~277 |
-| Saint Florian | 5.00% | ~277 |
-| Cosmas and Damian | 5.00% | ~277 |
-| Out of the frying pan | 5.00% | ~277 |
-| I like to build stuff... V | 4.00% | ~222 |
-| My precious... II | 4.00% | ~222 |
-| Builder III | 4.00% | ~222 |
-| A time consuming game IV | 4.00% | ~222 |
-| The Art of War | 3.00% | ~166 |
-| Five brews are a schnitzel | 3.00% | ~166 |
-| The King's new clothes III | 3.00% | ~166 |
-| Survivalist | 3.00% | ~166 |
-| My precious... III | 3.00% | ~166 |
-| Plague strikes! | 3.00% | ~166 |
-| Completionist II | 3.00% | ~166 |
-| Genius | 3.00% | ~166 |
-| I've been everywhere V | 3.00% | ~166 |
-| Tools of the trade III | 3.00% | ~166 |
-| When there's fire... | 2.00% | ~111 |
-| Lord of War | 2.00% | ~111 |
-| Builder IV | 2.00% | ~111 |
-| An honorable Governor III | 2.00% | ~111 |
-| Completionist III | 2.00% | ~111 |
-| Only the sausage has two ends. | 2.00% | ~111 |
-| Reunification | 2.00% | ~111 |
-| Treat her well… | 2.00% | ~111 |
-| I've been everywhere II | 2.00% | ~111 |
-| I've been everywhere I | 2.00% | ~111 |
-| Tax-man V | 2.00% | ~111 |
-| A time consuming game V | 2.00% | ~111 |
-| Builder V | 1.00% | ~55 |
-| Buried | 1.00% | ~55 |
-| Ten-Hut! | 1.00% | ~55 |
-| Craftsmen challenge | 1.00% | ~55 |
-| Penny pincher | 1.00% | ~55 |
-| I've been everywhere VI | 1.00% | ~55 |
-| The wood shortage | 1.00% | ~55 |
+| Eureka! | 25.00% | ~1,396 |
+| Tax-man I | 23.00% | ~1,284 |
+| A new beginning | 23.00% | ~1,284 |
+| Friends from the past | 19.00% | ~1,061 |
+| I like to build stuff... I | 18.00% | ~1,005 |
+| Builder I | 15.00% | ~837 |
+| Tax-man II | 15.00% | ~837 |
+| A time consuming game I | 15.00% | ~837 |
+| An honorable Governor I | 14.00% | ~782 |
+| Full-time job I | 14.00% | ~782 |
+| Researcher | 14.00% | ~782 |
+| Time for some trade | 14.00% | ~782 |
+| Completionist I | 13.00% | ~726 |
+| Bread for the people I | 12.00% | ~670 |
+| I like to build stuff... II | 12.00% | ~670 |
+| A time consuming game II | 12.00% | ~670 |
+| Full-time job II | 11.00% | ~614 |
+| Knee deep in snow | 11.00% | ~614 |
+| Tax-man III | 10.00% | ~558 |
+| Tools of the trade I | 10.00% | ~558 |
+| I like to build stuff... III | 9.00% | ~502 |
+| The King's new clothes I | 9.00% | ~502 |
+| Builder II | 9.00% | ~502 |
+| Conflicting parties | 9.00% | ~502 |
+| Bread for the people II | 8.00% | ~447 |
+| An honorable Governor II | 8.00% | ~447 |
+| Tax-man IV | 8.00% | ~447 |
+| Not a small trader anymore | 7.00% | ~391 |
+| Experienced decorator | 7.00% | ~391 |
+| My precious... I | 7.00% | ~391 |
+| Full-time job III | 7.00% | ~391 |
+| A time consuming game III | 7.00% | ~391 |
+| Another one bites the dust | 6.00% | ~335 |
+| I like to build stuff... IV | 6.00% | ~335 |
+| Tools of the trade II | 6.00% | ~335 |
+| Bread for the people III | 5.00% | ~279 |
+| The King's new clothes II | 5.00% | ~279 |
+| Saint Florian | 5.00% | ~279 |
+| My precious... II | 5.00% | ~279 |
+| Cosmas and Damian | 5.00% | ~279 |
+| A time consuming game IV | 5.00% | ~279 |
+| Out of the frying pan | 5.00% | ~279 |
+| Five brews are a schnitzel | 4.00% | ~223 |
+| I like to build stuff... V | 4.00% | ~223 |
+| Builder III | 4.00% | ~223 |
+| Completionist II | 4.00% | ~223 |
+| Genius | 4.00% | ~223 |
+| I've been everywhere V | 4.00% | ~223 |
+| Tools of the trade III | 4.00% | ~223 |
+| The Art of War | 3.00% | ~167 |
+| The King's new clothes III | 3.00% | ~167 |
+| Survivalist | 3.00% | ~167 |
+| My precious... III | 3.00% | ~167 |
+| Plague strikes! | 3.00% | ~167 |
+| When there's fire... | 2.00% | ~112 |
+| Lord of War | 2.00% | ~112 |
+| Builder IV | 2.00% | ~112 |
+| An honorable Governor III | 2.00% | ~112 |
+| Completionist III | 2.00% | ~112 |
+| Only the sausage has two ends. | 2.00% | ~112 |
+| Reunification | 2.00% | ~112 |
+| Treat her well… | 2.00% | ~112 |
+| I've been everywhere II | 2.00% | ~112 |
+| I've been everywhere I | 2.00% | ~112 |
+| Tax-man V | 2.00% | ~112 |
+| A time consuming game V | 2.00% | ~112 |
+| Builder V | 1.00% | ~56 |
+| Buried | 1.00% | ~56 |
+| Ten-Hut! | 1.00% | ~56 |
+| Craftsmen challenge | 1.00% | ~56 |
+| Little place in the country | 1.00% | ~56 |
+| Penny pincher | 1.00% | ~56 |
+| I've been everywhere VI | 1.00% | ~56 |
+| The wood shortage | 1.00% | ~56 |
 | Last man standing | 0.90% | ~50 |
+| I've been everywhere III | 0.90% | ~50 |
+| Made my choice | 0.90% | ~50 |
+| I've been everywhere VII | 0.90% | ~50 |
+| Impregnable | 0.90% | ~50 |
 | To serve and protect | 0.90% | ~50 |
-| I've been everywhere III | 0.80% | ~44 |
-| Little place in the country | 0.80% | ~44 |
-| Made my choice | 0.80% | ~44 |
-| An honorable departure | 0.80% | ~44 |
-| I've been everywhere VII | 0.80% | ~44 |
-| Impregnable | 0.80% | ~44 |
-| Governor-elect | 0.70% | ~39 |
-| I've been everywhere VIII | 0.70% | ~39 |
+| I've been everywhere IV | 0.80% | ~45 |
+| Governor-elect | 0.80% | ~45 |
+| I've been everywhere VIII | 0.80% | ~45 |
+| I've been everywhere IX | 0.80% | ~45 |
+| An honorable departure | 0.80% | ~45 |
+| Panacea | 0.70% | ~39 |
+| I've been everywhere X | 0.70% | ~39 |
+| You shall not pass | 0.70% | ~39 |
+| It went unnoticed | 0.60% | ~33 |
 | Brew master | 0.60% | ~33 |
 | Negotiator | 0.60% | ~33 |
-| Panacea | 0.60% | ~33 |
-| I've been everywhere IV | 0.60% | ~33 |
-| I've been everywhere IX | 0.60% | ~33 |
-| I've been everywhere X | 0.60% | ~33 |
-| You shall not pass | 0.60% | ~33 |
-| It went unnoticed | 0.50% | ~28 |
+| War-zone | 0.60% | ~33 |
+| Waterways | 0.60% | ~33 |
+| Malediction | 0.50% | ~28 |
+| Tired by festival | 0.50% | ~28 |
+| Chief Inspector | 0.50% | ~28 |
 | LEGEN… wait for it… DARY | 0.50% | ~28 |
-| War-zone | 0.50% | ~28 |
-| Waterways | 0.50% | ~28 |
-| Malediction | 0.40% | ~22 |
-| Tired by festival | 0.40% | ~22 |
-| Chief Inspector | 0.40% | ~22 |
 | Good luck miner! | 0.10% | ~6 |
 | Just let it burn! | 0.10% | ~6 |
 | Now everyone is satisfied | 0.10% | ~6 |
 | We can rebuild it! | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,539 (Ranked 286)  
-Completed: 4 (0.07%) (Ranked 482)  
+Progressed: 5,583 (Ranked 295)  
+Completed: 4 (0.07%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,6 +281,7 @@ Completed: 4 (0.07%) (Ranked 482)
 | 2024-06-17 | 4,653 | 4 |
 | 2024-08-09 | 4,710 | 4 |
 | 2024-09-14 | 5,539 | 4 |
+| 2024-10-17 | 5,583 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

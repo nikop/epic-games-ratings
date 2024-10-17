@@ -5,10 +5,10 @@
   "Ranking_Rating": 361,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -351,9 +351,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2024-10-09T19:03:53.0163846+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:44.8069945+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2657,7 +2662,7 @@
       "Name": "Act I Complete",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2681,7 +2686,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2689,7 +2694,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2697,7 +2702,7 @@
       "Name": "A successful procedure!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -2729,7 +2734,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2737,7 +2742,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2753,7 +2758,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2761,7 +2766,7 @@
       "Name": "Disagree and Commit",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIRE_AND_BRIMSTONE",
@@ -2793,7 +2798,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2801,7 +2806,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2809,7 +2814,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2817,7 +2822,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2825,7 +2830,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2833,7 +2838,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2857,7 +2862,7 @@
       "Name": "The Weight of the World",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2865,14 +2870,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1252,
       "Completed": 0
     }
   ],
@@ -2880,8 +2885,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-09-26T22:57:36.5211023+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:53.0163838+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:44.806994+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:17.297808+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:06.1494014+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:53.0164108+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:04.2261251+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:44.8070239+00:00"
 }

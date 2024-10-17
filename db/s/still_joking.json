@@ -2,10 +2,10 @@
   "ID": "8691694cd83847b09a6be341f648f54b",
   "Name": "Still Joking",
   "ProductSlug": "still-joking-727db4",
-  "Ranking_EOS_Progress": 968,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-16T17:00:00+00:00",
     "PcReleaseDate": "2024-05-16T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-09-14T14:19:10.9154509+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:17.3258081+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:12:48.2831339+00:00",
@@ -54,23 +59,23 @@
       "ID": "02c40790-b17c-47e2-92ae-3fb1a38aba84",
       "SetID": "47ln145",
       "Name": "Doctor Who",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "070dd836-1e13-47d6-b6d7-d07f768ebad1",
       "SetID": "47ln145",
       "Name": "Please Mr. Postman",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "0b5231da-4339-4275-bb8a-2b588974a0b9",
       "SetID": "47ln145",
       "Name": "A Place We Set Afire",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -78,23 +83,23 @@
       "ID": "0b5544fc-1f3c-4306-89b9-9f9344bb669c",
       "SetID": "47ln145",
       "Name": "I\u0027m Not A Warrior",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "0cfd96ab-4b4f-43ad-a5f1-143675426a75",
-      "SetID": "47ln145",
-      "Name": "Good Riddance",
       "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
+      "ID": "0cfd96ab-4b4f-43ad-a5f1-143675426a75",
+      "SetID": "47ln145",
+      "Name": "Good Riddance",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "18f818e4-9a49-460e-aa67-a8db08be43d4",
       "SetID": "47ln145",
       "Name": "It Just Feels",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -110,49 +115,49 @@
       "ID": "1bd39b48-997b-46c4-8e72-8653105d3784",
       "SetID": "47ln145",
       "Name": "What\u0027s Coming To Me",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "1fe0ea10-4bf6-4117-911d-a8dfd8103a54",
       "SetID": "47ln145",
       "Name": "Choose Your... Dessert",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "212f8354-588d-4233-8bd4-1692543f7463",
       "SetID": "47ln145",
       "Name": "These Are The Wrong Mushrooms",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "21552b99-2f22-4e4b-a6a5-66d64ae7a348",
       "SetID": "47ln145",
       "Name": "Stockholm Hearts",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "22c98169-d87a-4e78-948f-2cba108c652d",
       "SetID": "47ln145",
       "Name": "A Kind Of Magic",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "22d0aa7f-8042-4f23-a92c-6a14102e9b51",
       "SetID": "47ln145",
       "Name": "Ain\u2019t No Way",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "23865812-fca1-4620-b60f-f50194aead65",
@@ -166,7 +171,7 @@
       "ID": "2471d735-0df7-41ff-b1e4-d1c728a8e6e7",
       "SetID": "47ln145",
       "Name": "Still Loving You",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -174,15 +179,15 @@
       "ID": "25a7b2f5-588c-4a96-8c6a-a0b8dd8cb300",
       "SetID": "47ln145",
       "Name": "The Sound Of Silence",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "27929b4c-7584-4a68-9e8d-423d93c59a9c",
       "SetID": "47ln145",
       "Name": "Where the Wild Wolves Have Gone",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "27c6bc37-3b00-44bb-86ce-83e2dcaca960",
       "SetID": "47ln145",
       "Name": "Can\u0027t Help Falling In Love",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "2c1262b3-af16-4772-922d-b9d8fac6757e",
       "SetID": "47ln145",
       "Name": "Forever For Now",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -206,39 +211,39 @@
       "ID": "318aa90a-533f-46fe-af86-250ce2567636",
       "SetID": "47ln145",
       "Name": "Fragile",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3446ec40-7129-4a57-9993-55b7d0307133",
       "SetID": "47ln145",
       "Name": "Drama Queen",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "3681887a-72de-48cb-9952-c08c864adea6",
       "SetID": "47ln145",
       "Name": "Man In the Mirror",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "3ec2b64b-9155-4648-b35b-2aa5aaf76efa",
       "SetID": "47ln145",
       "Name": "Who Is Rica?",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "3ed26404-d373-45e5-b41b-5c442df4c867",
       "SetID": "47ln145",
       "Name": "Pain",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -254,81 +259,81 @@
       "ID": "428b3803-17b9-41b1-967b-4ec5d4c08404",
       "SetID": "47ln145",
       "Name": "She Smiled Slightly",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "44b334da-8413-4dfe-bf12-3d3969bd26d2",
-      "SetID": "47ln145",
-      "Name": "Take A Hint",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "44dcc1eb-8fcb-4016-8d97-77a46759ecf0",
-      "SetID": "47ln145",
-      "Name": "Dream On",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "4a103119-3e4e-4a79-9231-685163bbd692",
-      "SetID": "47ln145",
-      "Name": "Goddess of Destruction",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "4aaad8d7-ca38-441a-86c3-970a4b046646",
-      "SetID": "47ln145",
-      "Name": "I Wanna Be Your Slave",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "4b8a943d-283f-4f80-8c41-119a9c13dcba",
-      "SetID": "47ln145",
-      "Name": "Mr. Sandman",
       "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
+      "ID": "44b334da-8413-4dfe-bf12-3d3969bd26d2",
+      "SetID": "47ln145",
+      "Name": "Take A Hint",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "44dcc1eb-8fcb-4016-8d97-77a46759ecf0",
+      "SetID": "47ln145",
+      "Name": "Dream On",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "4a103119-3e4e-4a79-9231-685163bbd692",
+      "SetID": "47ln145",
+      "Name": "Goddess of Destruction",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "4aaad8d7-ca38-441a-86c3-970a4b046646",
+      "SetID": "47ln145",
+      "Name": "I Wanna Be Your Slave",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "4b8a943d-283f-4f80-8c41-119a9c13dcba",
+      "SetID": "47ln145",
+      "Name": "Mr. Sandman",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "4ea7d9ae-9188-4152-9e2a-b0f6ff7aeba0",
       "SetID": "47ln145",
       "Name": "Cut Me Loose",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4fcc91fe-c871-4b3a-822f-fac56ac09f9e",
       "SetID": "47ln145",
       "Name": "Into The Dissonance",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "51e96390-1e17-4dec-827b-7f22b99e42dc",
       "SetID": "47ln145",
       "Name": "Under The Pressure",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "539d6f55-27c8-46fb-afb6-d781a61f5816",
       "SetID": "47ln145",
       "Name": "Get Lucky",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "53a321c0-8548-4cf2-9ccc-00c446811df5",
@@ -342,23 +347,23 @@
       "ID": "55a4401b-cf2c-4305-aecd-db5820c6ea87",
       "SetID": "47ln145",
       "Name": "Freeze",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "560eb98d-233d-474d-98ad-21c87b1245e0",
       "SetID": "47ln145",
       "Name": "Only The Beginning",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "58803e70-02ef-4604-abc2-272fc3fa6a54",
       "SetID": "47ln145",
       "Name": "Meet Me On The Battlefield",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -366,49 +371,49 @@
       "ID": "5bab4f85-4307-4238-b9b0-f17abac1d1ed",
       "SetID": "47ln145",
       "Name": "That Voice Of Yours",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "5d6678ed-ca30-415d-9494-0c2cfc857ab3",
       "SetID": "47ln145",
       "Name": "Million Years Ago",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5ec704c9-93b0-48bc-9cc3-97aa1eab2d93",
       "SetID": "47ln145",
       "Name": "Porcelain",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5ecca413-407e-4ef6-93b8-c3f9d3428da1",
       "SetID": "47ln145",
       "Name": "Sixth Sense",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "63c17681-2e19-4b83-a97d-4b19668e0344",
       "SetID": "47ln145",
       "Name": "All About That Cheese",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "667b482a-7166-4493-82e5-57c651c148f5",
       "SetID": "47ln145",
       "Name": "I Never Asked For This",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "6887b077-7556-4102-b6e8-d102d3d66ac9",
@@ -422,9 +427,9 @@
       "ID": "6893abe2-b0b5-42cd-9f76-751f06c4ea4b",
       "SetID": "47ln145",
       "Name": "What More Can I Do?",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6ce40ccb-caeb-4b35-ac3b-8929a3e98826",
@@ -446,39 +451,39 @@
       "ID": "7541ffd7-c57b-466c-9744-2ca02263b3b6",
       "SetID": "47ln145",
       "Name": "Hope Is Here",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "7757ea2d-08f9-4f0f-951b-efc07afba439",
-      "SetID": "47ln145",
-      "Name": "Still Worthy",
       "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
+      "ID": "7757ea2d-08f9-4f0f-951b-efc07afba439",
+      "SetID": "47ln145",
+      "Name": "Still Worthy",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "7929319b-7aae-47e9-994c-33558fe8d9b3",
       "SetID": "47ln145",
       "Name": "Beautiful Days",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "7b047aa6-e275-44c6-89c7-36a70d4bdf1c",
       "SetID": "47ln145",
       "Name": "Somewhere I Belong",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "7e053b58-fdb7-4ce1-8098-18e028e0787d",
       "SetID": "47ln145",
       "Name": "No Time To Spare",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -486,9 +491,9 @@
       "ID": "7e16c241-e77f-4dcd-bdc0-57fa9210b0fb",
       "SetID": "47ln145",
       "Name": "My Immortal",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "80736ecb-bab7-4a44-a1c9-74d6d629be33",
@@ -502,9 +507,9 @@
       "ID": "852eaa39-3cfd-46c1-87c9-1ef608cdebe9",
       "SetID": "47ln145",
       "Name": "Tennessee Whiskey",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "89a293ae-7dff-4ea6-bcf3-9df01d510cc8",
@@ -518,33 +523,33 @@
       "ID": "8d0a2b02-b2cf-460d-bbc3-6ba12b4c2322",
       "SetID": "47ln145",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "8e6df65a-28cd-4769-bca9-33cdd9f47440",
       "SetID": "47ln145",
       "Name": "What A Wonderful Mouse",
-      "Percentage": 7,
-      "XP": 10,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "8e988ca5-0251-46c3-a69b-da9eca39109b",
-      "SetID": "47ln145",
-      "Name": "Mamma Knows Best",
       "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
+      "ID": "8e988ca5-0251-46c3-a69b-da9eca39109b",
+      "SetID": "47ln145",
+      "Name": "Mamma Knows Best",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
       "ID": "937d15ba-68a4-4b30-bb4f-59dabf4625a5",
       "SetID": "47ln145",
       "Name": "Apple Blossom",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "94d3eda3-8257-432b-9bd2-078e0575df82",
@@ -558,65 +563,65 @@
       "ID": "9712245c-40f7-4973-ac32-991847f9c7bb",
       "SetID": "47ln145",
       "Name": "Real Boy",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a1789dcd-3837-40d4-8fb2-c88132403f8a",
       "SetID": "47ln145",
       "Name": "This Is Where We Come Alive",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a1890080-2405-4e37-9fd2-0b4fe51024cd",
       "SetID": "47ln145",
       "Name": "Feeling Good",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a4c47aea-b162-4dee-9148-8d1d6cd29cc0",
       "SetID": "47ln145",
       "Name": "Hey Look Ma, I Made It",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "af651a6f-7e6c-4cf5-838b-dd8d55b688a4",
       "SetID": "47ln145",
       "Name": "Stop It",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "b0b3f43d-a890-4e26-b30f-b1a98f102bd7",
       "SetID": "47ln145",
       "Name": "Wicked Game",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "b3a43fa9-ebfd-4135-a228-71c4fdb936d5",
       "SetID": "47ln145",
       "Name": "Not Really My Thing",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "baddb501-67e8-4990-914c-1c776974efe9",
       "SetID": "47ln145",
       "Name": "Shake It Off",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "c2defde1-33f6-4fed-bac6-c12aadd1e3d4",
@@ -630,15 +635,15 @@
       "ID": "c359206e-d63a-4149-a1cf-3311b8242dc9",
       "SetID": "47ln145",
       "Name": "Come Together",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "c4753138-6423-4c29-bf2c-28e3f982bf84",
       "SetID": "47ln145",
       "Name": "I Am The Fire",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -646,47 +651,47 @@
       "ID": "c49ddceb-7c13-4273-b75b-41b95068c7e9",
       "SetID": "47ln145",
       "Name": "Tell Me Why",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "c5c2b37a-f675-4c7f-be53-6b92ad882be6",
       "SetID": "47ln145",
       "Name": "I Stand Alone",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cecfaf9a-9a28-4ae4-8456-3b1a100018db",
       "SetID": "47ln145",
       "Name": "Boat On The River",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "cf127bc7-0c4d-42f6-9c0b-53c9304b983e",
       "SetID": "47ln145",
       "Name": "True Detective",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "d076c7a5-6e7f-4513-a637-5f4755e47243",
       "SetID": "47ln145",
       "Name": "I Will Survive",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "d27742bd-4b44-4f99-b5fe-7784fe5e1c4f",
       "SetID": "47ln145",
       "Name": "Believe In Me",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -702,15 +707,15 @@
       "ID": "d5f68f72-ece4-4f80-aad9-0ee14367b436",
       "SetID": "47ln145",
       "Name": "Take My Breath Away",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "d841230e-f2d2-4d4d-9b77-329be08e90b9",
       "SetID": "47ln145",
       "Name": "Finest Hour",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -718,7 +723,7 @@
       "ID": "d8a13322-d620-4e25-bd71-9bc6c0c3d153",
       "SetID": "47ln145",
       "Name": "Into The Mist",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -726,17 +731,17 @@
       "ID": "de42afd2-b552-47b2-8247-12e47220becd",
       "SetID": "47ln145",
       "Name": "Behind Blue Eyes",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "e0ef6762-885d-49be-b3c4-ac0be76dc875",
       "SetID": "47ln145",
       "Name": "Sexy And I Know It",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "e4455858-f596-465f-ac7e-de2f23edbdd3",
@@ -750,17 +755,17 @@
       "ID": "e7111306-2d9e-4d27-bd92-5a7ad0408262",
       "SetID": "47ln145",
       "Name": "Perhaps, Perhaps, Perhaps",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "e779a6f7-f44d-4e44-9e04-f31e7e414400",
       "SetID": "47ln145",
       "Name": "Puttin\u0027 On the Ritz",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "e8e2b3a8-3a5e-4396-9f9c-d052399461f9",
@@ -782,33 +787,33 @@
       "ID": "ea70dd28-53d8-463a-ab37-d58d892e7cd4",
       "SetID": "47ln145",
       "Name": "Nothing Else Matters",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ec8c00ca-e018-4856-b11b-294829361d9a",
       "SetID": "47ln145",
       "Name": "Fight Fire With Gasoline",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ee7a0e66-f520-41f5-8801-d32b4b99ba98",
       "SetID": "47ln145",
       "Name": "Fear Of The Dark",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ef50e9c1-b1ca-44d6-870e-076b68e33200",
       "SetID": "47ln145",
       "Name": "They\u0027re Only Human",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "f0f0a36c-527c-4fce-832d-e0fcf512fd54",
@@ -822,17 +827,17 @@
       "ID": "f129b994-8e9f-4213-80eb-6a4a2415be9c",
       "SetID": "47ln145",
       "Name": "Nature Boy",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "f89a73e1-d8ad-41d9-b5b7-c58e1d577b55",
       "SetID": "47ln145",
       "Name": "Sugar In My Bowl",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "f94d1905-4294-4171-8fdb-8450a662bcb4",
@@ -855,14 +860,14 @@
     {
       "ID": "47ln145",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-01T04:58:02.8788083+00:00",
   "FirstSeenAchievements": "2024-03-21T17:09:14.371886+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:10.9154504+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:17.3258076+00:00",
   "LastUpdate_AppInfo": "2024-10-14T15:57:12.5115314+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:13.0252106+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:10.9155392+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:35.0450366+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:17.3259147+00:00"
 }

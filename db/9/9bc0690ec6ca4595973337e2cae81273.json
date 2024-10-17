@@ -2,10 +2,10 @@
   "ID": "9bc0690ec6ca4595973337e2cae81273",
   "Name": "Biped 2",
   "ProductSlug": "biped-2-1055be",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T09:57:10.5734877+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:16.6894163+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:52.6143646+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:38.6181831+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:02.5957381+00:00"
 }

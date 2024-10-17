@@ -2,10 +2,10 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 74,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398740,
+  "EOS_Progressed": 398690,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -12972,6 +12972,11 @@
       "Time": "2024-09-14T14:23:05.0017842+00:00",
       "NumProgressed": 398740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:39.3480904+00:00",
+      "NumProgressed": 398690,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -13080,7 +13085,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 231269
+      "UsersEstimate": 231240
     },
     {
       "ID": "kills_100",
@@ -13126,9 +13131,9 @@
       "ID": "mru2_wins_1",
       "SetID": "413a09o",
       "Name": "Battle Royale Buddy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 399
     },
     {
       "ID": "revives_1",
@@ -13136,7 +13141,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 43861
+      "UsersEstimate": 43856
     },
     {
       "ID": "revives_25",
@@ -13231,13 +13236,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398740,
+      "Progressed": 398690,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:05.0017831+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:39.3480901+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:11.9753653+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:21.0250373+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:05.0018559+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:39.348178+00:00"
 }

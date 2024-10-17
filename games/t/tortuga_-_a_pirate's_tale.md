@@ -5,25 +5,25 @@ Rating: 3.83 (Ranked 1,306)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,972 |
-| Personal Matter | 87.00% | ~15,543 |
-| No Half Measures | 87.00% | ~15,543 |
-| But You Have Heard of Me | 72.00% | ~12,863 |
-| Double the Barrels, double the Fun | 54.00% | ~9,647 |
-| Pimp My Glide | 51.00% | ~9,111 |
-| ... And Where Do the Stories Come From? | 41.00% | ~7,325 |
-| House Party! | 36.00% | ~6,431 |
-| Make It Rain | 23.00% | ~4,109 |
-| Curse of the Seven Seas | 23.00% | ~4,109 |
-| Head First | 17.00% | ~3,037 |
-| To the World's End | 12.00% | ~2,144 |
-| Table for Six | 11.00% | ~1,965 |
-| Sharing Is Caring | 10.00% | ~1,786 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,429 |
-| Morally Flexible | 6.00% | ~1,072 |
-| Fishing for Compliments | 5.00% | ~893 |
+| Eeligally Ambitious | 95.00% | ~16,989 |
+| Personal Matter | 87.00% | ~15,558 |
+| No Half Measures | 87.00% | ~15,558 |
+| But You Have Heard of Me | 72.00% | ~12,876 |
+| Double the Barrels, double the Fun | 54.00% | ~9,657 |
+| Pimp My Glide | 51.00% | ~9,120 |
+| ... And Where Do the Stories Come From? | 41.00% | ~7,332 |
+| House Party! | 36.00% | ~6,438 |
+| Make It Rain | 23.00% | ~4,113 |
+| Curse of the Seven Seas | 23.00% | ~4,113 |
+| Head First | 17.00% | ~3,040 |
+| To the World's End | 12.00% | ~2,146 |
+| Table for Six | 11.00% | ~1,967 |
+| Sharing Is Caring | 10.00% | ~1,788 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,431 |
+| Morally Flexible | 6.00% | ~1,073 |
+| Fishing for Compliments | 5.00% | ~894 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~536 |
-| A True Dandy | 2.00% | ~357 |
+| A True Dandy | 2.00% | ~358 |
 | A New Legend Awaits | 1.00% | ~179 |
 | Pirate King | 0.90% | ~161 |
 | Oooh, We're Half Way There | 0.80% | ~143 |
@@ -32,8 +32,8 @@ Rating: 3.83 (Ranked 1,306)
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,865 (Ranked 233)  
-Completed: 2 (0.01%) (Ranked 563)  
+Progressed: 17,883 (Ranked 239)  
+Completed: 2 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 2 (0.01%) (Ranked 563)
 | 2024-08-09 | 17,831 | 2 |
 | 2024-08-20 | 17,836 | 2 |
 | 2024-09-14 | 17,865 | 2 |
+| 2024-10-17 | 17,883 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,38 +5,38 @@ Rating: 4.38 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dilettante | 90.00% | ~114,155 |
-| Fresh Meat | 75.00% | ~95,129 |
-| Pot Shot | 74.00% | ~93,861 |
-| Teamwork Makes the Meme Work | 66.00% | ~83,714 |
-| Big Dipper | 48.00% | ~60,883 |
-| Holy Split!!! | 34.00% | ~43,125 |
-| Brothsport | 28.00% | ~35,515 |
-| Bon Vivant | 24.00% | ~30,441 |
-| Pop Goes the Weasel | 17.00% | ~21,563 |
-| My Immortal | 9.00% | ~11,416 |
-| Beastmaster | 6.00% | ~7,610 |
-| Death from Above | 3.00% | ~3,805 |
-| Globetrotter | 3.00% | ~3,805 |
-| Three-peat | 3.00% | ~3,805 |
-| Talkin' About Practice | 1.00% | ~1,268 |
-| Perfection | 0.90% | ~1,142 |
-| Quinceañera! | 0.60% | ~761 |
-| Seasoned Veteran | 0.50% | ~634 |
-| Soupply and Demand | 0.50% | ~634 |
-| Dressed to Chill | 0.40% | ~507 |
-| Hard Day's Work | 0.40% | ~507 |
-| Chiliad | 0.30% | ~381 |
-| Nice to Meat You | 0.30% | ~381 |
-| Old Enough | 0.30% | ~381 |
-| Soup Supplier | 0.30% | ~381 |
-| Week Sauce | 0.30% | ~381 |
-| Wisecracker | 0.30% | ~381 |
-| All Your Bouillabaisse Are Belong to Us | 0.20% | ~254 |
-| Flavor of the Month | 0.20% | ~254 |
-| Hit em' for Six | 0.20% | ~254 |
-| Poultry in Motion | 0.20% | ~254 |
-| The Goose is Loose | 0.20% | ~254 |
+| Dilettante | 90.00% | ~114,668 |
+| Fresh Meat | 75.00% | ~95,557 |
+| Pot Shot | 74.00% | ~94,283 |
+| Teamwork Makes the Meme Work | 67.00% | ~85,364 |
+| Big Dipper | 48.00% | ~61,156 |
+| Holy Split!!! | 34.00% | ~43,319 |
+| Brothsport | 28.00% | ~35,675 |
+| Bon Vivant | 24.00% | ~30,578 |
+| Pop Goes the Weasel | 17.00% | ~21,660 |
+| My Immortal | 9.00% | ~11,467 |
+| Beastmaster | 6.00% | ~7,645 |
+| Death from Above | 3.00% | ~3,822 |
+| Globetrotter | 3.00% | ~3,822 |
+| Three-peat | 3.00% | ~3,822 |
+| Talkin' About Practice | 1.00% | ~1,274 |
+| Perfection | 0.90% | ~1,147 |
+| Quinceañera! | 0.60% | ~764 |
+| Seasoned Veteran | 0.50% | ~637 |
+| Soupply and Demand | 0.50% | ~637 |
+| Dressed to Chill | 0.40% | ~510 |
+| Hard Day's Work | 0.40% | ~510 |
+| All Your Bouillabaisse Are Belong to Us | 0.30% | ~382 |
+| Chiliad | 0.30% | ~382 |
+| Nice to Meat You | 0.30% | ~382 |
+| Old Enough | 0.30% | ~382 |
+| Soup Supplier | 0.30% | ~382 |
+| The Goose is Loose | 0.30% | ~382 |
+| Week Sauce | 0.30% | ~382 |
+| Wisecracker | 0.30% | ~382 |
+| Flavor of the Month | 0.20% | ~255 |
+| Hit em' for Six | 0.20% | ~255 |
+| Poultry in Motion | 0.20% | ~255 |
 | All Gas | 0.10% | ~127 |
 | A Challenge a Day | 0.10% | ~127 |
 | Creature of Habit | 0.10% | ~127 |
@@ -49,14 +49,15 @@ Rating: 4.38 (Ranked 946)
 | Soupreme Makeover | 0.10% | ~127 |
 | The Soup Savior | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,839 (Ranked 127)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 127,409 (Ranked 129)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-08-09 | 100,678 | 0 |
 | 2024-09-14 | 123,931 | 0 |
 | 2024-10-09 | 126,839 | 0 |
+| 2024-10-17 | 127,409 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 680)  
 Sum: 94 (Ranked 607)  

@@ -2,10 +2,10 @@
   "ID": "7eae14353be148d4a941113dcaa00b87",
   "Name": "Reqvia",
   "ProductSlug": "reqvia-492a09",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-27T17:00:00+00:00",
     "PcReleaseDate": "2024-09-27T17:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T18:57:08.7716885+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:20.3829653+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:10.5814702+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:01.1640816+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:28.0068082+00:00"
 }

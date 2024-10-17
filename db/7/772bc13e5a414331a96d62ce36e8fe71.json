@@ -2,10 +2,10 @@
   "ID": "772bc13e5a414331a96d62ce36e8fe71",
   "Name": "Carsick Carventure",
   "ProductSlug": "carsick-carventure-d216ba",
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
     "PcReleaseDate": "2023-12-07T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
-  "EOS_Completed": 146,
+  "EOS_Progressed": 1641,
+  "EOS_Completed": 155,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.24,
+  "EOS_Completed_Percentage": 9.45,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -2994,6 +2994,11 @@
       "Time": "2024-09-14T14:24:39.8895043+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2024-10-17T05:13:27.7463159+00:00",
+      "NumProgressed": 1641,
+      "NumCompleted": 155
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -3006,15 +3011,15 @@
       "Name": "5 000 Score",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "10000_XP",
       "SetID": "8d0im30",
       "Name": "2 000 Score",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 395
+      "UsersEstimate": 427
     },
     {
       "ID": "1000_XP",
@@ -3022,7 +3027,7 @@
       "Name": "1000 Score",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 822
+      "UsersEstimate": 853
     },
     {
       "ID": "100_XP",
@@ -3030,7 +3035,7 @@
       "Name": "500 Score",
       "Percentage": 67,
       "XP": 200,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1099
     },
     {
       "ID": "10_XP",
@@ -3038,21 +3043,21 @@
       "Name": "200 Score",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1378
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 1580,
-      "Completed": 146
+      "Progressed": 1641,
+      "Completed": 155
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:39.8895037+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:27.7463153+00:00",
   "LastUpdate_AppInfo": "2024-10-11T17:57:24.016262+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:31.7525923+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:39.8895294+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:09.4243802+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:27.7463447+00:00"
 }

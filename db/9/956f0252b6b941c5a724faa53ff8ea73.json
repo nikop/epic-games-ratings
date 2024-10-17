@@ -2,10 +2,10 @@
   "ID": "956f0252b6b941c5a724faa53ff8ea73",
   "Name": "Troma Presents Poultrygeist",
   "ProductSlug": "poultrygeist-6ab305",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-23T15:00:00.551+00:00",
     "PcReleaseDate": "2024-01-23T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T18:57:27.926317+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:05.05756+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:53.240281+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:37.0065541+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:07:32.6440754+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 39.00% | ~73 |
-| Treasure Hunting | 37.00% | ~69 |
-| Friend! | 31.00% | ~58 |
-| Shine! | 30.00% | ~56 |
-| Uncut Gem | 28.00% | ~52 |
-| Clear as Water | 27.00% | ~50 |
+| Might be useful… | 39.00% | ~74 |
+| Treasure Hunting | 38.00% | ~72 |
+| Friend! | 31.00% | ~59 |
+| Shine! | 30.00% | ~57 |
+| Uncut Gem | 28.00% | ~53 |
+| Clear as Water | 28.00% | ~53 |
+| Setting Off | 23.00% | ~43 |
 | Card Collector | 23.00% | ~43 |
-| Setting Off | 22.00% | ~41 |
-| Riddlesolver | 21.00% | ~39 |
+| Riddlesolver | 21.00% | ~40 |
 | Dungeon Mastery | 19.00% | ~36 |
 | A Strange Proposition | 11.00% | ~21 |
 | Card Completionist | 11.00% | ~21 |
 | The Steed | 10.00% | ~19 |
 | The Bodyguard | 8.00% | ~15 |
-| The Apprentice | 7.00% | ~13 |
+| The Apprentice | 8.00% | ~15 |
+| No Stone Unturned | 8.00% | ~15 |
 | Braving Miasma | 7.00% | ~13 |
-| No Stone Unturned | 7.00% | ~13 |
+| Ancient Nemesis | 7.00% | ~13 |
 | The Familiar | 6.00% | ~11 |
-| Ancient Nemesis | 6.00% | ~11 |
 | Oracle Mastery | 6.00% | ~11 |
 | Raider Mastery | 6.00% | ~11 |
 | Traveler Mastery | 5.00% | ~9 |
 | Warden Mastery | 5.00% | ~9 |
 | The Plot Thickens | 5.00% | ~9 |
+| First time? | 4.00% | ~8 |
 | Best Pupil | 3.00% | ~6 |
 | FOR JUSTICE! | 3.00% | ~6 |
 | Journey’s End | 3.00% | ~6 |
 | Masterpiece | 3.00% | ~6 |
 | Trinket Enthusiast | 3.00% | ~6 |
 | The Usurper | 3.00% | ~6 |
-| First time? | 3.00% | ~6 |
 | Harmony | 3.00% | ~6 |
 | The False Prophet | 3.00% | ~6 |
 | Sealed Once Again | 3.00% | ~6 |
@@ -45,8 +45,8 @@
 | Gladiator | 2.00% | ~4 |
 | True Drafter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 618)  
-Completed: 2 (1.07%) (Ranked 279)  
+Progressed: 189 (Ranked 633)  
+Completed: 2 (1.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,6 +140,7 @@ Completed: 2 (1.07%) (Ranked 279)
 | 2024-08-09 | 182 | 2 |
 | 2024-08-20 | 183 | 2 |
 | 2024-09-14 | 187 | 2 |
+| 2024-10-17 | 189 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "561ff6b1f6ba4e359dfc625134d4f806",
   "Name": "Beyond Galaxyland",
   "ProductSlug": "beyond-galaxyland-521b75",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 964,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-24T15:00:00+00:00",
     "PcReleaseDate": "2024-09-24T15:00:00+00:00",
@@ -25,27 +25,283 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:14:40.4039216+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:14:40.4039236+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BadApple",
+      "SetID": "6j08del",
+      "Name": "Bad Apple",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_BoostPads",
+      "SetID": "6j08del",
+      "Name": "Zoom Zoom",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Camera",
+      "SetID": "6j08del",
+      "Name": "Seasoned Explorer",
+      "Percentage": 5,
+      "XP": 70,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CentralCityRacing",
+      "SetID": "6j08del",
+      "Name": "Speed Demon",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACH_Crafting",
+      "SetID": "6j08del",
+      "Name": "Hammer Time",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "ACH_GameEnd",
+      "SetID": "6j08del",
+      "Name": "That\u2019s a Wrap!",
+      "Percentage": 10,
+      "XP": 70,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_GoldenCell",
+      "SetID": "6j08del",
+      "Name": "Golden Power Cells",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GoldenTicket",
+      "SetID": "6j08del",
+      "Name": "Golden Ticket",
+      "Percentage": 15,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_Hero_Medal",
+      "SetID": "6j08del",
+      "Name": "The Hero",
+      "Percentage": 5,
+      "XP": 70,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_HolyCrown",
+      "SetID": "6j08del",
+      "Name": "Healing Spring",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Jukebox",
+      "SetID": "6j08del",
+      "Name": "Brainiac",
+      "Percentage": 30,
+      "XP": 15,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ACH_Knight",
+      "SetID": "6j08del",
+      "Name": "Ancient History",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Malefactor",
+      "SetID": "6j08del",
+      "Name": "First Victory",
+      "Percentage": 80,
+      "XP": 15,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "ACH_MasterElemental",
+      "SetID": "6j08del",
+      "Name": "Master Elemental",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_MonsterArena",
+      "SetID": "6j08del",
+      "Name": "Arena Champ",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MoonfallRacing",
+      "SetID": "6j08del",
+      "Name": "Adrenaline Junkie",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_MotherBrain",
+      "SetID": "6j08del",
+      "Name": "Rogue AI",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Paws",
+      "SetID": "6j08del",
+      "Name": "Paws Weekly",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Platinum",
+      "SetID": "6j08del",
+      "Name": "All Achievements!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Portal",
+      "SetID": "6j08del",
+      "Name": "The Rabbit Hole",
+      "Percentage": 70,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "ACH_PowerCellErros",
+      "SetID": "6j08del",
+      "Name": "Powered Up",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACH_Queen",
+      "SetID": "6j08del",
+      "Name": "Dethroned",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_RestStopRacing",
+      "SetID": "6j08del",
+      "Name": "League Champ",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Robot",
+      "SetID": "6j08del",
+      "Name": "It\u2019s alive!",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_RocketLauncher",
+      "SetID": "6j08del",
+      "Name": "Club Dread",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Rose",
+      "SetID": "6j08del",
+      "Name": "Rose Garden",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Season1",
+      "SetID": "6j08del",
+      "Name": "Season 1",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_SpaceBound",
+      "SetID": "6j08del",
+      "Name": "Space Bound",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACH_Spider",
+      "SetID": "6j08del",
+      "Name": "Eight Legged Freak",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_WarpDrive",
+      "SetID": "6j08del",
+      "Name": "Warp Speed",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Xeno",
+      "SetID": "6j08del",
+      "Name": "Mostly at Night",
+      "Percentage": 10,
+      "XP": 30,
+      "UsersEstimate": 2
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6j08del",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-27T08:57:58.716007+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:42.0215314+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:30.0123006+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:40.4039214+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:52.9335056+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:20.7601063+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:30.0123044+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:01.745287+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:40.4045145+00:00"
 }

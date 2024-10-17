@@ -2,10 +2,10 @@
   "ID": "1e4d942571ec4e13851b3449e2486a8f",
   "Name": "The Saboteur\u2122",
   "ProductSlug": "the-saboteur-f53889",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T06:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T03:12:12.0109352+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:52.6798531+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:22.4612847+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:42.7087518+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:32.0920598+00:00"
 }

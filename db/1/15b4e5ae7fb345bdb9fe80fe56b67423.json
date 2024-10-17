@@ -2,10 +2,10 @@
   "ID": "15b4e5ae7fb345bdb9fe80fe56b67423",
   "Name": "Massira",
   "ProductSlug": "massira-57f579",
-  "Ranking_EOS_Progress": 1098,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1143,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-12T00:00:00+00:00",
     "PcReleaseDate": "2024-04-26T12:00:00+00:00",
@@ -243,8 +243,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:24.9057936+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:28:06.7152434+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:10.1773325+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:21.5310532+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:49.7669497+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:06.71526+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:05:58.0734889+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:10.1773485+00:00"
 }

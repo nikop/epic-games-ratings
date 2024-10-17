@@ -26,10 +26,10 @@
 | Puzzler | 0.00% | ~0 |
 | Storyteller | 0.00% | ~0 |
 | First Try | 0.00% | ~0 |
-| Angel of Death | -4.20% | ~-1 |
+| Angel of Death | -4.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 906)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 25 (Ranked 940)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-03-21 | 17 | 0 |
 | 2024-06-17 | 21 | 0 |
 | 2024-07-30 | 24 | 0 |
+| 2024-10-17 | 25 | 0 |

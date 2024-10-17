@@ -2,10 +2,10 @@
   "ID": "5a70a74abf1044db84a816cb0a401566",
   "Name": "Anito Legends",
   "ProductSlug": "anito-legends-e2180a",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-10T01:00:00+00:00",
     "PcReleaseDate": "2024-01-10T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-10T14:57:57.9159003+00:00",
   "LastUpdate_AppInfo": "2024-10-15T13:14:58.1432213+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:31.9499431+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:42.3173558+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:44.726741+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:21.0504417+00:00"
 }

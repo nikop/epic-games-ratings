@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The secret passage | 55.00% | ~68 |
-| Seth's office | 53.00% | ~66 |
-| There is something strange here... | 49.00% | ~61 |
-| Across the lake | 49.00% | ~61 |
-| First document retrieved | 44.00% | ~55 |
-| Curious by nature | 44.00% | ~55 |
-| A lonely death | 35.00% | ~43 |
-| An ear for music | 33.00% | ~41 |
-| Agatha's favourite song | 31.00% | ~38 |
-| Lights and shadows | 30.00% | ~37 |
-| The threshold of horror | 29.00% | ~36 |
-| Second document retrieved | 27.00% | ~33 |
-| Deadly chase | 27.00% | ~33 |
-| Third document retrieved | 25.00% | ~31 |
-| Dara's home | 25.00% | ~31 |
-| Until death do us part | 24.00% | ~30 |
-| The lowest floor of the lift | 24.00% | ~30 |
-| Charon's coin | 23.00% | ~29 |
-| The impatient one | 20.00% | ~25 |
-| Spectres from the past | 6.00% | ~7 |
+| The secret passage | 54.00% | ~70 |
+| Seth's office | 53.00% | ~68 |
+| There is something strange here... | 50.00% | ~64 |
+| Across the lake | 50.00% | ~64 |
+| First document retrieved | 45.00% | ~58 |
+| Curious by nature | 45.00% | ~58 |
+| A lonely death | 35.00% | ~45 |
+| An ear for music | 33.00% | ~43 |
+| Agatha's favourite song | 31.00% | ~40 |
+| Lights and shadows | 29.00% | ~37 |
+| The threshold of horror | 29.00% | ~37 |
+| Second document retrieved | 26.00% | ~34 |
+| Deadly chase | 26.00% | ~34 |
+| Third document retrieved | 25.00% | ~32 |
+| Dara's home | 25.00% | ~32 |
+| Until death do us part | 24.00% | ~31 |
+| The lowest floor of the lift | 24.00% | ~31 |
+| Charon's coin | 23.00% | ~30 |
+| The impatient one | 19.00% | ~25 |
+| Spectres from the past | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 675)  
-Completed: 5 (4.03%) (Ranked 156)  
+Progressed: 129 (Ranked 692)  
+Completed: 5 (3.88%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,6 +57,7 @@ Completed: 5 (4.03%) (Ranked 156)
 | 2024-08-09 | 116 | 4 |
 | 2024-08-20 | 120 | 5 |
 | 2024-09-14 | 124 | 5 |
+| 2024-10-17 | 129 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

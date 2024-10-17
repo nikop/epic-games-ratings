@@ -2,13 +2,13 @@
   "ID": "53b4ffb651f04ca0bbd47c310ad6efd8",
   "Name": "OpenSeason",
   "ProductSlug": "openseason-75e993",
-  "Ranking_Rating": 1132,
+  "Ranking_Rating": 1209,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-01-05T17:00:00+00:00",
     "PcReleaseDate": "2024-02-29T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2024-09-18T10:57:52.8499108+00:00",
@@ -95,6 +95,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-17T05:01:34.6579155+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -113,8 +119,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-06T22:01:07.8475416+00:00",
   "FirstSeenRating": "2024-09-18T10:57:52.8499105+00:00",
-  "LastChanged": "2024-10-16T05:00:04.2331284+00:00",
+  "LastChanged": "2024-10-17T05:01:34.6579153+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:38.5104875+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:12.6290436+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:43.2094515+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:34.6579159+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:25.463787+00:00"
 }

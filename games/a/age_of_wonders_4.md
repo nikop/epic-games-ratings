@@ -5,70 +5,70 @@ Rating: 4.65 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cleansed | 3.00% | ~243 |
-| There Can Only Be One! | 2.00% | ~162 |
-| Full Ascension | 2.00% | ~162 |
-| Realm Estate | 2.00% | ~162 |
-| A Wonderful Discovery | 2.00% | ~162 |
-| Secret Technique | 2.00% | ~162 |
-| Walls Cannot Stop Us | 2.00% | ~162 |
-| Bone Peddler | 2.00% | ~162 |
-| Stronger Together | 2.00% | ~162 |
-| Magical Synergy | 2.00% | ~162 |
-| Seat of Power | 2.00% | ~162 |
-| In a Liege of Your Own | 2.00% | ~162 |
-| Fiery Friend | 2.00% | ~162 |
-| Against the Odds | 2.00% | ~162 |
-| Tharru'Cath | 2.00% | ~162 |
-| Pure Shadow | 2.00% | ~162 |
-| Tentacle Throne | 2.00% | ~162 |
-| Valley of Wonders | 1.00% | ~81 |
+| A Wonderful Discovery | 3.00% | ~244 |
+| Against the Odds | 3.00% | ~244 |
+| Cleansed | 3.00% | ~244 |
+| Valley of Wonders | 2.00% | ~163 |
+| There Can Only Be One! | 2.00% | ~163 |
+| Full Ascension | 2.00% | ~163 |
+| Enchanted Archipelago | 2.00% | ~163 |
+| Realm Estate | 2.00% | ~163 |
+| Secret Technique | 2.00% | ~163 |
+| Walls Cannot Stop Us | 2.00% | ~163 |
+| Bone Peddler | 2.00% | ~163 |
+| From Friends to Family | 2.00% | ~163 |
+| Stronger Together | 2.00% | ~163 |
+| Magical Synergy | 2.00% | ~163 |
+| My Final Form | 2.00% | ~163 |
+| Seat of Power | 2.00% | ~163 |
+| In a Liege of Your Own | 2.00% | ~163 |
+| Fiery Friend | 2.00% | ~163 |
+| Impenetrable Fortress | 2.00% | ~163 |
+| Intimidation Tactics | 2.00% | ~163 |
+| But this one is mine | 2.00% | ~163 |
+| Tharru'Cath | 2.00% | ~163 |
+| Pure Shadow | 2.00% | ~163 |
+| Tentacle Throne | 2.00% | ~163 |
 | Return of the Wizard King | 1.00% | ~81 |
-| Enchanted Archipelago | 1.00% | ~81 |
+| Arch Mage | 1.00% | ~81 |
 | Digging for Treasure | 1.00% | ~81 |
-| From Friends to Family | 1.00% | ~81 |
 | Crimson Caldera | 1.00% | ~81 |
-| My Final Form | 1.00% | ~81 |
-| Impenetrable Fortress | 1.00% | ~81 |
-| Intimidation Tactics | 1.00% | ~81 |
-| But this one is mine | 1.00% | ~81 |
+| Preparation Is Everything | 1.00% | ~81 |
+| The Eternal Court | 1.00% | ~81 |
+| Tipping the Scales | 1.00% | ~81 |
+| Favored by the Spirits | 1.00% | ~81 |
 | Silent Empire | 1.00% | ~81 |
+| Arcalot | 1.00% | ~81 |
 | Defogged | 1.00% | ~81 |
-| Arch Mage | 0.90% | ~73 |
-| Preparation Is Everything | 0.90% | ~73 |
-| Tipping the Scales | 0.90% | ~73 |
-| Favored by the Spirits | 0.90% | ~73 |
-| The Eternal Court | 0.80% | ~65 |
+| God Emperor | 0.90% | ~73 |
+| Eternal Lord | 0.90% | ~73 |
+| Mighty Hoard | 0.90% | ~73 |
+| I've Got Everything I Need Right Here | 0.80% | ~65 |
+| Lord of Chaos | 0.80% | ~65 |
+| Grexolis | 0.80% | ~65 |
 | Here be Dragons | 0.80% | ~65 |
-| Arcalot | 0.80% | ~65 |
-| I've Got Everything I Need Right Here | 0.70% | ~57 |
-| God Emperor | 0.70% | ~57 |
-| Eternal Lord | 0.70% | ~57 |
-| Mighty Hoard | 0.70% | ~57 |
-| Freed Lands of Manuhari | 0.70% | ~57 |
-| Lord of Chaos | 0.60% | ~49 |
-| The Creator | 0.60% | ~49 |
-| The Goddess of Nature | 0.60% | ~49 |
-| Grexolis | 0.60% | ~49 |
-| One for All, All for One | 0.60% | ~49 |
-| Chaos Surge | 0.60% | ~49 |
-| Umbral Tourist | 0.60% | ~49 |
-| Blood of the Dragon | 0.50% | ~40 |
-| Sehiran Oasis | 0.50% | ~40 |
-| All-Devourer | 0.50% | ~40 |
-| Duality | 0.40% | ~32 |
-| Spoils of War | 0.40% | ~32 |
-| The Magic That Empowers Me! | 0.30% | ~24 |
+| Freed Lands of Manuhari | 0.80% | ~65 |
+| The Creator | 0.70% | ~57 |
+| The Goddess of Nature | 0.70% | ~57 |
+| One for All, All for One | 0.70% | ~57 |
+| Chaos Surge | 0.70% | ~57 |
+| Umbral Tourist | 0.70% | ~57 |
+| Blood of the Dragon | 0.60% | ~49 |
+| Sehiran Oasis | 0.60% | ~49 |
+| Spoils of War | 0.60% | ~49 |
+| All-Devourer | 0.60% | ~49 |
+| Duality | 0.50% | ~41 |
+| Prometheus Avenged | 0.50% | ~41 |
+| Dawn of the Dread | 0.50% | ~41 |
+| The Magic That Empowers Me! | 0.40% | ~33 |
+| Pruning for Progress | 0.40% | ~33 |
+| Betrayal Most Foul | 0.40% | ~33 |
+| Seal the Deal | 0.40% | ~33 |
+| A Conqueror's Cohort | 0.40% | ~33 |
+| Snap Out of It! | 0.30% | ~24 |
 | Manufactured War | 0.30% | ~24 |
-| Pruning for Progress | 0.30% | ~24 |
-| Betrayal Most Foul | 0.30% | ~24 |
-| Prometheus Avenged | 0.30% | ~24 |
-| A Conqueror's Cohort | 0.30% | ~24 |
-| Dawn of the Dread | 0.30% | ~24 |
-| Snap Out of It! | 0.20% | ~16 |
+| A Very Special Ring | 0.30% | ~24 |
 | Jack of All Tomes | 0.20% | ~16 |
-| Seal the Deal | 0.20% | ~16 |
-| A Very Special Ring | 0.20% | ~16 |
 | Serpentine Storm | 0.20% | ~16 |
 | I Want to Break Free | 0.10% | ~8 |
 | Master of Evilness | 0.10% | ~8 |
@@ -78,8 +78,8 @@ Rating: 4.65 (Ranked 361)
 | Draconic Connoisseur | 0.10% | ~8 |
 | Graze Tactics | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,090 (Ranked 269)  
-Completed: 12 (0.15%) (Ranked 441)  
+Progressed: 8,137 (Ranked 278)  
+Completed: 13 (0.16%) (Ranked 459)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,6 +333,7 @@ Completed: 12 (0.15%) (Ranked 441)
 | 2024-06-17 | 7,915 | 11 |
 | 2024-08-09 | 8,020 | 11 |
 | 2024-09-14 | 8,090 | 12 |
+| 2024-10-17 | 8,137 | 13 |
 ## Awards
 Max (Diverse Characters): 107  (Ranked 473)  
 Sum: 546 (Ranked 413)  

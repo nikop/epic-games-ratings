@@ -2,10 +2,10 @@
   "ID": "ff8a547e01614b82af83dc9470eb3045",
   "Name": "Police Car Armored Cop Simulator",
   "ProductSlug": "police-car-armored-cop-simulator-60b997",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-08-31T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T17:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-05-31T09:56:55.2647389+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:12.0461701+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:48.5795988+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:27.4158725+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:08.6991543+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1257,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 417,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-12T15:00:00+00:00",
     "PcReleaseDate": "2024-09-12T15:00:00+00:00",
@@ -186,16 +186,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34411,
-  "EOS_Completed": 70,
+  "EOS_Progressed": 94184,
+  "EOS_Completed": 327,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2024-09-14T14:15:05.7682387+00:00",
       "NumProgressed": 34411,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-10-17T05:06:21.276734+00:00",
+      "NumProgressed": 94184,
+      "NumCompleted": 327
     }
   ],
   "AchievementsAdded": "2024-09-14T14:15:05.7682459+00:00",
@@ -206,49 +211,49 @@
       "ID": "ACH_RUGRATS_1",
       "SetID": "9jegjch",
       "Name": "A baby\u0027s gotta do...",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 28561
+      "UsersEstimate": 79115
     },
     {
       "ID": "ACH_RUGRATS_10",
       "SetID": "9jegjch",
       "Name": "Noises in the Attic",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 1884
     },
     {
       "ID": "ACH_RUGRATS_11",
       "SetID": "9jegjch",
       "Name": "Thorg hungry!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 2753
+      "UsersEstimate": 8477
     },
     {
       "ID": "ACH_RUGRATS_12",
       "SetID": "9jegjch",
       "Name": "Num-nums",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1376
+      "UsersEstimate": 4709
     },
     {
       "ID": "ACH_RUGRATS_13",
       "SetID": "9jegjch",
       "Name": "The Land Without Smiles",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 688
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH_RUGRATS_14",
       "SetID": "9jegjch",
       "Name": "Drink me!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 1032
+      "UsersEstimate": 3767
     },
     {
       "ID": "ACH_RUGRATS_15",
@@ -256,15 +261,15 @@
       "Name": "Boppin\u0027 Boppo",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 1032
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH_RUGRATS_16",
       "SetID": "9jegjch",
       "Name": "I\u0027m the Boss!",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 241
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_RUGRATS_17",
@@ -272,71 +277,71 @@
       "Name": "Hang on to your diapies",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 344
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_RUGRATS_18",
       "SetID": "9jegjch",
       "Name": "Life is the hardest thing there is",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 275
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_RUGRATS_19",
       "SetID": "9jegjch",
       "Name": "I haven\u2019t eaten since the last time I eated",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 103
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_RUGRATS_2",
       "SetID": "9jegjch",
       "Name": "Halt! I am Reptar!",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 27185
+      "UsersEstimate": 76289
     },
     {
       "ID": "ACH_RUGRATS_20",
       "SetID": "9jegjch",
       "Name": "Girls are good and boys are bad",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 172
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_RUGRATS_3",
       "SetID": "9jegjch",
       "Name": "A cookie just tastes better when it\u0027s someone else\u0027s",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 25464
+      "UsersEstimate": 71580
     },
     {
       "ID": "ACH_RUGRATS_4",
       "SetID": "9jegjch",
       "Name": "A Bottle of Yum",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 19270
+      "UsersEstimate": 54627
     },
     {
       "ID": "ACH_RUGRATS_5",
       "SetID": "9jegjch",
       "Name": "Babies in Gameland",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 23055
+      "UsersEstimate": 64045
     },
     {
       "ID": "ACH_RUGRATS_6",
       "SetID": "9jegjch",
       "Name": "Tumble in the Jungle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1032
+      "UsersEstimate": 3767
     },
     {
       "ID": "ACH_RUGRATS_7",
@@ -344,39 +349,39 @@
       "Name": "Sand in my Diapie",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1032
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH_RUGRATS_8",
       "SetID": "9jegjch",
       "Name": "Living in the Fridge",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 1884
     },
     {
       "ID": "ACH_RUGRATS_9",
       "SetID": "9jegjch",
       "Name": "Somewhere in Dreamland",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 1884
     }
   ],
   "AchievementSets": [
     {
       "ID": "9jegjch",
       "IsBase": true,
-      "Progressed": 34411,
-      "Completed": 70
+      "Progressed": 94184,
+      "Completed": 327
     }
   ],
   "FirstSeen": "2024-09-12T18:58:33.2616676+00:00",
   "FirstSeenRating": "2024-09-15T15:00:20.807518+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:05.7682459+00:00",
   "LastChanged": "2024-10-16T13:58:04.3036875+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:05.7682382+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:21.2767335+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:13:35.6820701+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:19.5510088+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:05.7689843+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:25.4941192+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:21.2767493+00:00"
 }

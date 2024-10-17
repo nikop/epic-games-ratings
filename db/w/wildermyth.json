@@ -5,10 +5,10 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 631,
   "Ranking_PopularitySum": 683,
-  "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -220,11 +220,11 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 1991,
-  "EOS_Completed": 9,
+  "EOS_Progressed": 2024,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -2660,6 +2660,11 @@
       "Time": "2024-09-14T14:21:09.4725326+00:00",
       "NumProgressed": 1991,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-10-17T05:10:49.8180941+00:00",
+      "NumProgressed": 2024,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 94,
@@ -2671,7 +2676,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_150Calamities",
@@ -2685,9 +2690,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 466
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2703,7 +2708,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -2711,15 +2716,15 @@
       "Name": "Worldwalker",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -2733,17 +2738,17 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2759,7 +2764,7 @@
       "Name": "Completing the Look",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2789,9 +2794,9 @@
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_kill1000Morthagi",
@@ -2815,7 +2820,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2823,31 +2828,31 @@
       "Name": "Plague Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_loversVengeance10Kills",
       "SetID": "95dc8p",
       "Name": "How Romantic!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 486
     },
     {
       "ID": "achievement_mythwalker",
@@ -2855,31 +2860,31 @@
       "Name": "Legends Never Die",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -2887,15 +2892,15 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 81
     },
     {
       "ID": "completedStory_ecthis",
@@ -2903,7 +2908,7 @@
       "Name": "Everfading",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "completedStory_enduringWar",
@@ -2911,7 +2916,7 @@
       "Name": "War Endured",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "completedStory_legacy",
@@ -2919,15 +2924,15 @@
       "Name": "Another Tale to Tell",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 142
     },
     {
       "ID": "completedStory_procedural",
@@ -2935,7 +2940,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "completedStory_ulstryx",
@@ -2943,7 +2948,7 @@
       "Name": "Daybreak",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 364
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2951,7 +2956,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -2959,7 +2964,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -2967,7 +2972,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -2975,23 +2980,23 @@
       "Name": "Core Failure",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 20
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
       "SetID": "95dc8p",
       "Name": "Turncoat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 101
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -2999,7 +3004,7 @@
       "Name": "Bears are Scary",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -3071,15 +3076,15 @@
       "Name": "Astrology",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 61
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -3093,9 +3098,9 @@
       "ID": "theme_vine_poison50Enemies",
       "SetID": "95dc8p",
       "Name": "A Temperamental Shrub",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "theme_wolf_killEveryEnemyType",
@@ -3109,15 +3114,15 @@
       "ID": "ulstryx_killCalabyneInOneTurn",
       "SetID": "95dc8p",
       "Name": "No Time for Clawmonsters",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 81
     },
     {
       "ID": "dungeonBossDefeated|alchemist",
       "SetID": "9eapdo6",
       "Name": "Malthides, Brute Toxinist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3133,9 +3138,9 @@
       "ID": "dungeonBossDefeated|bladeMaylen",
       "SetID": "9eapdo6",
       "Name": "Luthin the Mirrormaster",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|bogmore",
@@ -3149,15 +3154,15 @@
       "ID": "dungeonBossDefeated|chef",
       "SetID": "9eapdo6",
       "Name": "Head Chef",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|drauvthagi",
       "SetID": "9eapdo6",
       "Name": "Gracnaw\u0027s Dragon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3165,23 +3170,23 @@
       "ID": "dungeonBossDefeated|fireWitch",
       "SetID": "9eapdo6",
       "Name": "Granny Gloomfire",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|gardener",
       "SetID": "9eapdo6",
       "Name": "The Gardener",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|gladiator",
       "SetID": "9eapdo6",
       "Name": "The Glorysword Clayn",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3197,15 +3202,15 @@
       "ID": "dungeonBossDefeated|magitaur",
       "SetID": "9eapdo6",
       "Name": "The Umbercryst Martyr",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|minospore",
       "SetID": "9eapdo6",
       "Name": "The Riftspore Apostle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3213,7 +3218,7 @@
       "ID": "dungeonBossDefeated|partyWagon",
       "SetID": "9eapdo6",
       "Name": "Party Wagon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3221,31 +3226,31 @@
       "ID": "dungeonBossDefeated|pilot",
       "SetID": "9eapdo6",
       "Name": "Admiral of the Air",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|starwing",
       "SetID": "9eapdo6",
       "Name": "Starwing",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|tentacowl",
       "SetID": "9eapdo6",
       "Name": "Ollend the Abductor",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "dungeonBossDefeated|thrixlProphet",
       "SetID": "9eapdo6",
       "Name": "Symbiotic Advisor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3253,33 +3258,33 @@
       "ID": "dungeonBossDefeated|thrixlTwins",
       "SetID": "9eapdo6",
       "Name": "The Twins",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "dungeonBossDefeated|thumper",
       "SetID": "9eapdo6",
       "Name": "The Doorman",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "dungeonBossDefeated|warbird",
       "SetID": "9eapdo6",
       "Name": "King Carrion",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "omenroad_blockDodge",
       "SetID": "9eapdo6",
       "Name": "The Unscathed",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "omenroad_completedStory_glyffrix",
@@ -3287,13 +3292,13 @@
       "Name": "Neverbefore",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "omenroad_damageRun",
       "SetID": "9eapdo6",
       "Name": "The Relentless",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -3301,9 +3306,9 @@
       "ID": "omenroad_damageSingle",
       "SetID": "9eapdo6",
       "Name": "The Lethal",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "omenroad_damageTaken",
@@ -3325,7 +3330,7 @@
       "ID": "omenroad_killsTurn",
       "SetID": "9eapdo6",
       "Name": "The Hurricane",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -3335,13 +3340,13 @@
       "Name": "Outset",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "omenroad_peril_10",
       "SetID": "9eapdo6",
       "Name": "Making Tracks",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -3351,7 +3356,7 @@
       "Name": "Seasoned Traveler",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "omenroad_peril_20",
@@ -3365,33 +3370,33 @@
       "ID": "omenroad_peril_5",
       "SetID": "9eapdo6",
       "Name": "Pathbeater",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "omenroad_poison",
       "SetID": "9eapdo6",
       "Name": "The Virulent",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "omenroad_rewards",
       "SetID": "9eapdo6",
       "Name": "The Collector",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "omenroad_shred",
       "SetID": "9eapdo6",
       "Name": "The Shredder",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "omenroad_stunt",
@@ -3413,30 +3418,30 @@
       "ID": "omenroad_transformed",
       "SetID": "9eapdo6",
       "Name": "The Monstrous",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1991,
-      "Completed": 9
+      "Progressed": 2024,
+      "Completed": 10
     },
     {
       "ID": "9eapdo6",
       "IsBase": false,
-      "Progressed": 240,
-      "Completed": 160
+      "Progressed": 273,
+      "Completed": 161
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-09-18T18:58:50.4706968+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:09.4725321+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:49.8180939+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:21.279897+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:54.7972033+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:09.47262+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:20.8061697+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:49.8181864+00:00"
 }

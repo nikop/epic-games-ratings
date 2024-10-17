@@ -6,11 +6,11 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 95.00% | ~283 |
-| Daily Life Begins Anew | 79.00% | ~235 |
+| Welcome to Redo | 96.00% | ~286 |
+| Daily Life Begins Anew | 80.00% | ~238 |
 | Our World Now | 78.00% | ~232 |
-| Never Saw It Coming | 63.00% | ~188 |
-| Coup de Grace | 55.00% | ~164 |
+| Never Saw It Coming | 64.00% | ~191 |
+| Coup de Grace | 56.00% | ~167 |
 | Go-Home Club Activities START! | 47.00% | ~140 |
 | Philanthropist | 36.00% | ~107 |
 | Test Your Luck | 33.00% | ~98 |
@@ -18,9 +18,9 @@ Number of Ratings: 32  (23.09.2022)
 | Master of Surprise | 28.00% | ~83 |
 | Be Who You Wanna Be | 26.00% | ~77 |
 | Counter Champion | 24.00% | ~72 |
+| Combo Commando | 24.00% | ~72 |
 | Friendly Neighborhood | 23.00% | ~69 |
 | Investment Ban-χ-ing | 23.00% | ~69 |
-| Combo Commando | 23.00% | ~69 |
 | One-Track Mind | 22.00% | ~66 |
 | Nice Doing Business | 22.00% | ~66 |
 | Stay Winning | 22.00% | ~66 |
@@ -42,8 +42,8 @@ Number of Ratings: 32  (23.09.2022)
 | Love, Loss, and the Omega Nebula | 8.00% | ~24 |
 | Redo Redone | 7.00% | ~21 |
 | The Part-Time Tyrant | 7.00% | ~21 |
+| Songstress Unleashed | 7.00% | ~21 |
 | Executive Privilege | 7.00% | ~21 |
-| Songstress Unleashed | 6.00% | ~18 |
 | For the Love of Regret | 4.00% | ~12 |
 | Building Bridges | 3.00% | ~9 |
 | From Nurse to Worse | 3.00% | ~9 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 553)  
-Completed: 3 (1.01%) (Ranked 282)  
+Progressed: 298 (Ranked 574)  
+Completed: 3 (1.01%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

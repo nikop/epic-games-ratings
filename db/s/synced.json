@@ -5,10 +5,10 @@
   "Ranking_Rating": 1232,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 398,
-  "Ranking_EOS_Progress": 137,
-  "Ranking_EOS_Completed": 471,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 139,
+  "Ranking_EOS_Completed": 495,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -3007,7 +3007,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 108661,
+  "EOS_Progressed": 108802,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -19492,6 +19492,11 @@
       "Time": "2024-09-14T14:23:07.52257+00:00",
       "NumProgressed": 108661,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-10-17T05:11:42.2494291+00:00",
+      "NumProgressed": 108802,
+      "NumCompleted": 88
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -19504,7 +19509,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 57590
+      "UsersEstimate": 57665
     },
     {
       "ID": "10",
@@ -19512,7 +19517,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "11",
@@ -19520,7 +19525,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2176
     },
     {
       "ID": "12",
@@ -19528,7 +19533,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2176
     },
     {
       "ID": "13",
@@ -19536,7 +19541,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.5,
       "XP": 150,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "14",
@@ -19544,7 +19549,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 9779
+      "UsersEstimate": 9792
     },
     {
       "ID": "15",
@@ -19552,15 +19557,15 @@
       "Name": "Gone Rogue",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2176
     },
     {
       "ID": "16",
       "SetID": "2cfdi92",
       "Name": "Completely Customizable",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 652
+      "UsersEstimate": 544
     },
     {
       "ID": "2",
@@ -19568,7 +19573,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 24992
+      "UsersEstimate": 25024
     },
     {
       "ID": "3",
@@ -19576,7 +19581,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 16299
+      "UsersEstimate": 16320
     },
     {
       "ID": "4",
@@ -19584,7 +19589,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9779
+      "UsersEstimate": 9792
     },
     {
       "ID": "5",
@@ -19592,7 +19597,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 7606
+      "UsersEstimate": 7616
     },
     {
       "ID": "6",
@@ -19600,7 +19605,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5440
     },
     {
       "ID": "7",
@@ -19608,7 +19613,7 @@
       "Name": "More Power to You",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 42378
+      "UsersEstimate": 42433
     },
     {
       "ID": "8",
@@ -19616,7 +19621,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "9",
@@ -19631,7 +19636,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 108661,
+      "Progressed": 108802,
       "Completed": 88
     }
   ],
@@ -19639,8 +19644,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-10-13T16:57:49.7322135+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:07.5225694+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:42.2494285+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:56.7216088+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:19.7956713+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:07.5226621+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:42.2495398+00:00"
 }

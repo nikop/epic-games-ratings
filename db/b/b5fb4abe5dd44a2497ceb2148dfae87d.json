@@ -2,10 +2,10 @@
   "ID": "b5fb4abe5dd44a2497ceb2148dfae87d",
   "Name": "Unlooted",
   "ProductSlug": "unlooted-54b0ce",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-11T14:57:12.4136311+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:33.479432+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:12.2937345+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:06.2773243+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3afeb43f23944b2da7aba1f04ad5756c",
   "Name": "Asterix and Obelix Slap Them All 2",
   "ProductSlug": "asterix-and-obelix-slap-them-all-2-0ca63e",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-11-13T09:00:00+00:00",
     "PcReleaseDate": "2023-11-13T09:00:00+00:00",
@@ -301,8 +301,8 @@
   ],
   "FirstSeen": "2023-11-14T18:03:16.7845524+00:00",
   "FirstSeenAchievements": "2023-11-09T10:07:21.5985145+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:54.2210575+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:33.2031661+00:00",
   "LastUpdate_AppInfo": "2024-10-13T13:11:34.2757405+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:18.707181+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:54.2210769+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:10:33.2031899+00:00"
 }

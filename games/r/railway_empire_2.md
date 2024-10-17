@@ -5,65 +5,65 @@ Rating: 4.42 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 12.00% | ~399 |
-| From X to Y | 11.00% | ~366 |
-| Departure | 11.00% | ~366 |
-| A new Journey | 11.00% | ~366 |
-| Way of Iron | 11.00% | ~366 |
-| Mystery Tour | 11.00% | ~366 |
-| Brainstorm | 10.00% | ~333 |
-| We brake for nobody | 10.00% | ~333 |
-| All around the World | 10.00% | ~333 |
-| Mind the Gap | 10.00% | ~333 |
-| Travel Company | 10.00% | ~333 |
-| Facility Manager | 9.00% | ~299 |
-| Poor Devil | 9.00% | ~299 |
-| Right through the middle | 9.00% | ~299 |
-| Producer | 8.00% | ~266 |
-| Going once, going twice, sold | 7.00% | ~233 |
-| Bridge Builder | 7.00% | ~233 |
-| Bull and bear | 7.00% | ~233 |
-| Full Steam ahead | 6.00% | ~200 |
-| General Manager | 6.00% | ~200 |
-| Country Life | 6.00% | ~200 |
-| Access granted | 6.00% | ~200 |
-| All mine | 6.00% | ~200 |
-| Mole | 6.00% | ~200 |
-| Financial Shark | 6.00% | ~200 |
-| Apprentice | 5.00% | ~166 |
-| Stoker | 5.00% | ~166 |
-| Hostile Takeover | 5.00% | ~166 |
-| Traffic Junction | 5.00% | ~166 |
-| Breaking Ground | 5.00% | ~166 |
-| Trailblazer | 4.00% | ~133 |
-| Seven at one stroke | 4.00% | ~133 |
-| Traffic Jam | 4.00% | ~133 |
-| Tycoon | 4.00% | ~133 |
-| Bold and beautiful | 4.00% | ~133 |
-| Settler | 4.00% | ~133 |
-| Call of Duty | 4.00% | ~133 |
-| Resistance is futile | 3.00% | ~100 |
-| Go West | 3.00% | ~100 |
-| A new Hope | 3.00% | ~100 |
-| Conductor | 3.00% | ~100 |
-| Max Power | 3.00% | ~100 |
-| Assimilated | 3.00% | ~100 |
-| Socializer | 3.00% | ~100 |
-| Unstoppable | 2.00% | ~67 |
-| Track to the Future | 2.00% | ~67 |
-| Engineer | 2.00% | ~67 |
-| Locusts | 2.00% | ~67 |
-| Networker | 2.00% | ~67 |
-| Other countries, other candies | 2.00% | ~11 |
-| Not free of charge | 2.00% | ~11 |
-| Let off some steam | 1.00% | ~33 |
-| Accurate | 1.00% | ~33 |
-| Sissi would be proud | 1.00% | ~5 |
-| Nerves of steel | 1.00% | ~5 |
-| Peak Voltage | 0.80% | ~4 |
-| Resistance is… voltage divided by current?! | 0.60% | ~3 |
-| E-LOC Musk | 0.50% | ~3 |
-| Three Cheers for Progress | 0.40% | ~13 |
+| Country Bumpkin | 13.00% | ~440 |
+| From X to Y | 12.00% | ~406 |
+| Departure | 12.00% | ~406 |
+| A new Journey | 12.00% | ~406 |
+| We brake for nobody | 12.00% | ~406 |
+| Way of Iron | 12.00% | ~406 |
+| Mind the Gap | 12.00% | ~406 |
+| Mystery Tour | 12.00% | ~406 |
+| Brainstorm | 11.00% | ~372 |
+| All around the World | 11.00% | ~372 |
+| Travel Company | 11.00% | ~372 |
+| Facility Manager | 10.00% | ~338 |
+| Producer | 10.00% | ~338 |
+| Poor Devil | 10.00% | ~338 |
+| Right through the middle | 10.00% | ~338 |
+| Going once, going twice, sold | 8.00% | ~271 |
+| Bridge Builder | 8.00% | ~271 |
+| Bull and bear | 8.00% | ~271 |
+| Full Steam ahead | 7.00% | ~237 |
+| Country Life | 7.00% | ~237 |
+| Access granted | 7.00% | ~237 |
+| All mine | 7.00% | ~237 |
+| Mole | 7.00% | ~237 |
+| Financial Shark | 7.00% | ~237 |
+| Apprentice | 6.00% | ~203 |
+| General Manager | 6.00% | ~203 |
+| Breaking Ground | 6.00% | ~203 |
+| Stoker | 5.00% | ~169 |
+| Trailblazer | 5.00% | ~169 |
+| Seven at one stroke | 5.00% | ~169 |
+| Traffic Jam | 5.00% | ~169 |
+| Tycoon | 5.00% | ~169 |
+| Hostile Takeover | 5.00% | ~169 |
+| Traffic Junction | 5.00% | ~169 |
+| Bold and beautiful | 5.00% | ~169 |
+| Settler | 5.00% | ~169 |
+| Call of Duty | 5.00% | ~169 |
+| Resistance is futile | 4.00% | ~135 |
+| Go West | 4.00% | ~135 |
+| Max Power | 4.00% | ~135 |
+| Socializer | 4.00% | ~135 |
+| A new Hope | 3.00% | ~102 |
+| Unstoppable | 3.00% | ~102 |
+| Track to the Future | 3.00% | ~102 |
+| Conductor | 3.00% | ~102 |
+| Assimilated | 3.00% | ~102 |
+| Locusts | 3.00% | ~102 |
+| Engineer | 2.00% | ~68 |
+| Let off some steam | 2.00% | ~68 |
+| Networker | 2.00% | ~68 |
+| Sissi would be proud | 2.00% | ~12 |
+| Other countries, other candies | 2.00% | ~12 |
+| Nerves of steel | 2.00% | ~12 |
+| Not free of charge | 2.00% | ~12 |
+| Accurate | 1.00% | ~34 |
+| Peak Voltage | 1.00% | ~6 |
+| Resistance is… voltage divided by current?! | 0.90% | ~5 |
+| E-LOC Musk | 0.70% | ~4 |
+| Three Cheers for Progress | 0.40% | ~14 |
 | European Union | 0.30% | ~10 |
 | United States | 0.20% | ~7 |
 | Too clever for Poirot | 0.20% | ~1 |
@@ -72,8 +72,8 @@ Rating: 4.42 (Ranked 878)
 | Hotel Transylvania | 0.10% | ~1 |
 | A/C you like it | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,327 (Ranked 324)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 3,384 (Ranked 339)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +332,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 3,127 | 0 |
 | 2024-08-09 | 3,227 | 0 |
 | 2024-09-14 | 3,327 | 0 |
+| 2024-10-17 | 3,384 | 0 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 609)  
 Sum: 65 (Ranked 633)  

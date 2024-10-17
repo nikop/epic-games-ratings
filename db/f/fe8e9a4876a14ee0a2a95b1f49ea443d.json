@@ -2,10 +2,10 @@
   "ID": "fe8e9a4876a14ee0a2a95b1f49ea443d",
   "Name": "Let Me Sleep",
   "ProductSlug": "let-me-sleep-085027",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-16T22:00:00+00:00",
     "PcReleaseDate": "2023-09-10T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-16T21:57:13.9626741+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:16:22.7047816+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:34.2339591+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:04.8677542+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:44.9502369+00:00"
 }

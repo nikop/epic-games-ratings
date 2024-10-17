@@ -2,10 +2,10 @@
   "ID": "4fd8ab38c14c4d91ba07aae139723027",
   "Name": "Lethal Honor - Order of the Apocalypse",
   "ProductSlug": "lethal-honor-order-of-the-apocalypse-84604c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:05:31.1644556+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:02.6059795+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:36.7614223+00:00",
   "LastUpdate_AppInfo": "2024-10-13T03:15:51.9287465+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:33.0084965+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:02.6059831+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:11.5287585+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:36.7614256+00:00"
 }

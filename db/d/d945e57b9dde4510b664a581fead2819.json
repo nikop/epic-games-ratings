@@ -2,10 +2,10 @@
   "ID": "d945e57b9dde4510b664a581fead2819",
   "Name": "Planet Coaster 2",
   "ProductSlug": "planet-coaster-2-983fe9",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1015,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-11-06T15:00:00+00:00",
     "PcReleaseDate": "2024-11-06T15:00:00+00:00",
@@ -23,17 +23,322 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:14:35.678739+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:14:35.678741+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllCareerMedals",
+      "SetID": "2fcjf2e",
+      "Name": "Fully Loaded",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllTechUnlocked",
+      "SetID": "2fcjf2e",
+      "Name": "Eugene Would Be Proud",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BronzeArchipelago",
+      "SetID": "2fcjf2e",
+      "Name": "Sunken Pleasures",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BronzeDuellingParks",
+      "SetID": "2fcjf2e",
+      "Name": "Park Half Full",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BronzeLabyrinthSecrets",
+      "SetID": "2fcjf2e",
+      "Name": "What Lurks Beneath",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ExpensiveScenery",
+      "SetID": "2fcjf2e",
+      "Name": "What a View!",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FastCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "In a Word, Whoooosh",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FirstCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "On a Roll",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "FirstFlatRide",
+      "SetID": "2fcjf2e",
+      "Name": "Time to Ride",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "FirstFlume",
+      "SetID": "2fcjf2e",
+      "Name": "Get Your Feet Wet",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "GoldVomitWorld",
+      "SetID": "2fcjf2e",
+      "Name": "Mess Without Stress",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "InvertedCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "Down Is Up",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LargeLoan",
+      "SetID": "2fcjf2e",
+      "Name": "What Even Is Interest?",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LongCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "Test of Endurance",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MajesticCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "Best of the Best",
+      "Percentage": 7,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ManyClassicRides",
+      "SetID": "2fcjf2e",
+      "Name": "Golden Oldies",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManyGuests",
+      "SetID": "2fcjf2e",
+      "Name": "Quite the Crowd",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ManyHappyGuests",
+      "SetID": "2fcjf2e",
+      "Name": "Satisfaction Guaranteed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManySimultaneousFlatRiders",
+      "SetID": "2fcjf2e",
+      "Name": "No Track Required",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ManySimultaneousPoolers",
+      "SetID": "2fcjf2e",
+      "Name": "Splashing Around",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManySimultaneousWaterSlideOrFlumeRiders",
+      "SetID": "2fcjf2e",
+      "Name": "Slip \u0027n Slide",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManySlidesOrFlumes",
+      "SetID": "2fcjf2e",
+      "Name": "All the Slides",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ManyStaff",
+      "SetID": "2fcjf2e",
+      "Name": "People Person\u0027s Person People",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "MaxStarSandbox",
+      "SetID": "2fcjf2e",
+      "Name": "Against the Odds",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MidHighParkRating",
+      "SetID": "2fcjf2e",
+      "Name": "Crowd Pleaser",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MidParkRating",
+      "SetID": "2fcjf2e",
+      "Name": "Showstopper",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "PlatinumCoastline",
+      "SetID": "2fcjf2e",
+      "Name": "Water Wonderful World",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "PlatinumGardenPark",
+      "SetID": "2fcjf2e",
+      "Name": "Envy of the Gods",
+      "Percentage": 7,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SilverLostMonument",
+      "SetID": "2fcjf2e",
+      "Name": "Ancient Achievements",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TallWaterSlide",
+      "SetID": "2fcjf2e",
+      "Name": "Ride the Waterfall",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Unlock48Medals",
+      "SetID": "2fcjf2e",
+      "Name": "Final Plunge",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnlockChapter1",
+      "SetID": "2fcjf2e",
+      "Name": "First Drop",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "UnlockChapter2",
+      "SetID": "2fcjf2e",
+      "Name": "Rolling With It",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "UnlockChapter3",
+      "SetID": "2fcjf2e",
+      "Name": "Wheel-y Good Time",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "UnlockChapter4",
+      "SetID": "2fcjf2e",
+      "Name": "Twisting Tracks",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "eXtremeCoaster",
+      "SetID": "2fcjf2e",
+      "Name": "Not For The Faint-Hearted",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "2fcjf2e",
+      "IsBase": true,
+      "Progressed": 14,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-17T05:14:35.6787409+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:35.6787387+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:12.6224998+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:45.6705022+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:26.0921054+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:31.5047087+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:35.6794136+00:00"
 }

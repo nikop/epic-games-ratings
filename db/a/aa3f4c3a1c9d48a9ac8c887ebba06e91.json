@@ -2,10 +2,10 @@
   "ID": "aa3f4c3a1c9d48a9ac8c887ebba06e91",
   "Name": "Peerless Destiny",
   "ProductSlug": "eternal-supreme-a3866b",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2025-03-28T03:00:00+00:00",
     "PcReleaseDate": "2025-03-28T03:00:00+00:00",
@@ -353,8 +353,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:05.6522758+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:26:59.381902+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:16.8137867+00:00",
   "LastUpdate_AppInfo": "2024-10-10T14:57:21.0060619+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:44.0501873+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:26:59.381927+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:16.8138075+00:00"
 }

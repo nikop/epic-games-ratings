@@ -2,10 +2,10 @@
   "ID": "54ee5f520a0348ffb8a1878e7a40bb48",
   "Name": "Doodle Mafia",
   "ProductSlug": "doodle-mafia-b470f1",
-  "Ranking_EOS_Progress": 913,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 940,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-31T09:00:00+00:00",
     "PcReleaseDate": "2017-04-19T21:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
-  "EOS_Completed": 2,
+  "EOS_Progressed": 25,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 16,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:14.5208404+00:00",
@@ -50,6 +50,11 @@
       "Time": "2024-08-20T20:12:58.1521732+00:00",
       "NumProgressed": 22,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-10-17T05:14:25.2894861+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:14.5208428+00:00",
@@ -60,127 +65,127 @@
       "ID": "grp.001_a_good_start",
       "SetID": "8iid72d",
       "Name": "A Good Start",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "grp.002_worlds_diversity",
       "SetID": "8iid72d",
       "Name": "World\u0027s Diversity",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "grp.003_half_the_battle",
       "SetID": "8iid72d",
       "Name": "Half the Battle",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "grp.004_practice_makes_perfect",
       "SetID": "8iid72d",
       "Name": "Practice Makes Perfect",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "grp.008_criminals_nightmare",
       "SetID": "8iid72d",
       "Name": "Criminal\u0027s Nightmare",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "grp.009_legend_of_the_criminal_world",
       "SetID": "8iid72d",
       "Name": "Legend of the Criminal World",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "grp.010_criminal",
       "SetID": "8iid72d",
       "Name": "Criminal",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "grp.011_policeman",
       "SetID": "8iid72d",
       "Name": "Policeman",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "grp.012_pyromaniac",
       "SetID": "8iid72d",
       "Name": "Pyromaniac",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "grp.013_first_aid",
       "SetID": "8iid72d",
       "Name": "First Aid",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "grp.014_fixed_fight",
       "SetID": "8iid72d",
       "Name": "Fixed Fight",
-      "Percentage": 23,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "grp.015_bribe_taker",
       "SetID": "8iid72d",
       "Name": "Bribe-Taker",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "grp.016_psycho",
       "SetID": "8iid72d",
       "Name": "Psycho",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "grp.017_car_enthusiast",
       "SetID": "8iid72d",
       "Name": "Car Enthusiast",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "8iid72d",
       "IsBase": true,
-      "Progressed": 22,
-      "Completed": 2
+      "Progressed": 25,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-08T01:48:15.4664276+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:14.5208428+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:14.8438313+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:25.2894858+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:09.9641982+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:22.6506182+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:14.8438429+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:25.2894963+00:00"
 }

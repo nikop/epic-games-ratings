@@ -5,10 +5,10 @@
   "Ranking_Rating": 94,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 610,
-  "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 449,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Completed": 476,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-04T20:00:00+00:00",
     "PcReleaseDate": "2017-07-31T21:00:00+00:00",
@@ -536,11 +536,11 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 7697,
+  "EOS_Progressed": 8631,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2024-04-05T15:01:39.6617915+00:00",
@@ -571,6 +571,11 @@
       "Time": "2024-09-14T14:23:12.8094372+00:00",
       "NumProgressed": 7697,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-10-17T05:11:48.2847411+00:00",
+      "NumProgressed": 8631,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2024-04-05T15:01:39.6620522+00:00",
@@ -583,15 +588,15 @@
       "Name": "The Student...",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 3021
     },
     {
       "ID": "achievement_10",
       "SetID": "9fj5p1b",
       "Name": "Dust to Dust",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 4541
+      "UsersEstimate": 5179
     },
     {
       "ID": "achievement_11",
@@ -599,71 +604,71 @@
       "Name": "It Was Coming Right For Us",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_12",
       "SetID": "9fj5p1b",
       "Name": "Following the Footsteps",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4920
     },
     {
       "ID": "achievement_13",
       "SetID": "9fj5p1b",
       "Name": "Secret Plans",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4747
     },
     {
       "ID": "achievement_14",
       "SetID": "9fj5p1b",
       "Name": "Unlicensed Nuclear Accelerator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4574
     },
     {
       "ID": "achievement_15",
       "SetID": "9fj5p1b",
       "Name": "Calling CQ",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4574
     },
     {
       "ID": "achievement_16",
       "SetID": "9fj5p1b",
       "Name": "4 Bars",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3848
+      "UsersEstimate": 4402
     },
     {
       "ID": "achievement_17",
       "SetID": "9fj5p1b",
       "Name": "See You at the Party",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 3772
+      "UsersEstimate": 4402
     },
     {
       "ID": "achievement_18",
       "SetID": "9fj5p1b",
       "Name": "Pied Piper",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3848
+      "UsersEstimate": 4402
     },
     {
       "ID": "achievement_19",
       "SetID": "9fj5p1b",
       "Name": "Precious Cargo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3695
+      "UsersEstimate": 4229
     },
     {
       "ID": "achievement_2",
@@ -671,71 +676,71 @@
       "Name": "...Becomes the Master",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_20",
       "SetID": "9fj5p1b",
       "Name": "Defanged",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3541
+      "UsersEstimate": 4143
     },
     {
       "ID": "achievement_21",
       "SetID": "9fj5p1b",
       "Name": "The Ark",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3541
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_22",
       "SetID": "9fj5p1b",
       "Name": "Titanfall!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3541
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_23",
       "SetID": "9fj5p1b",
       "Name": "The Real Pilot\u0027s Gauntlet",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3464
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_24",
       "SetID": "9fj5p1b",
       "Name": "No Salvage",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3464
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_25",
       "SetID": "9fj5p1b",
       "Name": "Excessive Force",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5311
+      "UsersEstimate": 6042
     },
     {
       "ID": "achievement_26",
       "SetID": "9fj5p1b",
       "Name": "Angel of Death",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3452
     },
     {
       "ID": "achievement_27",
       "SetID": "9fj5p1b",
       "Name": "Fire Everything!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3772
+      "UsersEstimate": 4316
     },
     {
       "ID": "achievement_28",
@@ -743,15 +748,15 @@
       "Name": "I have the Power!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_29",
       "SetID": "9fj5p1b",
       "Name": "Face Melter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2762
     },
     {
       "ID": "achievement_3",
@@ -759,15 +764,15 @@
       "Name": "The Graduate",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 6850
+      "UsersEstimate": 7682
     },
     {
       "ID": "achievement_30",
       "SetID": "9fj5p1b",
       "Name": "Aim Bot",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3711
     },
     {
       "ID": "achievement_31",
@@ -775,7 +780,7 @@
       "Name": "Flame On!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1985
     },
     {
       "ID": "achievement_32",
@@ -783,7 +788,7 @@
       "Name": "Coup de Grace",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2848
     },
     {
       "ID": "achievement_33",
@@ -791,7 +796,7 @@
       "Name": "Hat Trick",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1208
     },
     {
       "ID": "achievement_34",
@@ -799,7 +804,7 @@
       "Name": "Annihilation",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_35",
@@ -807,7 +812,7 @@
       "Name": "You can be my Wingman anytime",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_36",
@@ -815,7 +820,7 @@
       "Name": "I know Kung Fu",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1554
     },
     {
       "ID": "achievement_37",
@@ -823,15 +828,15 @@
       "Name": "Power Slide",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_38",
       "SetID": "9fj5p1b",
       "Name": "Cowboy Up",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_39",
@@ -839,7 +844,7 @@
       "Name": "Apex Predator",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1899
     },
     {
       "ID": "achievement_4",
@@ -847,31 +852,31 @@
       "Name": "BT Prime",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6905
     },
     {
       "ID": "achievement_40",
       "SetID": "9fj5p1b",
       "Name": "Robot Army",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2925
+      "UsersEstimate": 3366
     },
     {
       "ID": "achievement_41",
       "SetID": "9fj5p1b",
       "Name": "Certified Pilot",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3539
     },
     {
       "ID": "achievement_42",
       "SetID": "9fj5p1b",
       "Name": "Renowned Pilot",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 847
+      "UsersEstimate": 1036
     },
     {
       "ID": "achievement_43",
@@ -879,23 +884,23 @@
       "Name": "Legendary Pilot",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 154
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_44",
       "SetID": "9fj5p1b",
       "Name": "Jack of All Trades",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3711
     },
     {
       "ID": "achievement_45",
       "SetID": "9fj5p1b",
       "Name": "Off the Beaten Path",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2848
     },
     {
       "ID": "achievement_46",
@@ -903,7 +908,7 @@
       "Name": "Collector",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_47",
@@ -911,7 +916,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 62
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_48",
@@ -919,15 +924,15 @@
       "Name": "So It Begins...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2503
     },
     {
       "ID": "achievement_49",
       "SetID": "9fj5p1b",
       "Name": "Lock and Load",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2771
+      "UsersEstimate": 3193
     },
     {
       "ID": "achievement_5",
@@ -935,7 +940,7 @@
       "Name": "Hot Mess",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 5388
+      "UsersEstimate": 6042
     },
     {
       "ID": "achievement_50",
@@ -943,7 +948,7 @@
       "Name": "Free Association",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_6",
@@ -951,7 +956,7 @@
       "Name": "Close Shave",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2848
     },
     {
       "ID": "achievement_7",
@@ -959,15 +964,15 @@
       "Name": "Some Shortcut!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5610
     },
     {
       "ID": "achievement_8",
       "SetID": "9fj5p1b",
       "Name": "Incepted",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 4695
+      "UsersEstimate": 5351
     },
     {
       "ID": "achievement_9",
@@ -975,14 +980,14 @@
       "Name": "I\u0027m Not Locked in Here With You",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 4541
+      "UsersEstimate": 5092
     }
   ],
   "AchievementSets": [
     {
       "ID": "9fj5p1b",
       "IsBase": true,
-      "Progressed": 7697,
+      "Progressed": 8631,
       "Completed": 10
     }
   ],
@@ -990,8 +995,8 @@
   "FirstSeenRating": "2024-06-02T19:58:12.7386021+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:39.6620521+00:00",
   "LastChanged": "2024-10-16T19:59:35.4758235+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:12.8094367+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:48.2847409+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.979486+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:47.9078699+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:12.8094678+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:48.2847714+00:00"
 }

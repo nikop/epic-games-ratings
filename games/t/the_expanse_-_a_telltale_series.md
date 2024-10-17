@@ -5,44 +5,44 @@ Rating: 4.44 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 26.00% | ~5,860 |
-| Captain Drummer | 25.00% | ~5,635 |
-| Celebrations are in Order | 24.00% | ~5,409 |
-| The Pit and the Pirates | 22.00% | ~4,959 |
-| Martian Music | 22.00% | ~4,959 |
-| Bosmang | 22.00% | ~4,959 |
-| Impossible Objects | 22.00% | ~4,959 |
-| Drone Dodger | 21.00% | ~4,733 |
-| Spore Taste | 19.00% | ~4,282 |
-| Stogie for Fogey | 18.00% | ~4,057 |
-| Call it Even | 16.00% | ~3,606 |
-| Zen Master | 15.00% | ~1,274 |
-| Heal Thy Medic | 14.00% | ~3,155 |
-| Safe Cracker | 14.00% | ~1,189 |
-| Data Archivist | 13.00% | ~2,930 |
-| Madame Undersecretary | 13.00% | ~1,104 |
-| Thorston Mayer | 12.00% | ~2,705 |
-| Khan's Revenge | 12.00% | ~2,705 |
-| Keep Arjun in Check | 11.00% | ~934 |
-| Doctor Approved | 10.00% | ~2,254 |
-| Drug Gifter | 10.00% | ~2,254 |
-| Bottoms up! | 10.00% | ~2,254 |
-| Master Negotiator | 9.00% | ~764 |
-| Data Logger | 7.00% | ~1,578 |
-| Miraculous Maya | 7.00% | ~1,578 |
-| Data Master | 6.00% | ~1,352 |
-| Brother's Reaper | 4.00% | ~902 |
-| No Belter Left Behind | 4.00% | ~902 |
-| Debris Spree | 3.00% | ~676 |
-| Data Recoverer | 3.00% | ~676 |
+| Oyedang, Kopengs | 27.00% | ~6,094 |
+| Captain Drummer | 25.00% | ~5,643 |
+| Celebrations are in Order | 24.00% | ~5,417 |
+| The Pit and the Pirates | 22.00% | ~4,966 |
+| Martian Music | 22.00% | ~4,966 |
+| Bosmang | 22.00% | ~4,966 |
+| Impossible Objects | 22.00% | ~4,966 |
+| Drone Dodger | 21.00% | ~4,740 |
+| Spore Taste | 19.00% | ~4,288 |
+| Stogie for Fogey | 18.00% | ~4,063 |
+| Call it Even | 16.00% | ~3,611 |
+| Zen Master | 15.00% | ~1,279 |
+| Heal Thy Medic | 14.00% | ~3,160 |
+| Safe Cracker | 14.00% | ~1,194 |
+| Data Archivist | 13.00% | ~2,934 |
+| Madame Undersecretary | 13.00% | ~1,109 |
+| Thorston Mayer | 12.00% | ~2,709 |
+| Khan's Revenge | 12.00% | ~2,709 |
+| Bottoms up! | 11.00% | ~2,483 |
+| Keep Arjun in Check | 11.00% | ~938 |
+| Doctor Approved | 10.00% | ~2,257 |
+| Drug Gifter | 10.00% | ~2,257 |
+| Master Negotiator | 9.00% | ~768 |
+| Data Logger | 7.00% | ~1,580 |
+| Miraculous Maya | 7.00% | ~1,580 |
+| Data Master | 6.00% | ~1,354 |
+| Brother's Reaper | 4.00% | ~903 |
+| No Belter Left Behind | 4.00% | ~903 |
+| Debris Spree | 3.00% | ~677 |
+| Data Recoverer | 3.00% | ~677 |
 | Urshanabi Hoarder | 2.00% | ~451 |
-| Data Miner | 1.00% | ~225 |
-| Grave Robber | 1.00% | ~225 |
+| Data Miner | 1.00% | ~226 |
+| Grave Robber | 1.00% | ~226 |
 | Scavenger Star | 0.60% | ~135 |
 | Data Collector | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,539 (Ranked 212)  
-Completed: 102 (0.45%) (Ranked 366)  
+Progressed: 22,571 (Ranked 217)  
+Completed: 102 (0.45%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,6 +237,7 @@ Completed: 102 (0.45%) (Ranked 366)
 | 2024-08-09 | 22,029 | 95 |
 | 2024-09-14 | 22,337 | 102 |
 | 2024-10-09 | 22,539 | 102 |
+| 2024-10-17 | 22,571 | 102 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

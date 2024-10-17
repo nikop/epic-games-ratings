@@ -4,49 +4,49 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~163 |
-| Baby's First Car | 28.00% | ~152 |
-| A Forest Walk | 28.00% | ~152 |
-| Amateur Mechanic | 27.00% | ~146 |
-| Pushover | 26.00% | ~141 |
-| Multiply that! | 25.00% | ~136 |
-| C-C-C-Combo! | 24.00% | ~130 |
-| The Wild West | 22.00% | ~119 |
-| Snow Fun! | 22.00% | ~119 |
-| Fore! | 21.00% | ~114 |
-| The Collector | 21.00% | ~114 |
-| Insurance fraud | 21.00% | ~114 |
-| Bag of Tricks | 21.00% | ~114 |
-| To and Fro | 20.00% | ~108 |
-| I see the light! | 20.00% | ~108 |
-| In the Bag! | 20.00% | ~108 |
-| You're it | 20.00% | ~108 |
-| Car-Tapult | 19.00% | ~103 |
-| Take that Frosty! | 19.00% | ~103 |
-| Goodbye cruel world | 19.00% | ~103 |
-| Beach Party! | 19.00% | ~103 |
-| First Come, First Serve | 18.00% | ~98 |
-| Disoriented | 18.00% | ~98 |
-| Anger Issues | 18.00% | ~98 |
-| Your Highness | 17.00% | ~92 |
-| Event Amateur | 16.00% | ~87 |
-| Feeling Hot Hot Hot! | 15.00% | ~81 |
-| Feeling Dizzy? | 15.00% | ~81 |
-| Assert Dominance | 15.00% | ~81 |
-| Speed of light | 15.00% | ~81 |
-| Drift King! | 14.00% | ~76 |
-| Ferry Good! | 14.00% | ~76 |
-| Out of this League | 13.00% | ~70 |
-| Special Forces | 12.00% | ~65 |
-| Toot Toot! | 10.00% | ~54 |
-| Blasting away! | 10.00% | ~54 |
-| High Roller | 9.00% | ~49 |
-| Earth Defense Force | 9.00% | ~49 |
-| Rocketman | 9.00% | ~49 |
-| Event Pro | 9.00% | ~49 |
+| Brace for impact! | 30.00% | ~165 |
+| Baby's First Car | 28.00% | ~154 |
+| A Forest Walk | 28.00% | ~154 |
+| Amateur Mechanic | 27.00% | ~148 |
+| Pushover | 26.00% | ~143 |
+| Multiply that! | 25.00% | ~138 |
+| C-C-C-Combo! | 24.00% | ~132 |
+| Snow Fun! | 22.00% | ~121 |
+| Fore! | 21.00% | ~116 |
+| The Collector | 21.00% | ~116 |
+| Insurance fraud | 21.00% | ~116 |
+| The Wild West | 21.00% | ~116 |
+| Bag of Tricks | 21.00% | ~116 |
+| You're it | 21.00% | ~116 |
+| To and Fro | 20.00% | ~110 |
+| I see the light! | 20.00% | ~110 |
+| In the Bag! | 20.00% | ~110 |
+| Car-Tapult | 19.00% | ~104 |
+| Take that Frosty! | 19.00% | ~104 |
+| Goodbye cruel world | 19.00% | ~104 |
+| Beach Party! | 19.00% | ~104 |
+| First Come, First Serve | 18.00% | ~99 |
+| Disoriented | 18.00% | ~99 |
+| Anger Issues | 18.00% | ~99 |
+| Your Highness | 17.00% | ~94 |
+| Event Amateur | 16.00% | ~88 |
+| Feeling Hot Hot Hot! | 15.00% | ~82 |
+| Feeling Dizzy? | 15.00% | ~82 |
+| Ferry Good! | 15.00% | ~82 |
+| Assert Dominance | 15.00% | ~82 |
+| Speed of light | 15.00% | ~82 |
+| Drift King! | 14.00% | ~77 |
+| Out of this League | 13.00% | ~72 |
+| Special Forces | 12.00% | ~66 |
+| Toot Toot! | 10.00% | ~55 |
+| Blasting away! | 10.00% | ~55 |
+| High Roller | 9.00% | ~50 |
+| Earth Defense Force | 9.00% | ~50 |
+| Rocketman | 9.00% | ~50 |
+| Event Pro | 9.00% | ~50 |
 | Space Crash | 6.00% | ~33 |
-| To war! | 6.00% | ~33 |
-| Hoarder | 5.00% | ~27 |
+| To war! | 5.00% | ~28 |
+| Hoarder | 5.00% | ~28 |
 | Best Friends! | 4.00% | ~22 |
 | Event Master | 4.00% | ~22 |
 | A Starting Collector | 3.00% | ~16 |
@@ -56,12 +56,12 @@
 | Monkey Madness | 2.00% | ~11 |
 | M2H was Here! | 2.00% | ~11 |
 | My Precious | 2.00% | ~11 |
-| Ultimate Car Collector | 1.00% | ~5 |
-| Master Mechanic | 1.00% | ~5 |
+| Ultimate Car Collector | 1.00% | ~6 |
+| Master Mechanic | 1.00% | ~6 |
 | Crashed and Driven | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542 (Ranked 483)  
-Completed: 2 (0.37%) (Ranked 378)  
+Progressed: 550 (Ranked 500)  
+Completed: 2 (0.36%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,6 +187,7 @@ Completed: 2 (0.37%) (Ranked 378)
 | 2024-08-09 | 527 | 2 |
 | 2024-08-20 | 532 | 2 |
 | 2024-09-14 | 542 | 2 |
+| 2024-10-17 | 550 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

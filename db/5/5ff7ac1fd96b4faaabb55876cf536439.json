@@ -2,10 +2,10 @@
   "ID": "5ff7ac1fd96b4faaabb55876cf536439",
   "Name": "SteamWorld Heist II",
   "ProductSlug": "steamworld-heist-2-37ee66",
-  "Ranking_EOS_Progress": 1057,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1078,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-08T15:00:00+00:00",
     "PcReleaseDate": "2024-08-08T15:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -40,6 +40,11 @@
       "Time": "2024-09-14T14:27:48.3475334+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:00.012735+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-20T20:13:46.6684745+00:00",
@@ -50,9 +55,9 @@
       "ID": "ach_all_artifacts",
       "SetID": "41mec4f",
       "Name": "Artifact Afficionado",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_all_celestial_gears",
@@ -66,17 +71,17 @@
       "ID": "ach_all_crew",
       "SetID": "41mec4f",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_all_flagships",
       "SetID": "41mec4f",
       "Name": "Flagship Hunter",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_all_hats",
@@ -122,7 +127,7 @@
       "ID": "ach_buyitem",
       "SetID": "41mec4f",
       "Name": "Spend Gallons to make Gallons",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -194,9 +199,9 @@
       "ID": "ach_healing",
       "SetID": "41mec4f",
       "Name": "Never Gonna Let You Down",
-      "Percentage": 20,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_max_jobs",
@@ -210,25 +215,25 @@
       "ID": "ach_mission_arctica_boss_01",
       "SetID": "41mec4f",
       "Name": "Taming of a Tempest",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_mission_arctica_parley",
       "SetID": "41mec4f",
       "Name": "An Ancient Rite",
-      "Percentage": 20,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_mission_atomic_boss_mechs",
       "SetID": "41mec4f",
       "Name": "What Comes Around, Goes Around",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_mission_east_caribbea_boss_01",
@@ -250,23 +255,23 @@
       "ID": "ach_mission_west_caribbea_boss_01",
       "SetID": "41mec4f",
       "Name": "Pressure Handled",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_mission_west_caribbea_prisonbreak",
       "SetID": "41mec4f",
       "Name": "Reuniting the Band",
-      "Percentage": 20,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_multiclasser",
       "SetID": "41mec4f",
       "Name": "Inflating that Resum\u00E9",
-      "Percentage": 60,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -282,55 +287,55 @@
       "ID": "ach_new_hat",
       "SetID": "41mec4f",
       "Name": "Hat-hunter",
-      "Percentage": 60,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_reach_arctica_d_bar",
       "SetID": "41mec4f",
       "Name": "Arctic Adventurer",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_reach_atomic_city_bar",
       "SetID": "41mec4f",
       "Name": "Deeper than any Steambot Before",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_spend_10000",
       "SetID": "41mec4f",
       "Name": "Hey, Big Spender!",
-      "Percentage": 20,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_tutorial_mission_complete",
       "SetID": "41mec4f",
       "Name": "Sub-Optimal",
-      "Percentage": 20,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "41mec4f",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-09T05:59:15.4121488+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:26.9606879+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:48.3475328+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:00.0127343+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:14.0472914+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:20.2578946+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:48.3475549+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:42.4858157+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:00.0127547+00:00"
 }

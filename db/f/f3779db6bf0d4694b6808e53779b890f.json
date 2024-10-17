@@ -2,10 +2,10 @@
   "ID": "f3779db6bf0d4694b6808e53779b890f",
   "Name": "House of Golf 2",
   "ProductSlug": "house-of-golf-2-f346a4",
-  "Ranking_EOS_Progress": 1011,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1040,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-16T11:00:00+00:00",
     "PcReleaseDate": "2024-08-16T11:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
     {
       "Time": "2024-09-14T14:27:51.032417+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:01.6808905+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -87,25 +92,25 @@
       "ID": "ACH_CompleteChamp01",
       "SetID": "6l171io",
       "Name": "Throwing Shapes",
-      "Percentage": 11,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CompleteChamp02",
       "SetID": "6l171io",
       "Name": "It\u0027s a Jungle... In Here?",
-      "Percentage": 11,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CompleteChamp03",
       "SetID": "6l171io",
       "Name": "Model Performance",
-      "Percentage": 11,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CompleteChamp04",
@@ -119,7 +124,7 @@
       "ID": "ACH_CompleteChamp05",
       "SetID": "6l171io",
       "Name": "Play After Dark",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -167,33 +172,33 @@
       "ID": "ACH_CompleteTutorial",
       "SetID": "6l171io",
       "Name": "FORE!",
-      "Percentage": 67,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DistanceTravelledToHole",
       "SetID": "6l171io",
       "Name": "Miles Away!",
-      "Percentage": 33,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_First48HourChallenge",
       "SetID": "6l171io",
       "Name": "48 Hours",
-      "Percentage": 11,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FirstHoleInOne",
       "SetID": "6l171io",
       "Name": "Bullseye!",
-      "Percentage": 22,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FiveLiveEvents",
@@ -215,7 +220,7 @@
       "ID": "ACH_LiveTournamentBeaten",
       "SetID": "6l171io",
       "Name": "Scored Big",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -223,17 +228,17 @@
       "ID": "ACH_LiveTournamentPlayed",
       "SetID": "6l171io",
       "Name": "Big Stage",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MultiplayerChampionship",
       "SetID": "6l171io",
       "Name": "Better with Friends",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_NineHolesInOne",
@@ -247,9 +252,9 @@
       "ID": "ACH_PinballScore",
       "SetID": "6l171io",
       "Name": "Pinball Wizard",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PlayInstruments",
@@ -263,9 +268,9 @@
       "ID": "ACH_PlayWithNewBall",
       "SetID": "6l171io",
       "Name": "New Looks",
-      "Percentage": 22,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PlayWithTenBalls",
@@ -304,14 +309,14 @@
     {
       "ID": "6l171io",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-23T04:00:23.0437735+00:00",
   "FirstSeenAchievements": "2024-08-09T18:08:09.696315+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:51.0324163+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:01.6808898+00:00",
   "LastUpdate_AppInfo": "2024-10-10T23:57:14.1976117+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:07.9883916+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:51.0324365+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:01.6809095+00:00"
 }

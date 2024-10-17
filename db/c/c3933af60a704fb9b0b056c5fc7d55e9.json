@@ -2,10 +2,10 @@
   "ID": "c3933af60a704fb9b0b056c5fc7d55e9",
   "Name": "Eternal Rebirth -Curses of love-",
   "ProductSlug": "eternal-kingdom-3866a8",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-30T06:00:00+00:00",
     "PcReleaseDate": "2024-09-30T06:00:00+00:00",
@@ -34,8 +34,18 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5d04o5j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-09-30T18:59:44.7115351+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:15.7528596+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:15.7528583+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:53.4437968+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:18.949875+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:24.5226389+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:15.7528613+00:00"
 }

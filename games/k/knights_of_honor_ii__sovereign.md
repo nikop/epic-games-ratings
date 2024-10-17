@@ -5,90 +5,90 @@ Rating: 4.45 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 38.00% | ~1,251 |
-| Help! Help! I’m being repressed | 36.00% | ~1,185 |
-| Path of Glory | 35.00% | ~1,152 |
-| Hail to the King, Baby | 33.00% | ~1,086 |
-| Bring it on! | 30.00% | ~988 |
-| They Got What They Deserved | 29.00% | ~955 |
-| There is no Nobility in Poverty | 28.00% | ~922 |
-| Full House | 24.00% | ~790 |
-| Playerxander the Great | 24.00% | ~790 |
-| The finest merchandise this side of river Jordan | 23.00% | ~757 |
-| Big Apple | 18.00% | ~593 |
-| Dinner Time | 16.00% | ~527 |
-| What we’ve got here is failure to communicate | 16.00% | ~527 |
-| Call the Boys | 15.00% | ~494 |
-| All the King's Men | 14.00% | ~461 |
-| Blinded by Science | 14.00% | ~461 |
-| Cut-Me-Own-Throat | 14.00% | ~461 |
-| ‘Tis but a scratch | 14.00% | ~461 |
-| Learn Me a Book | 13.00% | ~428 |
-| Black Sheep Wall | 12.00% | ~395 |
-| Do you read Sutter Cane? | 11.00% | ~362 |
-| Forth, Eorlingas! | 11.00% | ~362 |
-| Greed is Good | 11.00% | ~362 |
-| He made it out, but with an arrow in his back | 11.00% | ~362 |
-| Let Us Pray | 11.00% | ~362 |
-| Pillars of the Earth | 11.00% | ~362 |
-| The Magnificent Nine | 11.00% | ~362 |
-| Vlad the Impaler | 11.00% | ~362 |
-| Desperate Times Call for Desperate Measures | 10.00% | ~329 |
-| Dust and Salt | 10.00% | ~329 |
-| His name is King | 10.00% | ~329 |
-| Kingslayer | 10.00% | ~329 |
-| Let us trade with these fine people | 10.00% | ~329 |
-| Naught but a Seamless Victory | 10.00% | ~329 |
-| On the third day at dawn, look east | 10.00% | ~329 |
-| Scientia potentia es | 10.00% | ~329 |
-| A Quiet Palace | 9.00% | ~296 |
-| Blessed Be His Name | 9.00% | ~296 |
-| His All-Holiness | 9.00% | ~296 |
-| New Mineland | 8.00% | ~263 |
-| Time to find India | 8.00% | ~263 |
-| Battle of the Four Armies | 7.00% | ~230 |
-| Brutus | 7.00% | ~230 |
-| Buyin' the Dip | 7.00% | ~230 |
-| I started a joke | 7.00% | ~230 |
-| Ibn Battuta | 7.00% | ~230 |
-| Fight Another Day | 7.00% | ~230 |
-| Power Overwhelming | 7.00% | ~230 |
-| Master of Puppets | 6.00% | ~198 |
-| You reap what you sow | 6.00% | ~198 |
-| Crusader “you know what” | 5.00% | ~165 |
-| Fighting with Power and Steel | 5.00% | ~165 |
-| Renaissance Man | 5.00% | ~165 |
-| Ashes to Ashes | 4.00% | ~132 |
-| Prison Break | 4.00% | ~132 |
-| Spartacus | 4.00% | ~132 |
-| The Merchant of Venice | 4.00% | ~132 |
-| Together We Stand | 4.00% | ~132 |
-| Why is there no culture victory?! | 4.00% | ~132 |
-| You are not the boss of me now | 4.00% | ~132 |
-| His Holiness | 3.00% | ~99 |
-| I am the senate | 3.00% | ~99 |
-| Lord of the Kings | 3.00% | ~99 |
-| Open Your Eyes | 3.00% | ~99 |
-| Prince Ali! Fabulous he! | 3.00% | ~99 |
-| From Rags to Riches | 2.00% | ~66 |
-| Genghis Khan | 2.00% | ~66 |
-| Hail and Kill | 2.00% | ~66 |
-| Holy Trinity | 2.00% | ~66 |
-| I’ll Be Back | 2.00% | ~66 |
-| Kingdom Fall: Disappearance | 2.00% | ~66 |
-| The Antipope | 2.00% | ~66 |
-| The New World Order | 2.00% | ~66 |
-| Crusade Invoker, no Regret | 1.00% | ~33 |
-| Game of Thorns | 0.90% | ~30 |
-| Liberty or Death! | 0.90% | ~30 |
-| Our Arrows Will Blot Out the Sun | 0.70% | ~23 |
-| Everything the light touches is our kingdom | 0.60% | ~20 |
-| Import is my second nature | 0.60% | ~20 |
-| Join the Dark Side | 0.60% | ~20 |
-| A Leinster always pays his debts | 0.50% | ~16 |
-| Zerg Rush | 0.40% | ~13 |
-| I got a knight in Paris, I got a knight in Rome | 0.40% | ~13 |
-| We want the money, Playerowski | 0.40% | ~13 |
+| Can’t Touch This | 38.00% | ~1,327 |
+| Help! Help! I’m being repressed | 36.00% | ~1,257 |
+| Path of Glory | 36.00% | ~1,257 |
+| Hail to the King, Baby | 34.00% | ~1,187 |
+| Bring it on! | 30.00% | ~1,047 |
+| They Got What They Deserved | 29.00% | ~1,012 |
+| There is no Nobility in Poverty | 28.00% | ~977 |
+| Full House | 24.00% | ~838 |
+| Playerxander the Great | 24.00% | ~838 |
+| The finest merchandise this side of river Jordan | 23.00% | ~803 |
+| Big Apple | 18.00% | ~628 |
+| Call the Boys | 16.00% | ~559 |
+| Dinner Time | 16.00% | ~559 |
+| What we’ve got here is failure to communicate | 16.00% | ~559 |
+| Cut-Me-Own-Throat | 15.00% | ~524 |
+| All the King's Men | 14.00% | ~489 |
+| Blinded by Science | 14.00% | ~489 |
+| ‘Tis but a scratch | 14.00% | ~489 |
+| Black Sheep Wall | 13.00% | ~454 |
+| Learn Me a Book | 13.00% | ~454 |
+| Do you read Sutter Cane? | 12.00% | ~419 |
+| Forth, Eorlingas! | 12.00% | ~419 |
+| Desperate Times Call for Desperate Measures | 11.00% | ~384 |
+| Dust and Salt | 11.00% | ~384 |
+| Greed is Good | 11.00% | ~384 |
+| He made it out, but with an arrow in his back | 11.00% | ~384 |
+| Let Us Pray | 11.00% | ~384 |
+| Pillars of the Earth | 11.00% | ~384 |
+| The Magnificent Nine | 11.00% | ~384 |
+| Vlad the Impaler | 11.00% | ~384 |
+| His name is King | 10.00% | ~349 |
+| Kingslayer | 10.00% | ~349 |
+| Let us trade with these fine people | 10.00% | ~349 |
+| Naught but a Seamless Victory | 10.00% | ~349 |
+| On the third day at dawn, look east | 10.00% | ~349 |
+| Scientia potentia es | 10.00% | ~349 |
+| A Quiet Palace | 9.00% | ~314 |
+| Blessed Be His Name | 9.00% | ~314 |
+| His All-Holiness | 9.00% | ~314 |
+| Time to find India | 9.00% | ~314 |
+| Brutus | 8.00% | ~279 |
+| Buyin' the Dip | 8.00% | ~279 |
+| Fight Another Day | 8.00% | ~279 |
+| New Mineland | 8.00% | ~279 |
+| Power Overwhelming | 8.00% | ~279 |
+| Battle of the Four Armies | 7.00% | ~244 |
+| I started a joke | 7.00% | ~244 |
+| Ibn Battuta | 7.00% | ~244 |
+| Fighting with Power and Steel | 6.00% | ~209 |
+| Master of Puppets | 6.00% | ~209 |
+| You reap what you sow | 6.00% | ~209 |
+| Crusader “you know what” | 5.00% | ~175 |
+| Renaissance Man | 5.00% | ~175 |
+| Spartacus | 5.00% | ~175 |
+| The Merchant of Venice | 5.00% | ~175 |
+| Ashes to Ashes | 4.00% | ~140 |
+| Lord of the Kings | 4.00% | ~140 |
+| Open Your Eyes | 4.00% | ~140 |
+| Prison Break | 4.00% | ~140 |
+| Together We Stand | 4.00% | ~140 |
+| Why is there no culture victory?! | 4.00% | ~140 |
+| You are not the boss of me now | 4.00% | ~140 |
+| Hail and Kill | 3.00% | ~105 |
+| His Holiness | 3.00% | ~105 |
+| I am the senate | 3.00% | ~105 |
+| Kingdom Fall: Disappearance | 3.00% | ~105 |
+| Prince Ali! Fabulous he! | 3.00% | ~105 |
+| From Rags to Riches | 2.00% | ~70 |
+| Genghis Khan | 2.00% | ~70 |
+| Holy Trinity | 2.00% | ~70 |
+| I’ll Be Back | 2.00% | ~70 |
+| The Antipope | 2.00% | ~70 |
+| The New World Order | 2.00% | ~70 |
+| Crusade Invoker, no Regret | 1.00% | ~35 |
+| Game of Thorns | 0.90% | ~31 |
+| Liberty or Death! | 0.80% | ~28 |
+| Join the Dark Side | 0.70% | ~24 |
+| Our Arrows Will Blot Out the Sun | 0.70% | ~24 |
+| Everything the light touches is our kingdom | 0.60% | ~21 |
+| Import is my second nature | 0.60% | ~21 |
+| A Leinster always pays his debts | 0.50% | ~17 |
+| Zerg Rush | 0.40% | ~14 |
+| I got a knight in Paris, I got a knight in Rome | 0.40% | ~14 |
+| We want the money, Playerowski | 0.40% | ~14 |
 | This is why we're here: Unobtanium | 0.30% | ~10 |
 | Valhalla Awaits Me | 0.30% | ~10 |
 | You’re Not My Real Dad | 0.30% | ~10 |
@@ -97,17 +97,17 @@ Rating: 4.45 (Ranked 820)
 | You dare challenge the Salamanca? | 0.20% | ~7 |
 | Edge of the World | 0.10% | ~3 |
 | Crom, I have never prayed to you before | 0.10% | ~3 |
+| Freeeedom! | 0.10% | ~3 |
 | Probably Just the Wind | 0.10% | ~3 |
 | Ragnarok | 0.10% | ~3 |
 | The Beginning of a Beautiful Friendship | 0.10% | ~3 |
 | Two Sides to Every Story | 0.10% | ~3 |
 | We Are the Champions | 0.10% | ~3 |
 | Where’s your crown, king Nothing? | 0.10% | ~3 |
-| Freeeedom! | 0.00% | ~0 |
 | Ragium quitos? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,292 (Ranked 326)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 3,491 (Ranked 336)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 2,351 | 0 |
 | 2024-08-09 | 2,977 | 0 |
 | 2024-09-14 | 3,292 | 0 |
+| 2024-10-17 | 3,491 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

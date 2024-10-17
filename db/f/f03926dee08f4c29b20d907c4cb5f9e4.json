@@ -2,10 +2,10 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 712,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -354,6 +354,11 @@
       "Time": "2024-09-14T14:19:00.5031764+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:04.2277059+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-05T11:01:11.706476+00:00",
@@ -364,113 +369,113 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_04_NIGHT_BENEATH_STARS",
       "SetID": "9loam6m",
       "Name": "Night beneath the stars",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_05_HERDS_OF_HORSES",
       "SetID": "9loam6m",
       "Name": "Herds of horses",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_06_CAT_RESCUE",
       "SetID": "9loam6m",
       "Name": "Cat rescue",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_07_TRUST_GAIN",
       "SetID": "9loam6m",
       "Name": "Trust-gaining exercise",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_08_WESTERN_RANCH",
       "SetID": "9loam6m",
       "Name": "Western ranch",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_09_RESCUE_DOG",
       "SetID": "9loam6m",
       "Name": "Rescue dog",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_10_DOG_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Dog friends",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_11_GOOD_BOY",
       "SetID": "9loam6m",
       "Name": "Good boy!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_12_PHOTO_SERIES",
       "SetID": "9loam6m",
       "Name": "Photo series",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_13_WINNER",
       "SetID": "9loam6m",
       "Name": "Winner",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_14_FRIENDS_FOREVER",
       "SetID": "9loam6m",
       "Name": "Friends forever",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_15_SOMETHING_TO_DO",
@@ -484,33 +489,33 @@
       "ID": "ACH_16_ART_AT_LIGHTHOUSE",
       "SetID": "9loam6m",
       "Name": "Art at the lighthouse",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_17_FLOCK_OF_BIRDS",
       "SetID": "9loam6m",
       "Name": "Flock of birds",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_18_LEGENDARY_TREASURE",
       "SetID": "9loam6m",
       "Name": "Legendary treasure",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -524,9 +529,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -540,9 +545,9 @@
       "ID": "ACH_23_SLALOM",
       "SetID": "9loam6m",
       "Name": "Slalom",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_24_WILD_WEST",
@@ -556,9 +561,9 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_26_BALLOON_PARTY",
@@ -572,9 +577,9 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_28_THE_FINE_ART",
@@ -604,81 +609,81 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
       "SetID": "9loam6m",
       "Name": "Life in the countryside",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
       "SetID": "9loam6m",
       "Name": "Up in the mountains",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -701,14 +706,14 @@
     {
       "ID": "9loam6m",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:00.5031761+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:04.2277055+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:07.5317829+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:10.7626178+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:00.503203+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:32.9788942+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:09:04.2277338+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d5f88a2d15f2400db1c116d6651e7c9e",
   "Name": "Bottle: Pilgrim Redux",
   "ProductSlug": "bottle-pilgrim-redux-987f66",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-13T12:00:00+00:00",
     "PcReleaseDate": "2017-11-10T12:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:11:57.857114+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-08-06T21:01:13.187205+00:00",
   "TotalAchievements": 24,
   "TotalAchievementsXP": 1000,
@@ -36,206 +42,206 @@
       "ID": "ACH_DRAW_01",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #1",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_02",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #2",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_03",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #3",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_04",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #4",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_05",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #5",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_06",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #6",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_07",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #7",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_08",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #8",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_09",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #9",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_10",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #10",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_11",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #11",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_12",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #12",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_13",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #13",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_14",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #14",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_15",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #15",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_16",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #16",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_17",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #17",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_18",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #18",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_19",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #19",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRAW_20",
       "SetID": "9gk9ie9",
       "Name": "Drawn Apart #20",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_HEEEEEERES_JOHNNY",
       "SetID": "9gk9ie9",
       "Name": "Heeeeeere\u2019s Johnny!",
-      "Percentage": 0,
+      "Percentage": 200,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_RUN_RABBIT",
       "SetID": "9gk9ie9",
       "Name": "Run, Rabbit, Run!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SLEEP_PEACEFULLY",
       "SetID": "9gk9ie9",
       "Name": "Sleep Peacefully",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SQUEEEEEEEE",
       "SetID": "9gk9ie9",
       "Name": "Squeeeeeeee!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "9gk9ie9",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-06T13:04:05.284092+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:21.3168799+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:57.8571136+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:52.3460178+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:49.3033832+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:21.3168928+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:37.2632453+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:57.8571291+00:00"
 }

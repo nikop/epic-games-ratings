@@ -2,10 +2,10 @@
   "ID": "54b2781b490444debc7739e562b05291",
   "Name": "Stories from the Outbreak",
   "ProductSlug": "stories-from-the-outbreak-23efc0",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1023,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-03-14T00:00:00+00:00",
     "PcReleaseDate": "2024-02-20T17:00:00+00:00",
@@ -203,9 +203,9 @@
       "ID": "ach_feeling_alive",
       "SetID": "1322lcm",
       "Name": "Feeling alive",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_final_form",
@@ -227,9 +227,9 @@
       "ID": "ach_gallows",
       "SetID": "1322lcm",
       "Name": "Gallows",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_grindset",
@@ -378,8 +378,8 @@
   ],
   "FirstSeen": "2024-03-22T19:58:26.4438699+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:57.265118+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:57.4227729+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:13:47.6759403+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:36.647594+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:18.1233091+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:57.4227931+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:40.3826611+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:47.6759687+00:00"
 }

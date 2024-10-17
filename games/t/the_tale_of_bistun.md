@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| These Blades Are Made For Swinging | 92.00% | ~55 |
-| The Story Begins... | 88.00% | ~53 |
-| First Blood | 88.00% | ~53 |
-| Unearth A Qanat | 85.00% | ~51 |
-| A Friend In Need | 77.00% | ~46 |
-| A Stranger's Diary | 77.00% | ~46 |
-| Stand By Nature | 73.00% | ~44 |
-| Carving A Memory | 70.00% | ~42 |
-| The Milk Canal | 63.00% | ~38 |
-| It Feels Better Than It Sounds | 62.00% | ~37 |
-| Fledgling Smithy | 62.00% | ~37 |
-| Skilled Hands | 58.00% | ~35 |
-| At One With Nature | 58.00% | ~35 |
-| Prison Break | 50.00% | ~30 |
-| I Pick You | 48.00% | ~29 |
-| Accomplished Smithy | 48.00% | ~29 |
-| Master Smithy | 48.00% | ~29 |
-| Close Encounter | 47.00% | ~28 |
-| The Depths Of Darkness | 45.00% | ~27 |
-| One With The Blades | 45.00% | ~27 |
-| Anahita's Greatest Mistake | 45.00% | ~27 |
-| Heart's Desire | 45.00% | ~27 |
-| Heart of Oblivion | 43.00% | ~26 |
-| Nature's Savior | 43.00% | ~26 |
-| Hammer It Home | 43.00% | ~26 |
-| Shoo! Shoo! | 43.00% | ~26 |
-| The Blight's Blight | 42.00% | ~25 |
-| The Ultimate Sacrifice | 42.00% | ~25 |
-| For Whom the Bell Tolls | 38.00% | ~23 |
-| Here I Am | 38.00% | ~23 |
-| Break The Cycle | 28.00% | ~17 |
+| These Blades Are Made For Swinging | 92.00% | ~57 |
+| The Story Begins... | 87.00% | ~54 |
+| First Blood | 87.00% | ~54 |
+| Unearth A Qanat | 84.00% | ~52 |
+| A Friend In Need | 77.00% | ~48 |
+| A Stranger's Diary | 76.00% | ~47 |
+| Stand By Nature | 73.00% | ~45 |
+| Carving A Memory | 69.00% | ~43 |
+| The Milk Canal | 63.00% | ~39 |
+| It Feels Better Than It Sounds | 60.00% | ~37 |
+| Fledgling Smithy | 60.00% | ~37 |
+| Skilled Hands | 56.00% | ~35 |
+| At One With Nature | 56.00% | ~35 |
+| Prison Break | 48.00% | ~30 |
+| I Pick You | 47.00% | ~29 |
+| Accomplished Smithy | 47.00% | ~29 |
+| Master Smithy | 47.00% | ~29 |
+| Close Encounter | 45.00% | ~28 |
+| The Depths Of Darkness | 44.00% | ~27 |
+| One With The Blades | 44.00% | ~27 |
+| Anahita's Greatest Mistake | 44.00% | ~27 |
+| Heart's Desire | 44.00% | ~27 |
+| Heart of Oblivion | 42.00% | ~26 |
+| Nature's Savior | 42.00% | ~26 |
+| Hammer It Home | 42.00% | ~26 |
+| Shoo! Shoo! | 42.00% | ~26 |
+| The Blight's Blight | 40.00% | ~25 |
+| The Ultimate Sacrifice | 40.00% | ~25 |
+| For Whom the Bell Tolls | 37.00% | ~23 |
+| Here I Am | 37.00% | ~23 |
+| Break The Cycle | 27.00% | ~17 |
 | Continue The Cycle | 23.00% | ~14 |
-| Talent And Dedication | 17.00% | ~10 |
+| Talent And Dedication | 16.00% | ~10 |
 | Slip and Slide | 15.00% | ~9 |
 | Read, Read, Read | 13.00% | ~8 |
 | Ledge-walker | 13.00% | ~8 |
-| Prolific Artist | 12.00% | ~7 |
-| Merely Inquisitive | 12.00% | ~7 |
+| Prolific Artist | 11.00% | ~7 |
+| Merely Inquisitive | 11.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 777)  
-Completed: 7 (11.67%) (Ranked 63)  
+Progressed: 62 (Ranked 805)  
+Completed: 7 (11.29%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 7 (11.67%) (Ranked 63)
 | 2024-08-09 | 53 | 6 |
 | 2024-08-20 | 56 | 7 |
 | 2024-09-14 | 60 | 7 |
+| 2024-10-17 | 62 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

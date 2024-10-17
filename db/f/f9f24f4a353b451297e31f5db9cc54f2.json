@@ -2,13 +2,13 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1187,
+  "Ranking_Rating": 1186,
   "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 400,
-  "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 166,
+  "Ranking_EOS_Completed": 74,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-06T17:00:00+00:00",
     "PcReleaseDate": "2019-02-04T21:00:00+00:00",
@@ -1574,11 +1574,11 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 64436,
-  "EOS_Completed": 7417,
+  "EOS_Progressed": 78554,
+  "EOS_Completed": 8213,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.51,
+  "EOS_Completed_Percentage": 10.46,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:16.9309511+00:00",
@@ -1599,6 +1599,11 @@
       "Time": "2024-09-14T14:27:25.9255031+00:00",
       "NumProgressed": 64436,
       "NumCompleted": 7417
+    },
+    {
+      "Time": "2024-10-17T05:14:35.3953416+00:00",
+      "NumProgressed": 78554,
+      "NumCompleted": 8213
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:16.9309536+00:00",
@@ -1609,49 +1614,49 @@
       "ID": "achievement_0",
       "SetID": "7bbj4d5",
       "Name": "The Player",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 24486
+      "UsersEstimate": 29065
     },
     {
       "ID": "achievement_1",
       "SetID": "7bbj4d5",
       "Name": "Decked Out",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 23841
+      "UsersEstimate": 27494
     },
     {
       "ID": "achievement_10",
       "SetID": "7bbj4d5",
       "Name": "Apex Recon",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 18686
+      "UsersEstimate": 21995
     },
     {
       "ID": "achievement_11",
       "SetID": "7bbj4d5",
       "Name": "Apex Legend",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 11598
+      "UsersEstimate": 13354
     },
     {
       "ID": "achievement_2",
       "SetID": "7bbj4d5",
       "Name": "Team Player",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 29641
+      "UsersEstimate": 35349
     },
     {
       "ID": "achievement_3",
       "SetID": "7bbj4d5",
       "Name": "Fully Kitted",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 43816
+      "UsersEstimate": 52631
     },
     {
       "ID": "achievement_4",
@@ -1659,15 +1664,15 @@
       "Name": "Jumpmaster",
       "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 40595
+      "UsersEstimate": 49489
     },
     {
       "ID": "achievement_5",
       "SetID": "7bbj4d5",
       "Name": "Well-Rounded",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 18686
+      "UsersEstimate": 21210
     },
     {
       "ID": "achievement_6",
@@ -1675,47 +1680,47 @@
       "Name": "Kill Leader",
       "Percentage": 59,
       "XP": 80,
-      "UsersEstimate": 38017
+      "UsersEstimate": 46347
     },
     {
       "ID": "achievement_7",
       "SetID": "7bbj4d5",
       "Name": "Apex Assault",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 19331
+      "UsersEstimate": 21995
     },
     {
       "ID": "achievement_8",
       "SetID": "7bbj4d5",
       "Name": "Apex Controller",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 12887
+      "UsersEstimate": 14140
     },
     {
       "ID": "achievement_9",
       "SetID": "7bbj4d5",
       "Name": "Apex Support",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 19331
+      "UsersEstimate": 21995
     }
   ],
   "AchievementSets": [
     {
       "ID": "7bbj4d5",
       "IsBase": true,
-      "Progressed": 64436,
-      "Completed": 7417
+      "Progressed": 78554,
+      "Completed": 8213
     }
   ],
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
   "LastChanged": "2024-10-16T20:58:12.3362484+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:25.9255025+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:35.3953412+00:00",
   "LastUpdate_AppInfo": "2024-10-15T03:57:04.1050334+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:11.4188306+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:25.9255133+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:12.5906386+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:35.39535+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.46 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Takedowns I | 29.00% | ~23,896 |
-| Career Wins I | 25.00% | ~20,600 |
-| Squadron Member | 23.00% | ~18,952 |
-| Making Friends | 22.00% | ~18,128 |
-| Takedowns II | 7.00% | ~5,768 |
-| Silver League | 7.00% | ~5,768 |
-| Plane Trophies I | 6.00% | ~4,944 |
-| Career Wins II | 5.00% | ~4,120 |
-| Gold League | 4.00% | ~3,296 |
-| Platinum League | 2.00% | ~1,648 |
-| Diamond League | 1.00% | ~824 |
-| Takedowns III | 0.90% | ~742 |
-| Career Wins III | 0.50% | ~412 |
-| Master League | 0.50% | ~412 |
-| Plane Trophies II | 0.40% | ~330 |
-| Grandmaster League | 0.20% | ~165 |
-| Plane Trophies III | 0.10% | ~82 |
-| Plane Trophies IV | 0.10% | ~82 |
+| Takedowns I | 29.00% | ~25,846 |
+| Career Wins I | 25.00% | ~22,281 |
+| Squadron Member | 24.00% | ~21,390 |
+| Making Friends | 22.00% | ~19,608 |
+| Takedowns II | 7.00% | ~6,239 |
+| Silver League | 7.00% | ~6,239 |
+| Plane Trophies I | 6.00% | ~5,348 |
+| Career Wins II | 5.00% | ~4,456 |
+| Gold League | 4.00% | ~3,565 |
+| Platinum League | 2.00% | ~1,782 |
+| Takedowns III | 1.00% | ~891 |
+| Diamond League | 1.00% | ~891 |
+| Career Wins III | 0.50% | ~446 |
+| Plane Trophies II | 0.50% | ~446 |
+| Master League | 0.50% | ~446 |
+| Grandmaster League | 0.20% | ~178 |
+| Plane Trophies III | 0.10% | ~89 |
+| Plane Trophies IV | 0.10% | ~89 |
 | Takedowns IV | 0.00% | ~0 |
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,401 (Ranked 158)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 89,125 (Ranked 159)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,9 +36,10 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 57,608 | 0 |
 | 2024-08-09 | 73,395 | 0 |
 | 2024-09-14 | 82,401 | 0 |
+| 2024-10-17 | 89,125 | 0 |
 ## Awards
 Max (Great for Beginners): 492  (Ranked 274)  
-Sum: 2,876 (Ranked 228)  
+Sum: 2,878 (Ranked 228)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -46,7 +47,7 @@ Diff (max vs sum): 46
 | This game is Great for Quick Sessions | 482 |
 | This game has a Competitive Community | 311 |
 | This game is Highly Recommended | 309 |
-| This game is Extremely Fun | 247 |
+| This game is Extremely Fun | 249 |
 | This game has Amazing Characters | 228 |
 | This game has Amazing Storytelling | 214 |
 | This game has Competitive Players | 208 |
@@ -345,3 +346,4 @@ Diff (max vs sum): 46
 | 2024-10-14 | 4.45 | 485 | 2,823 |
 | 2024-10-15 | 4.46 | 492 | 2,862 |
 | 2024-10-16 | 4.46 | 492 | 2,876 |
+| 2024-10-17 | 4.46 | 492 | 2,878 |

@@ -2,10 +2,10 @@
   "ID": "6ac9313c401c4dc4ae2cea3b2ea921f4",
   "Name": "Beatbuddy: Tale of the Guardians",
   "ProductSlug": "beatbuddy-tale-of-the-guardians-e139d0",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-07-03T23:00:00+00:00",
     "PcReleaseDate": "2013-08-05T23:00:00+00:00",
@@ -172,8 +172,8 @@
   ],
   "FirstSeen": "2024-09-17T13:13:31.1256672+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:13.2538319+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:06:05.7183618+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:16:19.9614543+00:00",
   "LastUpdate_AppInfo": "2024-10-11T15:57:20.947424+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:32.6197064+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:06:05.7183763+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:00:54.8219451+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:16:19.9614648+00:00"
 }

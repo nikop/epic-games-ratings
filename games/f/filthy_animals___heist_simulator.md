@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 6.00% | ~582 |
-| Supermart Heisted | 2.00% | ~194 |
-| Supermart Objectives Complete | 1.00% | ~97 |
-| Sewer Objectives Complete | 1.00% | ~97 |
+| Tutorial Completed | 6.00% | ~586 |
+| Supermart Heisted | 2.00% | ~195 |
+| Supermart Objectives Complete | 1.00% | ~98 |
+| Sewer Objectives Complete | 1.00% | ~98 |
 | Bank Heisted | 0.70% | ~68 |
-| Nuclear Plant Heisted | 0.20% | ~19 |
+| Nuclear Plant Heisted | 0.20% | ~20 |
 | All Objectives Complete | 0.10% | ~10 |
 | All Gold Chest Slots Unlocked | 0.10% | ~10 |
 | Bandit Camp Heisted | 0.10% | ~10 |
@@ -33,8 +33,8 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,699 (Ranked 255)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 9,770 (Ranked 266)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 9,615 | 0 |
 | 2024-08-20 | 9,641 | 0 |
 | 2024-09-14 | 9,699 | 0 |
+| 2024-10-17 | 9,770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

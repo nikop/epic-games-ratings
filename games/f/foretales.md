@@ -5,34 +5,34 @@ Rating: 4.71 (Ranked 233)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 66.00% | ~220 |
-| Gorilla warfare | 60.00% | ~200 |
-| Isenburg's fall | 49.00% | ~164 |
+| Caged tiger | 66.00% | ~222 |
+| Gorilla warfare | 60.00% | ~202 |
+| Isenburg's fall | 49.00% | ~165 |
 | Pieces of eight! | 43.00% | ~144 |
-| Elephant in the room | 33.00% | ~110 |
+| Elephant in the room | 32.00% | ~108 |
 | Aboard the Sea Bird | 31.00% | ~104 |
-| Dark and stinky | 30.00% | ~100 |
+| Dark and stinky | 29.00% | ~97 |
 | Sneak in, sneak out | 26.00% | ~87 |
 | Is this the end? | 25.00% | ~84 |
 | A gift horse | 25.00% | ~84 |
-| You sssaved me | 23.00% | ~77 |
-| Say hello to my little friends | 21.00% | ~70 |
+| You sssaved me | 24.00% | ~81 |
+| Say hello to my little friends | 21.00% | ~71 |
 | Heal thyself | 20.00% | ~67 |
-| Gotcha | 19.00% | ~63 |
-| Double trouble | 16.00% | ~53 |
-| It's not cheating | 16.00% | ~53 |
-| Stronk | 16.00% | ~53 |
+| Gotcha | 19.00% | ~64 |
+| Double trouble | 16.00% | ~54 |
+| It's not cheating | 16.00% | ~54 |
+| Stronk | 16.00% | ~54 |
 | Super Moth Boy | 14.00% | ~47 |
 | Welcome to Forte Ailes | 14.00% | ~47 |
-| Meet your maker | 10.00% | ~33 |
-| The Bad Place | 10.00% | ~33 |
+| Meet your maker | 10.00% | ~34 |
+| The Bad Place | 10.00% | ~34 |
 | The pelican brief | 9.00% | ~30 |
 | Pacifist fanatic | 9.00% | ~30 |
+| The Good Place | 9.00% | ~30 |
 | A grave matter | 8.00% | ~27 |
-| The Good Place | 8.00% | ~27 |
 | Trial by combat | 8.00% | ~27 |
-| Money talks | 7.00% | ~23 |
-| Peaceful protest | 7.00% | ~23 |
+| Money talks | 7.00% | ~24 |
+| Peaceful protest | 7.00% | ~24 |
 | A bard day's night | 6.00% | ~20 |
 | Lyre lyre pants on fyre | 5.00% | ~17 |
 | Squid Game | 4.00% | ~13 |
@@ -40,15 +40,15 @@ Rating: 4.71 (Ranked 233)
 | Family reunion | 4.00% | ~13 |
 | Be kind to monsters | 3.00% | ~10 |
 | One shot blade | 2.00% | ~7 |
+| The Medium Place | 2.00% | ~7 |
 | Done negotiating | 1.00% | ~3 |
-| The Medium Place | 1.00% | ~3 |
 | Invulnerable | 0.90% | ~3 |
 | Force of nature | 0.60% | ~2 |
 | Blind as a bat | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 541)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 336 (Ranked 562)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-06-17 | 320 | 0 |
 | 2024-08-09 | 329 | 0 |
 | 2024-09-14 | 334 | 0 |
+| 2024-10-17 | 336 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,54 +1,54 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 1,164)  
+Rating: 4.18 (Ranked 1,163)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~6,247 |
-| Worker Specialization | 77.00% | ~6,167 |
-| First Contact | 72.00% | ~5,766 |
-| Win a Battle | 65.00% | ~5,206 |
-| Anomaly Researcher | 61.00% | ~4,885 |
-| Unleash My Power | 61.00% | ~4,885 |
-| Own 30 Planets | 33.00% | ~2,643 |
-| Design a Civilization | 32.00% | ~2,563 |
-| Commodity Trader | 31.00% | ~2,483 |
-| Xenocide | 31.00% | ~2,483 |
-| Design a Ship | 29.00% | ~2,323 |
-| Commodity Seller | 26.00% | ~2,082 |
-| Recruit a Leader | 15.00% | ~1,201 |
-| Prestige Victory! | 14.00% | ~1,121 |
-| Trading Partner | 11.00% | ~881 |
-| Ask Not What Your Empire Can Do For You | 10.00% | ~801 |
-| Veteran Crew | 10.00% | ~801 |
-| Galactic War | 10.00% | ~801 |
-| Fleet Victory | 10.00% | ~801 |
-| Hyperspace! | 9.00% | ~721 |
-| Win as Terrans | 7.00% | ~561 |
-| Gain an Ally | 6.00% | ~481 |
-| Recruit a Dozen Leaders | 6.00% | ~481 |
-| War with the Unknown | 6.00% | ~481 |
-| Win with a Custom Faction | 6.00% | ~481 |
-| Solid Economy | 5.00% | ~400 |
-| Commodity Trader - Level 2 | 5.00% | ~400 |
-| Commodity Seller, Level 2 | 5.00% | ~400 |
-| Win Quickly | 5.00% | ~400 |
-| Commodity Guru | 4.00% | ~320 |
-| Artifact Mastery | 4.00% | ~320 |
-| Conquest Victory! | 4.00% | ~320 |
-| Win an Immense Game | 4.00% | ~320 |
-| Pirate Cleansing | 3.00% | ~240 |
-| Commodity Selling Guru | 3.00% | ~240 |
-| Win as Altarians | 2.00% | ~160 |
-| Win as the Yor | 2.00% | ~160 |
-| Influence Victory! | 2.00% | ~160 |
+| Colonize a Planet | 78.00% | ~6,267 |
+| Worker Specialization | 77.00% | ~6,187 |
+| First Contact | 73.00% | ~5,866 |
+| Win a Battle | 65.00% | ~5,223 |
+| Anomaly Researcher | 61.00% | ~4,901 |
+| Unleash My Power | 61.00% | ~4,901 |
+| Own 30 Planets | 33.00% | ~2,652 |
+| Design a Civilization | 32.00% | ~2,571 |
+| Commodity Trader | 31.00% | ~2,491 |
+| Xenocide | 31.00% | ~2,491 |
+| Design a Ship | 29.00% | ~2,330 |
+| Commodity Seller | 27.00% | ~2,169 |
+| Recruit a Leader | 15.00% | ~1,205 |
+| Prestige Victory! | 14.00% | ~1,125 |
+| Ask Not What Your Empire Can Do For You | 11.00% | ~884 |
+| Trading Partner | 11.00% | ~884 |
+| Veteran Crew | 10.00% | ~804 |
+| Galactic War | 10.00% | ~804 |
+| Fleet Victory | 10.00% | ~804 |
+| Hyperspace! | 9.00% | ~723 |
+| Win as Terrans | 7.00% | ~562 |
+| Gain an Ally | 6.00% | ~482 |
+| Recruit a Dozen Leaders | 6.00% | ~482 |
+| War with the Unknown | 6.00% | ~482 |
+| Win with a Custom Faction | 6.00% | ~482 |
+| Solid Economy | 5.00% | ~402 |
+| Commodity Trader - Level 2 | 5.00% | ~402 |
+| Commodity Seller, Level 2 | 5.00% | ~402 |
+| Win Quickly | 5.00% | ~402 |
+| Commodity Guru | 4.00% | ~321 |
+| Commodity Selling Guru | 4.00% | ~321 |
+| Artifact Mastery | 4.00% | ~321 |
+| Conquest Victory! | 4.00% | ~321 |
+| Win an Immense Game | 4.00% | ~321 |
+| Pirate Cleansing | 3.00% | ~241 |
+| Win as Altarians | 2.00% | ~161 |
+| Win as the Yor | 2.00% | ~161 |
+| Influence Victory! | 2.00% | ~161 |
 | Win as the Baratak | 1.00% | ~80 |
 | Win as the Mimot | 1.00% | ~80 |
+| Win as the Navigators | 1.00% | ~80 |
 | Win as Arceans | 0.90% | ~72 |
 | Win as Festron | 0.90% | ~72 |
-| Win as the Navigators | 0.90% | ~72 |
 | Win as the Krynn | 0.80% | ~64 |
 | Win as Torians | 0.80% | ~64 |
 | Win as the Drengin | 0.70% | ~56 |
@@ -60,10 +60,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~48 |
 | Diplomatic Victory! | 0.60% | ~48 |
 | Win as the Iconians | 0.50% | ~40 |
-| Play a Multiplayer Game | 0.30% | ~24 |
-| Rebuild the Retribution | 0.30% | ~24 |
+| Play a Multiplayer Game | 0.40% | ~32 |
+| Rebuild the Retribution | 0.40% | ~32 |
 | Iconia Reclaimed! | 0.30% | ~24 |
 | Relic Hoarder | 0.20% | ~16 |
+| It's OUR Homeworld | 0.20% | ~16 |
 | Yor Dead Iconians | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
 | Against the Tide | 0.10% | ~8 |
@@ -73,14 +74,13 @@ Number of Ratings: 429  (23.09.2022)
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
-| It's OUR Homeworld | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
 | Breeding Season | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,009 (Ranked 271)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 8,035 (Ranked 280)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -369,6 +369,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-08-09 | 7,962 | 0 |
 | 2024-08-20 | 7,975 | 0 |
 | 2024-09-14 | 8,009 | 0 |
+| 2024-10-17 | 8,035 | 0 |
 ## Awards
 Max (Diverse Characters): 103  (Ranked 476)  
 Sum: 719 (Ranked 388)  

@@ -2,10 +2,10 @@
   "ID": "985a7dfa6292483fab6d3451a7914a1f",
   "Name": "Tamarak Trail",
   "ProductSlug": "tamarak-trail-0edcb0",
-  "Ranking_EOS_Progress": 1000,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1040,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-02-29T17:00:00+00:00",
     "PcReleaseDate": "2024-02-29T17:00:00+00:00",
@@ -191,8 +191,8 @@
   ],
   "FirstSeen": "2024-03-02T13:58:27.4253138+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:16.7428204+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:20.9568424+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:01.4780194+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:19.7109577+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:17.84263+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:20.9568536+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:11:01.4780304+00:00"
 }

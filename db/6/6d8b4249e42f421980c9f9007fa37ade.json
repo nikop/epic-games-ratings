@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 649,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -639,6 +639,11 @@
       "Time": "2024-08-09T18:03:22.3326818+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:08:44.3916913+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -650,7 +655,7 @@
       "Name": "10,000-Volt Electric Field",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -666,15 +671,15 @@
       "Name": "Pilgrim",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Epic_Challenger_1",
@@ -744,17 +749,17 @@
       "ID": "Epic_Experience_100000000",
       "SetID": "ba1m2fc",
       "Name": "Sea of Chaos",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "Epic_Formula_12",
@@ -778,7 +783,7 @@
       "Name": "Dystopia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -800,9 +805,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -818,7 +823,7 @@
       "Name": "Home Run",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
@@ -826,7 +831,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -912,7 +917,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 112
     },
@@ -952,9 +957,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -970,7 +975,7 @@
       "Name": "God of Wealth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -984,9 +989,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "Epic_Times_100",
@@ -1000,7 +1005,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 95
     },
@@ -1018,7 +1023,7 @@
       "Name": "Spark Starts Prairie Fire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -1033,14 +1038,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:18:47.0374441+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:08:44.3916907+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:11.3814044+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:39.9492842+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:18:47.0374746+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:01.9737195+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:08:44.3917432+00:00"
 }

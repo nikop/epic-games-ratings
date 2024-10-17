@@ -2,10 +2,10 @@
   "ID": "5f795153da624591993fbc4024daa4a7",
   "Name": "Domenation",
   "ProductSlug": "domenation-2f0739",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-10T14:57:19.9340333+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:57:38.6457143+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:00.8050356+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:02.1424816+00:00"
 }

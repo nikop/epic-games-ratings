@@ -2,10 +2,10 @@
   "ID": "b5ac16dc12f3478e99dcfea07c13865c",
   "Name": "DOOM Eternal",
   "ProductSlug": "doom-eternal--deluxe-edition",
-  "Ranking_EOS_Progress": 826,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-08-08T19:00:00+00:00",
     "PcReleaseDate": "2024-08-08T19:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 88,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -35,6 +35,11 @@
       "Time": "2024-09-14T14:15:16.3731299+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:06:37.239792+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:02:06.8112889+00:00",
@@ -45,73 +50,73 @@
       "ID": "achievement001",
       "SetID": "5l3ccj3",
       "Name": "Doomsday",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement002",
       "SetID": "5l3ccj3",
       "Name": "The Hunters Became the Hunted",
-      "Percentage": 2,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement003",
       "SetID": "5l3ccj3",
       "Name": "Interplanetary Fracking",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement004",
       "SetID": "5l3ccj3",
       "Name": "Thumbs Down",
-      "Percentage": 9,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement005",
       "SetID": "5l3ccj3",
       "Name": "Reforged and Refueled",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement006",
       "SetID": "5l3ccj3",
       "Name": "Nontraditionalist",
-      "Percentage": 2,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement007",
       "SetID": "5l3ccj3",
       "Name": "Iconoclast",
-      "Percentage": 2,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement008",
       "SetID": "5l3ccj3",
       "Name": "The Once and Future Slayer",
-      "Percentage": 2,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement009",
       "SetID": "5l3ccj3",
       "Name": "Treasure Hunter",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement010",
@@ -133,121 +138,121 @@
       "ID": "achievement012",
       "SetID": "5l3ccj3",
       "Name": "Crystal Craving",
-      "Percentage": 30,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement013",
       "SetID": "5l3ccj3",
       "Name": "King of the Crystals",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement014",
       "SetID": "5l3ccj3",
       "Name": "This One\u0027s my Favorite",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement015",
       "SetID": "5l3ccj3",
       "Name": "They\u0027re ALL My Favorite",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement016",
       "SetID": "5l3ccj3",
       "Name": "Homemaykr",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement017",
       "SetID": "5l3ccj3",
       "Name": "Extra Extra Lives",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement018",
       "SetID": "5l3ccj3",
       "Name": "Reforged the Genie Lamp",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement019",
       "SetID": "5l3ccj3",
       "Name": "Metal Head",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement020",
       "SetID": "5l3ccj3",
       "Name": "Playset Sold Separately",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement021",
       "SetID": "5l3ccj3",
       "Name": "If Only I Could Read\u2026",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement022",
       "SetID": "5l3ccj3",
       "Name": "Bonus Stage",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement023",
       "SetID": "5l3ccj3",
       "Name": "Breaker of Gates",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement024",
       "SetID": "5l3ccj3",
       "Name": "Gunpletionist",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement025",
       "SetID": "5l3ccj3",
       "Name": "Meet Your Unmaykr",
-      "Percentage": 2,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement026",
       "SetID": "5l3ccj3",
       "Name": "Darn It, They Keep BREAKING",
-      "Percentage": 27,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement027",
@@ -301,23 +306,23 @@
       "ID": "achievement033",
       "SetID": "5l3ccj3",
       "Name": "It\u0027s a Magic Number",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 7
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement034",
       "SetID": "7fff38i",
       "Name": "Torrential Pain",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement035",
       "SetID": "7fff38i",
       "Name": "To Take a Life Sphere",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -341,7 +346,7 @@
       "ID": "achievement038",
       "SetID": "7fff38i",
       "Name": "Lucky Charm Bracelet",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -365,9 +370,9 @@
       "ID": "achievement041",
       "SetID": "7fff38i",
       "Name": "Crystal Spelunker",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement042",
@@ -381,25 +386,25 @@
       "ID": "achievement043",
       "SetID": "7fff38i",
       "Name": "Siege the Day",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement044",
       "SetID": "7fff38i",
       "Name": "Tougher Than Nails",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement045",
       "SetID": "7fff38i",
       "Name": "Rest Your Weary Fists",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement046",
@@ -413,9 +418,9 @@
       "ID": "achievement047",
       "SetID": "7fff38i",
       "Name": "Critical Literature",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement048",
@@ -446,20 +451,20 @@
     {
       "ID": "5l3ccj3",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 88,
       "Completed": 0
     },
     {
       "ID": "7fff38i",
       "IsBase": false,
-      "Progressed": 44,
+      "Progressed": 88,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-09T18:00:40.8483891+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:06.8112888+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:16.3731295+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:37.2397916+00:00",
   "LastUpdate_AppInfo": "2024-10-10T23:57:14.7364183+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:02.4271816+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:16.3731639+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:37.2398273+00:00"
 }

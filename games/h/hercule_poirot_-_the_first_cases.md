@@ -5,55 +5,55 @@ Rating: 4.36 (Ranked 972)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 87.00% | ~516 |
-| Luc Piette | 73.00% | ~433 |
-| Angeline Van den Bosch | 72.00% | ~427 |
-| Elizabeth Padget | 69.00% | ~409 |
-| Little Grey Cells | 68.00% | ~403 |
-| The Bracelet | 65.00% | ~385 |
-| Florette Duval | 54.00% | ~320 |
-| Fine-toothed Comb | 53.00% | ~314 |
-| The Blackmail | 53.00% | ~314 |
-| Major Felix Hagen | 53.00% | ~314 |
-| Order and Method | 51.00% | ~302 |
-| The Altercation | 48.00% | ~285 |
-| Truth from Within | 47.00% | ~279 |
-| The Major | 46.00% | ~273 |
-| Curious and Beautiful | 44.00% | ~261 |
-| Comtesse Margaux de Vos | 44.00% | ~261 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~255 |
-| The Interrogations | 43.00% | ~255 |
-| Well-acquainted | 41.00% | ~243 |
-| Zakariya Demir | 41.00% | ~243 |
-| Well-read | 39.00% | ~231 |
-| Cassandra Van den Bosch | 38.00% | ~225 |
-| The Secret | 38.00% | ~225 |
-| Gedeon Demir | 36.00% | ~213 |
-| Rehana Piette | 35.00% | ~208 |
-| Instinct is Marvellous | 33.00% | ~196 |
-| Ernesto da Silva | 33.00% | ~196 |
-| Inge Frank | 32.00% | ~190 |
-| The Search | 31.00% | ~184 |
-| Hugo Beckers | 30.00% | ~178 |
-| The Family | 28.00% | ~166 |
-| Well-travelled | 27.00% | ~160 |
-| Thinking of Everything | 27.00% | ~160 |
-| Archibald Sterling | 26.00% | ~154 |
-| Viscount Edwin Van den Bosch | 26.00% | ~154 |
-| Exquisite Artwork | 25.00% | ~148 |
-| Well-prepared | 22.00% | ~130 |
-| The Truth | 22.00% | ~130 |
+| It Wasn’t a Burglary | 87.00% | ~519 |
+| Luc Piette | 73.00% | ~436 |
+| Angeline Van den Bosch | 72.00% | ~430 |
+| Elizabeth Padget | 69.00% | ~412 |
+| Little Grey Cells | 68.00% | ~406 |
+| The Bracelet | 65.00% | ~388 |
+| The Blackmail | 54.00% | ~322 |
+| Florette Duval | 54.00% | ~322 |
+| Fine-toothed Comb | 53.00% | ~316 |
+| Major Felix Hagen | 53.00% | ~316 |
+| Order and Method | 51.00% | ~304 |
+| The Altercation | 48.00% | ~287 |
+| Truth from Within | 47.00% | ~281 |
+| The Major | 46.00% | ~275 |
+| Curious and Beautiful | 44.00% | ~263 |
+| Comtesse Margaux de Vos | 44.00% | ~263 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~257 |
+| The Interrogations | 43.00% | ~257 |
+| Well-acquainted | 41.00% | ~245 |
+| Zakariya Demir | 41.00% | ~245 |
+| Well-read | 39.00% | ~233 |
+| Cassandra Van den Bosch | 38.00% | ~227 |
+| The Secret | 38.00% | ~227 |
+| Gedeon Demir | 36.00% | ~215 |
+| Rehana Piette | 35.00% | ~209 |
+| Instinct is Marvellous | 33.00% | ~197 |
+| Ernesto da Silva | 33.00% | ~197 |
+| Inge Frank | 32.00% | ~191 |
+| The Search | 31.00% | ~185 |
+| Hugo Beckers | 30.00% | ~179 |
+| The Family | 28.00% | ~167 |
+| Well-travelled | 27.00% | ~161 |
+| Thinking of Everything | 27.00% | ~161 |
+| Viscount Edwin Van den Bosch | 26.00% | ~155 |
+| Exquisite Artwork | 25.00% | ~149 |
+| Archibald Sterling | 25.00% | ~149 |
+| Well-prepared | 22.00% | ~131 |
+| The Truth | 22.00% | ~131 |
 | I Like an Audience | 20.00% | ~119 |
 | What Else Did I Miss? | 19.00% | ~113 |
 | The Denouement | 18.00% | ~107 |
 | Sunken Secrets | 18.00% | ~107 |
-| Probably the Greatest Detective in the World | 12.00% | ~71 |
-| Take a Break | 11.00% | ~65 |
-| Room with a View | 8.00% | ~47 |
+| Probably the Greatest Detective in the World | 12.00% | ~72 |
+| Take a Break | 11.00% | ~66 |
+| Room with a View | 8.00% | ~48 |
 | Work-life Balance | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 471)  
-Completed: 8 (1.35%) (Ranked 249)  
+Progressed: 597 (Ranked 488)  
+Completed: 8 (1.34%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,6 +175,7 @@ Completed: 8 (1.35%) (Ranked 249)
 | 2024-08-09 | 583 | 8 |
 | 2024-08-20 | 591 | 8 |
 | 2024-09-14 | 593 | 8 |
+| 2024-10-17 | 597 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

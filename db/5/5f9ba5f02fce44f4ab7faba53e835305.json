@@ -2,10 +2,10 @@
   "ID": "5f9ba5f02fce44f4ab7faba53e835305",
   "Name": "TrekkingAndCamping",
   "ProductSlug": "trekkingandcamping-655909",
-  "Ranking_EOS_Progress": 863,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 896,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-12-04T00:00:00+00:00",
     "PcReleaseDate": "2021-05-04T08:30:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -97,6 +97,11 @@
       "Time": "2024-08-20T20:10:05.9709895+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:12:14.1268205+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T06:05:24.8004008+00:00",
@@ -123,7 +128,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8g4agn4",
       "Name": "Dark magic",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -179,15 +184,15 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "8g4agn4",
       "Name": "Roll the dice",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8g4agn4",
       "Name": "Erudite",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -195,7 +200,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8g4agn4",
       "Name": "Recorded",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -236,13 +241,13 @@
     {
       "ID": "8g4agn4",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-13T15:04:04.2930323+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:36.2485997+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:12:14.1268203+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:45.501613+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:43.4597947+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:36.248612+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:12:14.1268282+00:00"
 }

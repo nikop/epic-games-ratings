@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wild Ox | 14.00% | ~4,206 |
-| Magic Ball | 10.00% | ~3,004 |
-| Assailants | 6.00% | ~1,803 |
-| Prisoner | 5.00% | ~1,502 |
-| Pacifist | 5.00% | ~1,502 |
-| Second Commander | 4.00% | ~1,202 |
-| First Commander | 4.00% | ~1,202 |
-| Adventurer | 4.00% | ~1,202 |
-| Overwhelmed Beast | 4.00% | ~1,202 |
-| Third Commander | 3.00% | ~901 |
-| Janken The Great | 2.00% | ~601 |
-| Radaxian Protector | 0.80% | ~240 |
-| Let's Talk | 0.20% | ~60 |
-| Stingy | 0.20% | ~60 |
-| Collector | 0.10% | ~30 |
-| Champion | 0.10% | ~30 |
+| Wild Ox | 14.00% | ~4,562 |
+| Magic Ball | 10.00% | ~3,259 |
+| Assailants | 6.00% | ~1,955 |
+| Prisoner | 5.00% | ~1,629 |
+| Pacifist | 5.00% | ~1,629 |
+| Second Commander | 4.00% | ~1,304 |
+| First Commander | 4.00% | ~1,304 |
+| Adventurer | 4.00% | ~1,304 |
+| Overwhelmed Beast | 4.00% | ~1,304 |
+| Third Commander | 3.00% | ~978 |
+| Janken The Great | 2.00% | ~652 |
+| Radaxian Protector | 0.80% | ~261 |
+| Let's Talk | 0.20% | ~65 |
+| Stingy | 0.20% | ~65 |
+| Collector | 0.10% | ~33 |
+| Champion | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,044 (Ranked 200)  
-Completed: 35 (0.12%) (Ranked 453)  
+Progressed: 32,588 (Ranked 200)  
+Completed: 38 (0.12%) (Ranked 476)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 35 (0.12%) (Ranked 453)
 | 2024-06-17 | 546 | 4 |
 | 2024-08-09 | 22,956 | 23 |
 | 2024-09-14 | 30,044 | 35 |
+| 2024-10-17 | 32,588 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

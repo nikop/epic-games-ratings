@@ -2,10 +2,10 @@
   "ID": "4caef36f18734a3daef1e5b36405b2ae",
   "Name": "Parkour Legends",
   "ProductSlug": "parkour-legends-d71c32",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-05-08T10:00:00+00:00",
     "PcReleaseDate": "2024-05-08T10:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-05-11T03:59:34.5876258+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:39.1076294+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:36.925229+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:13.8673817+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:20.7943641+00:00"
 }

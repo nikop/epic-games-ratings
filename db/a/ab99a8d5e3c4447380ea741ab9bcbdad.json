@@ -2,10 +2,10 @@
   "ID": "ab99a8d5e3c4447380ea741ab9bcbdad",
   "Name": "Bang Average Football",
   "ProductSlug": "bang-average-football-725d9b",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-05-10T16:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-13T03:57:00.6893865+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:27.9036598+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:38.742558+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:13.5387661+00:00"
 }

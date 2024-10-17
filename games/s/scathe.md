@@ -9,7 +9,7 @@
 | Shock to the System | 1.00% | ~13 |
 | Bad Blood | 0.90% | ~12 |
 | Serious Bam | 0.70% | ~9 |
-| Postal Service | 0.50% | ~6 |
+| Postal Service | 0.50% | ~7 |
 | Doomed | 0.40% | ~5 |
 | Unreal | 0.40% | ~5 |
 | Amaging Work | 0.30% | ~4 |
@@ -35,8 +35,8 @@
 | Rage Quit | 0.10% | ~1 |
 | Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,289 (Ranked 401)  
-Completed: 1 (0.08%) (Ranked 471)  
+Progressed: 1,305 (Ranked 418)  
+Completed: 1 (0.08%) (Ranked 495)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,6 +239,7 @@ Completed: 1 (0.08%) (Ranked 471)
 | 2024-08-09 | 1,260 | 1 |
 | 2024-08-20 | 1,271 | 1 |
 | 2024-09-14 | 1,289 | 1 |
+| 2024-10-17 | 1,305 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

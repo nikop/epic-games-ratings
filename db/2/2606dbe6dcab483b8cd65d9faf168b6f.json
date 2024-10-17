@@ -2,10 +2,10 @@
   "ID": "2606dbe6dcab483b8cd65d9faf168b6f",
   "Name": "Madness Starts Young",
   "ProductSlug": "madness-starts-young-3f89dc",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-12T03:28:26.463+00:00",
     "PcReleaseDate": "2024-08-22T15:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-15T20:57:22.9529887+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:54.1252998+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:02:04.8773568+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:16.9763244+00:00"
 }

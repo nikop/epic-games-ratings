@@ -10,23 +10,23 @@
 | The battle of Great Britain | 46.00% | ~57 |
 | Pulp! Where Monsters Dwell | 35.00% | ~43 |
 | A continent with chemistry | 35.00% | ~43 |
-| Giant | 33.00% | ~41 |
-| The happy farmer girl | 33.00% | ~41 |
-| Pulp! Terror Tales in the Night | 31.00% | ~38 |
-| A rival with no options | 30.00% | ~37 |
+| Giant | 34.00% | ~42 |
+| The happy farmer girl | 34.00% | ~42 |
+| Pulp! Terror Tales in the Night | 32.00% | ~40 |
+| A rival with no options | 31.00% | ~38 |
+| Diagnosis: fear | 29.00% | ~36 |
+| Ambition is... blind | 29.00% | ~36 |
 | Et in arcadia ego | 28.00% | ~35 |
-| Diagnosis: fear | 28.00% | ~35 |
-| Ambition is... blind | 28.00% | ~35 |
+| The artist | 28.00% | ~35 |
 | You have two wishes left | 28.00% | ~35 |
-| The artist | 27.00% | ~33 |
 | Pulp! Out of this World | 27.00% | ~33 |
-| Pulp! Adventures into the Unknown | 25.00% | ~31 |
+| Pulp! Adventures into the Unknown | 26.00% | ~32 |
 | Welcome to Hellville | 25.00% | ~31 |
 | You've awakened the beast | 23.00% | ~29 |
 | Hate is... addictive | 23.00% | ~29 |
 | You had one wish left | 23.00% | ~29 |
+| The seer | 23.00% | ~29 |
 | Kirlian's best disciple | 23.00% | ~29 |
-| The seer | 22.00% | ~27 |
 | The bully | 21.00% | ~26 |
 | Blessed antennas | 20.00% | ~25 |
 | Blood Red Island | 19.00% | ~24 |
@@ -52,8 +52,8 @@
 | Pulp! Mister Mystery | 2.00% | ~2 |
 | Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 675)  
-Completed: 1 (0.81%) (Ranked 309)  
+Progressed: 124 (Ranked 701)  
+Completed: 1 (0.81%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

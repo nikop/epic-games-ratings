@@ -2,10 +2,10 @@
   "ID": "e153609a322d42e18ee587bb862022fc",
   "Name": "Necrosmith 2",
   "ProductSlug": "necrosmith-2-a156cf",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-23T07:04:10.566+00:00",
     "PcReleaseDate": "2024-04-22T05:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-27T01:40:26.0154508+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:26.9977251+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:22.3755124+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:28.3350373+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:29.9279887+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:13:14.2169619+00:00"
 }

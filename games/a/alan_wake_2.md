@@ -5,87 +5,87 @@ Rating: 4.81 (Ranked 94)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Accessorize! | 10.00% | ~4,332 |
-| I Could Listen to Him All Day | 9.00% | ~3,898 |
-| Love Always Wins! | 9.00% | ~3,898 |
-| Dark as the Void | 8.00% | ~3,465 |
-| You Are Coffee | 8.00% | ~3,465 |
-| Retro | 8.00% | ~3,465 |
-| Ride the Vortex | 8.00% | ~3,465 |
-| Multiversal Agent | 7.00% | ~3,032 |
-| This Page Here | 6.00% | ~2,599 |
-| Bring It | 5.00% | ~23,502 |
-| Find the Light | 5.00% | ~23,502 |
-| Aimed Ahead | 5.00% | ~23,502 |
-| Coffee Thermos | 5.00% | ~23,502 |
-| Felt Good | 5.00% | ~23,502 |
-| Lawman | 5.00% | ~23,502 |
-| Not the Last | 5.00% | ~23,502 |
-| Nightmare Territory | 5.00% | ~23,502 |
-| Grew Bigger | 5.00% | ~23,502 |
-| Hunting Season | 5.00% | ~23,502 |
-| Somebody's Home | 5.00% | ~23,502 |
-| Into the Overlap | 5.00% | ~23,502 |
-| Talk Show | 5.00% | ~23,502 |
-| Secret Stashes | 5.00% | ~23,502 |
-| Chased the Source | 5.00% | ~23,502 |
-| Darkness Coiled | 5.00% | ~23,502 |
-| Smooth Blend | 5.00% | ~2,166 |
-| Escape its Gravity | 4.00% | ~18,802 |
-| Greatest Hits | 4.00% | ~18,802 |
-| Lights Shining | 4.00% | ~18,802 |
-| Yippee Ki-yay | 4.00% | ~18,802 |
-| This is the Moment | 4.00% | ~18,802 |
-| Bright Falls' Finest | 4.00% | ~18,802 |
-| Storm Cloud | 4.00% | ~18,802 |
-| Stop the Monster | 4.00% | ~18,802 |
-| Growing Stronger | 4.00% | ~18,802 |
-| Carry his Words | 4.00% | ~18,802 |
-| Shining in the Night | 4.00% | ~18,802 |
-| Back in Watery | 4.00% | ~18,802 |
-| We Watch in the Night | 4.00% | ~18,802 |
-| New York City | 4.00% | ~18,802 |
-| Return | 4.00% | ~18,802 |
-| All His Life | 4.00% | ~18,802 |
-| Finding a Way | 4.00% | ~18,802 |
-| The Other Side | 4.00% | ~18,802 |
-| Strange Reality | 3.00% | ~14,101 |
-| The Trail of the Writer | 3.00% | ~14,101 |
-| Ready for a Fight | 3.00% | ~14,101 |
-| Stop Right There | 3.00% | ~14,101 |
-| Girl in Love | 3.00% | ~14,101 |
-| Filled with Rage | 3.00% | ~14,101 |
-| Stunning Vistas | 3.00% | ~14,101 |
-| The Story Come True | 3.00% | ~14,101 |
-| The Old Gods | 3.00% | ~14,101 |
-| Seeing Double | 3.00% | ~14,101 |
-| Rock n' Roll, Baby | 3.00% | ~14,101 |
-| The Final Deerfest | 3.00% | ~14,101 |
-| End of the Road | 3.00% | ~14,101 |
-| In a Fancy Hotel | 3.00% | ~14,101 |
-| Told and Retold | 3.00% | ~14,101 |
-| Behind the Masks | 3.00% | ~14,101 |
-| The Cult of the Word | 3.00% | ~14,101 |
-| His Way Out | 3.00% | ~14,101 |
-| In One Go | 3.00% | ~14,101 |
-| Filling the Shape | 3.00% | ~14,101 |
-| Cut Short | 3.00% | ~14,101 |
-| The Koskela Brothers | 2.00% | ~9,401 |
-| Gone for Good | 2.00% | ~9,401 |
-| All Accounted For | 2.00% | ~9,401 |
-| Back to Life | 2.00% | ~9,401 |
-| Hot Biscuits! | 2.00% | ~866 |
-| Percolate | 2.00% | ~866 |
-| All Smiles | 1.00% | ~4,700 |
-| The Nice Things in Life | 1.00% | ~4,700 |
-| I'll Find You | 0.90% | ~4,230 |
-| Shift in Reality | 0.90% | ~4,230 |
-| Hidden by the Trees | 0.80% | ~3,760 |
-| Coffee-Themed Fun | 0.70% | ~3,290 |
-| Rustic Charm | 0.70% | ~3,290 |
+| Accessorize! | 11.00% | ~5,504 |
+| Love Always Wins! | 10.00% | ~5,004 |
+| I Could Listen to Him All Day | 9.00% | ~4,503 |
+| Dark as the Void | 9.00% | ~4,503 |
+| You Are Coffee | 9.00% | ~4,503 |
+| Ride the Vortex | 9.00% | ~4,503 |
+| Retro | 8.00% | ~4,003 |
+| Multiversal Agent | 8.00% | ~4,003 |
+| Not the Last | 7.00% | ~33,371 |
+| Nightmare Territory | 7.00% | ~33,371 |
+| Hunting Season | 7.00% | ~33,371 |
+| Somebody's Home | 7.00% | ~33,371 |
+| This Page Here | 7.00% | ~3,502 |
+| Bring It | 6.00% | ~28,604 |
+| Find the Light | 6.00% | ~28,604 |
+| Aimed Ahead | 6.00% | ~28,604 |
+| Coffee Thermos | 6.00% | ~28,604 |
+| Felt Good | 6.00% | ~28,604 |
+| Lawman | 6.00% | ~28,604 |
+| Carry his Words | 6.00% | ~28,604 |
+| Grew Bigger | 6.00% | ~28,604 |
+| Into the Overlap | 6.00% | ~28,604 |
+| Talk Show | 6.00% | ~28,604 |
+| Secret Stashes | 6.00% | ~28,604 |
+| Chased the Source | 6.00% | ~28,604 |
+| Darkness Coiled | 6.00% | ~28,604 |
+| Escape its Gravity | 5.00% | ~23,836 |
+| Greatest Hits | 5.00% | ~23,836 |
+| Lights Shining | 5.00% | ~23,836 |
+| Yippee Ki-yay | 5.00% | ~23,836 |
+| This is the Moment | 5.00% | ~23,836 |
+| Bright Falls' Finest | 5.00% | ~23,836 |
+| Girl in Love | 5.00% | ~23,836 |
+| Storm Cloud | 5.00% | ~23,836 |
+| Stop the Monster | 5.00% | ~23,836 |
+| Growing Stronger | 5.00% | ~23,836 |
+| Shining in the Night | 5.00% | ~23,836 |
+| Back in Watery | 5.00% | ~23,836 |
+| We Watch in the Night | 5.00% | ~23,836 |
+| The Old Gods | 5.00% | ~23,836 |
+| New York City | 5.00% | ~23,836 |
+| Return | 5.00% | ~23,836 |
+| All His Life | 5.00% | ~23,836 |
+| In a Fancy Hotel | 5.00% | ~23,836 |
+| Told and Retold | 5.00% | ~23,836 |
+| Finding a Way | 5.00% | ~23,836 |
+| Filling the Shape | 5.00% | ~23,836 |
+| The Other Side | 5.00% | ~23,836 |
+| Cut Short | 5.00% | ~23,836 |
+| Smooth Blend | 5.00% | ~2,502 |
+| Strange Reality | 4.00% | ~19,069 |
+| The Trail of the Writer | 4.00% | ~19,069 |
+| Ready for a Fight | 4.00% | ~19,069 |
+| Stop Right There | 4.00% | ~19,069 |
+| Filled with Rage | 4.00% | ~19,069 |
+| The Story Come True | 4.00% | ~19,069 |
+| Seeing Double | 4.00% | ~19,069 |
+| Rock n' Roll, Baby | 4.00% | ~19,069 |
+| The Final Deerfest | 4.00% | ~19,069 |
+| End of the Road | 4.00% | ~19,069 |
+| Behind the Masks | 4.00% | ~19,069 |
+| The Cult of the Word | 4.00% | ~19,069 |
+| His Way Out | 4.00% | ~19,069 |
+| In One Go | 4.00% | ~19,069 |
+| The Koskela Brothers | 3.00% | ~14,302 |
+| Stunning Vistas | 3.00% | ~14,302 |
+| Gone for Good | 3.00% | ~14,302 |
+| All Accounted For | 3.00% | ~14,302 |
+| All Smiles | 2.00% | ~9,534 |
+| Back to Life | 2.00% | ~9,534 |
+| Hot Biscuits! | 2.00% | ~1,001 |
+| Percolate | 2.00% | ~1,001 |
+| I'll Find You | 1.00% | ~4,767 |
+| Shift in Reality | 1.00% | ~4,767 |
+| Hidden by the Trees | 1.00% | ~4,767 |
+| Rustic Charm | 1.00% | ~4,767 |
+| The Nice Things in Life | 1.00% | ~4,767 |
+| Coffee-Themed Fun | 0.90% | ~4,291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,041 (Ranked 61)  
-Completed: 11,473 (2.44%) (Ranked 206)  
+Progressed: 476,725 (Ranked 62)  
+Completed: 11,747 (2.46%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,6 +200,7 @@ Completed: 11,473 (2.44%) (Ranked 206)
 | 2024-08-09 | 461,579 | 11,200 |
 | 2024-08-20 | 463,549 | 11,287 |
 | 2024-09-14 | 470,041 | 11,473 |
+| 2024-10-17 | 476,725 | 11,747 |
 ## Awards
 Max (Diverse Characters): 1,547  (Ranked 164)  
 Sum: 9,016 (Ranked 142)  

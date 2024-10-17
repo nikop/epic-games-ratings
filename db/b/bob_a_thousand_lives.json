@@ -2,10 +2,10 @@
   "ID": "3b9093ee951843e883027f4310f9cbcd",
   "Name": "Bob A thousand lives - Enhanced Edition",
   "ProductSlug": "bob-a-thousand-lives-802452",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-24T15:00:00+00:00",
     "PcReleaseDate": "2023-06-24T15:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2023-06-26T14:57:52.2157174+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:55.7354654+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:01:29.0100615+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:18.0932685+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:39.9017961+00:00"
 }

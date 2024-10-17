@@ -2,13 +2,13 @@
   "ID": "b2b41af461d94357942f198fb331bb35",
   "Name": "Chronos: Before the Ashes",
   "ProductSlug": "chronos-before-the-ashes",
-  "Ranking_Rating": 1183,
+  "Ranking_Rating": 1182,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-12-01T18:00:00+00:00",
     "PcReleaseDate": "2020-12-01T18:00:00+00:00",
@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -165,6 +165,11 @@
       "Time": "2024-09-14T14:19:01.3164571+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:09:05.5613925+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:55.7956616+00:00",
@@ -175,33 +180,33 @@
       "ID": "ACH_ACQUIRE_FIRST_DRAGON_HEART",
       "SetID": "3p04nmn",
       "Name": "Is this safe?",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ACQUIRE_GOBLIN_SHIELD",
       "SetID": "3p04nmn",
       "Name": "Rock Wall",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ACQUIRE_GOBLIN_VERSION_OF_OTHER_STARTING_WEAPON",
       "SetID": "3p04nmn",
       "Name": "I\u0027ll take it!",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_ACQUIRE_HAMMER",
       "SetID": "3p04nmn",
       "Name": "You Can\u0027t Touch This",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ACQUIRE_PAN_SHIELD",
@@ -209,7 +214,7 @@
       "Name": "More of a Buckler",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ACQUIRE_SCYTHE",
@@ -217,31 +222,31 @@
       "Name": "Don\u0027t Fear the Reaper",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ACQUIRE_SPEAR",
       "SetID": "3p04nmn",
       "Name": "Point the Sharp End at Enemies",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ACQUIRE_THE_FIRE_GEM",
       "SetID": "3p04nmn",
       "Name": "It Burns!",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_ACQUIRE_THE_LIGHT_GEM",
       "SetID": "3p04nmn",
       "Name": "Light our Darkest Hour\u2026",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_ACQUIRE_THE_SHADOW_GEM",
@@ -249,39 +254,39 @@
       "Name": "What Evil Lurks\u2026",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ACQUIRE_THE_STORM_GEM",
       "SetID": "3p04nmn",
       "Name": "Like Thunder",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_CRAFT_GOBLIN_MACE",
       "SetID": "3p04nmn",
       "Name": "Ball and Chain",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_CRAFT_YOUR_FIRST_RARE_DRAGON_SHARD",
       "SetID": "3p04nmn",
       "Name": "Do it yourself",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_DEFEAT_GLOWING_EYEBALL_GUY",
       "SetID": "3p04nmn",
       "Name": "All Seeing Eye",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_DEFEAT_PAN_QUEEN",
@@ -289,7 +294,7 @@
       "Name": "Your Royal Highness",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_FINISH_THE_GAME_AT_AGE_21_OR_YOUNGER",
@@ -303,17 +308,17 @@
       "ID": "ACH_FINISH_THE_GAME_ON_ANY_DIFFICULTY",
       "SetID": "3p04nmn",
       "Name": "The Hero\u0027s Journey",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_FINISH_THE_GAME_ON_HARD",
       "SetID": "3p04nmn",
       "Name": "A Heroic Feat",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 120,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FINISH_THE_GAME_ON_NG",
@@ -327,17 +332,17 @@
       "ID": "ACH_FINISH_THE_GAME_ON_NORMAL",
       "SetID": "3p04nmn",
       "Name": "A True Adventurer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_KILL_CYCLOPS",
       "SetID": "3p04nmn",
       "Name": "The Bigger They Are\u2026",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_KILL_CYCLOPS_NG",
@@ -351,9 +356,9 @@
       "ID": "ACH_KILL_LABYRINTH_BOSS",
       "SetID": "3p04nmn",
       "Name": "What is the Labyrinth?",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_KILL_MANY_FACES",
@@ -361,47 +366,47 @@
       "Name": "Many Faces, Few Words",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_KILL_THE_DRAGON",
       "SetID": "3p04nmn",
       "Name": "Shouldn\u0027t Have Done That",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_MEET_BLACKSMITH",
       "SetID": "3p04nmn",
       "Name": "Not Your Enemy",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_MEET_THE_FLUTIST",
       "SetID": "3p04nmn",
       "Name": "Riddle me this",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_OPEN_A_SMALL_CHEST_ITEM",
       "SetID": "3p04nmn",
       "Name": "A Hidden Treasure",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_PUT_POINTS_IN_AGILITY",
       "SetID": "3p04nmn",
       "Name": "Surprisingly Spry",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_PUT_POINTS_IN_ARCANE",
@@ -409,23 +414,23 @@
       "Name": "With Age Comes Wisdom",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_PUT_POINTS_IN_STRENGTH",
       "SetID": "3p04nmn",
       "Name": "Strength in Numbers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_PUT_POINTS_IN_VITALITY",
       "SetID": "3p04nmn",
       "Name": "Continuance of Life",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_READ_10_BOOKS",
@@ -433,15 +438,15 @@
       "Name": "Well Read",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_READ_5_BOOKS",
       "SetID": "3p04nmn",
       "Name": "Stories of Old",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_RETURN_THE_LOCKET_TO_THE_KING",
@@ -449,7 +454,7 @@
       "Name": "A Small Momento",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_SOLVE_THE_FLUTIST_RIDDLES",
@@ -457,7 +462,7 @@
       "Name": "Too Clever",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_SWAP_YOUR_STARTER_WEAPON",
@@ -465,7 +470,7 @@
       "Name": "Worth It",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_UNLOCK_EVERYTHING",
@@ -479,17 +484,17 @@
       "ID": "ACH_UNLOCK_FIRST_TRAIT",
       "SetID": "3p04nmn",
       "Name": "Hard Choices",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_UPGRADE_ANY_WEAPON_FOR_THE_FIRST_TIME",
       "SetID": "3p04nmn",
       "Name": "First of Many",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_UPGRADE_A_WEAPON_TO_MAX",
@@ -497,7 +502,7 @@
       "Name": "Maximum Power!",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_UPGRADE_A_WEAPON_TO_MAX_NG",
@@ -511,16 +516,16 @@
       "ID": "ACH_USE_MIRROR_TO_TRAVEL_TO_WARD",
       "SetID": "3p04nmn",
       "Name": "Mirror, Mirror",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "3p04nmn",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 303,
       "Completed": 0
     }
   ],
@@ -528,8 +533,8 @@
   "FirstSeenRating": "2022-10-20T18:00:38.5119535+00:00",
   "FirstSeenAchievements": "2024-02-22T21:03:49.5427509+00:00",
   "LastChanged": "2024-09-16T17:57:49.4566202+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:01.3164565+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:05.561392+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:30.6017392+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:16.6287885+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:01.3164825+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:05.5614246+00:00"
 }

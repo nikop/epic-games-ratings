@@ -2,10 +2,10 @@
   "ID": "c93d58631e5841a89a75dd2dce81add9",
   "Name": "MetaDOS",
   "ProductSlug": "metados-61b811",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-12T17:57:20.0360797+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:51.5926305+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:28:00.4171736+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:15.7827904+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:15:06.6173496+00:00"
 }

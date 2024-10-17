@@ -2,10 +2,10 @@
   "ID": "e738fe9456c148babf669629bb50a6cc",
   "Name": "DroneClash",
   "ProductSlug": "droneclash-7417ac",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-27T14:11:11.903+00:00",
     "PcReleaseDate": "2024-09-27T01:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-09T08:57:35.5555212+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:12.7179421+00:00",
-  "LastUpdate_Ratings": "2024-10-17T04:01:06.5777709+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:01:06.5777709+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:13.0016659+00:00"
 }

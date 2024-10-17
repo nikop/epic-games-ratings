@@ -2,10 +2,10 @@
   "ID": "afb1eb5b870649929df0d5cd7a9afb94",
   "Name": "The Magical Mixture Mill",
   "ProductSlug": "magical-mixture-mill-f66c25",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-26T15:00:00.672+00:00",
     "PcReleaseDate": "2024-03-27T15:00:00+00:00",
@@ -25,27 +25,435 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:22.8298915+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:22.8298941+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_DESTROYED_TREES_WHILE_CHASED_BY_BEES",
+      "SetID": "d8khicp",
+      "Name": "NOT THE BEES!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_INVESTMENTS_PURCHASED",
+      "SetID": "d8khicp",
+      "Name": "Big Wig Investor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SALE_DIVERSITY_CONSECUTIVE_DAYS",
+      "SetID": "d8khicp",
+      "Name": "Diversify",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SALE_STOCKED_SHELVES_CONSECUTIVE_DAYS",
+      "SetID": "d8khicp",
+      "Name": "Keep \u0027Em Stocked",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WORKORDERS_COMPLETED_WITHIN_10_DAYS",
+      "SetID": "d8khicp",
+      "Name": "Ahead of Schedule",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WORK_FROM_HOME_EVERYDAY_5K",
+      "SetID": "d8khicp",
+      "Name": "Work From Home",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ALCHEMICAL_MASTERY",
+      "SetID": "d8khicp",
+      "Name": "Alchemical Mastery",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BRIDGE_DONT_KILL_MY_VIBE",
+      "SetID": "d8khicp",
+      "Name": "Bridge, Don\u0027t Kill My Vibe",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAFTED_POTIONS_500",
+      "SetID": "d8khicp",
+      "Name": "Now We Brewin\u0027",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAFTED_POTIONS_IN_A_DAY_1000",
+      "SetID": "d8khicp",
+      "Name": "Certified Brewer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAFTED_POTIONS_IN_A_DAY_EXPERT",
+      "SetID": "d8khicp",
+      "Name": "Expert Brewer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAFTED_POTIONS_IN_A_DAY_MASTER",
+      "SetID": "d8khicp",
+      "Name": "Master Brewer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAVING_BONUS_EARNINGS_CERTIFIED",
+      "SetID": "d8khicp",
+      "Name": "Certified Marketeer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAVING_NONE_STREAK_MASTER",
+      "SetID": "d8khicp",
+      "Name": "Master Supplier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRUSH_GEODE_DIAMOND",
+      "SetID": "d8khicp",
+      "Name": "Gacha Gameplay",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CUSTOMER_EXPERIENCE_IN_ONE_DAY_CERTIFIED",
+      "SetID": "d8khicp",
+      "Name": "Certified Supplier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CUSTOMER_LEVEL_30_ALL",
+      "SetID": "d8khicp",
+      "Name": "Expert Supplier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DESTROYED_RESOURCESOURCE_ORIGIN_10",
+      "SetID": "d8khicp",
+      "Name": "Efficient Destruction",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVENT_BONUS_EARNINGS_EXPERT",
+      "SetID": "d8khicp",
+      "Name": "Expert Marketeer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVENT_BONUS_EARNINGS_IN_ONE_WEEK_MASTER",
+      "SetID": "d8khicp",
+      "Name": "Master Marketeer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HATSMEET",
+      "SetID": "d8khicp",
+      "Name": "Hatsmeet",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HATS_UNLOCKED_FIRST",
+      "SetID": "d8khicp",
+      "Name": "Hat",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HATS_UNLOCKED_SECOND",
+      "SetID": "d8khicp",
+      "Name": "Hatter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HATS_UNLOCKED_THIRD",
+      "SetID": "d8khicp",
+      "Name": "Hattest",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIXTURES_DISCOVERED_25",
+      "SetID": "d8khicp",
+      "Name": "Mixologist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIXTURES_PERFECTED_CERTIFIED",
+      "SetID": "d8khicp",
+      "Name": "Certified Mixer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIXTURES_PRODUCED_EXPERT_MIXER",
+      "SetID": "d8khicp",
+      "Name": "Expert Mixer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIXTURES_PRODUCED_MASTER_MIXER",
+      "SetID": "d8khicp",
+      "Name": "Master Mixer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROPER_BEDTIME_CONSECUTIVE_7",
+      "SetID": "d8khicp",
+      "Name": "Bedtime Routine",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUEST_COMPLETION_CARLA",
+      "SetID": "d8khicp",
+      "Name": "Cursed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUEST_COMPLETION_DR_WOOK",
+      "SetID": "d8khicp",
+      "Name": "Dumbfounded",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUEST_COMPLETION_MAIN_DUE_CREDIT",
+      "SetID": "d8khicp",
+      "Name": "Great Work, Sweetie!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUEST_COMPLETION_SCARECROW",
+      "SetID": "d8khicp",
+      "Name": "Abandoned",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUEST_COMPLETION_TULLY",
+      "SetID": "d8khicp",
+      "Name": "Hornswoggled",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RESEARCHED_INGREDIENTS_DEATH_CATEGORY",
+      "SetID": "d8khicp",
+      "Name": "Your Own Demise",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RESEARCHED_INGREDIENTS_ENERGY_CATEGORY",
+      "SetID": "d8khicp",
+      "Name": "Stay Active",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RESEARCHED_INGREDIENTS_LIFE_CATEGORY",
+      "SetID": "d8khicp",
+      "Name": "For Your Health",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RESEARCHED_INGREDIENTS_MIND_CATEGORY",
+      "SetID": "d8khicp",
+      "Name": "Get Smart",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RESEARCHED_INGREDIENTS_SOUL_CATEGORY",
+      "SetID": "d8khicp",
+      "Name": "Good Spirit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAD_MIXTURE_IN_FANCY_BOTTLE",
+      "SetID": "d8khicp",
+      "Name": "Upselling",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHROOMPEDIA_COMPLETED",
+      "SetID": "d8khicp",
+      "Name": "Job\u0027s Done",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOOLS_FULLY_ENCHANTED_ALL",
+      "SetID": "d8khicp",
+      "Name": "Expert Artificer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOOL_ENCHANTMENT_MADE",
+      "SetID": "d8khicp",
+      "Name": "How Enchanting",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOOL_FULLY_UGRADED_AXE",
+      "SetID": "d8khicp",
+      "Name": "Adept Enchanter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOOL_FULLY_UGRADED_PICK",
+      "SetID": "d8khicp",
+      "Name": "Expert Enchanter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOOL_FULLY_UPGRADED_SICKLE",
+      "SetID": "d8khicp",
+      "Name": "Novice Enchanter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUTORIAL_COMPLETED",
+      "SetID": "d8khicp",
+      "Name": "Getting the Hang of Things",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORKSTATIONS_OWNED_10",
+      "SetID": "d8khicp",
+      "Name": "Beginner\u0027s Workshop",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORKSTATIONS_OWNED_MASTER",
+      "SetID": "d8khicp",
+      "Name": "Master Artificier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WORKSTATION_SCHEMATICS_PURCHASED_CERTIFIED",
+      "SetID": "d8khicp",
+      "Name": "Certified Artificer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d8khicp",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-10-04T03:58:48.9972462+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:06.7207913+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:06.7207862+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:22.8298909+00:00",
   "LastUpdate_AppInfo": "2024-10-14T13:14:59.3290349+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:58:50.0883923+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:06.7207925+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:06:22.8306305+00:00"
 }

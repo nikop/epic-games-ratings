@@ -2,10 +2,10 @@
   "ID": "3422cff6d1bd4e50b5dfe2153fe64ac1",
   "Name": "Days of Defiance",
   "ProductSlug": "days-of-defiance-40740d",
-  "Ranking_EOS_Progress": 1164,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1221,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -209,8 +209,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:14.6192832+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:22.6736483+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:32.4033487+00:00",
   "LastUpdate_AppInfo": "2024-10-15T14:57:15.1368546+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:32.1678568+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:22.6744021+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:10.1647378+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:32.4033626+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 675,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-09-24T05:38:22.789+00:00",
     "PcReleaseDate": "2019-02-27T11:00:00+00:00",
@@ -42,19 +42,141 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 932,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-17T05:06:02.8125215+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-17T05:06:02.812529+00:00",
+  "TotalAchievements": 13,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "google_01_tutorial",
+      "SetID": "5m3kclh",
+      "Name": "Great to have you here!",
+      "Percentage": 87,
+      "XP": 100,
+      "UsersEstimate": 811
+    },
+    {
+      "ID": "google_02_panda",
+      "SetID": "5m3kclh",
+      "Name": "Foundling",
+      "Percentage": 69,
+      "XP": 50,
+      "UsersEstimate": 643
+    },
+    {
+      "ID": "google_03_rescue",
+      "SetID": "5m3kclh",
+      "Name": "The Zoo\u0027s Salvation",
+      "Percentage": 50,
+      "XP": 70,
+      "UsersEstimate": 466
+    },
+    {
+      "ID": "google_04_help_friends",
+      "SetID": "5m3kclh",
+      "Name": "Play Date",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "google_05_plants",
+      "SetID": "5m3kclh",
+      "Name": "Professional Gardener",
+      "Percentage": 25,
+      "XP": 100,
+      "UsersEstimate": 233
+    },
+    {
+      "ID": "google_06_employees",
+      "SetID": "5m3kclh",
+      "Name": "Human Resources",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "google_07_animal_types",
+      "SetID": "5m3kclh",
+      "Name": "Conservationist",
+      "Percentage": 1,
+      "XP": 100,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "google_08_breeding",
+      "SetID": "5m3kclh",
+      "Name": "Baby Boomer",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "google_09_booster",
+      "SetID": "5m3kclh",
+      "Name": "Treasure Hunter",
+      "Percentage": 0.4,
+      "XP": 100,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "google_10_visitors",
+      "SetID": "5m3kclh",
+      "Name": "Visitor King",
+      "Percentage": 0.2,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "google_11_shops",
+      "SetID": "5m3kclh",
+      "Name": "Business Champion",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "google_12_level",
+      "SetID": "5m3kclh",
+      "Name": "Zoo Expert",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "google_13_legendaries",
+      "SetID": "5m3kclh",
+      "Name": "Animal Legend",
+      "Percentage": 19,
+      "XP": 100,
+      "UsersEstimate": 177
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5m3kclh",
+      "IsBase": true,
+      "Progressed": 932,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-09-24T08:58:41.3781127+00:00",
   "FirstSeenRating": "2024-10-15T22:00:46.7874704+00:00",
+  "FirstSeenAchievements": "2024-10-17T05:06:02.8125289+00:00",
   "LastChanged": "2024-10-16T11:57:44.756315+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:06:02.8125209+00:00",
   "LastUpdate_AppInfo": "2024-10-15T05:57:15.9524798+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:44.6079768+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:29.905104+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:06:02.8133699+00:00"
 }

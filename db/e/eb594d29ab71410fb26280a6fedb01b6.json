@@ -2,10 +2,10 @@
   "ID": "eb594d29ab71410fb26280a6fedb01b6",
   "Name": "Card Clash Chronicles",
   "ProductSlug": "card-clash-chronicles-78b06c",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:10.8318316+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:18.4835599+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:27.5916319+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:10.6674772+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:34.5643194+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:18.4835633+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:27.5916385+00:00"
 }

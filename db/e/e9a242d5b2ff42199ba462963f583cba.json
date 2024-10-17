@@ -2,10 +2,10 @@
   "ID": "e9a242d5b2ff42199ba462963f583cba",
   "Name": "BloodLoop",
   "ProductSlug": "bloodloop-2c05b9",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-14T17:57:38.1929184+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:12.2325708+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:29.189289+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:34.1648548+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:39.4184011+00:00"
 }

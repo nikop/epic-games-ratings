@@ -2,10 +2,10 @@
   "ID": "32a3518d649740a98e1ea26d6f887038",
   "Name": "Warrior Lords",
   "ProductSlug": "warrior-lords-6199b5",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-29T22:00:00+00:00",
     "PcReleaseDate": "2024-04-10T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-15T02:10:53.0642516+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:43.1926217+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:29.0331477+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:59:02.4706147+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:14:39.213503+00:00"
 }

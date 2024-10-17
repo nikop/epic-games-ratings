@@ -5,10 +5,10 @@
   "Ranking_Rating": 859,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
-  "Ranking_EOS_Progress": 476,
-  "Ranking_EOS_Completed": 431,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Completed": 453,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -824,6 +824,11 @@
       "Time": "2024-09-14T14:19:17.5492382+00:00",
       "NumProgressed": 574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-17T05:09:24.8930955+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -851,7 +856,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "collect-combos",
@@ -875,7 +880,7 @@
       "Name": "Shopaholic",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "collect-sacrifices",
@@ -891,7 +896,7 @@
       "Name": "Party",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "different-items2",
@@ -899,7 +904,7 @@
       "Name": "Full House",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "fat-human",
@@ -931,7 +936,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "finished-quest-nurgle",
@@ -963,7 +968,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "finished-quest-sci",
@@ -1051,7 +1056,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "win-first-level",
@@ -1059,15 +1064,15 @@
       "Name": "Good start!",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "win-koth-fights2",
@@ -1114,7 +1119,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 1
     }
   ],
@@ -1122,8 +1127,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2024-07-13T20:57:43.7711871+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:17.5492376+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:09:24.8930949+00:00",
   "LastUpdate_AppInfo": "2024-10-14T18:57:16.5094725+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:05.6662296+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:17.5492642+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:09:24.8931266+00:00"
 }

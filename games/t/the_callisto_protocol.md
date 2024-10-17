@@ -1,60 +1,60 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.14 (Ranked 1,194)  
+Rating: 4.14 (Ranked 1,193)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 77.00% | ~463,316 |
-| Desperate Times | 71.00% | ~427,213 |
-| Flesh Wound | 68.00% | ~409,162 |
-| Paper Jams | 45.00% | ~270,769 |
-| Chew 'Em Up | 44.00% | ~264,752 |
-| Reforged | 37.00% | ~222,632 |
-| Get a Grip | 35.00% | ~210,598 |
-| Float Like A Butterfly | 34.00% | ~204,581 |
-| If the SHU Fits... | 32.00% | ~192,547 |
-| Workplace Hazard | 28.00% | ~168,479 |
-| Without A Paddle | 23.00% | ~138,393 |
-| Terminated | 17.00% | ~102,291 |
-| Crash Site | 17.00% | ~102,291 |
-| In the Pipe, Five by Five | 16.00% | ~96,273 |
-| Power Up | 14.00% | ~84,239 |
-| Two Heads Are Better Than One | 13.00% | ~78,222 |
-| Giving Back | 12.00% | ~72,205 |
-| You Need a Gun | 10.00% | ~60,171 |
-| What Lies Beneath | 10.00% | ~60,171 |
-| Full Circle | 10.00% | ~60,171 |
-| In Striking Distance | 7.00% | ~42,120 |
-| I Do Belong Here | 5.00% | ~30,085 |
-| The Commonality | 4.00% | ~24,068 |
-| Mugshot | 2.00% | ~12,034 |
-| Armed to the Teeth | 1.00% | ~5,896 |
-| Keep Fighting | 0.90% | ~5,307 |
-| It's Time | 0.60% | ~3,538 |
-| One Last Job | 0.30% | ~1,769 |
-| Grim Reaper | 0.20% | ~1,203 |
-| The Protocol is About Life | 0.20% | ~1,203 |
-| Recidivist | 0.20% | ~1,179 |
-| Parole Denied | 0.20% | ~1,179 |
-| Instigator | 0.20% | ~1,179 |
-| Big Spender | 0.20% | ~1,179 |
-| This Isn't About Escape | 0.20% | ~1,179 |
-| It's over, Jacob! | 0.10% | ~602 |
-| Glutton for Punishment | 0.10% | ~590 |
-| You Belong Here | 0.10% | ~590 |
-| Lifer | 0.10% | ~590 |
-| Big Game Hunter | 0.10% | ~590 |
-| Bear Trap | 0.10% | ~590 |
-| Hoard Mode | 0.10% | ~590 |
-| Subject Alpha | 0.10% | ~590 |
-| Don't Let It Mellow | 0.10% | ~590 |
-| Information Overload | 0.10% | ~590 |
-| Quick Pick | 0.10% | ~590 |
+| The Outer Way | 78.00% | ~531,129 |
+| Desperate Times | 72.00% | ~490,273 |
+| Flesh Wound | 69.00% | ~469,845 |
+| Paper Jams | 47.00% | ~320,039 |
+| Chew 'Em Up | 46.00% | ~313,230 |
+| Reforged | 38.00% | ~258,755 |
+| Get a Grip | 37.00% | ~251,946 |
+| Float Like A Butterfly | 35.00% | ~238,327 |
+| If the SHU Fits... | 34.00% | ~231,518 |
+| Workplace Hazard | 30.00% | ~204,280 |
+| Without A Paddle | 25.00% | ~170,234 |
+| Crash Site | 19.00% | ~129,378 |
+| Terminated | 18.00% | ~122,568 |
+| In the Pipe, Five by Five | 18.00% | ~122,568 |
+| Power Up | 16.00% | ~108,950 |
+| Two Heads Are Better Than One | 15.00% | ~102,140 |
+| Giving Back | 14.00% | ~95,331 |
+| What Lies Beneath | 12.00% | ~81,712 |
+| Full Circle | 12.00% | ~81,712 |
+| You Need a Gun | 11.00% | ~74,903 |
+| In Striking Distance | 8.00% | ~54,475 |
+| I Do Belong Here | 6.00% | ~40,856 |
+| The Commonality | 5.00% | ~34,047 |
+| Mugshot | 2.00% | ~13,619 |
+| Armed to the Teeth | 1.00% | ~6,689 |
+| Keep Fighting | 0.90% | ~6,020 |
+| It's Time | 0.70% | ~4,682 |
+| One Last Job | 0.40% | ~2,675 |
+| Grim Reaper | 0.30% | ~2,043 |
+| The Protocol is About Life | 0.30% | ~2,043 |
+| Parole Denied | 0.30% | ~2,007 |
+| Recidivist | 0.20% | ~1,338 |
+| Instigator | 0.20% | ~1,338 |
+| Big Spender | 0.20% | ~1,338 |
+| This Isn't About Escape | 0.20% | ~1,338 |
+| It's over, Jacob! | 0.10% | ~681 |
+| Glutton for Punishment | 0.10% | ~669 |
+| You Belong Here | 0.10% | ~669 |
+| Lifer | 0.10% | ~669 |
+| Big Game Hunter | 0.10% | ~669 |
+| Bear Trap | 0.10% | ~669 |
+| Hoard Mode | 0.10% | ~669 |
+| Subject Alpha | 0.10% | ~669 |
+| Don't Let It Mellow | 0.10% | ~669 |
+| Information Overload | 0.10% | ~669 |
+| Quick Pick | 0.10% | ~669 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 601,709 (Ranked 45)  
-Completed: 89 (0.01%) (Ranked 563)  
+Progressed: 680,935 (Ranked 38)  
+Completed: 89 (0.01%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 89 (0.01%) (Ranked 563)
 | 2024-08-09 | 29,783 | 88 |
 | 2024-08-20 | 29,887 | 88 |
 | 2024-09-14 | 601,709 | 89 |
+| 2024-10-17 | 680,935 | 89 |
 ## Awards
 Max (Amazing Storytelling): 882  (Ranked 221)  
 Sum: 4,631 (Ranked 191)  

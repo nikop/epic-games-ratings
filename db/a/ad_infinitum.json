@@ -2,10 +2,10 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 532,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1110,6 +1110,11 @@
       "Time": "2024-10-09T19:03:26.6087714+00:00",
       "NumProgressed": 360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:37.9358015+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -1178,7 +1183,7 @@
       "Name": "Awaken",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_CLARITY",
@@ -1186,7 +1191,7 @@
       "Name": "Clarity",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -1218,7 +1223,7 @@
       "Name": "Hope",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_HUNGER",
@@ -1226,7 +1231,7 @@
       "Name": "Hunger",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_JIGSAW",
@@ -1248,9 +1253,9 @@
       "ID": "ACH_MAYHEM",
       "SetID": "88d7anj",
       "Name": "Mayhem",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_MORGENGRAUEN",
@@ -1258,15 +1263,15 @@
       "Name": "Morgengrauen",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
       "SetID": "88d7anj",
       "Name": "No one left behind",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_NOTALONE",
@@ -1274,7 +1279,7 @@
       "Name": "Not alone",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_PAIN",
@@ -1290,7 +1295,7 @@
       "Name": "Path of Corruption",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
@@ -1298,7 +1303,7 @@
       "Name": "Path of Despair",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1322,7 +1327,7 @@
       "Name": "Rage",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -1330,15 +1335,15 @@
       "Name": "Reflections",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_THEIRNAMES",
       "SetID": "88d7anj",
       "Name": "Their names",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THESHINING",
@@ -1346,21 +1351,21 @@
       "Name": "The shining",
       "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:03:26.6087711+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:37.9358011+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:28.0748759+00:00",
   "LastUpdate_Ratings": "2024-10-17T03:59:11.8246266+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:03:26.6088038+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:37.9358243+00:00"
 }

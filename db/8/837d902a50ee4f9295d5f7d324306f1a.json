@@ -2,10 +2,10 @@
   "ID": "837d902a50ee4f9295d5f7d324306f1a",
   "Name": "Lunar Axe",
   "ProductSlug": "lunar-axe-145206",
-  "Ranking_EOS_Progress": 1263,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1327,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2022-07-11T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-13T13:11:35.0608716+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:15:03.9799073+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:09.7888772+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:58:00.7785479+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:12:52.8755837+00:00"
 }

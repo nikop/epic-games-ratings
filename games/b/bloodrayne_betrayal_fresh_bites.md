@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 87.00% | ~76 |
-| Just a Taste | 74.00% | ~64 |
-| Strange Skulls | 55.00% | ~48 |
-| Treasure Hunter | 55.00% | ~48 |
-| Crab Cakes | 49.00% | ~43 |
-| Personally Punched | 28.00% | ~24 |
+| Finish Him | 88.00% | ~78 |
+| Just a Taste | 74.00% | ~66 |
+| Strange Skulls | 55.00% | ~49 |
+| Treasure Hunter | 55.00% | ~49 |
+| Crab Cakes | 48.00% | ~43 |
+| Personally Punched | 27.00% | ~24 |
 | Flight of the Raven | 25.00% | ~22 |
-| Drop In | 23.00% | ~20 |
-| Champion of Light | 13.00% | ~11 |
-| The Last Bullet | 13.00% | ~11 |
+| Drop In | 22.00% | ~20 |
+| Champion of Light | 12.00% | ~11 |
+| The Last Bullet | 12.00% | ~11 |
 | Betrayed | 10.00% | ~9 |
 | Parting Gift | 10.00% | ~9 |
 | Chainsplosion! | 6.00% | ~5 |
-| Skullector | 5.00% | ~4 |
-| Stomach Ache | 5.00% | ~4 |
-| Survived to Sunrise | 5.00% | ~4 |
+| Skullector | 4.00% | ~4 |
+| Stomach Ache | 4.00% | ~4 |
+| Survived to Sunrise | 4.00% | ~4 |
 | Collateral | 2.00% | ~2 |
 | Walking on Air | 2.00% | ~2 |
 | Coffin Kicker | 1.00% | ~1 |
@@ -29,8 +29,8 @@
 | Skulltastic | 1.00% | ~1 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 731)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 89 (Ranked 754)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-07-25 | 85 | 0 |
 | 2024-08-09 | 86 | 0 |
 | 2024-09-14 | 87 | 0 |
+| 2024-10-17 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

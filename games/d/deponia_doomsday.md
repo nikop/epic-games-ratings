@@ -5,45 +5,45 @@ Rating: 4.62 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 83.00% | ~586 |
-| And again, and again, and... | 63.00% | ~445 |
-| Burn, Elysium, burn! | 61.00% | ~431 |
-| Kuvaq Minigame-Master | 60.00% | ~424 |
-| FunScore | 55.00% | ~388 |
-| Funtime's over | 51.00% | ~360 |
-| Chunky | 48.00% | ~339 |
-| Shall we play a game? | 47.00% | ~332 |
-| Boat of love, boat of love | 47.00% | ~332 |
-| School's out | 43.00% | ~304 |
-| Sole Music | 37.00% | ~261 |
-| Scaffolding Expert | 35.00% | ~247 |
-| Elysian Minigame-Master | 35.00% | ~247 |
-| Portals come in packs | 29.00% | ~205 |
-| No man left behind! | 28.00% | ~198 |
-| Photo Friend | 25.00% | ~176 |
-| And everything comes full circle. | 21.00% | ~148 |
-| Brainfreeze | 20.00% | ~141 |
-| Masseltov | 18.00% | ~127 |
-| Quickdraw | 15.00% | ~106 |
-| Heading the inverter | 14.00% | ~99 |
-| Thuna...? | 13.00% | ~92 |
-| Monstrous Harassment | 12.00% | ~85 |
-| Paradox! | 11.00% | ~78 |
-| Blast from the Past | 11.00% | ~78 |
-| Play it again, Ronny | 10.00% | ~71 |
-| Goat Team | 9.00% | ~64 |
-| Weapons 101 | 8.00% | ~56 |
-| Sadist | 6.00% | ~42 |
-| Every man for himself! | 6.00% | ~42 |
-| The customer is always right | 6.00% | ~42 |
-| Apoca...huh? | 6.00% | ~42 |
-| Against better judgement | 6.00% | ~42 |
-| Distraction | 5.00% | ~35 |
-| Pacifist | 5.00% | ~35 |
+| Huzza, he's back. | 83.00% | ~603 |
+| And again, and again, and... | 61.00% | ~443 |
+| Burn, Elysium, burn! | 60.00% | ~436 |
+| Kuvaq Minigame-Master | 59.00% | ~428 |
+| FunScore | 54.00% | ~392 |
+| Funtime's over | 50.00% | ~363 |
+| Shall we play a game? | 46.00% | ~334 |
+| Chunky | 46.00% | ~334 |
+| Boat of love, boat of love | 46.00% | ~334 |
+| School's out | 43.00% | ~312 |
+| Sole Music | 37.00% | ~269 |
+| Scaffolding Expert | 35.00% | ~254 |
+| Elysian Minigame-Master | 34.00% | ~247 |
+| Portals come in packs | 29.00% | ~211 |
+| No man left behind! | 28.00% | ~203 |
+| Photo Friend | 25.00% | ~182 |
+| Brainfreeze | 20.00% | ~145 |
+| And everything comes full circle. | 20.00% | ~145 |
+| Masseltov | 18.00% | ~131 |
+| Quickdraw | 15.00% | ~109 |
+| Heading the inverter | 14.00% | ~102 |
+| Thuna...? | 12.00% | ~87 |
+| Monstrous Harassment | 12.00% | ~87 |
+| Paradox! | 11.00% | ~80 |
+| Blast from the Past | 11.00% | ~80 |
+| Play it again, Ronny | 10.00% | ~73 |
+| Goat Team | 9.00% | ~65 |
+| Weapons 101 | 8.00% | ~58 |
+| Sadist | 6.00% | ~44 |
+| Every man for himself! | 6.00% | ~44 |
+| The customer is always right | 6.00% | ~44 |
+| Apoca...huh? | 6.00% | ~44 |
+| Against better judgement | 6.00% | ~44 |
+| Distraction | 5.00% | ~36 |
+| Pacifist | 5.00% | ~36 |
 | 1001 Jackalopes | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 459)  
-Completed: 9 (1.27%) (Ranked 259)  
+Progressed: 726 (Ranked 471)  
+Completed: 9 (1.24%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -168,6 +168,7 @@ Completed: 9 (1.27%) (Ranked 259)
 | 2024-06-17 | 648 | 7 |
 | 2024-08-09 | 679 | 8 |
 | 2024-09-14 | 706 | 9 |
+| 2024-10-17 | 726 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

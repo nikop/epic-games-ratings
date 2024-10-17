@@ -5,10 +5,10 @@
   "Ranking_Rating": 675,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Completed": 539,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-04-26T13:00:00+00:00",
     "PcReleaseDate": "2024-04-26T13:00:00+00:00",
@@ -1250,8 +1250,8 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 19865,
-  "EOS_Completed": 7,
+  "EOS_Progressed": 20125,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
@@ -1280,6 +1280,11 @@
       "Time": "2024-09-14T14:27:34.9712257+00:00",
       "NumProgressed": 19865,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-10-17T05:14:45.8007621+00:00",
+      "NumProgressed": 20125,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:55.3815867+00:00",
@@ -1290,9 +1295,9 @@
       "ID": "ACH_BELLS",
       "SetID": "bgipnlg",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2980
+      "UsersEstimate": 3220
     },
     {
       "ID": "ACH_CHALLENGE_ACCEPTED",
@@ -1306,9 +1311,9 @@
       "ID": "ACH_DEFEAT_THE_BARON",
       "SetID": "bgipnlg",
       "Name": "Defeat Hildebolt",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 795
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_FULL_RETINUE",
@@ -1316,7 +1321,7 @@
       "Name": "Full Retinue",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 795
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_LARGE_TOWN",
@@ -1324,7 +1329,7 @@
       "Name": "Cheerful Metropolis",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 795
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_MERCENARY_CAPTAIN",
@@ -1340,23 +1345,23 @@
       "Name": "Restore the Peace",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_START",
       "SetID": "bgipnlg",
       "Name": "Start the game",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 4768
+      "UsersEstimate": 5031
     },
     {
       "ID": "ACH_SURVIVE_YEAR",
       "SetID": "bgipnlg",
       "Name": "Survive the first year",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 3973
+      "UsersEstimate": 4226
     },
     {
       "ID": "ACH_THE_MERCHANT",
@@ -1370,25 +1375,25 @@
       "ID": "ACH_VIGILANTES",
       "SetID": "bgipnlg",
       "Name": "The vigilantes",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1811
     }
   ],
   "AchievementSets": [
     {
       "ID": "bgipnlg",
       "IsBase": true,
-      "Progressed": 19865,
-      "Completed": 7
+      "Progressed": 20125,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
   "LastChanged": "2024-10-16T23:57:57.805413+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:34.9712248+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:14:45.8007606+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:12.7970122+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:09.8370087+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:34.9712348+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:14:45.800772+00:00"
 }

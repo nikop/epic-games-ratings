@@ -6,53 +6,53 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 89.00% | ~1,102 |
-| Mash Machine | 80.00% | ~990 |
-| Ducks in a Row, Fish in a Barrel | 61.00% | ~755 |
-| Furon Fashion | 52.00% | ~644 |
-| Bodied Sattva | 46.00% | ~569 |
-| Shop Til They Drop | 46.00% | ~569 |
-| Cult Following | 41.00% | ~508 |
-| Earthly Pleasures | 38.00% | ~470 |
-| Lie Back and Think of Albion | 34.00% | ~421 |
-| Upgreatest | 31.00% | ~384 |
-| Pimp My Raid | 29.00% | ~359 |
-| Freshly Squeezed | 26.00% | ~322 |
-| I Look Up As I Walk to Takoshima | 24.00% | ~297 |
-| Perfect Probulator | 22.00% | ~272 |
-| Die Nasty | 22.00% | ~272 |
-| Transmitting From Sol-3 | 19.00% | ~235 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~186 |
-| Kaijuiced | 13.00% | ~161 |
-| Dusted | 13.00% | ~161 |
-| Fly Me to the Moon Base | 12.00% | ~149 |
-| Scuttled | 10.00% | ~124 |
-| Lobster Blisque | 8.00% | ~99 |
-| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~99 |
-| Yettisoned | 7.00% | ~87 |
-| Ultimate Smoothie | 5.00% | ~62 |
-| Arkvoodle Doodle | 5.00% | ~62 |
-| Deincarnated | 3.00% | ~37 |
-| Against All Odds | 2.00% | ~25 |
-| Forbidden Donut | 2.00% | ~25 |
-| Hidden Human Hive Harvest | 2.00% | ~25 |
-| The Optional Mandate | 2.00% | ~25 |
-| Higher Than the Futen Zoku | 2.00% | ~25 |
-| Arty Facts | 1.00% | ~12 |
-| Gotta Catch All the Pop Art | 1.00% | ~12 |
-| Toilet Break | 1.00% | ~12 |
-| Albion Bridge Is for Falling Down | 1.00% | ~12 |
-| To Russia With Love | 1.00% | ~12 |
-| If You Know What I Mean | 1.00% | ~12 |
-| This Is Earth Radio | 0.90% | ~11 |
-| Ouch of Body Experience | 0.90% | ~11 |
+| Rock of the Bay | 89.00% | ~1,163 |
+| Mash Machine | 81.00% | ~1,059 |
+| Ducks in a Row, Fish in a Barrel | 62.00% | ~810 |
+| Furon Fashion | 52.00% | ~680 |
+| Bodied Sattva | 47.00% | ~614 |
+| Shop Til They Drop | 46.00% | ~601 |
+| Cult Following | 42.00% | ~549 |
+| Earthly Pleasures | 39.00% | ~510 |
+| Lie Back and Think of Albion | 35.00% | ~457 |
+| Upgreatest | 32.00% | ~418 |
+| Pimp My Raid | 30.00% | ~392 |
+| Freshly Squeezed | 27.00% | ~353 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~314 |
+| Perfect Probulator | 23.00% | ~301 |
+| Die Nasty | 23.00% | ~301 |
+| Transmitting From Sol-3 | 20.00% | ~261 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~196 |
+| Kaijuiced | 14.00% | ~183 |
+| Dusted | 13.00% | ~170 |
+| Fly Me to the Moon Base | 12.00% | ~157 |
+| Scuttled | 11.00% | ~144 |
+| Lobster Blisque | 8.00% | ~105 |
+| Yettisoned | 8.00% | ~105 |
+| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~105 |
+| Ultimate Smoothie | 6.00% | ~78 |
+| Arkvoodle Doodle | 5.00% | ~65 |
+| Deincarnated | 3.00% | ~39 |
+| Against All Odds | 2.00% | ~26 |
+| Forbidden Donut | 2.00% | ~26 |
+| Hidden Human Hive Harvest | 2.00% | ~26 |
+| The Optional Mandate | 2.00% | ~26 |
+| Higher Than the Futen Zoku | 2.00% | ~26 |
+| Arty Facts | 1.00% | ~13 |
+| Gotta Catch All the Pop Art | 1.00% | ~13 |
+| Albion Bridge Is for Falling Down | 1.00% | ~13 |
+| If You Know What I Mean | 1.00% | ~13 |
+| Toilet Break | 0.90% | ~12 |
+| To Russia With Love | 0.90% | ~12 |
 | PK Slam Dunk | 0.80% | ~10 |
+| This Is Earth Radio | 0.80% | ~10 |
+| Ouch of Body Experience | 0.80% | ~10 |
 | Steezy Down the Spine | 0.80% | ~10 |
 | Path of the Furon | 0.80% | ~10 |
 | Trans-Siberian Express | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238 (Ranked 405)  
-Completed: 5 (0.40%) (Ranked 375)  
+Progressed: 1,307 (Ranked 416)  
+Completed: 5 (0.38%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 5 (0.40%) (Ranked 375)
 | 2024-08-09 | 1,069 | 5 |
 | 2024-08-20 | 1,087 | 5 |
 | 2024-09-14 | 1,238 | 5 |
+| 2024-10-17 | 1,307 | 5 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 613)  
 Sum: 41 (Ranked 673)  

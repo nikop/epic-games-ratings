@@ -2,10 +2,10 @@
   "ID": "fcf1df110db64edb929913d38d4276aa",
   "Name": "Baimason\u0027s Thing Finder Puzzle",
   "ProductSlug": "baimasons-thing-finder-puzzle-0738aa",
-  "Ranking_EOS_Progress": 989,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 1023,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-12T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -45,6 +45,11 @@
       "Time": "2024-09-14T14:23:12.5647734+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:11:48.1942287+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:05:39.5386866+00:00",
@@ -63,17 +68,17 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ag9idp0",
       "Name": "Yey, Only 54 more to go",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "ag9idp0",
       "Name": "If only you were this good at finding the keys",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -103,9 +108,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ag9idp0",
       "Name": "So it beggins, the adiction",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -136,14 +141,14 @@
     {
       "ID": "ag9idp0",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-25T19:57:23.4734029+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:39.0830009+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:12.5647728+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:11:48.1942281+00:00",
   "LastUpdate_AppInfo": "2024-10-12T17:57:20.7352259+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:58:14.3572738+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:12.5647822+00:00"
+  "LastUpdate_Ratings": "2024-10-17T05:01:36.3105961+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:11:48.1942354+00:00"
 }

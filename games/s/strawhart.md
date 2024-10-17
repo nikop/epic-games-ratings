@@ -26,8 +26,8 @@
 | Third Eye | 0.00% | ~0 |
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 947)  
-Completed: 0 (0.00%) (Ranked 595)  
+Progressed: 17 (Ranked 985)  
+Completed: 0 (0.00%) (Ranked 622)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 811,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -284,6 +284,11 @@
       "Time": "2024-06-17T16:14:46.3487008+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:10:23.2107116+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -293,15 +298,15 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "COINS",
       "SetID": "63n2m0e",
       "Name": "Coin Operator",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -317,7 +322,7 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -341,7 +346,7 @@
       "ID": "DEFLECTOR",
       "SetID": "63n2m0e",
       "Name": "Deflector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -349,7 +354,7 @@
       "ID": "DOOMSKULL",
       "SetID": "63n2m0e",
       "Name": "Doom Skull",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -357,7 +362,7 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -381,7 +386,7 @@
       "ID": "NG",
       "SetID": "63n2m0e",
       "Name": "New Game\u002B\u002B",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -389,7 +394,7 @@
       "ID": "PALACE_BOSS",
       "SetID": "63n2m0e",
       "Name": "Deanimation",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -405,7 +410,7 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -421,7 +426,7 @@
       "ID": "RAMPAGE",
       "SetID": "63n2m0e",
       "Name": "Rampage",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -429,7 +434,7 @@
       "ID": "SEWERS_BOSS",
       "SetID": "63n2m0e",
       "Name": "Sewage Treatement",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -437,7 +442,7 @@
       "ID": "SWIFT",
       "SetID": "63n2m0e",
       "Name": "Swift Justice",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 80,
       "UsersEstimate": 2
     },
@@ -453,7 +458,7 @@
       "ID": "UNDERDARK_BOSS",
       "SetID": "63n2m0e",
       "Name": "Pest Control",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 7
     }
@@ -462,14 +467,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:44.5183184+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:10:23.2107109+00:00",
   "LastUpdate_AppInfo": "2024-10-10T13:57:20.8062458+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:14:34.8998262+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:44.5183334+00:00"
+  "LastUpdate_Ratings": "2024-10-17T04:57:14.4198682+00:00",
+  "LastUpdate_Achievements": "2024-10-17T05:10:23.2107294+00:00"
 }

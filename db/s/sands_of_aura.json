@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 595,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Completed": 622,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2024-10-09T19:04:13.1480227+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-17T05:15:50.6764124+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -788,7 +793,7 @@
       "Name": "Overboard",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -874,9 +879,9 @@
       "ID": "COLLECT_ALL_WEAPON_HEADS",
       "SetID": "cm0d613",
       "Name": "Bladesmith",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -892,7 +897,7 @@
       "Name": "Missing Melodies",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETE_CALDER_STORY_BAD",
@@ -1148,15 +1153,15 @@
       "Name": "Leisis Bless You",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -1235,7 +1240,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
@@ -1243,8 +1248,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-10-09T19:04:13.1480222+00:00",
+  "LastChanged_Achievements": "2024-10-17T05:15:50.6764118+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:29.2668107+00:00",
   "LastUpdate_Ratings": "2024-10-17T04:00:09.4493491+00:00",
-  "LastUpdate_Achievements": "2024-10-09T19:04:13.1480902+00:00"
+  "LastUpdate_Achievements": "2024-10-17T05:15:50.6764605+00:00"
 }
