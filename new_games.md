@@ -23,7 +23,7 @@
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |
 | [Street Defenders](games/2/2c6272c2f5544728a5759ffe13525564.md) | 2024-10-05 | - |  | - | - |
 | [DarkManor](games/1/187a0616d5b94effbd275f7e8b76997f.md) | 2024-10-05 | - |  | - | - |
-| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.13 | 0 |
+| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.07 | 0 |
 | [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-10-04 | - |  | - | 0 |
 | [Potion Tycoon](games/b/bb556387682d4fc3b7b4a5c8760a7cca.md) | 2024-10-04 | 39 (1,000 XP) | 6 | - | 0 |
 | [Under The Thorns](games/c/cc3295be53984ee1a3658d98c6305d81.md) | 2024-10-04 | - |  | - | 0 |
@@ -70,7 +70,7 @@
 | [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | 26 (1,000 XP) | 15 | - | 0 |
 | [DroneClash](games/e/e738fe9456c148babf669629bb50a6cc.md) | 2024-09-27 | - |  | - | 0 |
 | [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | 5 (1,000 XP) | 1,584 | 4.74 | 0 |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | 39 (1,000 XP) | 46,531 | 4.17 | 262 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | 39 (1,000 XP) | 46,531 | 4.18 | 283 |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 20 | - | 0 |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | 0 |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | 13 (1,000 XP) | 2 | - | 0 |
@@ -82,7 +82,7 @@
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | 39 (1,000 XP) | 1,348 | - | 0 |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | 0 |
 | [Exographer](games/8/8cbdeae1e8b24e809cc445974e872f25.md) | 2024-09-26 | 41 (1,000 XP) | 5 | - | 0 |
-| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | - | 0 |
+| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | 4.45 | 0 |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 56 | - | 0 |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 4 | - | 0 |
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
