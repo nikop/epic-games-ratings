@@ -374,6 +374,7 @@
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Fatal Run 2089](games/0/0e5f128f0aa64308a98917bd334f142b.md) | 2099-01-01 | - |  | - | - |
 | [FATE: Reawakened](games/9/9bba70fad897401d8ca7096c7674faa5.md) | 2099-01-01 | - |  | - | - |
+| [FBC: Firebreak](games/9/9aad94b5754846fbb06ba6818201fab1.md) | 2099-01-01 | - |  | - | - |
 | [Field Hospital: Dr. Taylor's Story](games/f/field_hospital__dr._taylor's_story.md) | 2099-01-01 | - |  | - | - |
 | [Find Room 96](games/a/a4db1fc5c09a47b7ae8cc9648a93e758.md) | 2099-01-01 | - |  | - | - |
 | [FIRE](games/7/7ac5de5b8f10403ab9687388ec52c025.md) | 2099-01-01 | - |  | - | - |
