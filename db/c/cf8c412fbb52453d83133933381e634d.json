@@ -3,8 +3,8 @@
   "Name": "CyberTitans",
   "ProductSlug": "cybertitans-b6acef",
   "Ranking_Rating": 1232,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 719,
+  "Ranking_Popularity": 703,
+  "Ranking_PopularitySum": 711,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -275,18 +275,24 @@
       "Rating": 4.08,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-10-17T17:00:18.7468662+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -301,8 +307,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T10:57:26.2171381+00:00",
   "FirstSeenRating": "2024-01-04T16:59:06.1673636+00:00",
-  "LastChanged": "2024-10-06T13:12:05.5715621+00:00",
+  "LastChanged": "2024-10-17T17:00:18.746866+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:11.954581+00:00",
-  "LastUpdate_Ratings": "2024-10-17T14:59:58.0414695+00:00",
+  "LastUpdate_Ratings": "2024-10-17T17:00:18.7468665+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:05.7787045+00:00"
 }

@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.57 (Ranked 562)  
+Rating: 4.57 (Ranked 563)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -248,8 +248,8 @@ Completed: 59 (5.53%) (Ranked 131)
 | 2024-10-17 | 1,066 | 59 |
 ## Awards
 Max (Great Boss Battles): 152  (Ranked 422)  
-Sum: 238 (Ranked 519)  
-Diff (max vs sum): -97  
+Sum: 238 (Ranked 520)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 152 |

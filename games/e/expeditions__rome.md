@@ -1,7 +1,7 @@
 # Expeditions: Rome
 [Store](https://store.epicgames.com/en-US/p/expeditions-rome)  
 [View Rawdata](../../db/e/expeditions__rome.json)  
-Rating: 4.69 (Ranked 278)  
+Rating: 4.69 (Ranked 279)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -91,12 +91,12 @@ Completed: 0 (0.00%) (Ranked 622)
 | 2024-10-09 | 808 | 0 |
 | 2024-10-17 | 814 | 0 |
 ## Awards
-Max (Character Customization): 59  (Ranked 561)  
-Sum: 59 (Ranked 645)  
-Diff (max vs sum): -84  
+Max (Character Customization): 60  (Ranked 555)  
+Sum: 60 (Ranked 643)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 59 |
+| This game has Inclusive Character Customization | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -175,3 +175,4 @@ Diff (max vs sum): -84
 | 2024-09-19 | 4.69 | - | 57 | 57 |
 | 2024-10-05 | 4.69 | - | 58 | 58 |
 | 2024-10-14 | 4.69 | - | 59 | 59 |
+| 2024-10-17 | 4.69 | - | 60 | 60 |
