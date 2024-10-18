@@ -1,7 +1,7 @@
 # Shadowrun Hong Kong - Extended Edition
 [Store](https://store.epicgames.com/en-US/p/shadowrun-hong-kong)  
 [View Rawdata](../../db/s/shadowrun_hong_kong_-_extended_edition.json)  
-Rating: 4.55 (Ranked 608)  
+Rating: 4.54 (Ranked 636)  
 Number of Ratings: 241  (23.09.2022)  
 ## Awards
 Max (Character Customization): 104  (Ranked 475)  
@@ -94,3 +94,4 @@ Diff (max vs sum): -121
 | 2024-09-15 | 4.54 | - | 103 | 103 |
 | 2024-10-09 | 4.55 | - | 103 | 103 |
 | 2024-10-17 | 4.55 | - | 104 | 104 |
+| 2024-10-18 | 4.54 | - | 104 | 104 |

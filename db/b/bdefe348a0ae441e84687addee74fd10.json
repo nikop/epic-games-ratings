@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-heat-ccbf8d",
   "Ranking_Rating": 416,
   "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 415,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 518,
   "Ranking_EOS_NewPlayers": 82,
@@ -1518,10 +1518,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 545,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-10-18T08:58:12.28696+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 549,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 545,
+  "NumberOfAwards": 549,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1571,7 +1577,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1589,7 +1595,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1997,9 +2003,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-10-17T22:59:47.673714+00:00",
+  "LastChanged": "2024-10-18T08:58:12.2869598+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:22.6324438+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:20.3741941+00:00",
-  "LastUpdate_Ratings": "2024-10-18T06:59:18.8178348+00:00",
+  "LastUpdate_Ratings": "2024-10-18T08:58:12.2869602+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:22.6324823+00:00"
 }

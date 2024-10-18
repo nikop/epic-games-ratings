@@ -3,8 +3,8 @@
   "Name": "Darksiders II Deathinitive Edition",
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 341,
+  "Ranking_Popularity": 268,
+  "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 482,
   "Ranking_EOS_NewPlayers": 82,
@@ -1828,18 +1828,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 1006,
       "NumberOfAwardsMax": 514
+    },
+    {
+      "Time": "2024-10-18T08:58:45.6802587+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1009,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1006,
-  "NumberOfAwardsMax": 514,
+  "NumberOfAwards": 1009,
+  "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 514
+      "Count": 517
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2354,9 +2360,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:20.4320902+00:00",
-  "LastChanged": "2024-10-17T15:59:26.7159614+00:00",
+  "LastChanged": "2024-10-18T08:58:45.6802585+00:00",
   "LastChanged_Achievements": "2024-10-17T05:07:55.3885307+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:43.9780031+00:00",
-  "LastUpdate_Ratings": "2024-10-18T07:00:00.4888306+00:00",
+  "LastUpdate_Ratings": "2024-10-18T08:58:45.680259+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:55.3885761+00:00"
 }
