@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SOF: Enemy from the future](games/f/fc2dfecf4eba4d2984b8042ca34585f2.md) | 2024-10-18 | - |  | - | - |
+| [SOF: Enemy from the future](games/f/fc2dfecf4eba4d2984b8042ca34585f2.md) | 2024-10-18 | - |  | - | 0 |
 | [Simulakros](games/f/f264e262218f41288138a386d2e91b07.md) | 2024-10-17 | - |  | - | - |
 | [Blindfire](games/e/ee3fb82a53c141d1a756f15183ea0e37.md) | 2024-10-17 | - |  | - | - |
 | [Ynglet](games/b/b9421d3ead634300a48c4f203634d918.md) | 2024-10-17 | 12 (1,000 XP) | 2 | - | - |
@@ -105,11 +105,10 @@
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 5 | - | 0 |
 | [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | 7 (1,000 XP) | 0 | - | - |
 | [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | 28 (1,000 XP) | 87,281 | 4.40 | 0 |
-| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | 48 (1,000 XP) | 9,649 | 4.87 | 221 |
+| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | 48 (1,000 XP) | 9,649 | 4.87 | 226 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 15 | - | 0 |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-09-19 | 43 (1,000 XP) | 159 | 4.15 | 0 |
 | [Morbid: The Seven Acolytes](games/d/debff0fcd55f4649ae5014f0ca6f9e8c.md) | 2024-09-19 | 25 (1,000 XP) | 4 | - | - |
 | [Their Secrets](games/5/5cc55bc3565c4c6299971b5a95d9d448.md) | 2024-09-19 | - |  | - | 0 |
 | [Dynasty Legends 2](games/3/36b233c2231a4751a9ffd998768dfd36.md) | 2024-09-19 | - |  | - | 0 |
-| [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-09-18 | - |  | - | 0 |
