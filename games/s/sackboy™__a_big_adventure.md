@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
 Rating: 4.75 (Ranked 168)  
 ## Awards
-Max (Great for Beginners): 33  (Ranked 649)  
-Sum: 221 (Ranked 529)  
-Diff (max vs sum): 120  
+Max (Great for Beginners): 34  (Ranked 644)  
+Sum: 222 (Ranked 530)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 33 |
+| This game is Great for Beginners | 34 |
 | This game is Great for Quick Sessions | 31 |
 | This game has Amazing Storytelling | 31 |
 | This game is Extremely Fun | 29 |
@@ -158,3 +158,4 @@ Diff (max vs sum): 120
 | 2024-09-24 | 4.75 | 33 | 219 |
 | 2024-10-14 | 4.75 | 33 | 220 |
 | 2024-10-15 | 4.75 | 33 | 221 |
+| 2024-10-18 | 4.75 | 34 | 222 |
