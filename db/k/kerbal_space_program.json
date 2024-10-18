@@ -3,7 +3,7 @@
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 116,
-  "Ranking_Popularity": 150,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -14491,11 +14491,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 11634,
       "NumberOfAwardsMax": 1935
+    },
+    {
+      "Time": "2024-10-18T10:57:56.8271565+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 11636,
+      "NumberOfAwardsMax": 1937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11634,
-  "NumberOfAwardsMax": 1935,
+  "NumberOfAwards": 11636,
+  "NumberOfAwardsMax": 1937,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14520,7 +14526,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1935
+      "Count": 1937
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14559,8 +14565,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2024-10-18T08:58:56.8410058+00:00",
+  "LastChanged": "2024-10-18T10:57:56.8271563+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:28.4701174+00:00",
-  "LastUpdate_Ratings": "2024-10-18T08:58:56.8410064+00:00",
+  "LastUpdate_Ratings": "2024-10-18T10:57:56.827157+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:41.1679477+00:00"
 }
