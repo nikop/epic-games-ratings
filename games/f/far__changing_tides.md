@@ -1,7 +1,7 @@
 # FAR: Changing Tides
 [Store](https://store.epicgames.com/en-US/p/far-changing-tides)  
 [View Rawdata](../../db/f/far__changing_tides.json)  
-Rating: 4.67 (Ranked 320)  
+Rating: 4.66 (Ranked 339)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -54,3 +54,4 @@ Number of Ratings: 33  (23.09.2022)
 | 2024-09-25 | 4.65 | - | 0 | 0 |
 | 2024-10-01 | 4.66 | - | 0 | 0 |
 | 2024-10-06 | 4.67 | - | 0 | 0 |
+| 2024-10-18 | 4.66 | - | 0 | 0 |
