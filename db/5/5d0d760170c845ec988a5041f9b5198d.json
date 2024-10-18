@@ -2,7 +2,7 @@
   "ID": "5d0d760170c845ec988a5041f9b5198d",
   "Name": "Faaast Penguin",
   "ProductSlug": "faaast-penguin-4319d6",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 742,
   "Ranking_PopularitySum": 742,
   "Ranking_EOS_Progress": 160,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-09-25T18:59:08.0551938+00:00",
@@ -202,6 +202,12 @@
     {
       "Time": "2024-10-17T11:57:39.9765528+00:00",
       "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-18T18:57:57.7093867+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -462,9 +468,9 @@
   "FirstSeen": "2024-09-20T03:57:14.4271232+00:00",
   "FirstSeenRating": "2024-09-25T18:59:08.0551935+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.9376197+00:00",
-  "LastChanged": "2024-10-17T11:57:39.9765525+00:00",
+  "LastChanged": "2024-10-18T18:57:57.7093866+00:00",
   "LastChanged_Achievements": "2024-10-17T05:06:20.3837895+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:26.4589071+00:00",
-  "LastUpdate_Ratings": "2024-10-18T16:59:13.6388856+00:00",
+  "LastUpdate_Ratings": "2024-10-18T18:57:57.7093871+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:20.3846347+00:00"
 }

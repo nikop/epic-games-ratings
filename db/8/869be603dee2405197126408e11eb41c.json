@@ -4,7 +4,7 @@
   "ProductSlug": "blocklords-2a2ccd",
   "Ranking_Rating": 997,
   "Ranking_Popularity": 302,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -4109,10 +4109,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1166,
       "NumberOfAwardsMax": 366
+    },
+    {
+      "Time": "2024-10-18T18:59:30.0660584+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1166,
+  "NumberOfAwards": 1167,
   "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4174,7 +4180,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4195,8 +4201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-10-18T17:00:47.1637508+00:00",
+  "LastChanged": "2024-10-18T18:59:30.0660582+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:10.3751054+00:00",
-  "LastUpdate_Ratings": "2024-10-18T17:00:47.1637513+00:00",
+  "LastUpdate_Ratings": "2024-10-18T18:59:30.0660587+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:19.9238846+00:00"
 }
