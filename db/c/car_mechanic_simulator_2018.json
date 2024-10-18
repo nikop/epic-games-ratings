@@ -2,7 +2,7 @@
   "ID": "226306adde104c9092247dcd4bfa1499",
   "Name": "Car Mechanic Simulator 2018",
   "ProductSlug": "car-mechanic-simulator-2018",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 1327,
@@ -8283,10 +8283,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 16516,
       "NumberOfAwardsMax": 2186
+    },
+    {
+      "Time": "2024-10-18T22:59:44.5173088+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 16518,
+      "NumberOfAwardsMax": 2186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16516,
+  "NumberOfAwards": 16518,
   "NumberOfAwardsMax": 2186,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8336,7 +8342,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1811
+      "Count": 1813
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8362,8 +8368,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2024-10-18T12:01:21.2498155+00:00",
+  "LastChanged": "2024-10-18T22:59:44.5173084+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.841482+00:00",
-  "LastUpdate_Ratings": "2024-10-18T20:59:39.6549986+00:00",
+  "LastUpdate_Ratings": "2024-10-18T22:59:44.5173091+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:58.4227093+00:00"
 }

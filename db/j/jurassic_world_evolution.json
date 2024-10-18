@@ -2,7 +2,7 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "ProductSlug": "jurassic-world-evolution",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 9223,
   "RatingHistory": [
     {
@@ -9545,6 +9545,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 6593,
       "NumberOfAwardsMax": 831
+    },
+    {
+      "Time": "2024-10-18T22:57:45.5257349+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 6593,
+      "NumberOfAwardsMax": 831
     }
   ],
   "ReviewsDisabled": false,
@@ -9630,8 +9636,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2024-10-18T17:01:15.5166061+00:00",
+  "LastChanged": "2024-10-18T22:57:45.5257335+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:10.5041323+00:00",
-  "LastUpdate_Ratings": "2024-10-18T20:58:23.4007644+00:00",
+  "LastUpdate_Ratings": "2024-10-18T22:57:45.5257352+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:39.4156216+00:00"
 }
