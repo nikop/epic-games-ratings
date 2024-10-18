@@ -58,8 +58,8 @@ Completed: 6 (0.14%) (Ranked 465)
 | 2024-10-17 | 4,294 | 6 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 554)  
-Sum: 441 (Ranked 439)  
-Diff (max vs sum): 115  
+Sum: 441 (Ranked 440)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 61 |
