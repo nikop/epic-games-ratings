@@ -26,6 +26,7 @@
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
 | [Barrel Baller](games/5/51b263d03178465b87a5a46315be468e.md) | 2024-10-31 | - |  | - | - |
 | [Bmx Bastards](games/a/af34c848367c4071b8083b22c90e15fb.md) | 2024-10-31 | - |  | - | - |
+| [Couple-Cultivation Saves the World](games/8/83206950887643578dd83d7522da7a77.md) | 2024-10-31 | - |  | - | - |
 | [Hitmen Party](games/0/0229686d1f43464eabe959430ba6abaf.md) | 2024-10-31 | - |  | - | - |
 | [Holiday Fantasy](games/6/6999943986284eb0a87cb47ac183b06c.md) | 2024-10-31 | - |  | - | - |
 | [MeiQi 2024](games/9/991d58ba0c154a1ba5e57518449562fa.md) | 2024-10-31 | - |  | - | - |
@@ -148,6 +149,7 @@
 | [Phantom Breaker: Battle Grounds Ultimate](games/6/6a2cb8188318475e98ff8b6bc5cf3d1e.md) | 2025-02-28 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [The Sophisticated Art of Friendship: Tales of a Lost Friend](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2025-02-28 | - |  | - | - |
+| [Virballs](games/9/9188949474dc4f8a8055e61360ce4620.md) | 2025-02-28 | - |  | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2025-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2025-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2025-03-31 | - |  | - | - |
