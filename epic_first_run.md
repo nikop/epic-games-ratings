@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [NOIR: Dead On Arrival](games/d/d2a754ad49e04b2a91bbeecf14d95673.md) | 2025-09-30 | - |  | - | - |
 | [Couple-Cultivation Saves the World](games/8/83206950887643578dd83d7522da7a77.md) | 2024-10-31 | - |  | - | - |
 | [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | 28 (1,000 XP) | 9 | - | - |
 | [Enigma's Edge](games/4/456e25ce2188416ba190190f83a93b4f.md) | 2099-01-01 | - |  | - | - |

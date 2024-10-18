@@ -153,6 +153,7 @@
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2025-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2025-03-31 | - |  | - | - |
 | [Day of the Shell](games/2/28cf4c9348854bf5869237e0b4c8ca22.md) | 2025-03-31 | - |  | - | - |
+| [Fight Life: Vanguard](games/9/9b084d833fb54908a1f2da3179c8e2f6.md) | 2025-03-31 | - |  | - | - |
 | [Orcs Must Die! Deathtrap](games/1/1a6c29112ec747bda627f2f6643d1dae.md) | 2025-03-31 | - |  | - | - |
 | [Pluto Lost Its Colors](games/9/9fe8c7c2e71441ceb62dedcf702d71da.md) | 2025-03-31 | - |  | - | - |
 | [Rebirth of Arcadia](games/9/918384f1d23c4b09aa02ac3639536e00.md) | 2025-03-31 | - |  | - | - |
@@ -176,6 +177,7 @@
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
 | [Zone Nine Nihilation](games/3/3a30a0b1bc1843b3936a81751ee2a13f.md) | 2025-06-30 | - |  | - | - |
 | [A BIT BEAST WILD DREAM - PHASE ONE](games/8/8330f2785acf46d3bf3c1be7ed87994a.md) | 2025-09-30 | - |  | - | - |
+| [NOIR: Dead On Arrival](games/d/d2a754ad49e04b2a91bbeecf14d95673.md) | 2025-09-30 | - |  | - | - |
 | [Temple of the Gods](games/5/5665bab3e0ea4f24a6f12afa762b956e.md) | 2025-09-30 | - |  | - | - |
 | [THE GUARDIANS](games/b/b7018716306c4f0db9c8abe14f20647d.md) | 2025-09-30 | - |  | - | - |
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2025-12-31 | - |  | - | - |
