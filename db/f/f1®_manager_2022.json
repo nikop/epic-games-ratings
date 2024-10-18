@@ -4,7 +4,7 @@
   "ProductSlug": "f1-manager-2022",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 327,
-  "Ranking_PopularitySum": 260,
+  "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2680,6 +2680,6 @@
   "LastChanged": "2024-10-06T11:59:53.9079057+00:00",
   "LastChanged_Achievements": "2024-10-17T05:08:49.5119363+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:24.1935494+00:00",
-  "LastUpdate_Ratings": "2024-10-18T13:15:18.0745221+00:00",
+  "LastUpdate_Ratings": "2024-10-18T14:57:18.56413+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:49.5119397+00:00"
 }
