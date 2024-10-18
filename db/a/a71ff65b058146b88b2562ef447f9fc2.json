@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 393,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1716,10 +1716,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 712,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-10-18T13:17:03.3381385+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 713,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 712,
+  "NumberOfAwards": 713,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1733,7 +1739,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2224,9 +2230,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-18T10:59:44.9500153+00:00",
+  "LastChanged": "2024-10-18T13:17:03.3381383+00:00",
   "LastChanged_Achievements": "2024-10-17T05:16:25.0777998+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:10.4121195+00:00",
-  "LastUpdate_Ratings": "2024-10-18T10:59:44.950016+00:00",
+  "LastUpdate_Ratings": "2024-10-18T13:17:03.3381388+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:16:25.0778423+00:00"
 }

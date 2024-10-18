@@ -3,8 +3,8 @@
   "Name": "Bear and Breakfast",
   "ProductSlug": "bear-and-breakfast-77c209",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 638,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 631,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -354,18 +354,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-10-18T13:18:07.3110884+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 232,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
@@ -428,8 +434,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2024-10-18T11:57:32.9682632+00:00",
+  "LastChanged": "2024-10-18T13:18:07.3110882+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:17.1211116+00:00",
-  "LastUpdate_Ratings": "2024-10-18T11:57:32.9682637+00:00",
+  "LastUpdate_Ratings": "2024-10-18T13:18:07.3110892+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:16.3836941+00:00"
 }
