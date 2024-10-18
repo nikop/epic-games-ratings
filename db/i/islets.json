@@ -3,8 +3,8 @@
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1498,11 +1498,17 @@
       "Rating": 4.71,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-10-18T15:57:41.3381+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 457,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 457,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1527,7 +1533,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Relaxing",
@@ -1539,7 +1545,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1557,7 +1563,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has a Creative Community",
@@ -1578,8 +1584,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-10-17T10:01:41.7095782+00:00",
+  "LastChanged": "2024-10-18T15:57:41.3380998+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.1365798+00:00",
-  "LastUpdate_Ratings": "2024-10-18T13:58:32.3695402+00:00",
+  "LastUpdate_Ratings": "2024-10-18T15:57:41.3381005+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:27.7045389+00:00"
 }
