@@ -3,7 +3,7 @@
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 148,
+  "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -5389,10 +5389,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 7758,
       "NumberOfAwardsMax": 1937
+    },
+    {
+      "Time": "2024-10-18T13:58:37.5891004+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7759,
+      "NumberOfAwardsMax": 1937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7758,
+  "NumberOfAwards": 7759,
   "NumberOfAwardsMax": 1937,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5454,7 +5460,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 295
+      "Count": 296
     }
   ],
   "EOS_Progressed": 0,
@@ -5468,8 +5474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-10-18T11:59:42.5777737+00:00",
+  "LastChanged": "2024-10-18T13:58:37.5891002+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:27.4013958+00:00",
-  "LastUpdate_Ratings": "2024-10-18T11:59:42.5777743+00:00",
+  "LastUpdate_Ratings": "2024-10-18T13:58:37.5891008+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:20.2896903+00:00"
 }
