@@ -319,13 +319,13 @@ Completed: 4 (0.08%) (Ranked 495)
 | 2024-10-17 | 5,201 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 111  (Ranked 468)  
-Sum: 927 (Ranked 358)  
+Sum: 928 (Ranked 358)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 111 |
 | This game has Diverse Characters | 111 |
-| This game is Highly Recommended | 95 |
+| This game is Highly Recommended | 96 |
 | This game has a Creative Community | 84 |
 | This game has Realistic Visuals | 78 |
 | This game is Extremely Fun | 77 |
@@ -709,4 +709,4 @@ Diff (max vs sum): 110
 | 2024-10-14 | 4.65 | - | 110 | 922 |
 | 2024-10-15 | 4.65 | - | 110 | 923 |
 | 2024-10-17 | 4.65 | - | 111 | 925 |
-| 2024-10-18 | 4.65 | - | 111 | 927 |
+| 2024-10-18 | 4.65 | - | 111 | 928 |

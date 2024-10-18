@@ -2,9 +2,9 @@
   "ID": "3072dbe471f84dac8b2e9ba8af253ee2",
   "Name": "Wild Card Football",
   "ProductSlug": "wild-card-football",
-  "Ranking_Rating": 1211,
-  "Ranking_Popularity": 741,
-  "Ranking_PopularitySum": 741,
+  "Ranking_Rating": 1212,
+  "Ranking_Popularity": 735,
+  "Ranking_PopularitySum": 735,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -235,12 +235,26 @@
       "Rating": 4.12,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-18T17:00:45.2016164+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -253,8 +267,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-03T13:03:10.7629076+00:00",
   "FirstSeenRating": "2024-09-01T08:58:38.1562843+00:00",
-  "LastChanged": "2024-10-18T11:58:54.7253207+00:00",
+  "LastChanged": "2024-10-18T17:00:45.2016162+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:09.8739621+00:00",
-  "LastUpdate_Ratings": "2024-10-18T15:00:00.4123959+00:00",
+  "LastUpdate_Ratings": "2024-10-18T17:00:45.2016167+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:10.5473591+00:00"
 }

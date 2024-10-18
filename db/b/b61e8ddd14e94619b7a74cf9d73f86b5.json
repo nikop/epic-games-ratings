@@ -2,9 +2,9 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1164,
+  "Ranking_Rating": 1165,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -661,10 +661,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 1092,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2024-10-18T16:59:49.0187344+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 1128,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1092,
+  "NumberOfAwards": 1128,
   "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -684,7 +690,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 177
+      "Count": 196
     },
     {
       "Text": "This game is Highly Recommended",
@@ -708,7 +714,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 115
+      "Count": 132
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1057,9 +1063,9 @@
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
   "FirstSeenAchievements": "2024-10-17T05:14:24.9401681+00:00",
-  "LastChanged": "2024-10-18T13:18:29.8598633+00:00",
+  "LastChanged": "2024-10-18T16:59:49.0187342+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:24.9401656+00:00",
   "LastUpdate_AppInfo": "2024-10-16T23:57:09.5415619+00:00",
-  "LastUpdate_Ratings": "2024-10-18T14:59:22.8351132+00:00",
+  "LastUpdate_Ratings": "2024-10-18T16:59:49.0187347+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:24.9408406+00:00"
 }

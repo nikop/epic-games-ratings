@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 51,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -9152,10 +9152,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 5238,
       "NumberOfAwardsMax": 643
+    },
+    {
+      "Time": "2024-10-18T17:01:16.5679122+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5240,
+      "NumberOfAwardsMax": 643
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5238,
+  "NumberOfAwards": 5240,
   "NumberOfAwardsMax": 643,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9181,7 +9187,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 453
+      "Count": 455
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9243,8 +9249,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-10-18T15:57:32.7934836+00:00",
+  "LastChanged": "2024-10-18T17:01:16.5679121+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:30.5528901+00:00",
-  "LastUpdate_Ratings": "2024-10-18T15:57:32.7934841+00:00",
+  "LastUpdate_Ratings": "2024-10-18T17:01:16.5679129+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:26.9018775+00:00"
 }

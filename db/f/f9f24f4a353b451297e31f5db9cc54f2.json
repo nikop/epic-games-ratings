@@ -2,9 +2,9 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1188,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 397,
+  "Ranking_Rating": 1189,
+  "Ranking_Popularity": 399,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 82,
@@ -1548,18 +1548,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 689,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2024-10-18T16:59:26.3231393+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 697,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 689,
-  "NumberOfAwardsMax": 176,
+  "NumberOfAwards": 697,
+  "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 176
+      "Count": 179
     },
     {
       "Text": "This game is Hard for Beginners",
@@ -1577,13 +1583,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 120
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1754,9 +1760,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-10-18T13:18:06.403224+00:00",
+  "LastChanged": "2024-10-18T16:59:26.3231391+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:35.3953412+00:00",
   "LastUpdate_AppInfo": "2024-10-15T03:57:04.1050334+00:00",
-  "LastUpdate_Ratings": "2024-10-18T14:59:07.7058687+00:00",
+  "LastUpdate_Ratings": "2024-10-18T16:59:26.3231396+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:35.39535+00:00"
 }

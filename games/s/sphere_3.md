@@ -1,7 +1,7 @@
 # Sphere 3
 [Store](https://store.epicgames.com/en-US/p/sphere-3-deb200)  
 [View Rawdata](../../db/s/sphere_3.json)  
-Rating: 3.96 (Ranked 1,277)  
+Rating: 3.96 (Ranked 1,278)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

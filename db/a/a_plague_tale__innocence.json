@@ -3776,10 +3776,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 5022,
       "NumberOfAwardsMax": 4301
+    },
+    {
+      "Time": "2024-10-18T16:57:48.4775407+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5023,
+      "NumberOfAwardsMax": 4301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5022,
+  "NumberOfAwards": 5023,
   "NumberOfAwardsMax": 4301,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3817,7 +3823,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Easy Combat",
@@ -3867,8 +3873,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2024-10-18T13:16:24.7068716+00:00",
+  "LastChanged": "2024-10-18T16:57:48.4775405+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:03.4056473+00:00",
-  "LastUpdate_Ratings": "2024-10-18T14:58:02.2378113+00:00",
+  "LastUpdate_Ratings": "2024-10-18T16:57:48.4775411+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:51.8695584+00:00"
 }

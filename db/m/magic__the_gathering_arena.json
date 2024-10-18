@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 800,
+  "Ranking_Rating": 801,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 1327,
@@ -27992,10 +27992,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 132909,
       "NumberOfAwardsMax": 17994
+    },
+    {
+      "Time": "2024-10-18T16:59:35.7909851+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 132960,
+      "NumberOfAwardsMax": 17994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132909,
+  "NumberOfAwards": 132960,
   "NumberOfAwardsMax": 17994,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -28015,7 +28021,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12679
+      "Count": 12696
     },
     {
       "Text": "This game is Relaxing",
@@ -28039,7 +28045,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11703
+      "Count": 11716
     },
     {
       "Text": "This game has Challenging Combat",
@@ -28051,7 +28057,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 9369
+      "Count": 9379
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -28063,7 +28069,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 8750
+      "Count": 8761
     }
   ],
   "EOS_Progressed": 0,
@@ -28077,8 +28083,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-10-18T14:59:13.9911989+00:00",
+  "LastChanged": "2024-10-18T16:59:35.7909849+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:20.7185781+00:00",
-  "LastUpdate_Ratings": "2024-10-18T14:59:13.9911998+00:00",
+  "LastUpdate_Ratings": "2024-10-18T16:59:35.7909855+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:10.5215132+00:00"
 }
