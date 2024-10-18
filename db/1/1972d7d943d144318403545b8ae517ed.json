@@ -3,8 +3,8 @@
   "Name": "Moonray",
   "ProductSlug": "moonray-52967b",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 742,
-  "Ranking_PopularitySum": 742,
+  "Ranking_Popularity": 743,
+  "Ranking_PopularitySum": 743,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -254,6 +254,6 @@
   "FirstSeenRating": "2024-07-25T19:58:17.3352432+00:00",
   "LastChanged": "2024-10-04T17:59:12.679207+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:37.2113045+00:00",
-  "LastUpdate_Ratings": "2024-10-18T17:58:41.7854453+00:00",
+  "LastUpdate_Ratings": "2024-10-18T19:57:57.8661201+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:55.0487167+00:00"
 }

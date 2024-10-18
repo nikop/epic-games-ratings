@@ -3,8 +3,8 @@
   "Name": "Observation",
   "ProductSlug": "observation",
   "Ranking_Rating": 744,
-  "Ranking_Popularity": 742,
-  "Ranking_PopularitySum": 742,
+  "Ranking_Popularity": 743,
+  "Ranking_PopularitySum": 743,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -182,6 +182,6 @@
   "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
   "LastChanged": "2024-10-10T22:59:25.5873579+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:16.7903922+00:00",
-  "LastUpdate_Ratings": "2024-10-18T18:58:01.955026+00:00",
+  "LastUpdate_Ratings": "2024-10-18T19:59:56.3324246+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:34.7146292+00:00"
 }

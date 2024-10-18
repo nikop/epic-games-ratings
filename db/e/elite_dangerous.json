@@ -2,7 +2,7 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 1327,
@@ -11429,10 +11429,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14842,
       "NumberOfAwardsMax": 2679
+    },
+    {
+      "Time": "2024-10-18T19:58:53.8221895+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14846,
+      "NumberOfAwardsMax": 2679
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14842,
+  "NumberOfAwards": 14846,
   "NumberOfAwardsMax": 2679,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -11458,7 +11464,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2454
+      "Count": 2457
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11470,7 +11476,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2399
+      "Count": 2400
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11490,8 +11496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-10-18T16:57:45.9579156+00:00",
+  "LastChanged": "2024-10-18T19:58:53.8221894+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:02.6505952+00:00",
-  "LastUpdate_Ratings": "2024-10-18T17:59:38.3969251+00:00",
+  "LastUpdate_Ratings": "2024-10-18T19:58:53.8221899+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:03.0142982+00:00"
 }

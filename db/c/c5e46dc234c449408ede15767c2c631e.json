@@ -3,8 +3,8 @@
   "Name": "Off The Grid - Early Access",
   "ProductSlug": "off-the-grid-7e3cc5",
   "Ranking_Rating": 1299,
-  "Ranking_Popularity": 742,
-  "Ranking_PopularitySum": 742,
+  "Ranking_Popularity": 724,
+  "Ranking_PopularitySum": 727,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -174,12 +174,26 @@
       "Rating": 3.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-18T19:57:52.3233525+00:00",
+      "Rating": 3.88,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Quickly Understood Controls",
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 22
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -192,8 +206,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-18T17:58:36.0961192+00:00",
+  "LastChanged": "2024-10-18T19:57:52.3233524+00:00",
   "LastUpdate_AppInfo": "2024-10-15T11:57:11.325429+00:00",
-  "LastUpdate_Ratings": "2024-10-18T17:58:36.0961196+00:00",
+  "LastUpdate_Ratings": "2024-10-18T19:57:52.3233527+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:02.0589873+00:00"
 }
