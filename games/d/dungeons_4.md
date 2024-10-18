@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.68 (Ranked 305)  
+Rating: 4.69 (Ranked 279)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -199,3 +199,4 @@ Completed: 65 (6.05%) (Ranked 122)
 | 2024-09-17 | 4.70 | 0 | 0 |
 | 2024-09-30 | 4.69 | 0 | 0 |
 | 2024-10-05 | 4.68 | 0 | 0 |
+| 2024-10-18 | 4.69 | 0 | 0 |

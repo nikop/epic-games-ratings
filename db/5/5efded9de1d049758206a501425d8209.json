@@ -4,7 +4,7 @@
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 438,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1091,10 +1091,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 446,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-18T21:58:27.9544267+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 448,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 446,
+  "NumberOfAwards": 448,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1114,7 +1120,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1150,7 +1156,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1189,8 +1195,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "FirstSeenRating": "2023-08-17T14:58:23.8866793+00:00",
-  "LastChanged": "2024-10-17T19:59:22.0590646+00:00",
+  "LastChanged": "2024-10-18T21:58:27.9544265+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:12.5919189+00:00",
-  "LastUpdate_Ratings": "2024-10-18T19:58:54.1164617+00:00",
+  "LastUpdate_Ratings": "2024-10-18T21:58:27.9544271+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:45.7624882+00:00"
 }
