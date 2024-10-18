@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 637,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 8669,
   "RatingHistory": [
     {
@@ -8085,10 +8085,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 17862,
       "NumberOfAwardsMax": 2216
+    },
+    {
+      "Time": "2024-10-18T03:14:34.8140676+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 17916,
+      "NumberOfAwardsMax": 2216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17862,
+  "NumberOfAwards": 17916,
   "NumberOfAwardsMax": 2216,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8102,7 +8108,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2008
+      "Count": 2024
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8126,13 +8132,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1997
+      "Count": 2013
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2017
+      "Count": 2029
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8144,7 +8150,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1665
+      "Count": 1675
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8170,8 +8176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-10-17T23:58:02.2922804+00:00",
+  "LastChanged": "2024-10-18T03:14:34.8140674+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:12.8326851+00:00",
-  "LastUpdate_Ratings": "2024-10-17T23:58:02.2922813+00:00",
+  "LastUpdate_Ratings": "2024-10-18T03:14:34.8140685+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:29.2886547+00:00"
 }
