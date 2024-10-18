@@ -1,7 +1,7 @@
 # The Darkside Detective
 [Store](https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a)  
 [View Rawdata](../../db/t/the_darkside_detective.json)  
-Rating: 4.75 (Ranked 169)  
+Rating: 4.75 (Ranked 168)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

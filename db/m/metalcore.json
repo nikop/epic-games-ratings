@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 947,
   "Ranking_Popularity": 403,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2724,10 +2724,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 1204,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2024-10-18T03:57:24.2672353+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1207,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1204,
+  "NumberOfAwards": 1207,
   "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2735,7 +2741,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 99
+      "Count": 102
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2822,8 +2828,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-10-17T03:58:11.6560274+00:00",
+  "LastChanged": "2024-10-18T03:57:24.2672352+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:56.1064928+00:00",
-  "LastUpdate_Ratings": "2024-10-18T02:11:14.1485184+00:00",
+  "LastUpdate_Ratings": "2024-10-18T03:57:24.2672356+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:27.3909017+00:00"
 }
