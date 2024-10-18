@@ -3,7 +3,7 @@
   "Name": "20 Minutes Till Dawn",
   "ProductSlug": "20-minutes-till-dawn-be3305",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -2867,18 +2867,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1790,
       "NumberOfAwardsMax": 1315
+    },
+    {
+      "Time": "2024-10-18T05:59:27.5995151+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1796,
+      "NumberOfAwardsMax": 1321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1790,
-  "NumberOfAwardsMax": 1315,
+  "NumberOfAwards": 1796,
+  "NumberOfAwardsMax": 1321,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1315
+      "Count": 1321
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2953,8 +2959,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-10-17T22:00:14.3245561+00:00",
+  "LastChanged": "2024-10-18T05:59:27.5995149+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:26.8064379+00:00",
-  "LastUpdate_Ratings": "2024-10-18T04:57:13.6052742+00:00",
+  "LastUpdate_Ratings": "2024-10-18T05:59:27.5995156+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:59.8613315+00:00"
 }
