@@ -19341,10 +19341,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 18864,
       "NumberOfAwardsMax": 2520
+    },
+    {
+      "Time": "2024-10-18T20:58:32.1467574+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 18865,
+      "NumberOfAwardsMax": 2520
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18864,
+  "NumberOfAwards": 18865,
   "NumberOfAwardsMax": 2520,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19358,7 +19364,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2271
+      "Count": 2272
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19432,8 +19438,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-10-18T19:00:10.144646+00:00",
+  "LastChanged": "2024-10-18T20:58:32.1467573+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.8690453+00:00",
-  "LastUpdate_Ratings": "2024-10-18T19:00:10.1446466+00:00",
+  "LastUpdate_Ratings": "2024-10-18T20:58:32.146758+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:23.8665659+00:00"
 }

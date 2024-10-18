@@ -2,7 +2,7 @@
   "ID": "ba4d5efc4fa443769df759ee56c0c88e",
   "Name": "Kao the Kangaroo - Round 2",
   "ProductSlug": "kao-the-kangaroo-round-2-5d4d25",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 279,
   "Ranking_Popularity": 743,
   "Ranking_PopularitySum": 743,
   "Ranking_EOS_Progress": 1327,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-11-11T08:58:40.4466789+00:00",
@@ -140,6 +140,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-18T20:59:12.9638359+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -158,8 +164,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:54.8839251+00:00",
   "FirstSeenRating": "2022-11-11T08:58:40.4466787+00:00",
-  "LastChanged": "2024-08-26T06:59:00.5802417+00:00",
+  "LastChanged": "2024-10-18T20:59:12.9638357+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:55.2419006+00:00",
-  "LastUpdate_Ratings": "2024-10-18T19:01:07.4101502+00:00",
+  "LastUpdate_Ratings": "2024-10-18T20:59:12.9638363+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:43.1145613+00:00"
 }
