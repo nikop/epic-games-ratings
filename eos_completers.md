@@ -1325,4 +1325,4 @@
 | 622 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 0.00% |
 | 622 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 0.00% |
 | 622 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 0.00% |
-| 5,008 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.74% |
+| 5,009 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.74% |
