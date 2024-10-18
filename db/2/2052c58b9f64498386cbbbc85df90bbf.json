@@ -3,8 +3,8 @@
   "Name": "LISA: The Painful - Definitive Edition",
   "ProductSlug": "lisa-the-painful-0c7e2a",
   "Ranking_Rating": 78,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 593,
+  "Ranking_Popularity": 467,
+  "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 465,
   "Ranking_EOS_NewPlayers": 82,
@@ -516,18 +516,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-10-18T02:11:02.1980166+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
-  "NumberOfAwardsMax": 110,
+  "NumberOfAwards": 111,
+  "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 110
+      "Count": 111
     }
   ],
   "EOS_Progressed": 95241,
@@ -1052,9 +1058,9 @@
   "FirstSeen": "2024-04-01T06:00:42.9546024+00:00",
   "FirstSeenRating": "2024-04-28T12:59:32.2146949+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.0348947+00:00",
-  "LastChanged": "2024-10-16T22:59:38.473624+00:00",
+  "LastChanged": "2024-10-18T02:11:02.1980164+00:00",
   "LastChanged_Achievements": "2024-10-17T05:15:05.5288745+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:10.8271022+00:00",
-  "LastUpdate_Ratings": "2024-10-17T22:59:22.3335487+00:00",
+  "LastUpdate_Ratings": "2024-10-18T02:11:02.198017+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:05.5289135+00:00"
 }
