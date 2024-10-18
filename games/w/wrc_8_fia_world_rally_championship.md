@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 637)
 Number of Ratings: 199  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 667)  
-Sum: 170 (Ranked 557)  
-Diff (max vs sum): 110  
+Sum: 195 (Ranked 545)  
+Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 30 |
 | This game is Highly Recommended | 26 |
+| This game is Great for Quick Sessions | 25 |
 | This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 22 |
-| This game is Great for Quick Sessions | 21 |
 | This game has Competitive Players | 21 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
@@ -134,4 +134,4 @@ Diff (max vs sum): 110
 | 2024-09-29 | 4.54 | - | 30 | 165 |
 | 2024-10-05 | 4.54 | - | 30 | 167 |
 | 2024-10-12 | 4.54 | - | 30 | 169 |
-| 2024-10-18 | 4.54 | - | 30 | 170 |
+| 2024-10-18 | 4.54 | - | 30 | 195 |

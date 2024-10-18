@@ -4,7 +4,7 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -15676,18 +15676,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 11070,
       "NumberOfAwardsMax": 1329
+    },
+    {
+      "Time": "2024-10-18T17:58:07.3855162+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 11079,
+      "NumberOfAwardsMax": 1333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11070,
-  "NumberOfAwardsMax": 1329,
+  "NumberOfAwards": 11079,
+  "NumberOfAwardsMax": 1333,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1329
+      "Count": 1333
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15705,7 +15711,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1059
+      "Count": 1063
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -15735,7 +15741,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1175
+      "Count": 1176
     },
     {
       "Text": "This game is Educational",
@@ -15767,8 +15773,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-10-18T15:59:19.039898+00:00",
+  "LastChanged": "2024-10-18T17:58:07.385516+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.4172811+00:00",
-  "LastUpdate_Ratings": "2024-10-18T15:59:19.0398986+00:00",
+  "LastUpdate_Ratings": "2024-10-18T17:58:07.3855165+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:55.8560241+00:00"
 }
