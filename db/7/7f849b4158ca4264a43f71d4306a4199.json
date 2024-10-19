@@ -2,7 +2,7 @@
   "ID": "7f849b4158ca4264a43f71d4306a4199",
   "Name": "Choo-Choo Charles",
   "ProductSlug": "choochoo-charles-0eece5",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2024-06-20T15:58:23.7183444+00:00",
@@ -107,6 +107,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-19T21:57:24.5052757+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -125,8 +131,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-20T16:57:08.4189955+00:00",
   "FirstSeenRating": "2024-06-20T15:58:23.7183442+00:00",
-  "LastChanged": "2024-10-16T21:57:24.0938076+00:00",
+  "LastChanged": "2024-10-19T21:57:24.5052755+00:00",
   "LastUpdate_AppInfo": "2024-10-19T15:56:58.0515179+00:00",
-  "LastUpdate_Ratings": "2024-10-19T19:57:58.8535751+00:00",
+  "LastUpdate_Ratings": "2024-10-19T21:57:24.5052761+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:41.8004722+00:00"
 }

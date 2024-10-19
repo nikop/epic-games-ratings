@@ -4,7 +4,7 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 566,
   "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 422,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1904,10 +1904,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 528,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-10-19T21:57:38.2378156+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 529,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 528,
+  "NumberOfAwards": 529,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1915,7 +1921,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1989,8 +1995,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2024-10-19T02:09:26.6202819+00:00",
+  "LastChanged": "2024-10-19T21:57:38.2378154+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:58.9133163+00:00",
-  "LastUpdate_Ratings": "2024-10-19T19:58:12.7650368+00:00",
+  "LastUpdate_Ratings": "2024-10-19T21:57:38.2378159+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:23.6109252+00:00"
 }

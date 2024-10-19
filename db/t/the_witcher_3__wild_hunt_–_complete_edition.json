@@ -4,7 +4,7 @@
   "ProductSlug": "the-witcher-3-wild-hunt",
   "Ranking_Rating": 12,
   "Ranking_Popularity": 21,
-  "Ranking_PopularitySum": 25,
+  "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -28367,6 +28367,6 @@
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
   "LastChanged": "2024-10-19T19:58:36.1003092+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:18.1621076+00:00",
-  "LastUpdate_Ratings": "2024-10-19T19:58:36.1003098+00:00",
+  "LastUpdate_Ratings": "2024-10-19T21:58:01.7662323+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:50.5725231+00:00"
 }

@@ -1,7 +1,7 @@
 # Prehistoric Kingdom
 [Store](https://store.epicgames.com/en-US/p/prehistoric-kingdom)  
 [View Rawdata](../../db/p/prehistoric_kingdom.json)  
-Rating: 4.58 (Ranked 542)  
+Rating: 4.59 (Ranked 519)  
 Number of Ratings: 40  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -89,3 +89,4 @@ Number of Ratings: 40  (23.09.2022)
 | 2024-09-01 | 4.60 | - | 0 | 0 |
 | 2024-09-22 | 4.57 | - | 0 | 0 |
 | 2024-10-10 | 4.58 | - | 0 | 0 |
+| 2024-10-19 | 4.59 | - | 0 | 0 |
