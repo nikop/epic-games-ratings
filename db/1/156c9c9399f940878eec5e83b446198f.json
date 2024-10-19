@@ -4,7 +4,7 @@
   "ProductSlug": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
   "Ranking_Rating": 104,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 518,
   "Ranking_EOS_NewPlayers": 82,
@@ -540,10 +540,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 195
+    },
+    {
+      "Time": "2024-10-19T17:58:35.270029+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 195,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -557,7 +563,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1135,9 +1141,9 @@
   "FirstSeen": "2024-06-01T10:59:40.2201626+00:00",
   "FirstSeenRating": "2024-08-09T14:58:14.8565005+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:15.0844989+00:00",
-  "LastChanged": "2024-10-18T22:59:05.1977956+00:00",
+  "LastChanged": "2024-10-19T17:58:35.2700287+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:20.6844802+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:13.7262858+00:00",
-  "LastUpdate_Ratings": "2024-10-19T15:58:56.3929248+00:00",
+  "LastUpdate_Ratings": "2024-10-19T17:58:35.2700294+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:20.6845245+00:00"
 }
