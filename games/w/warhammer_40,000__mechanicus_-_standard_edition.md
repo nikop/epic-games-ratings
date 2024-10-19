@@ -1,7 +1,7 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.44 (Ranked 838)  
+Rating: 4.44 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -334,13 +334,13 @@ Completed: 12 (0.00%) (Ranked 622)
 | 2024-10-17 | 249,826 | 12 |
 ## Awards
 Max (Highly Recommended): 315  (Ranked 316)  
-Sum: 2,424 (Ranked 247)  
+Sum: 2,425 (Ranked 247)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 315 |
 | This game is Extremely Fun | 313 |
-| This game has Diverse Characters | 309 |
+| This game has Diverse Characters | 310 |
 | This game has Quickly Understood Controls | 308 |
 | This game has Amazing Characters | 299 |
 | This game has Amazing Storytelling | 270 |
@@ -606,3 +606,4 @@ Diff (max vs sum): 69
 | 2024-10-15 | 4.44 | 315 | 2,421 |
 | 2024-10-16 | 4.44 | 315 | 2,423 |
 | 2024-10-18 | 4.44 | 315 | 2,424 |
+| 2024-10-19 | 4.44 | 315 | 2,425 |
