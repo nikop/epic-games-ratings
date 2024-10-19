@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 609)  
+Rating: 4.55 (Ranked 610)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -333,8 +333,8 @@ Completed: 21 (0.13%) (Ranked 473)
 | 2024-10-17 | 16,704 | 21 |
 ## Awards
 Max (Great for Beginners): 100  (Ranked 484)  
-Sum: 733 (Ranked 385)  
-Diff (max vs sum): 99  
+Sum: 733 (Ranked 386)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 100 |

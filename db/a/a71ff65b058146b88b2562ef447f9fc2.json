@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1752,10 +1752,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 725,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2024-10-19T16:58:09.2613899+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 726,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 725,
+  "NumberOfAwards": 726,
   "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1811,7 +1817,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2260,9 +2266,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-19T14:59:11.6402146+00:00",
+  "LastChanged": "2024-10-19T16:58:09.2613898+00:00",
   "LastChanged_Achievements": "2024-10-17T05:16:25.0777998+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:10.4121195+00:00",
-  "LastUpdate_Ratings": "2024-10-19T14:59:11.6402152+00:00",
+  "LastUpdate_Ratings": "2024-10-19T16:58:09.2613902+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:16:25.0778423+00:00"
 }

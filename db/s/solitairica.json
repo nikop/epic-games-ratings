@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2164,6 +2164,6 @@
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
   "LastChanged": "2024-10-18T18:58:24.8112196+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:53.6737003+00:00",
-  "LastUpdate_Ratings": "2024-10-19T15:00:11.428423+00:00",
+  "LastUpdate_Ratings": "2024-10-19T16:59:01.9277756+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:10.6462746+00:00"
 }

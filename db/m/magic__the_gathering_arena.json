@@ -28034,10 +28034,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 133073,
       "NumberOfAwardsMax": 18020
+    },
+    {
+      "Time": "2024-10-19T16:58:58.2456163+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 133152,
+      "NumberOfAwardsMax": 18020
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 133073,
+  "NumberOfAwards": 133152,
   "NumberOfAwardsMax": 18020,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -28057,7 +28063,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12696
+      "Count": 12713
     },
     {
       "Text": "This game is Relaxing",
@@ -28081,19 +28087,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11716
+      "Count": 11733
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 10380
+      "Count": 10400
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 9379
+      "Count": 9392
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -28105,7 +28111,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 8761
+      "Count": 8773
     }
   ],
   "EOS_Progressed": 0,
@@ -28119,8 +28125,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-10-19T13:57:42.0628756+00:00",
+  "LastChanged": "2024-10-19T16:58:58.2456162+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:20.7185781+00:00",
-  "LastUpdate_Ratings": "2024-10-19T15:00:07.3314548+00:00",
+  "LastUpdate_Ratings": "2024-10-19T16:58:58.2456169+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:10.5215132+00:00"
 }
