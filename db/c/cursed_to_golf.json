@@ -3,8 +3,8 @@
   "Name": "Cursed to Golf",
   "ProductSlug": "cursed-to-golf-a6bc22",
   "Ranking_Rating": 1179,
-  "Ranking_Popularity": 693,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 689,
+  "Ranking_PopularitySum": 702,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -352,18 +352,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-10-18T23:57:21.1617513+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -378,8 +384,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-19T04:02:24.7174429+00:00",
   "FirstSeenRating": "2023-03-31T05:58:33.8447802+00:00",
-  "LastChanged": "2024-10-08T03:17:36.0301818+00:00",
+  "LastChanged": "2024-10-18T23:57:21.1617511+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:37.3571104+00:00",
-  "LastUpdate_Ratings": "2024-10-18T21:58:01.5041849+00:00",
+  "LastUpdate_Ratings": "2024-10-18T23:57:21.1617517+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:24.1219621+00:00"
 }

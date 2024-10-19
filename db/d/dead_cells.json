@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 51,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -9170,10 +9170,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 5243,
       "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2024-10-18T23:59:59.6090574+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5246,
+      "NumberOfAwardsMax": 645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5243,
+  "NumberOfAwards": 5246,
   "NumberOfAwardsMax": 645,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9217,7 +9223,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 385
+      "Count": 387
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9247,7 +9253,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 518
+      "Count": 519
     }
   ],
   "EOS_Progressed": 0,
@@ -9261,8 +9267,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-10-18T22:57:46.6258602+00:00",
+  "LastChanged": "2024-10-18T23:59:59.6090569+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:30.5528901+00:00",
-  "LastUpdate_Ratings": "2024-10-18T22:57:46.6258607+00:00",
+  "LastUpdate_Ratings": "2024-10-18T23:59:59.609058+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:26.9018775+00:00"
 }
