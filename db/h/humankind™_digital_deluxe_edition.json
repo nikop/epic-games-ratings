@@ -2,7 +2,7 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 717,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 1327,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 609,
   "RatingHistory": [
     {
@@ -2565,10 +2565,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1180,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-10-19T18:59:09.9895942+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1182,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1180,
+  "NumberOfAwards": 1182,
   "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -2642,7 +2648,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 135
+      "Count": 137
     }
   ],
   "EOS_Progressed": 0,
@@ -2656,8 +2662,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-10-18T22:01:00.8968037+00:00",
+  "LastChanged": "2024-10-19T18:59:09.989594+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:18.9620697+00:00",
-  "LastUpdate_Ratings": "2024-10-19T16:59:23.5150142+00:00",
+  "LastUpdate_Ratings": "2024-10-19T18:59:09.9895947+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:20.6079309+00:00"
 }

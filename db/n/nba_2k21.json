@@ -2,7 +2,7 @@
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
   "ProductSlug": "nba-2k21",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 1327,
@@ -12379,10 +12379,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 90658,
       "NumberOfAwardsMax": 11948
+    },
+    {
+      "Time": "2024-10-19T18:57:14.0448852+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 90659,
+      "NumberOfAwardsMax": 11948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 90658,
+  "NumberOfAwards": 90659,
   "NumberOfAwardsMax": 11948,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -12396,7 +12402,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10702
+      "Count": 10703
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12452,8 +12458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2024-10-19T14:58:41.9057244+00:00",
+  "LastChanged": "2024-10-19T18:57:14.044885+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:03.0423209+00:00",
-  "LastUpdate_Ratings": "2024-10-19T16:57:42.4189402+00:00",
+  "LastUpdate_Ratings": "2024-10-19T18:57:14.0448855+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:12.9345333+00:00"
 }
