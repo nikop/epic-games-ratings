@@ -2,7 +2,7 @@
   "ID": "e1067ce994e24a4abbe36247eaa26bfd",
   "Name": "Hob",
   "ProductSlug": "hob",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 743,
   "Ranking_PopularitySum": 743,
   "Ranking_EOS_Progress": 1327,
@@ -566,6 +566,6 @@
   "FirstSeen": "2022-07-22T20:18:19.3157268+00:00",
   "LastChanged": "2024-10-17T22:59:12.1469613+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:14.7553901+00:00",
-  "LastUpdate_Ratings": "2024-10-19T04:59:36.6229511+00:00",
+  "LastUpdate_Ratings": "2024-10-19T06:59:21.161498+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:18.8766794+00:00"
 }
