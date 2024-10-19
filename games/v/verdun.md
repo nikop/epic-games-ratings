@@ -360,9 +360,9 @@ Completed: 1 (0.00%) (Ranked 622)
 | 2024-09-14 | 84,039 | 1 |
 | 2024-10-17 | 85,377 | 1 |
 ## Awards
-Max (Diverse Characters): 130  (Ranked 446)  
-Sum: 1,309 (Ranked 312)  
-Diff (max vs sum): 134  
+Max (Diverse Characters): 130  (Ranked 447)  
+Sum: 1,310 (Ranked 312)  
+Diff (max vs sum): 135  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 134 |
@@ -371,7 +371,7 @@ Diff (max vs sum): 134
 | This game is Extremely Fun | 126 |
 | This game is Educational | 119 |
 | This game has Challenging Combat | 118 |
-| This game has Realistic Visuals | 107 |
+| This game has Realistic Visuals | 108 |
 | This game has Quickly Understood Controls | 105 |
 | This game has Amazing Characters | 104 |
 | This game has a Competitive Community | 100 |
@@ -690,4 +690,4 @@ Diff (max vs sum): 134
 | 2024-10-13 | 4.53 | - | 129 | 1,302 |
 | 2024-10-16 | 4.53 | - | 129 | 1,306 |
 | 2024-10-17 | 4.53 | - | 129 | 1,307 |
-| 2024-10-19 | 4.53 | - | 130 | 1,309 |
+| 2024-10-19 | 4.53 | - | 130 | 1,310 |

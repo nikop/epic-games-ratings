@@ -2,7 +2,7 @@
   "ID": "10aa3c43a96642b3845f741a169c95b3",
   "Name": "EARTH DEFENSE FORCE \uFF16",
   "ProductSlug": "earth-defense-force-6-129839",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 661,
   "Ranking_PopularitySum": 691,
   "Ranking_EOS_Progress": 149,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2024-08-03T23:59:46.9471218+00:00",
@@ -184,6 +184,12 @@
     {
       "Time": "2024-10-14T08:58:38.5208781+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-19T20:59:03.3226224+00:00",
+      "Rating": 4.74,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
     }
@@ -560,9 +566,9 @@
   "FirstSeen": "2024-07-25T13:07:03.6627965+00:00",
   "FirstSeenRating": "2024-08-03T23:59:46.9471215+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:13.3675269+00:00",
-  "LastChanged": "2024-10-14T08:58:38.5208779+00:00",
+  "LastChanged": "2024-10-19T20:59:03.3226222+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:30.6804786+00:00",
   "LastUpdate_AppInfo": "2024-10-15T03:57:03.8317608+00:00",
-  "LastUpdate_Ratings": "2024-10-19T18:59:47.8840507+00:00",
+  "LastUpdate_Ratings": "2024-10-19T20:59:03.3226226+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:30.6805104+00:00"
 }

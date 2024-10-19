@@ -1,12 +1,12 @@
 # Fault: Elder Orb
 [Store](https://store.epicgames.com/en-US/p/fault-elder-orb)  
 [View Rawdata](../../db/f/fault__elder_orb.json)  
-Rating: 3.91 (Ranked 1,292)  
+Rating: 3.91 (Ranked 1,293)  
 Number of Ratings: 723  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 103  (Ranked 476)  
+Max (Extremely Fun): 103  (Ranked 477)  
 Sum: 728 (Ranked 387)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

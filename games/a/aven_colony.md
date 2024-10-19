@@ -1,12 +1,12 @@
 # Aven Colony
 [Store](https://store.epicgames.com/en-US/p/aven-colony)  
 [View Rawdata](../../db/a/aven_colony.json)  
-Rating: 4.20 (Ranked 1,145)  
+Rating: 4.20 (Ranked 1,146)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 148  (Ranked 426)  
+Max (Great for Beginners): 148  (Ranked 427)  
 Sum: 847 (Ranked 369)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 148 |
