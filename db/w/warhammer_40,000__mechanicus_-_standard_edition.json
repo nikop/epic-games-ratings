@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 838,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 15,
@@ -2056,10 +2056,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2425,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2024-10-19T22:58:37.2734822+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2426,
+      "NumberOfAwardsMax": 315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2425,
+  "NumberOfAwards": 2426,
   "NumberOfAwardsMax": 315,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2103,7 +2109,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -33473,9 +33479,9 @@
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2024-10-19T11:59:58.9724082+00:00",
+  "LastChanged": "2024-10-19T22:58:37.2734821+00:00",
   "LastChanged_Achievements": "2024-10-17T05:15:47.2121644+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:24.4832563+00:00",
-  "LastUpdate_Ratings": "2024-10-19T20:58:54.5627332+00:00",
+  "LastUpdate_Ratings": "2024-10-19T22:58:37.2734825+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:47.2123752+00:00"
 }
