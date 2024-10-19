@@ -2,9 +2,9 @@
   "ID": "1c26f99d58a94ae08d094d5911ba7883",
   "Name": "Blade of God X",
   "ProductSlug": "bogx-a639f3",
-  "Ranking_Rating": 64,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 624,
+  "Ranking_Rating": 51,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "RatingHistory": [
     {
       "Time": "2024-03-13T17:58:35.4101905+00:00",
@@ -174,18 +174,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-10-19T04:58:20.1417384+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 76,
-  "NumberOfAwardsMax": 76,
+  "NumberOfAwards": 78,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 76
+      "Count": 78
     }
   ],
   "EOS_Progressed": 0,
@@ -208,9 +214,9 @@
   "FirstSeen": "2024-03-11T10:58:24.1823881+00:00",
   "FirstSeenRating": "2024-03-13T17:58:35.4101902+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:07.919186+00:00",
-  "LastChanged": "2024-10-18T03:16:24.3608478+00:00",
+  "LastChanged": "2024-10-19T04:58:20.1417382+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:48.3927327+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:53.5388742+00:00",
-  "LastUpdate_Ratings": "2024-10-19T03:13:37.3051175+00:00",
+  "LastUpdate_Ratings": "2024-10-19T04:58:20.1417387+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:48.392735+00:00"
 }
