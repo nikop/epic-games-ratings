@@ -361,7 +361,7 @@ Completed: 1 (0.00%) (Ranked 622)
 | 2024-10-17 | 85,377 | 1 |
 ## Awards
 Max (Diverse Characters): 129  (Ranked 446)  
-Sum: 1,307 (Ranked 313)  
+Sum: 1,308 (Ranked 313)  
 Diff (max vs sum): 133  
 | Award | Count |
 | ----- | ----- |
@@ -377,7 +377,7 @@ Diff (max vs sum): 133
 | This game has a Competitive Community | 100 |
 | This game has Competitive Players | 98 |
 | This game is Relaxing | 96 |
-| This game has Amazing Storytelling | 76 |
+| This game has Amazing Storytelling | 77 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -690,3 +690,4 @@ Diff (max vs sum): 133
 | 2024-10-13 | 4.53 | - | 129 | 1,302 |
 | 2024-10-16 | 4.53 | - | 129 | 1,306 |
 | 2024-10-17 | 4.53 | - | 129 | 1,307 |
+| 2024-10-19 | 4.53 | - | 129 | 1,308 |

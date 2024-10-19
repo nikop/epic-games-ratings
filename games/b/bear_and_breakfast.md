@@ -1,11 +1,11 @@
 # Bear and Breakfast
 [Store](https://store.epicgames.com/en-US/p/bear-and-breakfast-77c209)  
 [View Rawdata](../../db/b/bear_and_breakfast.json)  
-Rating: 4.60 (Ranked 492)  
+Rating: 4.61 (Ranked 469)  
 ## Awards
 Max (Great for Beginners): 37  (Ranked 631)  
-Sum: 245 (Ranked 516)  
-Diff (max vs sum): 115  
+Sum: 248 (Ranked 515)  
+Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |
@@ -13,9 +13,9 @@ Diff (max vs sum): 115
 | This game is Relaxing | 29 |
 | This game has Playful Visuals | 29 |
 | This game has Amazing Characters | 26 |
+| This game has Easy Combat | 25 |
 | This game is Extremely Fun | 23 |
 | This game is Highly Recommended | 22 |
-| This game has Easy Combat | 22 |
 | This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -47,3 +47,4 @@ Diff (max vs sum): 115
 | 2024-10-16 | 4.60 | 29 | 147 |
 | 2024-10-17 | 4.60 | 35 | 205 |
 | 2024-10-18 | 4.60 | 37 | 245 |
+| 2024-10-19 | 4.61 | 37 | 248 |

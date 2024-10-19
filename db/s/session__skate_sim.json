@@ -4,7 +4,7 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 361,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 495,
   "Ranking_EOS_NewPlayers": 82,
@@ -2909,10 +2909,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 928,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-10-19T07:59:48.2923721+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 932,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 928,
+  "NumberOfAwards": 932,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2932,7 +2938,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2944,7 +2950,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2956,7 +2962,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2980,7 +2986,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Educational",
@@ -10259,9 +10265,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-10-18T16:59:06.5348589+00:00",
+  "LastChanged": "2024-10-19T07:59:48.292372+00:00",
   "LastChanged_Achievements": "2024-10-17T05:06:47.83253+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:12.6808453+00:00",
-  "LastUpdate_Ratings": "2024-10-19T06:00:49.2016092+00:00",
+  "LastUpdate_Ratings": "2024-10-19T07:59:48.2923725+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:47.8325998+00:00"
 }
