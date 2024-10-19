@@ -2,9 +2,9 @@
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
   "ProductSlug": "sonic-colors-ultimate",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 618,
+  "Ranking_PopularitySum": 619,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 179,
   "RatingHistory": [
     {
@@ -469,6 +469,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-10-19T14:58:01.6251615+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
@@ -494,8 +500,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "LastChanged": "2024-10-06T20:59:16.5029014+00:00",
+  "LastChanged": "2024-10-19T14:58:01.6251613+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:52.9844627+00:00",
-  "LastUpdate_Ratings": "2024-10-19T13:12:46.4992033+00:00",
+  "LastUpdate_Ratings": "2024-10-19T14:58:01.6251618+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:30.1022575+00:00"
 }

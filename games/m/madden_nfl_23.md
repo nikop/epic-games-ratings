@@ -1,7 +1,7 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.29 (Ranked 1,050)  
+Rating: 4.29 (Ranked 1,051)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -170,9 +170,9 @@ Completed: 0 (0.00%) (Ranked 622)
 | 2024-09-14 | 5,313 | 0 |
 | 2024-10-17 | 5,379 | 0 |
 ## Awards
-Max (Diverse Characters): 66  (Ranked 541)  
+Max (Diverse Characters): 66  (Ranked 542)  
 Sum: 321 (Ranked 482)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 66 |

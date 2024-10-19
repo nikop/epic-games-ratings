@@ -2,7 +2,7 @@
   "ID": "659883a1ecfc4aeeb5fb69dd4688e734",
   "Name": "Taxi Life: A City Driving Simulator",
   "ProductSlug": "taxi-life-a-city-driving-simulator",
-  "Ranking_Rating": 1189,
+  "Ranking_Rating": 1185,
   "Ranking_Popularity": 743,
   "Ranking_PopularitySum": 743,
   "Ranking_EOS_Progress": 394,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2024-05-19T14:56:58.7382537+00:00",
@@ -221,6 +221,12 @@
     {
       "Time": "2024-10-14T15:58:26.7360622+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-19T14:59:42.0068826+00:00",
+      "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -542,9 +548,9 @@
   "FirstSeen": "2024-03-07T18:58:27.0045358+00:00",
   "FirstSeenRating": "2024-05-19T14:56:58.7382534+00:00",
   "FirstSeenAchievements": "2024-01-25T17:03:43.2280421+00:00",
-  "LastChanged": "2024-10-14T15:58:26.7360621+00:00",
+  "LastChanged": "2024-10-19T14:59:42.0068824+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:52.857945+00:00",
   "LastUpdate_AppInfo": "2024-10-18T14:57:07.5742431+00:00",
-  "LastUpdate_Ratings": "2024-10-19T13:57:19.3775326+00:00",
+  "LastUpdate_Ratings": "2024-10-19T14:59:42.0068829+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:52.8579618+00:00"
 }
