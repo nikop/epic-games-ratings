@@ -9,7 +9,7 @@
 | [Blindfire](games/e/ee3fb82a53c141d1a756f15183ea0e37.md) | 2024-10-17 | - |  | - | - |
 | [Ynglet](games/b/b9421d3ead634300a48c4f203634d918.md) | 2024-10-17 | 12 (1,000 XP) | 2 | - | - |
 | [Arsene Lupin - Once a Thief](games/b/b640cb27f5a947d9b0fa2e812554dc79.md) | 2024-10-17 | - |  | - | 0 |
-| [MechWarrior 5: Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-17 | - |  | 4.52 | 0 |
+| [MechWarrior 5: Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-17 | - |  | 4.51 | 0 |
 | [3 Minutes to Midnight](games/9/98c3a59780714527a356c7c242690eaa.md) | 2024-10-15 | 60 (1,000 XP) | 2 | - | - |
 | [Labyrinth Destroyer 1](games/c/c26e2daeda1d48d99cfc15741fa66e88.md) | 2024-10-15 | - |  | - | - |
 | [DiggerSim - Excavator Simulator](games/c/cc3592f8f7fc4bbeb074ab6e4dfab786.md) | 2024-10-12 | - |  | - | 0 |
@@ -88,7 +88,7 @@
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | 39 (1,000 XP) | 1,348 | - | 0 |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | 0 |
 | [Exographer](games/8/8cbdeae1e8b24e809cc445974e872f25.md) | 2024-09-26 | 41 (1,000 XP) | 5 | - | 0 |
-| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | 4.50 | 0 |
+| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | 4.55 | 0 |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 56 | - | 0 |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 4 | - | 0 |
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
