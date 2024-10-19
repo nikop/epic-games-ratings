@@ -1,7 +1,7 @@
 # DOOM 3
 [Store](https://store.epicgames.com/en-US/p/doom-3)  
 [View Rawdata](../../db/d/doom_3.json)  
-Rating: 4.59 (Ranked 518)  
+Rating: 4.60 (Ranked 491)  
 Number of Ratings: 105  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 80  (Ranked 514)  
@@ -103,3 +103,4 @@ Diff (max vs sum): -103
 | 2024-09-08 | 4.60 | - | 79 | 79 |
 | 2024-09-09 | 4.59 | - | 79 | 79 |
 | 2024-10-11 | 4.59 | - | 80 | 80 |
+| 2024-10-19 | 4.60 | - | 80 | 80 |

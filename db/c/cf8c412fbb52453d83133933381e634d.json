@@ -4,7 +4,7 @@
   "ProductSlug": "cybertitans-b6acef",
   "Ranking_Rating": 1234,
   "Ranking_Popularity": 703,
-  "Ranking_PopularitySum": 711,
+  "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -309,6 +309,6 @@
   "FirstSeenRating": "2024-01-04T16:59:06.1673636+00:00",
   "LastChanged": "2024-10-17T17:00:18.746866+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:11.954581+00:00",
-  "LastUpdate_Ratings": "2024-10-18T23:59:14.2306719+00:00",
+  "LastUpdate_Ratings": "2024-10-19T03:13:33.0829283+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:05.7787045+00:00"
 }

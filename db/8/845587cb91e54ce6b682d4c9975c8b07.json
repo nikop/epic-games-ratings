@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 311,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 570,
   "Ranking_EOS_NewPlayers": 82,
@@ -1015,10 +1015,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 988,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-10-19T03:11:59.9743406+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 994,
+      "NumberOfAwardsMax": 333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 988,
+  "NumberOfAwards": 994,
   "NumberOfAwardsMax": 333,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1050,7 +1056,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 91
+      "Count": 95
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1074,7 +1080,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 74
+      "Count": 76
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1680,9 +1686,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-10-18T23:57:54.3907297+00:00",
+  "LastChanged": "2024-10-19T03:11:59.9743404+00:00",
   "LastChanged_Achievements": "2024-10-17T05:06:19.4509096+00:00",
   "LastUpdate_AppInfo": "2024-10-14T20:57:12.3730186+00:00",
-  "LastUpdate_Ratings": "2024-10-18T23:57:54.3907303+00:00",
+  "LastUpdate_Ratings": "2024-10-19T03:11:59.9743408+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:19.450988+00:00"
 }

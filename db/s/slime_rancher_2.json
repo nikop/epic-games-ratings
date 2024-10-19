@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 116,
   "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2247,10 +2247,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1208,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2024-10-19T03:12:15.2739308+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1210,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1208,
+  "NumberOfAwards": 1210,
   "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2312,7 +2318,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 124
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2339,8 +2345,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2024-10-18T23:58:07.5794079+00:00",
+  "LastChanged": "2024-10-19T03:12:15.2739306+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:59.1715843+00:00",
-  "LastUpdate_Ratings": "2024-10-18T23:58:07.5794087+00:00",
+  "LastUpdate_Ratings": "2024-10-19T03:12:15.2739311+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:15.023479+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 1327,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-10-14T04:32:25.5553201+00:00",
@@ -1848,10 +1848,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2684,
       "NumberOfAwardsMax": 353
+    },
+    {
+      "Time": "2024-10-19T03:14:01.9826799+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 2686,
+      "NumberOfAwardsMax": 353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2684,
+  "NumberOfAwards": 2686,
   "NumberOfAwardsMax": 353,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1913,7 +1919,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 194
+      "Count": 196
     }
   ],
   "EOS_Progressed": 0,
@@ -1928,8 +1934,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-10-18T03:16:49.2941441+00:00",
+  "LastChanged": "2024-10-19T03:14:01.9826796+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:24.112939+00:00",
-  "LastUpdate_Ratings": "2024-10-18T23:59:39.2261636+00:00",
+  "LastUpdate_Ratings": "2024-10-19T03:14:01.9826803+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:03.2928647+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 104,
@@ -3665,10 +3665,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 843,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-10-19T03:12:37.1208154+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 844,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 843,
+  "NumberOfAwards": 844,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3724,7 +3730,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 105
+      "Count": 106
     }
   ],
   "EOS_Progressed": 188834,
@@ -26871,9 +26877,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-10-18T21:59:43.0813598+00:00",
+  "LastChanged": "2024-10-19T03:12:37.1208153+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:11.6972858+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:15.8233788+00:00",
-  "LastUpdate_Ratings": "2024-10-18T23:58:26.1498267+00:00",
+  "LastUpdate_Ratings": "2024-10-19T03:12:37.1208159+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:11.6973945+00:00"
 }
