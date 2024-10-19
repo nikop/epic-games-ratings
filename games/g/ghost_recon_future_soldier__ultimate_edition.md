@@ -1,7 +1,7 @@
 # Ghost Recon Future Solider
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-future-soldier)  
 [View Rawdata](../../db/g/ghost_recon_future_soldier__ultimate_edition.json)  
-Rating: 4.56 (Ranked 584)  
+Rating: 4.57 (Ranked 566)  
 Number of Ratings: 23  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -69,3 +69,4 @@ Number of Ratings: 23  (23.09.2022)
 | 2024-10-15 | 4.56 | - | 0 | 0 |
 | 2024-10-16 | 4.57 | - | 0 | 0 |
 | 2024-10-17 | 4.56 | - | 0 | 0 |
+| 2024-10-19 | 4.57 | - | 0 | 0 |

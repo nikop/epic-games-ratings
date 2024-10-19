@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-stand-aftermath",
   "Ranking_Rating": 982,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 415,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -980,10 +980,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 557,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2024-10-19T19:58:07.7122934+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 557,
+  "NumberOfAwards": 562,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -997,7 +1003,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 90
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1041,8 +1047,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-19T13:11:21.7311004+00:00",
+  "LastChanged": "2024-10-19T19:58:07.7122932+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:39.2295905+00:00",
-  "LastUpdate_Ratings": "2024-10-19T17:58:43.7445686+00:00",
+  "LastUpdate_Ratings": "2024-10-19T19:58:07.7122938+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:46.7055593+00:00"
 }

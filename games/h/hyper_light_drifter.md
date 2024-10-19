@@ -1,12 +1,16 @@
 # Hyper Light Drifter
 [Store](https://store.epicgames.com/en-US/p/hyper-light-drifter)  
 [View Rawdata](../../db/h/hyper_light_drifter.json)  
-Rating: 4.71 (Ranked 233)  
+Rating: 4.71 (Ranked 234)  
 Number of Ratings: 364  (23.09.2022)  
 ## Awards
+Max (Great Boss Battles): 20  (Ranked 736)  
+Sum: 20 (Ranked 736)  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -102,3 +106,4 @@ Number of Ratings: 364  (23.09.2022)
 | 2024-02-07 | 4.69 | - | 0 | 0 |
 | 2024-03-07 | 4.70 | - | 0 | 0 |
 | 2024-08-20 | 4.71 | - | 0 | 0 |
+| 2024-10-19 | 4.71 | - | 20 | 20 |

@@ -2,9 +2,9 @@
   "ID": "62d6f15b1bb345f6a42585b4c8c847a0",
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter",
-  "Ranking_Rating": 233,
-  "Ranking_Popularity": 743,
-  "Ranking_PopularitySum": 743,
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 736,
+  "Ranking_PopularitySum": 736,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -521,17 +521,30 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-19T20:00:04.4963253+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
       "Count": 52
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -545,8 +558,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2024-08-20T14:59:20.2271714+00:00",
+  "LastChanged": "2024-10-19T20:00:04.4963252+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:28.448531+00:00",
-  "LastUpdate_Ratings": "2024-10-19T18:00:32.3810995+00:00",
+  "LastUpdate_Ratings": "2024-10-19T20:00:04.4963256+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:58.5901467+00:00"
 }

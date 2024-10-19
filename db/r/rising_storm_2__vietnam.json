@@ -4,7 +4,7 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -15694,10 +15694,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 11083,
       "NumberOfAwardsMax": 1333
+    },
+    {
+      "Time": "2024-10-19T19:58:32.5171654+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 11085,
+      "NumberOfAwardsMax": 1333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11083,
+  "NumberOfAwards": 11085,
   "NumberOfAwardsMax": 1333,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -15735,7 +15741,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1119
+      "Count": 1121
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15785,8 +15791,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-10-19T15:59:21.2876803+00:00",
+  "LastChanged": "2024-10-19T19:58:32.5171652+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.4172811+00:00",
-  "LastUpdate_Ratings": "2024-10-19T17:59:06.4347518+00:00",
+  "LastUpdate_Ratings": "2024-10-19T19:58:32.5171659+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:55.8560241+00:00"
 }

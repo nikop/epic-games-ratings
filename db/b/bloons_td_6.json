@@ -3,7 +3,7 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 137,
-  "Ranking_Popularity": 33,
+  "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -24547,11 +24547,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 100733,
       "NumberOfAwardsMax": 18695
+    },
+    {
+      "Time": "2024-10-19T19:57:23.3454897+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 100917,
+      "NumberOfAwardsMax": 18752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100733,
-  "NumberOfAwardsMax": 18695,
+  "NumberOfAwards": 100917,
+  "NumberOfAwardsMax": 18752,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -24582,7 +24588,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9761
+      "Count": 9806
     },
     {
       "Text": "This game has Playful Visuals",
@@ -24594,7 +24600,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 18695
+      "Count": 18752
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -24606,13 +24612,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8540
+      "Count": 8587
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7871
+      "Count": 7906
     },
     {
       "Text": "This game is Relaxing",
@@ -24645,8 +24651,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-10-19T13:59:22.8900975+00:00",
+  "LastChanged": "2024-10-19T19:57:23.3454895+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:39.7194405+00:00",
-  "LastUpdate_Ratings": "2024-10-19T17:58:02.1985366+00:00",
+  "LastUpdate_Ratings": "2024-10-19T19:57:23.3454902+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:41.4367196+00:00"
 }

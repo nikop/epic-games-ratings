@@ -1,11 +1,11 @@
 # Sailing Era
 [Store](https://store.epicgames.com/en-US/p/sailingera-450a80)  
 [View Rawdata](../../db/s/sailing_era.json)  
-Rating: 4.71 (Ranked 233)  
+Rating: 4.71 (Ranked 234)  
 ## Awards
-Max (Character Customization): 24  (Ranked 704)  
+Max (Character Customization): 24  (Ranked 705)  
 Sum: 24 (Ranked 713)  
-Diff (max vs sum): -9  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

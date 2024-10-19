@@ -2,7 +2,7 @@
   "ID": "16a5443c2b994a64b665f02b72ef42b3",
   "Name": "Parallel TCG",
   "ProductSlug": "parallel-tcg-724880",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 1327,
@@ -712,6 +712,6 @@
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
   "LastChanged": "2024-10-18T19:58:22.4757657+00:00",
   "LastUpdate_AppInfo": "2024-10-17T09:57:30.7112127+00:00",
-  "LastUpdate_Ratings": "2024-10-19T18:00:33.2576816+00:00",
+  "LastUpdate_Ratings": "2024-10-19T20:00:05.4365654+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:22.0792435+00:00"
 }
