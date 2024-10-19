@@ -1,15 +1,15 @@
 # Batman Arkham City Game of the Year Edition
 [Store](https://store.epicgames.com/en-US/p/batman-arkham-city)  
 [View Rawdata](../../db/b/batman_arkham_city_game_of_the_year_edition.json)  
-Rating: 4.80 (Ranked 105)  
+Rating: 4.80 (Ranked 104)  
 Number of Ratings: 2,832  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 2,241  (Ranked 137)  
-Sum: 3,094 (Ranked 222)  
+Max (Great Boss Battles): 2,247  (Ranked 137)  
+Sum: 3,100 (Ranked 222)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,241 |
+| This game has Great Boss Battles | 2,247 |
 | This game is Great for Beginners | 129 |
 | This game has Amazing Storytelling | 119 |
 | This game has Diverse Characters | 115 |
@@ -465,4 +465,4 @@ Diff (max vs sum): -85
 | 2024-10-16 | 4.80 | - | 2,225 | 3,067 |
 | 2024-10-17 | 4.80 | - | 2,231 | 3,076 |
 | 2024-10-18 | 4.80 | - | 2,241 | 3,089 |
-| 2024-10-19 | 4.80 | - | 2,241 | 3,094 |
+| 2024-10-19 | 4.80 | - | 2,247 | 3,100 |
