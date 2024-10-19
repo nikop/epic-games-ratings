@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-heat-ccbf8d",
   "Ranking_Rating": 416,
   "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 518,
   "Ranking_EOS_NewPlayers": 82,
@@ -1536,10 +1536,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 552,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-10-19T10:58:37.4595504+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 554,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 552,
+  "NumberOfAwards": 554,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1613,7 +1619,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 41
     }
   ],
   "EOS_Progressed": 33408,
@@ -2015,9 +2021,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-10-18T20:59:24.3379457+00:00",
+  "LastChanged": "2024-10-19T10:58:37.4595502+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:22.6324438+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:14.1199952+00:00",
-  "LastUpdate_Ratings": "2024-10-19T08:58:36.7663537+00:00",
+  "LastUpdate_Ratings": "2024-10-19T10:58:37.4595508+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:22.6324823+00:00"
 }
