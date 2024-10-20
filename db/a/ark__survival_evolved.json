@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 1327,
@@ -28398,10 +28398,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 313431,
       "NumberOfAwardsMax": 74040
+    },
+    {
+      "Time": "2024-10-20T13:11:31.3644168+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 313481,
+      "NumberOfAwardsMax": 74040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313431,
+  "NumberOfAwards": 313481,
   "NumberOfAwardsMax": 74040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -28415,7 +28421,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25718
+      "Count": 25733
     },
     {
       "Text": "This game is Highly Recommended",
@@ -28427,13 +28433,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23703
+      "Count": 23716
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 24063
+      "Count": 24072
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -28445,7 +28451,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22831
+      "Count": 22844
     },
     {
       "Text": "This game has Competitive Players",
@@ -28489,8 +28495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-10-20T10:58:30.7542196+00:00",
+  "LastChanged": "2024-10-20T13:11:31.3644167+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:23.9517237+00:00",
-  "LastUpdate_Ratings": "2024-10-20T10:58:30.7542211+00:00",
+  "LastUpdate_Ratings": "2024-10-20T13:11:31.3644172+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:14.8273477+00:00"
 }

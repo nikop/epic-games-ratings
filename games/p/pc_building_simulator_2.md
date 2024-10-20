@@ -1,7 +1,7 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.58 (Ranked 545)  
+Rating: 4.58 (Ranked 544)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -356,7 +356,7 @@ Completed: 208 (0.04%) (Ranked 539)
 | 2024-10-17 | 536,417 | 208 |
 ## Awards
 Max (Great for Beginners): 1,079  (Ranked 202)  
-Sum: 6,808 (Ranked 160)  
+Sum: 6,809 (Ranked 160)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +367,7 @@ Diff (max vs sum): 42
 | This game has Quickly Understood Controls | 770 |
 | This game is Extremely Fun | 764 |
 | This game has Amazing Storytelling | 681 |
-| This game has a Creative Community | 606 |
+| This game has a Creative Community | 607 |
 | This game has Amazing Characters | 516 |
 | This game has Obsessive Gameplay | 171 |
 | This game has Easy Combat | 96 |
@@ -930,4 +930,4 @@ Diff (max vs sum): 42
 | 2024-10-17 | 4.58 | 1,071 | 6,790 |
 | 2024-10-18 | 4.58 | 1,074 | 6,796 |
 | 2024-10-19 | 4.58 | 1,074 | 6,801 |
-| 2024-10-20 | 4.58 | 1,079 | 6,808 |
+| 2024-10-20 | 4.58 | 1,079 | 6,809 |
