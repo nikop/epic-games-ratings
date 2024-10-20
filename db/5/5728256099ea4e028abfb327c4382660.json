@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 636,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2142,10 +2142,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1087,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2024-10-20T18:00:05.964004+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1089,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1087,
+  "NumberOfAwards": 1089,
   "NumberOfAwardsMax": 208,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2189,7 +2195,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game has a Creative Community",
@@ -2222,8 +2228,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-10-19T21:58:05.7383774+00:00",
+  "LastChanged": "2024-10-20T18:00:05.9640039+00:00",
   "LastUpdate_AppInfo": "2024-10-19T02:08:05.3884367+00:00",
-  "LastUpdate_Ratings": "2024-10-20T16:57:52.4691464+00:00",
+  "LastUpdate_Ratings": "2024-10-20T18:00:05.9640043+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:26.6891259+00:00"
 }

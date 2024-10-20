@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 253,
+  "Ranking_Rating": 252,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 234,
@@ -2849,18 +2849,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 958,
       "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2024-10-20T17:59:12.534404+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 961,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 958,
-  "NumberOfAwardsMax": 373,
+  "NumberOfAwards": 961,
+  "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 373
+      "Count": 376
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9500,9 +9506,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-10-19T22:59:36.8597562+00:00",
+  "LastChanged": "2024-10-20T17:59:12.5344039+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:47.4328256+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:13.0415754+00:00",
-  "LastUpdate_Ratings": "2024-10-20T15:59:43.2272104+00:00",
+  "LastUpdate_Ratings": "2024-10-20T17:59:12.5344044+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:47.4329219+00:00"
 }

@@ -28070,18 +28070,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 133227,
       "NumberOfAwardsMax": 18020
+    },
+    {
+      "Time": "2024-10-20T17:57:15.6652024+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 133288,
+      "NumberOfAwardsMax": 18038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 133227,
-  "NumberOfAwardsMax": 18020,
+  "NumberOfAwards": 133288,
+  "NumberOfAwardsMax": 18038,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 18020
+      "Count": 18038
     },
     {
       "Text": "This game has Competitive Players",
@@ -28117,19 +28123,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11733
+      "Count": 11746
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 10400
+      "Count": 10412
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 9392
+      "Count": 9400
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -28141,7 +28147,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 8773
+      "Count": 8783
     }
   ],
   "EOS_Progressed": 0,
@@ -28155,8 +28161,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-10-20T11:59:17.8630058+00:00",
+  "LastChanged": "2024-10-20T17:57:15.6652023+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:20.7185781+00:00",
-  "LastUpdate_Ratings": "2024-10-20T15:58:00.0771161+00:00",
+  "LastUpdate_Ratings": "2024-10-20T17:57:15.6652029+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:10.5215132+00:00"
 }
