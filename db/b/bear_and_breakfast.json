@@ -4,7 +4,7 @@
   "ProductSlug": "bear-and-breakfast-77c209",
   "Ranking_Rating": 468,
   "Ranking_Popularity": 608,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -420,10 +420,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-10-20T04:59:08.6295292+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -437,7 +443,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 35
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
@@ -500,8 +506,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2024-10-20T03:21:47.6461852+00:00",
+  "LastChanged": "2024-10-20T04:59:08.629529+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:17.1211116+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:21:47.6461857+00:00",
+  "LastUpdate_Ratings": "2024-10-20T04:59:08.6295294+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:16.3836941+00:00"
 }

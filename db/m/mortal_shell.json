@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 1095,
   "Ranking_Popularity": 661,
-  "Ranking_PopularitySum": 529,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1147,10 +1147,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 227,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-20T04:57:37.5933975+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 228,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227,
+  "NumberOfAwards": 228,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1194,7 +1200,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Competitive Players",
@@ -1220,8 +1226,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-10-15T21:59:20.0322601+00:00",
+  "LastChanged": "2024-10-20T04:57:37.5933974+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:43.368905+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:19:44.8102985+00:00",
+  "LastUpdate_Ratings": "2024-10-20T04:57:37.5933978+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:59.0400836+00:00"
 }

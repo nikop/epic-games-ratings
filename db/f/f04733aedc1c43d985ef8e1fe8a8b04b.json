@@ -4,7 +4,7 @@
   "ProductSlug": "book-of-yog-idle-rpg-74cebc",
   "Ranking_Rating": 1271,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1379,10 +1379,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2024-10-20T04:58:39.0655513+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 395,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1414,7 +1420,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -1429,8 +1435,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-22T15:57:06.3635011+00:00",
   "FirstSeenRating": "2023-07-14T13:12:36.4172007+00:00",
-  "LastChanged": "2024-10-20T03:21:07.8815657+00:00",
+  "LastChanged": "2024-10-20T04:58:39.0655511+00:00",
   "LastUpdate_AppInfo": "2024-10-19T18:57:02.4699876+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:21:07.8815662+00:00",
+  "LastUpdate_Ratings": "2024-10-20T04:58:39.0655517+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:04.3544495+00:00"
 }

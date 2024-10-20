@@ -3,8 +3,8 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_Rating": 51,
-  "Ranking_Popularity": 736,
-  "Ranking_PopularitySum": 736,
+  "Ranking_Popularity": 726,
+  "Ranking_PopularitySum": 728,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 38,
@@ -163,18 +163,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-10-20T04:58:56.4644011+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 1571,
@@ -3904,9 +3910,9 @@
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged": "2024-10-18T03:15:34.7566281+00:00",
+  "LastChanged": "2024-10-20T04:58:56.4644009+00:00",
   "LastChanged_Achievements": "2024-10-17T05:15:33.2519888+00:00",
   "LastUpdate_AppInfo": "2024-10-19T10:57:26.1002465+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:21:31.1275592+00:00",
+  "LastUpdate_Ratings": "2024-10-20T04:58:56.4644015+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:33.2520191+00:00"
 }
