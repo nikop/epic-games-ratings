@@ -4,12 +4,12 @@
 Rating: 4.57 (Ranked 566)  
 ## Awards
 Max (Great for Quick Sessions): 1,324  (Ranked 179)  
-Sum: 10,029 (Ranked 131)  
+Sum: 10,032 (Ranked 131)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 1,324 |
-| This game has Diverse Characters | 1,206 |
+| This game has Diverse Characters | 1,209 |
 | This game has Competitive Players | 1,040 |
 | This game has Quickly Understood Controls | 1,018 |
 | This game has Challenging Combat | 961 |
@@ -658,3 +658,4 @@ Diff (max vs sum): 48
 | 2024-10-17 | 4.57 | 1,319 | 10,007 |
 | 2024-10-18 | 4.57 | 1,319 | 10,017 |
 | 2024-10-19 | 4.57 | 1,324 | 10,029 |
+| 2024-10-20 | 4.57 | 1,324 | 10,032 |

@@ -1,12 +1,12 @@
 # LEGO® Batman™ 3: Beyond Gotham
 [Store](https://store.epicgames.com/en-US/p/lego-batman-3)  
 [View Rawdata](../../db/l/lego®_batman™_3__beyond_gotham.json)  
-Rating: 4.55 (Ranked 609)  
+Rating: 4.55 (Ranked 608)  
 Number of Ratings: 513  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 269  (Ranked 338)  
-Sum: 269 (Ranked 506)  
-Diff (max vs sum): -168  
+Sum: 269 (Ranked 507)  
+Diff (max vs sum): -169  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 269 |

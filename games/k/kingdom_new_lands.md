@@ -1,20 +1,20 @@
 # Kingdom New Lands
 [Store](https://store.epicgames.com/en-US/p/kingdom-new-lands)  
 [View Rawdata](../../db/k/kingdom_new_lands.json)  
-Rating: 4.52 (Ranked 679)  
+Rating: 4.52 (Ranked 680)  
 Number of Ratings: 1,793  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 172  (Ranked 407)  
-Sum: 974 (Ranked 351)  
-Diff (max vs sum): 56  
+Sum: 976 (Ranked 350)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 172 |
 | This game has Quickly Understood Controls | 154 |
-| This game is Relaxing | 130 |
+| This game is Relaxing | 131 |
 | This game is Extremely Fun | 121 |
 | This game is Highly Recommended | 120 |
-| This game has Amazing Characters | 111 |
+| This game has Amazing Characters | 112 |
 | This game has Amazing Storytelling | 109 |
 | This game has Obsessive Gameplay | 63 |
 | This game has a Creative Community | 57 |
@@ -294,3 +294,4 @@ Diff (max vs sum): 56
 | 2024-10-13 | 4.52 | - | 172 | 972 |
 | 2024-10-14 | 4.52 | - | 172 | 973 |
 | 2024-10-16 | 4.52 | - | 172 | 974 |
+| 2024-10-20 | 4.52 | - | 172 | 976 |

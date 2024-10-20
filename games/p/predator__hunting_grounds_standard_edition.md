@@ -59,13 +59,13 @@ Completed: 8 (0.28%) (Ranked 423)
 | ---- | ---------- | --------- |
 | 2024-10-17 | 2,907 | 8 |
 ## Awards
-Max (Great for Quick Sessions): 237  (Ranked 358)  
-Sum: 1,834 (Ranked 275)  
-Diff (max vs sum): 83  
+Max (Great for Quick Sessions): 238  (Ranked 357)  
+Sum: 1,836 (Ranked 275)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,007 |
-| This game is Great for Quick Sessions | 237 |
+| This game is Great for Quick Sessions | 238 |
 | This game has Diverse Characters | 226 |
 | This game is Highly Recommended | 221 |
 | This game is Extremely Fun | 208 |
@@ -73,7 +73,7 @@ Diff (max vs sum): 83
 | This game has Amazing Characters | 202 |
 | This game has Amazing Storytelling | 188 |
 | This game has Competitive Players | 187 |
-| This game has a Competitive Community | 160 |
+| This game has a Competitive Community | 161 |
 | This game is Relaxing | 148 |
 | This game has Obsessive Gameplay | 140 |
 | This game has Challenging Combat | 52 |
@@ -427,3 +427,4 @@ Diff (max vs sum): 83
 | 2024-10-16 | 4.45 | - | 236 | 1,828 |
 | 2024-10-17 | 4.45 | - | 237 | 1,831 |
 | 2024-10-18 | 4.45 | - | 237 | 1,834 |
+| 2024-10-20 | 4.45 | - | 238 | 1,836 |
