@@ -2,7 +2,7 @@
   "ID": "53b4ffb651f04ca0bbd47c310ad6efd8",
   "Name": "OpenSeason",
   "ProductSlug": "openseason-75e993",
-  "Ranking_Rating": 1214,
+  "Ranking_Rating": 1215,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -121,6 +121,6 @@
   "FirstSeenRating": "2024-09-18T10:57:52.8499105+00:00",
   "LastChanged": "2024-10-17T05:01:34.6579153+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:38.5104875+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:58:37.4808927+00:00",
+  "LastUpdate_Ratings": "2024-10-20T05:58:51.7254193+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:25.463787+00:00"
 }

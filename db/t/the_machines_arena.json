@@ -4,7 +4,7 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 447,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1133,10 +1133,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 424,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-10-20T05:59:08.3446592+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 402,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 424,
+  "NumberOfAwards": 402,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1231,8 +1237,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-10-20T02:18:27.6139901+00:00",
+  "LastChanged": "2024-10-20T05:59:08.344659+00:00",
   "LastUpdate_AppInfo": "2024-10-14T15:57:14.6946662+00:00",
-  "LastUpdate_Ratings": "2024-10-20T03:58:47.8848566+00:00",
+  "LastUpdate_Ratings": "2024-10-20T05:59:08.3446594+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:26.9845379+00:00"
 }
