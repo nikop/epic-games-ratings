@@ -59,9 +59,9 @@ Completed: 8 (0.28%) (Ranked 423)
 | ---- | ---------- | --------- |
 | 2024-10-17 | 2,907 | 8 |
 ## Awards
-Max (Great for Quick Sessions): 238  (Ranked 358)  
+Max (Great for Quick Sessions): 238  (Ranked 359)  
 Sum: 1,842 (Ranked 275)  
-Diff (max vs sum): 83  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,007 |

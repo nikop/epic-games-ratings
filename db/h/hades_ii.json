@@ -3,8 +3,8 @@
   "Name": "Hades II",
   "ProductSlug": "hades-ii",
   "Ranking_Rating": 9,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 414,
+  "Ranking_Popularity": 358,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1170,24 +1170,30 @@
       "Rating": 4.9,
       "NumberOfAwards": 563,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2024-10-20T19:58:23.1297394+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 570,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 563,
-  "NumberOfAwardsMax": 237,
+  "NumberOfAwards": 570,
+  "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 167
+      "Count": 170
     },
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 237
+      "Count": 240
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1217,7 +1223,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1244,8 +1250,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T20:57:55.3749991+00:00",
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
-  "LastChanged": "2024-10-20T14:57:19.192568+00:00",
+  "LastChanged": "2024-10-20T19:58:23.1297393+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:14.7421593+00:00",
-  "LastUpdate_Ratings": "2024-10-20T17:59:16.1705242+00:00",
+  "LastUpdate_Ratings": "2024-10-20T19:58:23.1297396+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:58.4890603+00:00"
 }

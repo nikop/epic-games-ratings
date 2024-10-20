@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 252,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 82,
@@ -2855,10 +2855,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 961,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2024-10-20T19:58:19.3608567+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 963,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 961,
+  "NumberOfAwards": 963,
   "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2902,7 +2908,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2920,7 +2926,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has a Creative Community",
@@ -9506,9 +9512,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-10-20T17:59:12.5344039+00:00",
+  "LastChanged": "2024-10-20T19:58:19.3608553+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:47.4328256+00:00",
   "LastUpdate_AppInfo": "2024-10-18T10:57:13.0415754+00:00",
-  "LastUpdate_Ratings": "2024-10-20T17:59:12.5344044+00:00",
+  "LastUpdate_Ratings": "2024-10-20T19:58:19.3608571+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:47.4329219+00:00"
 }

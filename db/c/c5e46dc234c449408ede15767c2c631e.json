@@ -2,9 +2,9 @@
   "ID": "c5e46dc234c449408ede15767c2c631e",
   "Name": "Off The Grid - Early Access",
   "ProductSlug": "off-the-grid-7e3cc5",
-  "Ranking_Rating": 1303,
+  "Ranking_Rating": 1304,
   "Ranking_Popularity": 659,
-  "Ranking_PopularitySum": 545,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -234,10 +234,16 @@
       "Rating": 3.87,
       "NumberOfAwards": 200,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-10-20T19:59:44.1401498+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 207,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 200,
+  "NumberOfAwards": 207,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -257,13 +263,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",
@@ -302,8 +308,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-20T14:58:26.2527327+00:00",
+  "LastChanged": "2024-10-20T19:59:44.1401496+00:00",
   "LastUpdate_AppInfo": "2024-10-15T11:57:11.325429+00:00",
-  "LastUpdate_Ratings": "2024-10-20T18:57:20.0573182+00:00",
+  "LastUpdate_Ratings": "2024-10-20T19:59:44.14015+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:02.0589873+00:00"
 }

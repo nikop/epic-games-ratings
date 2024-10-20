@@ -3,7 +3,7 @@
   "Name": "Floppy Knights",
   "ProductSlug": "floppy-knights-6a735a",
   "Ranking_Rating": 838,
-  "Ranking_Popularity": 651,
+  "Ranking_Popularity": 644,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 380,
@@ -570,18 +570,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-10-20T19:57:13.7763079+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 159,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -806,9 +812,9 @@
   "FirstSeen": "2024-07-11T17:57:44.3443353+00:00",
   "FirstSeenRating": "2024-07-13T09:59:24.7498765+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:17.4742947+00:00",
-  "LastChanged": "2024-10-20T15:58:46.0226722+00:00",
+  "LastChanged": "2024-10-20T19:57:13.7763078+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:36.1316519+00:00",
   "LastUpdate_AppInfo": "2024-10-17T23:57:02.4540869+00:00",
-  "LastUpdate_Ratings": "2024-10-20T17:58:07.7936578+00:00",
+  "LastUpdate_Ratings": "2024-10-20T19:57:13.7763082+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:36.1316802+00:00"
 }
