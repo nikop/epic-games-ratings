@@ -3,7 +3,7 @@
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1107,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -2461,18 +2461,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 1234,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2024-10-20T09:58:58.6244991+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 1241,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1234,
-  "NumberOfAwardsMax": 186,
+  "NumberOfAwards": 1241,
+  "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 186
+      "Count": 188
     },
     {
       "Text": "This game is Relaxing",
@@ -2490,13 +2496,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 159
+      "Count": 161
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Competitive Players",
@@ -2532,7 +2538,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 121
+      "Count": 123
     }
   ],
   "EOS_Progressed": 0,
@@ -2547,8 +2553,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-10-19T22:00:36.7839594+00:00",
+  "LastChanged": "2024-10-20T09:58:58.624499+00:00",
   "LastUpdate_AppInfo": "2024-10-15T20:57:23.1970619+00:00",
-  "LastUpdate_Ratings": "2024-10-20T07:59:29.9698846+00:00",
+  "LastUpdate_Ratings": "2024-10-20T09:58:58.6244994+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:36.5882991+00:00"
 }
