@@ -2,9 +2,9 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -15724,10 +15724,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 11094,
       "NumberOfAwardsMax": 1333
+    },
+    {
+      "Time": "2024-10-20T21:58:34.8125458+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 11101,
+      "NumberOfAwardsMax": 1333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11094,
+  "NumberOfAwards": 11101,
   "NumberOfAwardsMax": 1333,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -15741,7 +15747,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1240
+      "Count": 1243
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15759,7 +15765,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1111
+      "Count": 1113
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15783,7 +15789,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1176
+      "Count": 1178
     },
     {
       "Text": "This game is Educational",
@@ -15815,8 +15821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-10-20T19:59:09.4240232+00:00",
+  "LastChanged": "2024-10-20T21:58:34.8125455+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.4172811+00:00",
-  "LastUpdate_Ratings": "2024-10-20T19:59:09.4240238+00:00",
+  "LastUpdate_Ratings": "2024-10-20T21:58:34.8125465+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:55.8560241+00:00"
 }

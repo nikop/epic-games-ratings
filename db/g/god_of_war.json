@@ -3,8 +3,8 @@
   "Name": "God of War",
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 105,
+  "Ranking_Popularity": 78,
+  "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -10845,18 +10845,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 13979,
       "NumberOfAwardsMax": 7271
+    },
+    {
+      "Time": "2024-10-20T21:57:37.8960574+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 14182,
+      "NumberOfAwardsMax": 7286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13979,
-  "NumberOfAwardsMax": 7271,
+  "NumberOfAwards": 14182,
+  "NumberOfAwardsMax": 7286,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7271
+      "Count": 7286
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10910,7 +10916,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10940,7 +10946,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 183
+      "Count": 187
     }
   ],
   "EOS_Progressed": 0,
@@ -10954,8 +10960,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-10-20T19:58:03.7211396+00:00",
+  "LastChanged": "2024-10-20T21:57:37.8960572+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:32.2964916+00:00",
-  "LastUpdate_Ratings": "2024-10-20T19:58:03.7211402+00:00",
+  "LastUpdate_Ratings": "2024-10-20T21:57:37.8960578+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:46.7430561+00:00"
 }

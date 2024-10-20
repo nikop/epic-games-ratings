@@ -2,7 +2,7 @@
   "ID": "2ccd3d825eff465393503a7a8ef7b5a0",
   "Name": "Aground",
   "ProductSlug": "aground",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 745,
   "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:16.5152603+00:00",
@@ -63,6 +63,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-20T21:59:21.1923197+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -81,8 +87,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
-  "LastChanged": "2024-10-12T13:14:22.560942+00:00",
+  "LastChanged": "2024-10-20T21:59:21.1923196+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:44.6135205+00:00",
-  "LastUpdate_Ratings": "2024-10-20T20:00:01.8655761+00:00",
+  "LastUpdate_Ratings": "2024-10-20T21:59:21.19232+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:20.0783266+00:00"
 }

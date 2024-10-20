@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 699,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -7329,10 +7329,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 3968,
       "NumberOfAwardsMax": 626
+    },
+    {
+      "Time": "2024-10-20T21:59:28.5758064+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3970,
+      "NumberOfAwardsMax": 626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3968,
+  "NumberOfAwards": 3970,
   "NumberOfAwardsMax": 626,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7388,7 +7394,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 462
+      "Count": 464
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7408,8 +7414,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-10-20T14:58:48.3086515+00:00",
+  "LastChanged": "2024-10-20T21:59:28.5758063+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:49.5645813+00:00",
-  "LastUpdate_Ratings": "2024-10-20T20:00:10.5498305+00:00",
+  "LastUpdate_Ratings": "2024-10-20T21:59:28.5758067+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:13.6011695+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "43cff3223381422ca04404a811784296",
   "Name": "Pumpkin Jack",
   "ProductSlug": "pumpkin-jack",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 1053,
   "Ranking_Popularity": 745,
   "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:13.9710965+00:00",
@@ -177,6 +177,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-20T21:58:39.3753113+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -195,8 +201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.9335174+00:00",
   "FirstSeenRating": "2023-03-31T05:57:13.9710962+00:00",
-  "LastChanged": "2024-10-06T18:58:51.9314511+00:00",
+  "LastChanged": "2024-10-20T21:58:39.3753112+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:57.4689097+00:00",
-  "LastUpdate_Ratings": "2024-10-20T19:59:14.6019794+00:00",
+  "LastUpdate_Ratings": "2024-10-20T21:58:39.3753117+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:22.411468+00:00"
 }
