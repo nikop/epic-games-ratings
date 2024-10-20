@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
   "Ranking_Rating": 838,
   "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 143,
+  "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 453,
   "Ranking_EOS_NewPlayers": 82,
@@ -9220,10 +9220,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 9056,
       "NumberOfAwardsMax": 1701
+    },
+    {
+      "Time": "2024-10-20T08:57:18.6849815+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 9061,
+      "NumberOfAwardsMax": 1701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9056,
+  "NumberOfAwards": 9061,
   "NumberOfAwardsMax": 1701,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9231,7 +9237,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1150
+      "Count": 1155
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20930,9 +20936,9 @@
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-10-19T22:57:27.0534088+00:00",
+  "LastChanged": "2024-10-20T08:57:18.6849813+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:05.5395805+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:17.4423804+00:00",
-  "LastUpdate_Ratings": "2024-10-20T06:58:06.0671071+00:00",
+  "LastUpdate_Ratings": "2024-10-20T08:57:18.684982+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:05.5396731+00:00"
 }

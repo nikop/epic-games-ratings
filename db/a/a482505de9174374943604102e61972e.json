@@ -2,7 +2,7 @@
   "ID": "a482505de9174374943604102e61972e",
   "Name": "The Forever Winter",
   "ProductSlug": "the-forever-winter-8b8280",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1052,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 655,
   "Ranking_EOS_Progress": 1327,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2024-09-30T02:14:57.8482583+00:00",
@@ -288,6 +288,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-10-20T08:58:47.7408154+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
@@ -314,8 +320,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-24T22:59:46.1276331+00:00",
   "FirstSeenRating": "2024-09-30T02:14:57.8482578+00:00",
-  "LastChanged": "2024-10-20T02:17:27.6643676+00:00",
+  "LastChanged": "2024-10-20T08:58:47.7408152+00:00",
   "LastUpdate_AppInfo": "2024-10-15T14:57:16.0655032+00:00",
-  "LastUpdate_Ratings": "2024-10-20T06:59:33.3700148+00:00",
+  "LastUpdate_Ratings": "2024-10-20T08:58:47.7408158+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:08.1261382+00:00"
 }
