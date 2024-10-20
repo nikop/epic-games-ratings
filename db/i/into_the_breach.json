@@ -3,7 +3,7 @@
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -6760,11 +6760,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 4803,
       "NumberOfAwardsMax": 556
+    },
+    {
+      "Time": "2024-10-20T11:57:14.7586288+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4808,
+      "NumberOfAwardsMax": 561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4803,
-  "NumberOfAwardsMax": 556,
+  "NumberOfAwards": 4808,
+  "NumberOfAwardsMax": 561,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6801,7 +6807,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 556
+      "Count": 561
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6857,8 +6863,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-10-19T18:00:17.2344432+00:00",
+  "LastChanged": "2024-10-20T11:57:14.7586286+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:48.2057049+00:00",
-  "LastUpdate_Ratings": "2024-10-20T09:57:56.8473785+00:00",
+  "LastUpdate_Ratings": "2024-10-20T11:57:14.7586292+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:59.4640239+00:00"
 }
