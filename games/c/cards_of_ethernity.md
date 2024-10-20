@@ -3,12 +3,12 @@
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 Rating: 4.44 (Ranked 838)  
 ## Awards
-Max (Great for Beginners): 41  (Ranked 616)  
-Sum: 98 (Ranked 602)  
-Diff (max vs sum): 14  
+Max (Great for Beginners): 42  (Ranked 613)  
+Sum: 99 (Ranked 603)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 41 |
+| This game is Great for Beginners | 42 |
 | This game has Diverse Characters | 29 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -90,3 +90,4 @@ Diff (max vs sum): 14
 | 2024-10-11 | 4.44 | 41 | 95 |
 | 2024-10-12 | 4.44 | 41 | 96 |
 | 2024-10-17 | 4.44 | 41 | 98 |
+| 2024-10-20 | 4.44 | 42 | 99 |

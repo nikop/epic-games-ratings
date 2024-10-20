@@ -797,10 +797,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 245,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-10-20T02:17:39.3675792+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 245,
+  "NumberOfAwards": 246,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Beautiful Visuals",
   "Tags": [
@@ -844,7 +850,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Competitive Players",
@@ -2656,9 +2662,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-10-19T17:57:42.9292304+00:00",
+  "LastChanged": "2024-10-20T02:17:39.367579+00:00",
   "LastChanged_Achievements": "2024-10-17T05:11:58.6223699+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:32.2144393+00:00",
-  "LastUpdate_Ratings": "2024-10-19T22:59:19.0900941+00:00",
+  "LastUpdate_Ratings": "2024-10-20T02:17:39.3675795+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:58.6224214+00:00"
 }

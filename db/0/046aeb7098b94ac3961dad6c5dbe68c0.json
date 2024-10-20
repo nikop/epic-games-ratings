@@ -4,7 +4,7 @@
   "ProductSlug": "ratchet-clank-rift-apart",
   "Ranking_Rating": 234,
   "Ranking_Popularity": 674,
-  "Ranking_PopularitySum": 628,
+  "Ranking_PopularitySum": 612,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -721,10 +721,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-10-20T02:19:03.3614535+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 73,
+  "NumberOfAwards": 93,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -745,6 +751,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -759,8 +771,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-26T17:57:55.6867011+00:00",
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
-  "LastChanged": "2024-10-19T17:59:45.2406928+00:00",
+  "LastChanged": "2024-10-20T02:19:03.3614533+00:00",
   "LastUpdate_AppInfo": "2024-10-17T14:57:25.3214117+00:00",
-  "LastUpdate_Ratings": "2024-10-19T23:57:33.7967717+00:00",
+  "LastUpdate_Ratings": "2024-10-20T02:19:03.3614537+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:33.8502769+00:00"
 }

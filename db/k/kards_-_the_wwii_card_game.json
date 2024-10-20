@@ -6243,10 +6243,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 4756,
       "NumberOfAwardsMax": 843
+    },
+    {
+      "Time": "2024-10-20T02:17:10.2363946+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4757,
+      "NumberOfAwardsMax": 843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4756,
+  "NumberOfAwards": 4757,
   "NumberOfAwardsMax": 843,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -6308,7 +6314,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 512
+      "Count": 513
     }
   ],
   "EOS_Progressed": 0,
@@ -6322,8 +6328,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-10-19T20:59:02.085026+00:00",
+  "LastChanged": "2024-10-20T02:17:10.2363945+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:26.8476897+00:00",
-  "LastUpdate_Ratings": "2024-10-19T22:58:44.9253694+00:00",
+  "LastUpdate_Ratings": "2024-10-20T02:17:10.2363948+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:19.9300881+00:00"
 }

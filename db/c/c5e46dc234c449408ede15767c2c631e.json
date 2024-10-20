@@ -4,7 +4,7 @@
   "ProductSlug": "off-the-grid-7e3cc5",
   "Ranking_Rating": 1303,
   "Ranking_Popularity": 689,
-  "Ranking_PopularitySum": 610,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -204,10 +204,16 @@
       "Rating": 3.87,
       "NumberOfAwards": 94,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-10-20T02:19:05.5795363+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94,
+  "NumberOfAwards": 119,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -234,6 +240,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -248,8 +260,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-19T23:57:35.9725082+00:00",
+  "LastChanged": "2024-10-20T02:19:05.5795362+00:00",
   "LastUpdate_AppInfo": "2024-10-15T11:57:11.325429+00:00",
-  "LastUpdate_Ratings": "2024-10-19T23:57:35.9725087+00:00",
+  "LastUpdate_Ratings": "2024-10-20T02:19:05.5795365+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:02.0589873+00:00"
 }
