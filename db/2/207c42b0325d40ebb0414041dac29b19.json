@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 415,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -10409,10 +10409,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 18847,
       "NumberOfAwardsMax": 5431
+    },
+    {
+      "Time": "2024-10-20T16:58:18.2757209+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 18856,
+      "NumberOfAwardsMax": 5431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18847,
+  "NumberOfAwards": 18856,
   "NumberOfAwardsMax": 5431,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10468,7 +10474,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1823
+      "Count": 1832
     },
     {
       "Text": "This game has a Creative Community",
@@ -10501,8 +10507,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-10-20T11:01:19.5175668+00:00",
+  "LastChanged": "2024-10-20T16:58:18.2757207+00:00",
   "LastUpdate_AppInfo": "2024-10-18T16:57:32.6511847+00:00",
-  "LastUpdate_Ratings": "2024-10-20T14:58:20.2129404+00:00",
+  "LastUpdate_Ratings": "2024-10-20T16:58:18.2757214+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:59.0926823+00:00"
 }

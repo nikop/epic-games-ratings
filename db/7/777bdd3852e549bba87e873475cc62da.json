@@ -2,7 +2,7 @@
   "ID": "777bdd3852e549bba87e873475cc62da",
   "Name": "Fabledom",
   "ProductSlug": "fabledom-6d35f7",
-  "Ranking_Rating": 137,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 745,
   "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2024-08-24T21:59:05.8678736+00:00",
@@ -88,6 +88,12 @@
     {
       "Time": "2024-10-19T15:59:21.2743042+00:00",
       "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-20T16:57:45.3169762+00:00",
+      "Rating": 4.75,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -294,9 +300,9 @@
   "FirstSeen": "2024-05-13T21:58:05.0005777+00:00",
   "FirstSeenRating": "2024-08-24T21:59:05.8678733+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:10.2335955+00:00",
-  "LastChanged": "2024-10-19T15:59:21.2743039+00:00",
+  "LastChanged": "2024-10-20T16:57:45.316976+00:00",
   "LastChanged_Achievements": "2024-10-17T05:16:23.0599618+00:00",
   "LastUpdate_AppInfo": "2024-10-19T02:08:04.9011734+00:00",
-  "LastUpdate_Ratings": "2024-10-20T14:57:57.0412016+00:00",
+  "LastUpdate_Ratings": "2024-10-20T16:57:45.3169766+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:16:23.059975+00:00"
 }
