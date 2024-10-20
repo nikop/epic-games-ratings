@@ -729,7 +729,7 @@
 | [Primal Survivors](games/5/50d797d4a45a495b94e4abc016ace565.md) | 2099-01-01 | 10 (1,000 XP) | 0 | - | - |
 | [Toasterball](games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 2023-09-22 | 61 (1,000 XP) | 0 | - | 0 |
 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 2099-01-01 | 8 (1,000 XP) | 1 | - | - |
-| [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 2023-08-10 | 13 (1,000 XP) | 1,571 | 4.84 | 20 |
+| [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 2023-08-10 | 13 (1,000 XP) | 1,571 | 4.84 | 22 |
 | [Revans](games/d/dc5c7673e02543d6b57e9579d970702f.md) | 2023-10-31 | 64 (1,000 XP) | 0 | - | - |
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | 66 (1,000 XP) | 0 | - | 0 |
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | 2023-09-27 | 82 (1,000 XP) | 37 | - | 0 |

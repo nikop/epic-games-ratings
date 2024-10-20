@@ -106,4 +106,3 @@
 | [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | 47 (1,000 XP) | 10 | - | - |
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 5 | - | 0 |
-| [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | 7 (1,000 XP) | 0 | - | - |

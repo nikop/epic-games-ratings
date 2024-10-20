@@ -784,7 +784,7 @@
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 2 | - | 0 |
 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 2023-08-11 | 24 (1,000 XP) | 204 | - | 0 |
 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 2023-08-11 | 40 (1,000 XP) | 29 | - | 0 |
-| [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 2023-08-10 | 13 (1,000 XP) | 1,571 | 4.84 | 20 |
+| [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 2023-08-10 | 13 (1,000 XP) | 1,571 | 4.84 | 22 |
 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 629 | - | 0 |
 | [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2023-08-10 | 20 (1,000 XP) | 47 | - | 0 |
 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 2023-08-10 | 37 (1,000 XP) | 392 | - | 0 |
@@ -978,7 +978,7 @@
 | [Island Cities](games/i/island_cities.md) | 2023-04-27 | 22 (1,000 XP) | 1,119 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 1,027 | - | 0 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,778 | - | 0 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 119,590 | 3.76 | 1,319 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 119,590 | 3.76 | 1,329 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 103 | - | 0 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,042,587 | 4.54 | 17,307 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
