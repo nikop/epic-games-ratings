@@ -1283,8 +1283,8 @@
 | 1,221 | [Nerth Downfall](games/d/dad8521e64e74ece84dafbb0470b8ccf.md) | 1 | 0 |
 | 1,221 | [PaintBall War 2](games/6/6a9a6d51504d4f229068d151d68b75da.md) | 1 | 0 |
 | 1,221 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 1 | 0 |
-| 1,221 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 1 | 0 |
 | 1,221 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 1 | 0 |
+| 1,221 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 1 | 0 |
 | 1,221 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 1 | 0 |
 | 1,221 | [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 1 | 0 |
 | 1,221 | [Probo Rush](games/p/probo_rush.md) | 1 | 1 |
