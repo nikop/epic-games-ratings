@@ -1,7 +1,7 @@
 # KeyWe
 [Store](https://store.epicgames.com/en-US/p/keywe-c3a70e)  
 [View Rawdata](../../db/k/keywe.json)  
-Rating: 4.65 (Ranked 361)  
+Rating: 4.67 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -147,3 +147,4 @@ Completed: 10 (0.08%) (Ranked 495)
 | 2024-10-05 | 4.63 | 0 | 0 |
 | 2024-10-09 | 4.64 | 0 | 0 |
 | 2024-10-14 | 4.65 | 0 | 0 |
+| 2024-10-20 | 4.67 | 0 | 0 |

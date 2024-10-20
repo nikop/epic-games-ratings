@@ -2,7 +2,7 @@
   "ID": "04467b70295342a79381467353f23955",
   "Name": "Layers of Fear: Masterpiece Edition",
   "ProductSlug": "layers-of-fear",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 142,
   "RatingHistory": [
     {
@@ -440,6 +440,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-20T03:58:43.9064213+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -457,8 +463,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:29.1807297+00:00",
-  "LastChanged": "2024-09-22T22:57:12.0295505+00:00",
+  "LastChanged": "2024-10-20T03:58:43.9064211+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:10.2181455+00:00",
-  "LastUpdate_Ratings": "2024-10-20T02:18:23.5864416+00:00",
+  "LastUpdate_Ratings": "2024-10-20T03:58:43.9064216+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:03.0863774+00:00"
 }
