@@ -2,7 +2,7 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 341,
+  "Ranking_Rating": 342,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 1327,
@@ -4341,18 +4341,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 1796,
       "NumberOfAwardsMax": 1161
+    },
+    {
+      "Time": "2024-10-20T18:58:18.4707776+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1800,
+      "NumberOfAwardsMax": 1163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1796,
-  "NumberOfAwardsMax": 1161,
+  "NumberOfAwards": 1800,
+  "NumberOfAwardsMax": 1163,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1161
+      "Count": 1163
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4394,7 +4400,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4433,8 +4439,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-10-20T07:59:08.1248176+00:00",
+  "LastChanged": "2024-10-20T18:58:18.4707775+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:41.7930634+00:00",
-  "LastUpdate_Ratings": "2024-10-20T16:59:39.8064203+00:00",
+  "LastUpdate_Ratings": "2024-10-20T18:58:18.4707781+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:13.4773837+00:00"
 }

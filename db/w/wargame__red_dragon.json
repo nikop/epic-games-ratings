@@ -2,9 +2,9 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 2918,
   "RatingHistory": [
     {
@@ -11532,10 +11532,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 10257,
       "NumberOfAwardsMax": 1459
+    },
+    {
+      "Time": "2024-10-20T18:59:13.9774316+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 10262,
+      "NumberOfAwardsMax": 1459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10257,
+  "NumberOfAwards": 10262,
   "NumberOfAwardsMax": 1459,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11549,7 +11555,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1253
+      "Count": 1257
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11585,7 +11591,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1021
+      "Count": 1022
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11623,8 +11629,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2024-10-20T07:59:56.9918966+00:00",
+  "LastChanged": "2024-10-20T18:59:13.9774315+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:30.4700756+00:00",
-  "LastUpdate_Ratings": "2024-10-20T17:00:49.0843366+00:00",
+  "LastUpdate_Ratings": "2024-10-20T18:59:13.9774322+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:37.1234683+00:00"
 }

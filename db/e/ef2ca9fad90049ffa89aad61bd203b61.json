@@ -2,7 +2,7 @@
   "ID": "ef2ca9fad90049ffa89aad61bd203b61",
   "Name": "Kenshi",
   "ProductSlug": "kenshi-c79c40",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 128,
   "Ranking_Popularity": 706,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1327,
@@ -207,6 +207,6 @@
   "FirstSeenRating": "2024-08-01T21:58:23.816104+00:00",
   "LastChanged": "2024-10-13T13:58:05.6821418+00:00",
   "LastUpdate_AppInfo": "2024-10-16T18:57:25.6793768+00:00",
-  "LastUpdate_Ratings": "2024-10-20T17:00:24.1547997+00:00",
+  "LastUpdate_Ratings": "2024-10-20T18:58:54.0768667+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:49.9330793+00:00"
 }
