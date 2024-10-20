@@ -4,7 +4,7 @@
   "ProductSlug": "super-crazy-rhythm-castle-e3b464",
   "Ranking_Rating": 415,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 566,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 539,
   "Ranking_EOS_NewPlayers": 82,
@@ -342,18 +342,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 153,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-10-20T15:58:20.269811+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 154,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 153,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 154,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -611,9 +617,9 @@
   "FirstSeen": "2024-09-03T23:58:26.2172698+00:00",
   "FirstSeenRating": "2024-09-14T03:01:26.4752778+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:04.2373302+00:00",
-  "LastChanged": "2024-10-19T13:58:03.0646662+00:00",
+  "LastChanged": "2024-10-20T15:58:20.2698107+00:00",
   "LastChanged_Achievements": "2024-10-17T05:06:34.9163982+00:00",
   "LastUpdate_AppInfo": "2024-10-17T03:57:10.5533524+00:00",
-  "LastUpdate_Ratings": "2024-10-20T13:58:51.5530927+00:00",
+  "LastUpdate_Ratings": "2024-10-20T15:58:20.2698113+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:34.9164152+00:00"
 }

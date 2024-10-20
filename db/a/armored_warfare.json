@@ -2,9 +2,9 @@
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
-  "Ranking_Rating": 1264,
+  "Ranking_Rating": 1268,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4,
+  "Rating": 3.99,
   "NumberOfRatings": 458,
   "RatingHistory": [
     {
@@ -3489,10 +3489,16 @@
       "Rating": 4,
       "NumberOfAwards": 984,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2024-10-20T15:58:54.4173308+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 985,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 984,
+  "NumberOfAwards": 985,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3506,7 +3512,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 111
+      "Count": 112
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3576,9 +3582,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
   "FirstSeenAchievements": "2024-09-14T14:24:18.4706278+00:00",
-  "LastChanged": "2024-10-20T13:11:27.2941444+00:00",
+  "LastChanged": "2024-10-20T15:58:54.4173305+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:02.8820171+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:23.3340461+00:00",
-  "LastUpdate_Ratings": "2024-10-20T13:59:25.799399+00:00",
+  "LastUpdate_Ratings": "2024-10-20T15:58:54.417331+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:02.8820218+00:00"
 }

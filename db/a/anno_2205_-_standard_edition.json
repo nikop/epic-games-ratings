@@ -3,7 +3,7 @@
   "Name": "Anno 2205 - Standard Edition",
   "ProductSlug": "anno-2205",
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 682,
+  "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -665,18 +665,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 121,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-20T15:59:35.2447699+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 121,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 122,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -714,8 +720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:07.0175172+00:00",
-  "LastChanged": "2024-10-18T03:17:40.5409967+00:00",
+  "LastChanged": "2024-10-20T15:59:35.244749+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:13.6349901+00:00",
-  "LastUpdate_Ratings": "2024-10-20T14:57:08.3384369+00:00",
+  "LastUpdate_Ratings": "2024-10-20T15:59:35.2447706+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:46.2643262+00:00"
 }
