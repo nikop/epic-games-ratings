@@ -1,7 +1,7 @@
 # The Last Stand: Aftermath
 [Store](https://store.epicgames.com/en-US/p/the-last-stand-aftermath)  
 [View Rawdata](../../db/t/the_last_stand__aftermath.json)  
-Rating: 4.35 (Ranked 982)  
+Rating: 4.36 (Ranked 973)  
 Number of Ratings: 44  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 139  (Ranked 436)  
@@ -105,4 +105,4 @@ Diff (max vs sum): 8
 | 2024-10-17 | 4.35 | - | 120 | 530 |
 | 2024-10-18 | 4.35 | - | 120 | 539 |
 | 2024-10-19 | 4.35 | - | 127 | 562 |
-| 2024-10-20 | 4.35 | - | 139 | 579 |
+| 2024-10-20 | 4.36 | - | 139 | 579 |
