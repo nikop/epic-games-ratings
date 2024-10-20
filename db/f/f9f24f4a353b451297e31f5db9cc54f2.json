@@ -3,8 +3,8 @@
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1193,
-  "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 372,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 82,
@@ -1590,18 +1590,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 823,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2024-10-20T20:58:54.5591175+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 838,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 823,
-  "NumberOfAwardsMax": 182,
+  "NumberOfAwards": 838,
+  "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 182
+      "Count": 190
     },
     {
       "Text": "This game is Hard for Beginners",
@@ -1625,7 +1631,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 106
+      "Count": 109
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1649,7 +1655,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 70
+      "Count": 74
     }
   ],
   "EOS_Progressed": 78554,
@@ -1796,9 +1802,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-10-19T23:59:52.0162462+00:00",
+  "LastChanged": "2024-10-20T20:58:54.5591173+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:35.3953412+00:00",
   "LastUpdate_AppInfo": "2024-10-15T03:57:04.1050334+00:00",
-  "LastUpdate_Ratings": "2024-10-20T18:59:50.4619767+00:00",
+  "LastUpdate_Ratings": "2024-10-20T20:58:54.5591183+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:35.39535+00:00"
 }

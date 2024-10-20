@@ -2,7 +2,7 @@
   "ID": "edd938a6d7ec4a55ab82bba8f8dd5b22",
   "Name": "Empyrion - Galactic Survival",
   "ProductSlug": "empyrion-galactic-survival-fbd99f",
-  "Ranking_Rating": 1311,
+  "Ranking_Rating": 1310,
   "Ranking_Popularity": 726,
   "Ranking_PopularitySum": 728,
   "Ranking_EOS_Progress": 1327,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.84,
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2024-10-11T17:59:51.1913525+00:00",
@@ -246,6 +246,12 @@
       "Rating": 3.84,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-20T20:59:10.771958+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -272,8 +278,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-10T17:59:00.9512561+00:00",
   "FirstSeenRating": "2024-10-11T17:59:51.1913523+00:00",
-  "LastChanged": "2024-10-20T13:58:38.2906104+00:00",
+  "LastChanged": "2024-10-20T20:59:10.7719578+00:00",
   "LastUpdate_AppInfo": "2024-10-17T15:57:11.7599968+00:00",
-  "LastUpdate_Ratings": "2024-10-20T19:00:06.1288692+00:00",
+  "LastUpdate_Ratings": "2024-10-20T20:59:10.7719584+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:10.8401015+00:00"
 }
