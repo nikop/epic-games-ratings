@@ -3,8 +3,8 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_Rating": 1044,
-  "Ranking_Popularity": 744,
-  "Ranking_PopularitySum": 744,
+  "Ranking_Popularity": 745,
+  "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 616,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 82,
@@ -649,6 +649,6 @@
   "LastChanged": "2024-05-31T05:00:34.9434799+00:00",
   "LastChanged_Achievements": "2024-10-17T05:08:47.0984049+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:21.9748937+00:00",
-  "LastUpdate_Ratings": "2024-10-20T11:59:21.2881315+00:00",
+  "LastUpdate_Ratings": "2024-10-20T13:58:33.4056666+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:47.0984208+00:00"
 }

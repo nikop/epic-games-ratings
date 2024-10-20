@@ -1,7 +1,14 @@
 # Empyrion - Galactic Survival
 [Store](https://store.epicgames.com/en-US/p/empyrion-galactic-survival-fbd99f)  
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
-Rating: 3.83 (Ranked 1,310)  
+Rating: 3.84 (Ranked 1,310)  
+## Awards
+Max (Extremely Fun): 22  (Ranked 726)  
+Sum: 22 (Ranked 728)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,4 +21,4 @@ Rating: 3.83 (Ranked 1,310)
 | 2024-10-17 | 3.74 | 0 | 0 |
 | 2024-10-18 | 3.79 | 0 | 0 |
 | 2024-10-19 | 3.82 | 0 | 0 |
-| 2024-10-20 | 3.83 | 0 | 0 |
+| 2024-10-20 | 3.84 | 22 | 22 |
