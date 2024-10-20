@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [A BIT BEAST WILD DREAM - PHASE ONE](games/8/8330f2785acf46d3bf3c1be7ed87994a.md) | 2025-09-30 | - |  | - | - |
 | [NOIR: Dead On Arrival](games/d/d2a754ad49e04b2a91bbeecf14d95673.md) | 2025-09-30 | - |  | - | - |
 | [Couple-Cultivation Saves the World](games/8/83206950887643578dd83d7522da7a77.md) | 2024-10-31 | - |  | - | - |
 | [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | 28 (1,000 XP) | 9 | - | - |
