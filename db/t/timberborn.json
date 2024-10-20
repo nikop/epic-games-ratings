@@ -2,7 +2,7 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 640,
   "RatingHistory": [
     {
@@ -4338,10 +4338,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1625,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2024-10-20T14:59:31.9634249+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1626,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1625,
+  "NumberOfAwards": 1626,
   "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4385,7 +4391,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has a Creative Community",
@@ -4417,8 +4423,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2024-10-19T20:00:58.9642786+00:00",
+  "LastChanged": "2024-10-20T14:59:31.9634245+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:47.4162491+00:00",
-  "LastUpdate_Ratings": "2024-10-20T13:57:15.1106127+00:00",
+  "LastUpdate_Ratings": "2024-10-20T14:59:31.9634253+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:57.9721707+00:00"
 }

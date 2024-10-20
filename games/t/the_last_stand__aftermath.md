@@ -1,12 +1,12 @@
 # The Last Stand: Aftermath
 [Store](https://store.epicgames.com/en-US/p/the-last-stand-aftermath)  
 [View Rawdata](../../db/t/the_last_stand__aftermath.json)  
-Rating: 4.36 (Ranked 973)  
+Rating: 4.36 (Ranked 972)  
 Number of Ratings: 44  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 139  (Ranked 436)  
-Sum: 496 (Ranked 428)  
-Diff (max vs sum): 8  
+Sum: 500 (Ranked 427)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 139 |
@@ -14,7 +14,7 @@ Diff (max vs sum): 8
 | This game is Highly Recommended | 95 |
 | This game has Quickly Understood Controls | 88 |
 | This game has Amazing Storytelling | 83 |
-| This game is Relaxing | 79 |
+| This game is Relaxing | 83 |
 | This game has a Creative Community | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
