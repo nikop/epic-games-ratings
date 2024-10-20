@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-stand-aftermath",
   "Ranking_Rating": 982,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -992,10 +992,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 579,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2024-10-20T07:57:30.3026581+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 496,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579,
+  "NumberOfAwards": 496,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1053,8 +1059,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-20T03:58:41.2001964+00:00",
+  "LastChanged": "2024-10-20T07:57:30.3026579+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:39.2295905+00:00",
-  "LastUpdate_Ratings": "2024-10-20T05:58:57.8581868+00:00",
+  "LastUpdate_Ratings": "2024-10-20T07:57:30.3026584+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:46.7055593+00:00"
 }

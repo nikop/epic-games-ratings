@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 28,
@@ -17515,10 +17515,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 34060,
       "NumberOfAwardsMax": 9549
+    },
+    {
+      "Time": "2024-10-20T07:59:17.6705529+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 34062,
+      "NumberOfAwardsMax": 9549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34060,
+  "NumberOfAwards": 34062,
   "NumberOfAwardsMax": 9549,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17574,7 +17580,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2001
+      "Count": 2003
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -50268,9 +50274,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-10-20T04:57:46.2555754+00:00",
+  "LastChanged": "2024-10-20T07:59:17.6705527+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:50.9921619+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:01.9057783+00:00",
-  "LastUpdate_Ratings": "2024-10-20T06:01:44.6281047+00:00",
+  "LastUpdate_Ratings": "2024-10-20T07:59:17.6705533+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:50.9924131+00:00"
 }
