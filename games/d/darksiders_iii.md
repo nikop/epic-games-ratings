@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 769)  
+Rating: 4.47 (Ranked 787)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -263,3 +263,4 @@ Diff (max vs sum): -130
 | 2024-10-04 | 4.48 | - | 126 | 126 |
 | 2024-10-07 | 4.48 | - | 127 | 127 |
 | 2024-10-11 | 4.48 | - | 128 | 128 |
+| 2024-10-21 | 4.47 | - | 128 | 128 |

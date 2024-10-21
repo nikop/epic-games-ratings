@@ -1,7 +1,7 @@
 # Kardboard Kings
 [Store](https://store.epicgames.com/en-US/p/kardboard-kings-0962f8)  
 [View Rawdata](../../db/k/kardboard_kings.json)  
-Rating: 3.70 (Ranked 1,328)  
+Rating: 3.70 (Ranked 1,329)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
