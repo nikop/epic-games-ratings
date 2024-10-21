@@ -3,6 +3,7 @@
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-10-22 | - |  | - | - |
 | [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2024-10-22 | - |  | - | - |
+| [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-10-22 | - |  | - | - |
 | [Love is All Around: Echoes of Yesterday](games/a/ae351841163c41e1b639fc2a958e72fe.md) | 2024-10-23 | 56 (1,000 XP) | 4 | - | - |
 | [Subway Outbreak](games/6/68cff49f67af49f2909be946848af18a.md) | 2024-10-23 | - |  | - | - |
 | [Samuel Sage: The Mystery at Penby Inn](games/7/7547fc305ee341baab2d038a21985447.md) | 2024-10-23 | - |  | - | - |
@@ -35,8 +36,8 @@
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | 14 (1,000 XP) | 2 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 2 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Journey to Kreisia](games/2/23220f193531472989b4168d016c101b.md) | 2024-11-01 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [LiveLink Hub](games/1/1fe53f1cd37546d7bf4525698ec287ba.md) | 2024-11-02 | - |  | - | - |
@@ -111,7 +112,6 @@
 | [Nikoderiko: The Magical World](games/0/02968e20aefe4b798e179e182cede492.md) | 2024-12-31 | - |  | - | - |
 | [Pine: A Story of Loss](games/d/d3c16b1b2d8e4331a1daea61170425f0.md) | 2024-12-31 | - |  | - | - |
 | [Puppet House](games/d/d581f8bd34204f98af1a404d99bd347a.md) | 2024-12-31 | - |  | - | - |
-| [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-12-31 | - |  | - | - |
 | [RetraceTheLight](games/8/8154a95d8e314c43984ae952dd55e8dd.md) | 2024-12-31 | - |  | - | - |
 | [REVENGE](games/6/6beebb4d356a48118e607e2112bca45f.md) | 2024-12-31 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2024-12-31 | - |  | - | - |

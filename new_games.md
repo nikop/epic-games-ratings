@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Waking Tides](games/b/bd24aa66e5c94365a582439b86df6fd2.md) | 2024-10-21 | - |  | - | - |
 | [Fell in love with coser 2](games/3/351e2966e6a44694bbb611c8e24da299.md) | 2024-10-19 | - |  | - | 0 |
 | [Bloodhound](games/0/006f821255bb41a0bf7bfdfa942667a8.md) | 2024-10-19 | 102 (1,000 XP) | 1 | - | - |
 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-10-18 | 41 (2,000 XP) | 1 | - | 0 |
@@ -29,8 +30,8 @@
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |
 | [Street Defenders](games/2/2c6272c2f5544728a5759ffe13525564.md) | 2024-10-05 | - |  | - | - |
 | [DarkManor](games/1/187a0616d5b94effbd275f7e8b76997f.md) | 2024-10-05 | - |  | - | - |
-| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.05 | 0 |
-| [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-10-04 | - |  | 4.35 | 0 |
+| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.04 | 0 |
+| [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-10-04 | - |  | 4.40 | 0 |
 | [Potion Tycoon](games/b/bb556387682d4fc3b7b4a5c8760a7cca.md) | 2024-10-04 | 39 (1,000 XP) | 6 | - | 0 |
 | [Under The Thorns](games/c/cc3295be53984ee1a3658d98c6305d81.md) | 2024-10-04 | - |  | - | 0 |
 | [Until Dawn™](games/1/110d3c2c06d6481eb6852a4d2e6a5480.md) | 2024-10-04 | 29 (1,000 XP) | 2 | 4.60 | 0 |

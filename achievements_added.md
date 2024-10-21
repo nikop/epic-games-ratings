@@ -91,7 +91,7 @@
 | [Gori Cuddly Carnage](games/c/c2876cf882574b94b9df57cdf2e2025b.md) | 2024-08-29 | 34 (1,000 XP) | 166 | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | 32 (1,000 XP) | 572 | 4.27 | 0 |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 4 | - | 0 |
-| [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 504,982 | 4.88 | 30,137 |
+| [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 504,982 | 4.88 | 30,315 |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 11 | - | 0 |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-22 | 11 (1,000 XP) | 16 | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 21,234 | 4.32 | 74 |

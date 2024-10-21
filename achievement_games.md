@@ -1096,7 +1096,7 @@
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,873 | 4.40 | 20 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 3,491 | 4.45 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,444,672 | 4.01 | 13,487 |
-| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 680,935 | 4.14 | 898 |
+| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 680,935 | 4.14 | 904 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 89,132 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 434 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 621 | - | 0 |
@@ -1273,7 +1273,7 @@
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 595 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 332 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 3,056 | 4.60 | 0 |
-| [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 2021-12-29 | 37 (1,000 XP) | 561,370 | 4.62 | 348 |
+| [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 2021-12-29 | 37 (1,000 XP) | 561,370 | 4.62 | 349 |
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 13,040 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,111 | - | 0 |
@@ -1384,11 +1384,11 @@
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 45 (1,070 XP) | 149,301 | 4.87 | 873 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 20,859 | 4.65 | 281 |
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 2020-04-23 | 45 (1,000 XP) | 2,907 | 4.45 | 238 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 127,314 | 4.74 | 11,393 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 127,314 | 4.75 | 11,407 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,614 | 4.69 | 1,011 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 754,639 | 4.92 | 4,408 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 97,049 | 4.70 | 0 |
-| [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 504,982 | 4.88 | 30,137 |
+| [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 504,982 | 4.88 | 30,315 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 265,850 | 4.67 | 661 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,986 | 4.47 | 128 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 58,331 | 4.46 | 0 |
