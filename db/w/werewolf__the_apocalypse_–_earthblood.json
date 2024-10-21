@@ -2,7 +2,7 @@
   "ID": "9c86694776c04893bec691f13f4b60fc",
   "Name": "Werewolf: The Apocalypse \u2013 Earthblood",
   "ProductSlug": "werewolf-the-apocalypse-earthblood",
-  "Ranking_Rating": 1245,
+  "Ranking_Rating": 1249,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.07,
+  "Rating": 4.06,
   "NumberOfRatings": 62,
   "RatingHistory": [
     {
@@ -407,6 +407,12 @@
       "Rating": 4.07,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-21T21:59:01.706341+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -424,8 +430,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:47.1467743+00:00",
-  "LastChanged": "2024-10-18T22:59:07.6461583+00:00",
+  "LastChanged": "2024-10-21T21:59:01.7063408+00:00",
   "LastUpdate_AppInfo": "2024-10-21T18:57:29.5557083+00:00",
-  "LastUpdate_Ratings": "2024-10-21T20:00:04.6503883+00:00",
+  "LastUpdate_Ratings": "2024-10-21T21:59:01.7063413+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:56.3271934+00:00"
 }

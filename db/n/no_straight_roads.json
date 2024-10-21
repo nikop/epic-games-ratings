@@ -2,7 +2,7 @@
   "ID": "c0783fd957634390af33808d1a1f56dd",
   "Name": "No Straight Roads",
   "ProductSlug": "no-straight-roads",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2022-10-06T02:00:31.3504448+00:00",
@@ -149,6 +149,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-21T21:58:28.3031121+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -167,8 +173,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.9254114+00:00",
   "FirstSeenRating": "2022-10-06T02:00:31.3504442+00:00",
-  "LastChanged": "2024-10-17T21:00:12.5278426+00:00",
+  "LastChanged": "2024-10-21T21:58:28.3031119+00:00",
   "LastUpdate_AppInfo": "2024-10-21T17:57:34.5045219+00:00",
-  "LastUpdate_Ratings": "2024-10-21T19:59:26.6053795+00:00",
+  "LastUpdate_Ratings": "2024-10-21T21:58:28.3031127+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:53.5103279+00:00"
 }

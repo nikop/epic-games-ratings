@@ -2,7 +2,7 @@
   "ID": "11caacd8754d43ffb0c4f479d6035b5b",
   "Name": "MechWarrior 5: Clans",
   "ProductSlug": "mechwarrior-5-clans-e50e3a",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 769,
   "Ranking_Popularity": 744,
   "Ranking_PopularitySum": 744,
   "Ranking_EOS_Progress": 1327,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-10-18T17:01:28.6911142+00:00",
@@ -54,6 +54,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-21T21:58:16.3036341+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -80,9 +86,9 @@
   "FirstSeen": "2024-10-17T03:16:34.2339177+00:00",
   "FirstSeenRating": "2024-10-18T17:01:28.6911139+00:00",
   "FirstSeenAchievements": "2024-10-17T05:14:41.8746105+00:00",
-  "LastChanged": "2024-10-21T02:14:07.7776366+00:00",
+  "LastChanged": "2024-10-21T21:58:16.3036339+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:41.874609+00:00",
   "LastUpdate_AppInfo": "2024-10-19T05:57:05.2689081+00:00",
-  "LastUpdate_Ratings": "2024-10-21T19:59:12.9265227+00:00",
+  "LastUpdate_Ratings": "2024-10-21T21:58:16.3036347+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:41.8746119+00:00"
 }

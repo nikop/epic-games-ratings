@@ -1,7 +1,7 @@
 # Indies Lies
 [Store](https://store.epicgames.com/en-US/p/indies-lies-57f843)  
 [View Rawdata](../../db/i/indies_lies.json)  
-Rating: 4.48 (Ranked 770)  
+Rating: 4.48 (Ranked 769)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
