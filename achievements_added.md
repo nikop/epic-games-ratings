@@ -20,7 +20,7 @@
 | [Medieval Delivery](games/1/159f5c2372264a7fbb3e0430924bce9a.md) | 2023-08-28 | 40 (1,000 XP) | 1 | - | 0 |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2024-09-26 | 14 (1,000 XP) | 0 | - | 0 |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-09-19 | 43 (1,000 XP) | 159 | 4.15 | 0 |
-| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | 51 (1,000 XP) | 4,410 | 4.59 | 0 |
+| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | 51 (1,000 XP) | 4,410 | 4.60 | 0 |
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 2020-04-23 | 45 (1,000 XP) | 2,907 | 4.45 | 238 |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | 41 (1,000 XP) | 3 | - | - |
 | [Superscout](games/3/34813212c9b04b2793d4f7e90814b7a5.md) | 2024-09-12 | 59 (1,000 XP) | 24 | - | 0 |
@@ -122,7 +122,7 @@
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 94,184 | 4.01 | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 14 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 15 | - | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 9,863 | 4.70 | 341 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 9,863 | 4.70 | 343 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 85 | - | 0 |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 1 | - | - |
@@ -332,7 +332,7 @@
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | 12 (1,000 XP) | 51 | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 10 | - | - |
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,444 | 4.50 | 24 |
-| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 20,125 | 4.53 | 54 |
+| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 20,125 | 4.52 | 54 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 33 | - | 0 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 355,834 | 4.52 | 1,832 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 49 | - | - |
@@ -482,7 +482,7 @@
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 1 | - | 0 |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2025-03-28 | 38 (1,000 XP) | 1 | - | - |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 1,104 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 3,969 | 4.68 | 30 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 3,969 | 4.69 | 30 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | 0 |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | 30 (1,000 XP) | 36 | - | 0 |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 5 | - | - |
@@ -611,7 +611,7 @@
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 3,823 | 4.66 | 33 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 3 | - | 0 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 200 | - | 0 |
-| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 106,910 | 4.32 | 48 |
+| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 106,910 | 4.33 | 48 |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-11-13 | 37 (1,000 XP) | 280 | - | 0 |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 84 | - | 0 |
 | [Asterix and Obelix Slap Them All 2](games/3/3afeb43f23944b2da7aba1f04ad5756c.md) | 2023-11-13 | 32 (1,000 XP) | 0 | - | 0 |
@@ -635,7 +635,7 @@
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 52 | - | 0 |
 | [1428: Shadows over Silesia](games/4/4bd54a4fed074c488e0bb7428f29d2f4.md) | 2023-12-01 | 62 (1,000 XP) | 134 | - | 0 |
 | [SPIRITUS](games/2/2b96380a243e4883bb007b67b78b18c1.md) | 2023-11-10 | 11 (1,000 XP) | 6 | - | - |
-| [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,541 | 4.48 | 0 |
+| [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,541 | 4.49 | 0 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 2023-11-10 | 6 (1,000 XP) | 1 | - | 0 |
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 139 | - | 0 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,236 | 4.69 | 775 |
@@ -682,7 +682,7 @@
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 25 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 37 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,558 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,570 |
 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 2,070 | 4.71 | 49 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 20,367 | 4.70 | 115 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 701 | 4.74 | 0 |
@@ -819,7 +819,7 @@
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 1,658 | 3.89 | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 1 | - | 0 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
-| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,972 | 4.83 | 84 |
+| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,972 | 4.83 | 86 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
 | [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 199,840 | 4.40 | 2,737 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 47 | - | 0 |

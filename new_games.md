@@ -23,13 +23,13 @@
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | 0 |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,853 | 4.32 | 51 |
 | [Dead Season](games/f/f01957afd8ed40b1aaad3e4e8536cfa4.md) | 2024-10-08 | 25 (1,000 XP) | 3 | - | 0 |
-| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.87 | 32 |
+| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.86 | 32 |
 | [FALLEN](games/6/607af50a638b4e8ab9b826fc477c4cbe.md) | 2024-10-08 | - |  | - | - |
 | [GT Manager](games/4/4c5ee9d67d8449478f3f58722ee54eab.md) | 2024-10-08 | - |  | - | 0 |
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |
 | [Street Defenders](games/2/2c6272c2f5544728a5759ffe13525564.md) | 2024-10-05 | - |  | - | - |
 | [DarkManor](games/1/187a0616d5b94effbd275f7e8b76997f.md) | 2024-10-05 | - |  | - | - |
-| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.03 | 0 |
+| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.05 | 0 |
 | [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-10-04 | - |  | 4.35 | 0 |
 | [Potion Tycoon](games/b/bb556387682d4fc3b7b4a5c8760a7cca.md) | 2024-10-04 | 39 (1,000 XP) | 6 | - | 0 |
 | [Under The Thorns](games/c/cc3295be53984ee1a3658d98c6305d81.md) | 2024-10-04 | - |  | - | 0 |
@@ -69,7 +69,7 @@
 | [XERA: Survival](games/2/229d261b68a34a35a5759d0d79d319e9.md) | 2024-09-30 | - |  | - | - |
 | [Rogue Citadel](games/a/ab9d4c28dd6c4146beec1e24e2cc8b2a.md) | 2024-09-29 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-09-28 | - |  | - | 0 |
-| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.62 | 45 |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.63 | 45 |
 | [Come on Fantasy baby!](games/0/0851f967f9fa4703be3039e11c03fdce.md) | 2024-09-28 | - |  | - | 0 |
 | [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-27 | 16 (1,000 XP) | 10 | - | - |
 | [Reqvia](games/7/7eae14353be148d4a941113dcaa00b87.md) | 2024-09-27 | - |  | - | - |

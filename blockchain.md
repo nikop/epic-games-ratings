@@ -68,13 +68,13 @@
 | [X-WAR](games/d/d18b872280c94988b11e839c70513ee1.md) | 2024-11-11 | - |  | - | - |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-10-27 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
-| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.87 | 32 |
+| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.86 | 32 |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | 0 |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Interlude](games/d/d75da0b94bfe48898940f73cb3061f05.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
 | [Ponchiqs](games/2/2c3811eee56e4fb98681ef11991e73dc.md) | 2024-09-30 | - |  | - | - |
-| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.62 | 45 |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.63 | 45 |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
 | [Asilium 2](games/8/8003a47f7a024beeac824c38c1ace029.md) | 2024-09-09 | - |  | - | 0 |
@@ -122,7 +122,7 @@
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | 0 |
 | [Cosmik Battle - Trading Card Game](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.50 | 60 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.51 | 56 |
+| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.49 | 57 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | 0 |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.49 | 236 |
