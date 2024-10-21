@@ -4,7 +4,7 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -3735,10 +3735,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 2626,
       "NumberOfAwardsMax": 2216
+    },
+    {
+      "Time": "2024-10-21T19:57:23.3492341+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 2701,
+      "NumberOfAwardsMax": 2216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2626,
+  "NumberOfAwards": 2701,
   "NumberOfAwardsMax": 2216,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3794,7 +3800,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 68
+      "Count": 75
     },
     {
       "Text": "This game has a Creative Community",
@@ -3814,8 +3820,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-10-21T17:59:19.4364457+00:00",
+  "LastChanged": "2024-10-21T19:57:23.3492339+00:00",
   "LastUpdate_AppInfo": "2024-10-21T09:57:15.4870182+00:00",
-  "LastUpdate_Ratings": "2024-10-21T17:59:19.4364462+00:00",
+  "LastUpdate_Ratings": "2024-10-21T19:57:23.3492344+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:49.2581461+00:00"
 }

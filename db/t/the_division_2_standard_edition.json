@@ -2,7 +2,7 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 1327,
@@ -22635,18 +22635,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 36582,
       "NumberOfAwardsMax": 10230
+    },
+    {
+      "Time": "2024-10-21T19:59:23.4988646+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 36587,
+      "NumberOfAwardsMax": 10235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36582,
-  "NumberOfAwardsMax": 10230,
+  "NumberOfAwards": 36587,
+  "NumberOfAwardsMax": 10235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 10230
+      "Count": 10235
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -22726,8 +22732,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-10-21T14:58:25.2571452+00:00",
+  "LastChanged": "2024-10-21T19:59:23.4988642+00:00",
   "LastUpdate_AppInfo": "2024-10-21T11:57:13.9875845+00:00",
-  "LastUpdate_Ratings": "2024-10-21T18:01:04.6061806+00:00",
+  "LastUpdate_Ratings": "2024-10-21T19:59:23.4988649+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:29.5951663+00:00"
 }

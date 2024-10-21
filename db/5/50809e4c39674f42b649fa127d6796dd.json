@@ -3,8 +3,8 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_Rating": 231,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 660,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 82,
@@ -375,18 +375,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-10-21T19:58:40.6405797+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 50,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 49
+      "Count": 50
     }
   ],
   "EOS_Progressed": 2070,
@@ -2392,9 +2398,9 @@
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenRating": "2024-04-02T11:58:37.0098894+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged": "2024-10-20T13:59:21.6539244+00:00",
+  "LastChanged": "2024-10-21T19:58:40.6405795+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:36.0534571+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:13.3727968+00:00",
-  "LastUpdate_Ratings": "2024-10-21T18:00:26.3904992+00:00",
+  "LastUpdate_Ratings": "2024-10-21T19:58:40.64058+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:36.0534976+00:00"
 }
