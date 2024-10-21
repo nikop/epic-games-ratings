@@ -2,7 +2,7 @@
   "ID": "e860fa919120430ca12c557bb676bc6a",
   "Name": "Star Wars Outlaws",
   "ProductSlug": "star-wars-outlaws",
-  "Ranking_Rating": 1022,
+  "Ranking_Rating": 1023,
   "Ranking_Popularity": 668,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 1327,
@@ -517,6 +517,6 @@
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
   "LastChanged": "2024-10-20T20:57:49.1107617+00:00",
   "LastUpdate_AppInfo": "2024-10-16T09:57:09.8394696+00:00",
-  "LastUpdate_Ratings": "2024-10-21T00:00:23.621439+00:00",
+  "LastUpdate_Ratings": "2024-10-21T03:19:23.642238+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:22.3352828+00:00"
 }

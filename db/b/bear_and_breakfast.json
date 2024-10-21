@@ -4,7 +4,7 @@
   "ProductSlug": "bear-and-breakfast-77c209",
   "Ranking_Rating": 469,
   "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 480,
+  "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -456,10 +456,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 344,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-21T03:20:29.2264263+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 346,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344,
+  "NumberOfAwards": 346,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -485,7 +491,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -542,8 +548,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2024-10-21T02:12:31.5666993+00:00",
+  "LastChanged": "2024-10-21T03:20:29.2264261+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:17.1211116+00:00",
-  "LastUpdate_Ratings": "2024-10-21T02:12:31.5666998+00:00",
+  "LastUpdate_Ratings": "2024-10-21T03:20:29.2264265+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:16.3836941+00:00"
 }

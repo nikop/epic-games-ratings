@@ -4,7 +4,7 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1289,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2497,10 +2497,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-10-21T03:17:58.8531149+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 615,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2547,8 +2553,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-10-13T13:14:09.8541385+00:00",
+  "LastChanged": "2024-10-21T03:17:58.8531148+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:36.0792544+00:00",
-  "LastUpdate_Ratings": "2024-10-20T23:58:32.6813086+00:00",
+  "LastUpdate_Ratings": "2024-10-21T03:17:58.8531154+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:28.4463806+00:00"
 }
