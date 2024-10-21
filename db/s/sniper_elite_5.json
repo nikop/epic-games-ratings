@@ -2,8 +2,8 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 697,
-  "Ranking_Popularity": 538,
+  "Ranking_Rating": 679,
+  "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 426,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -1149,6 +1149,12 @@
     {
       "Time": "2024-10-19T17:58:58.4823849+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-10-21T13:17:44.6817358+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 69
     }
@@ -11188,9 +11194,9 @@
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2024-10-19T17:58:58.4823847+00:00",
+  "LastChanged": "2024-10-21T13:17:44.6817357+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:36.9710549+00:00",
   "LastUpdate_AppInfo": "2024-10-21T03:17:26.5531801+00:00",
-  "LastUpdate_Ratings": "2024-10-21T11:01:30.0533897+00:00",
+  "LastUpdate_Ratings": "2024-10-21T13:17:44.6817362+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:36.9711795+00:00"
 }

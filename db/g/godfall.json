@@ -4,7 +4,7 @@
   "ProductSlug": "godfall",
   "Ranking_Rating": 1249,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 340,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2086,10 +2086,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 1038,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2024-10-21T13:15:21.7548243+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 1039,
+      "NumberOfAwardsMax": 656
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1038,
+  "NumberOfAwards": 1039,
   "NumberOfAwardsMax": 656,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2115,7 +2121,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2165,8 +2171,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2024-10-13T22:58:17.514943+00:00",
+  "LastChanged": "2024-10-21T13:15:21.7548241+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:18.4516877+00:00",
-  "LastUpdate_Ratings": "2024-10-21T10:57:49.532233+00:00",
+  "LastUpdate_Ratings": "2024-10-21T13:15:21.7548246+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:01.3753865+00:00"
 }
