@@ -1,7 +1,7 @@
 # Foretales
 [Store](https://store.epicgames.com/en-US/p/foretales-d6c5bd)  
 [View Rawdata](../../db/f/foretales.json)  
-Rating: 4.71 (Ranked 232)  
+Rating: 4.71 (Ranked 231)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

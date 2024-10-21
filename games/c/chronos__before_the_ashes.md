@@ -1,7 +1,7 @@
 # Chronos: Before the Ashes
 [Store](https://store.epicgames.com/en-US/p/chronos-before-the-ashes)  
 [View Rawdata](../../db/c/chronos__before_the_ashes.json)  
-Rating: 4.16 (Ranked 1,187)  
+Rating: 4.18 (Ranked 1,166)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -84,3 +84,4 @@ Completed: 0 (0.00%) (Ranked 622)
 | 2024-01-29 | 4.15 | 0 | 0 |
 | 2024-08-20 | 4.17 | 0 | 0 |
 | 2024-09-16 | 4.16 | 0 | 0 |
+| 2024-10-21 | 4.18 | 0 | 0 |

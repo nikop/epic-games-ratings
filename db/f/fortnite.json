@@ -10748,10 +10748,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 20992286,
       "NumberOfAwardsMax": 4065463
+    },
+    {
+      "Time": "2024-10-21T03:59:06.6437077+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 21008349,
+      "NumberOfAwardsMax": 4065463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20992286,
+  "NumberOfAwards": 21008349,
   "NumberOfAwardsMax": 4065463,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -10771,13 +10777,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3837220
+      "Count": 3840955
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3702297
+      "Count": 3705959
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10789,19 +10795,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3322443
+      "Count": 3325535
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3350834
+      "Count": 3353976
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2714029
+      "Count": 2716461
     }
   ],
   "EOS_Progressed": 0,
@@ -10815,8 +10821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-10-21T02:14:21.1160027+00:00",
+  "LastChanged": "2024-10-21T03:59:06.6437075+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:13.0744538+00:00",
-  "LastUpdate_Ratings": "2024-10-21T02:14:21.1160034+00:00",
+  "LastUpdate_Ratings": "2024-10-21T03:59:06.6437081+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:10.9734288+00:00"
 }
