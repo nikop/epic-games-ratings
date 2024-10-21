@@ -4,7 +4,7 @@
   "ProductSlug": "empyrion-galactic-survival-fbd99f",
   "Ranking_Rating": 1310,
   "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 728,
+  "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -252,10 +252,16 @@
       "Rating": 3.85,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-21T02:12:47.4372354+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
+  "NumberOfAwards": 42,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -264,6 +270,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -278,8 +290,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-10T17:59:00.9512561+00:00",
   "FirstSeenRating": "2024-10-11T17:59:51.1913523+00:00",
-  "LastChanged": "2024-10-20T20:59:10.7719578+00:00",
+  "LastChanged": "2024-10-21T02:12:47.4372352+00:00",
   "LastUpdate_AppInfo": "2024-10-17T15:57:11.7599968+00:00",
-  "LastUpdate_Ratings": "2024-10-20T22:58:14.5998846+00:00",
+  "LastUpdate_Ratings": "2024-10-21T02:12:47.4372356+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:10.8401015+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 802,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 227,
+  "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -5550,10 +5550,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 2997,
       "NumberOfAwardsMax": 517
+    },
+    {
+      "Time": "2024-10-21T02:12:35.6252423+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3007,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2997,
+  "NumberOfAwards": 3007,
   "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5597,7 +5603,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 321
+      "Count": 326
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5615,7 +5621,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 185
+      "Count": 190
     },
     {
       "Text": "This game has Competitive Players",
@@ -5837,9 +5843,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-10-20T18:59:54.4726309+00:00",
+  "LastChanged": "2024-10-21T02:12:35.6252422+00:00",
   "LastChanged_Achievements": "2024-10-17T05:08:37.1293891+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:19.3493375+00:00",
-  "LastUpdate_Ratings": "2024-10-20T22:58:04.1092192+00:00",
+  "LastUpdate_Ratings": "2024-10-21T02:12:35.6252427+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:37.129402+00:00"
 }

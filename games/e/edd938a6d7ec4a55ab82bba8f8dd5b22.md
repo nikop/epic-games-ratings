@@ -4,11 +4,12 @@
 Rating: 3.85 (Ranked 1,310)  
 ## Awards
 Max (Extremely Fun): 22  (Ranked 726)  
-Sum: 22 (Ranked 728)  
-Diff (max vs sum): -2  
+Sum: 42 (Ranked 675)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 22 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -22,3 +23,4 @@ Diff (max vs sum): -2
 | 2024-10-18 | 3.79 | 0 | 0 |
 | 2024-10-19 | 3.82 | 0 | 0 |
 | 2024-10-20 | 3.85 | 22 | 22 |
+| 2024-10-21 | 3.85 | 22 | 42 |

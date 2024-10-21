@@ -3,12 +3,12 @@
 [View Rawdata](../../db/b/bear_and_breakfast.json)  
 Rating: 4.61 (Ranked 469)  
 ## Awards
-Max (Great for Beginners): 43  (Ranked 610)  
-Sum: 334 (Ranked 481)  
-Diff (max vs sum): 129  
+Max (Great for Beginners): 53  (Ranked 578)  
+Sum: 344 (Ranked 480)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 43 |
+| This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 41 |
 | This game is Extremely Fun | 33 |
 | This game is Relaxing | 32 |
@@ -51,3 +51,4 @@ Diff (max vs sum): 129
 | 2024-10-18 | 4.60 | 37 | 245 |
 | 2024-10-19 | 4.61 | 43 | 265 |
 | 2024-10-20 | 4.61 | 43 | 334 |
+| 2024-10-21 | 4.61 | 53 | 344 |
