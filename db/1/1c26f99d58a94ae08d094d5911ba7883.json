@@ -2,7 +2,7 @@
   "ID": "1c26f99d58a94ae08d094d5911ba7883",
   "Name": "Blade of God X",
   "ProductSlug": "bogx-a639f3",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 613,
   "Ranking_EOS_Progress": 1327,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2024-03-13T17:58:35.4101905+00:00",
@@ -198,6 +198,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-10-21T23:00:55.2158357+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 89,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
@@ -232,9 +238,9 @@
   "FirstSeen": "2024-03-11T10:58:24.1823881+00:00",
   "FirstSeenRating": "2024-03-13T17:58:35.4101902+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:07.919186+00:00",
-  "LastChanged": "2024-10-21T13:15:52.2144035+00:00",
+  "LastChanged": "2024-10-21T23:00:55.2158355+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:48.3927327+00:00",
   "LastUpdate_AppInfo": "2024-10-15T02:10:53.5388742+00:00",
-  "LastUpdate_Ratings": "2024-10-21T21:57:24.5928978+00:00",
+  "LastUpdate_Ratings": "2024-10-21T23:00:55.2158359+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:48.392735+00:00"
 }

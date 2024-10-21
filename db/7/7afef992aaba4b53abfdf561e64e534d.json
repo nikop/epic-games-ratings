@@ -3,8 +3,8 @@
   "Name": "Prince of Persia Standard Edition",
   "ProductSlug": "prince-of-persia",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 744,
-  "Ranking_PopularitySum": 744,
+  "Ranking_Popularity": 745,
+  "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -81,6 +81,6 @@
   "FirstSeenRating": "2024-04-05T02:14:26.4577408+00:00",
   "LastChanged": "2024-10-19T23:58:19.9580142+00:00",
   "LastUpdate_AppInfo": "2024-10-17T13:14:21.8834398+00:00",
-  "LastUpdate_Ratings": "2024-10-21T20:58:19.5377889+00:00",
+  "LastUpdate_Ratings": "2024-10-21T22:57:58.0945826+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:00.8757571+00:00"
 }

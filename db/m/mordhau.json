@@ -2,7 +2,7 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 975,
+  "Ranking_Rating": 974,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 11,
@@ -13975,10 +13975,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 12626,
       "NumberOfAwardsMax": 2446
+    },
+    {
+      "Time": "2024-10-21T23:00:02.212368+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 12629,
+      "NumberOfAwardsMax": 2446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12626,
+  "NumberOfAwards": 12629,
   "NumberOfAwardsMax": 2446,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -14028,7 +14034,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1624
+      "Count": 1627
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -46948,9 +46954,9 @@
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2024-10-21T20:59:49.0035261+00:00",
+  "LastChanged": "2024-10-21T23:00:02.2123678+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:14.4668179+00:00",
   "LastUpdate_AppInfo": "2024-10-21T18:58:28.5887251+00:00",
-  "LastUpdate_Ratings": "2024-10-21T20:59:49.0035267+00:00",
+  "LastUpdate_Ratings": "2024-10-21T23:00:02.2123685+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:14.4670196+00:00"
 }

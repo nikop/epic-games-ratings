@@ -376,12 +376,12 @@ Completed: 0 (0.00%) (Ranked 622)
 | 2024-10-17 | 3,551 | 0 |
 ## Awards
 Max (Diverse Characters): 31  (Ranked 662)  
-Sum: 51 (Ranked 656)  
+Sum: 52 (Ranked 656)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -468,3 +468,4 @@ Diff (max vs sum): 6
 | 2024-10-09 | 4.48 | 29 | 49 |
 | 2024-10-13 | 4.48 | 30 | 50 |
 | 2024-10-15 | 4.48 | 31 | 51 |
+| 2024-10-21 | 4.48 | 31 | 52 |

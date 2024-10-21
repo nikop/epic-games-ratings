@@ -3,8 +3,8 @@
   "Name": "Trials Rising Standard Edition",
   "ProductSlug": "trials-rising",
   "Ranking_Rating": 250,
-  "Ranking_Popularity": 744,
-  "Ranking_PopularitySum": 744,
+  "Ranking_Popularity": 745,
+  "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -389,6 +389,6 @@
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
   "LastChanged": "2024-08-06T08:59:11.8562776+00:00",
   "LastUpdate_AppInfo": "2024-10-21T17:57:19.0522803+00:00",
-  "LastUpdate_Ratings": "2024-10-21T20:59:32.4759154+00:00",
+  "LastUpdate_Ratings": "2024-10-21T22:59:39.9485851+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:02.3584287+00:00"
 }
