@@ -2,7 +2,7 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 393,
+  "Ranking_Rating": 415,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "NumberOfRatings": 1848,
   "RatingHistory": [
     {
@@ -8341,18 +8341,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 4001,
       "NumberOfAwardsMax": 2380
+    },
+    {
+      "Time": "2024-10-21T19:01:37.0678813+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 4006,
+      "NumberOfAwardsMax": 2384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4001,
-  "NumberOfAwardsMax": 2380,
+  "NumberOfAwards": 4006,
+  "NumberOfAwardsMax": 2384,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2380
+      "Count": 2384
     },
     {
       "Text": "This game is Relaxing",
@@ -8370,7 +8376,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8432,8 +8438,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-10-20T21:59:41.7887784+00:00",
+  "LastChanged": "2024-10-21T19:01:37.0678811+00:00",
   "LastUpdate_AppInfo": "2024-10-21T15:57:15.7226423+00:00",
-  "LastUpdate_Ratings": "2024-10-21T17:00:35.6354176+00:00",
+  "LastUpdate_Ratings": "2024-10-21T19:01:37.0678816+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:16:03.7647663+00:00"
 }

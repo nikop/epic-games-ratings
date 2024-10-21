@@ -4,7 +4,7 @@
   "ProductSlug": "blood-bowl-3",
   "Ranking_Rating": 1291,
   "Ranking_Popularity": 643,
-  "Ranking_PopularitySum": 624,
+  "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -571,10 +571,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-10-21T19:00:11.3986325+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
+  "NumberOfAwards": 80,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -600,7 +606,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -615,8 +621,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T17:57:00.609773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
-  "LastChanged": "2024-10-21T04:00:43.7873897+00:00",
+  "LastChanged": "2024-10-21T19:00:11.3986323+00:00",
   "LastUpdate_AppInfo": "2024-10-21T17:57:48.2411348+00:00",
-  "LastUpdate_Ratings": "2024-10-21T16:59:15.1650385+00:00",
+  "LastUpdate_Ratings": "2024-10-21T19:00:11.3986329+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:18.4179411+00:00"
 }
