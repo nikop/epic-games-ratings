@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1306,
+  "Ranking_Rating": 1307,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 1327,
@@ -6046,10 +6046,16 @@
       "Rating": 3.87,
       "NumberOfAwards": 2616,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2024-10-21T15:58:14.3687778+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 2617,
+      "NumberOfAwardsMax": 550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2616,
+  "NumberOfAwards": 2617,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6087,7 +6093,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 432
+      "Count": 433
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6131,8 +6137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-10-20T09:58:34.3202493+00:00",
-  "LastUpdate_AppInfo": "2024-10-14T14:57:41.4340957+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:58:27.345938+00:00",
+  "LastChanged": "2024-10-21T15:58:14.3687776+00:00",
+  "LastUpdate_AppInfo": "2024-10-21T15:57:27.2991353+00:00",
+  "LastUpdate_Ratings": "2024-10-21T15:58:14.3687783+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:53.3125749+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "rainbow-six-siege",
   "Ranking_Rating": 656,
   "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -8217,10 +8217,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 18376,
       "NumberOfAwardsMax": 2291
+    },
+    {
+      "Time": "2024-10-21T15:58:40.0896012+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 18406,
+      "NumberOfAwardsMax": 2291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18376,
+  "NumberOfAwards": 18406,
   "NumberOfAwardsMax": 2291,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8258,7 +8264,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2050
+      "Count": 2063
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8276,7 +8282,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1709
+      "Count": 1726
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8302,8 +8308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-10-21T09:59:53.0570354+00:00",
+  "LastChanged": "2024-10-21T15:58:40.089601+00:00",
   "LastUpdate_AppInfo": "2024-10-21T02:12:15.0778981+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:58:46.2301166+00:00",
+  "LastUpdate_Ratings": "2024-10-21T15:58:40.0896017+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:29.2886547+00:00"
 }

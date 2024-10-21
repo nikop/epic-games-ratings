@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.39 (Ranked 932)  
+Rating: 4.39 (Ranked 933)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -324,8 +324,8 @@ Completed: 22 (0.32%) (Ranked 413)
 | 2024-10-17 | 6,955 | 22 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 604)  
-Sum: 45 (Ranked 669)  
-Diff (max vs sum): -65  
+Sum: 45 (Ranked 670)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

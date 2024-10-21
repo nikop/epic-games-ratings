@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_Rating": 231,
   "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 660,
+  "Ranking_PopularitySum": 661,
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 82,
@@ -2395,6 +2395,6 @@
   "LastChanged": "2024-10-20T13:59:21.6539244+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:36.0534571+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:13.3727968+00:00",
-  "LastUpdate_Ratings": "2024-10-21T14:57:25.7235153+00:00",
+  "LastUpdate_Ratings": "2024-10-21T16:01:36.8829241+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:36.0534976+00:00"
 }
