@@ -1,7 +1,7 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.28 (Ranked 1,066)  
+Rating: 4.28 (Ranked 1,065)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -338,8 +338,8 @@ Completed: 3 (0.00%) (Ranked 622)
 | 2024-09-14 | 251,368 | 3 |
 | 2024-10-17 | 253,651 | 3 |
 ## Awards
-Max (Great for Beginners): 34  (Ranked 644)  
-Sum: 34 (Ranked 689)  
+Max (Great for Beginners): 34  (Ranked 643)  
+Sum: 34 (Ranked 688)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |

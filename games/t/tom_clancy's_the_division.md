@@ -1,11 +1,11 @@
 # Tom Clancy's The Division
 [Store](https://store.epicgames.com/en-US/p/the-division)  
 [View Rawdata](../../db/t/tom_clancy's_the_division.json)  
-Rating: 4.59 (Ranked 522)  
+Rating: 4.59 (Ranked 523)  
 Number of Ratings: 247  (23.09.2022)  
 ## Awards
 Max (Character Customization): 617  (Ranked 257)  
-Sum: 1,834 (Ranked 276)  
+Sum: 1,836 (Ranked 276)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -19
 | This game is Relaxing | 84 |
 | This game has Amazing Storytelling | 83 |
 | This game is Highly Recommended | 83 |
-| This game has Challenging Combat | 75 |
+| This game has Challenging Combat | 77 |
 | This game is Extremely Fun | 70 |
 | This game has Amazing Characters | 69 |
 | This game has Quickly Understood Controls | 68 |
@@ -560,4 +560,4 @@ Diff (max vs sum): -19
 | 2024-10-17 | 4.59 | - | 614 | 1,828 |
 | 2024-10-19 | 4.59 | - | 617 | 1,831 |
 | 2024-10-20 | 4.59 | - | 617 | 1,833 |
-| 2024-10-21 | 4.59 | - | 617 | 1,834 |
+| 2024-10-21 | 4.59 | - | 617 | 1,836 |

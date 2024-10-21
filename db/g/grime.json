@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 104,
@@ -3683,10 +3683,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 846,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-10-21T17:59:10.6642026+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 847,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 846,
+  "NumberOfAwards": 847,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3730,7 +3736,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -26889,9 +26895,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-10-19T23:59:31.5705859+00:00",
+  "LastChanged": "2024-10-21T17:59:10.6642024+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:11.6972858+00:00",
-  "LastUpdate_AppInfo": "2024-10-14T16:58:15.8233788+00:00",
-  "LastUpdate_Ratings": "2024-10-21T15:59:43.8078541+00:00",
+  "LastUpdate_AppInfo": "2024-10-21T17:57:18.6252048+00:00",
+  "LastUpdate_Ratings": "2024-10-21T17:59:10.664203+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:11.6973945+00:00"
 }

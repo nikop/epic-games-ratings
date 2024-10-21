@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 522)  
+Rating: 4.59 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -324,9 +324,9 @@ Completed: 7 (0.00%) (Ranked 622)
 | 2024-09-14 | 241,532 | 7 |
 | 2024-10-17 | 241,938 | 7 |
 ## Awards
-Max (Diverse Characters): 35  (Ranked 639)  
+Max (Diverse Characters): 35  (Ranked 638)  
 Sum: 133 (Ranked 579)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 35 |

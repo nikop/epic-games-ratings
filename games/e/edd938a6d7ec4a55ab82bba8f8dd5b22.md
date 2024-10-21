@@ -3,8 +3,8 @@
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
 Rating: 3.85 (Ranked 1,313)  
 ## Awards
-Max (Extremely Fun): 22  (Ranked 726)  
-Sum: 64 (Ranked 640)  
+Max (Extremely Fun): 22  (Ranked 725)  
+Sum: 64 (Ranked 639)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
