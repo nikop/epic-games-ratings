@@ -1,7 +1,7 @@
 # Overcooked! 2
 [Store](https://store.epicgames.com/en-US/p/overcooked-2)  
 [View Rawdata](../../db/o/overcooked!_2.json)  
-Rating: 4.69 (Ranked 275)  
+Rating: 4.69 (Ranked 273)  
 Number of Ratings: 5,157  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 413  (Ranked 295)  
