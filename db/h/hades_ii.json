@@ -4,7 +4,7 @@
   "ProductSlug": "hades-ii",
   "Ranking_Rating": 9,
   "Ranking_Popularity": 358,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1176,10 +1176,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 570,
       "NumberOfAwardsMax": 240
+    },
+    {
+      "Time": "2024-10-21T14:58:52.5718969+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 570,
+  "NumberOfAwards": 574,
   "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1211,7 +1217,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1250,8 +1256,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T20:57:55.3749991+00:00",
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
-  "LastChanged": "2024-10-20T19:58:23.1297393+00:00",
+  "LastChanged": "2024-10-21T14:58:52.5718967+00:00",
   "LastUpdate_AppInfo": "2024-10-21T13:15:07.2010749+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:17:11.2356795+00:00",
+  "LastUpdate_Ratings": "2024-10-21T14:58:52.5718971+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:58.4890603+00:00"
 }

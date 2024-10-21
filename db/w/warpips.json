@@ -2,7 +2,7 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 1327,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -1867,6 +1867,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 409,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-10-21T14:57:50.5203932+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
@@ -1967,9 +1973,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-10-20T13:59:37.8718464+00:00",
+  "LastChanged": "2024-10-21T14:57:50.520393+00:00",
   "LastChanged_Achievements": "2024-10-17T05:08:40.6109761+00:00",
   "LastUpdate_AppInfo": "2024-10-21T11:57:11.90612+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:16:31.4135599+00:00",
+  "LastUpdate_Ratings": "2024-10-21T14:57:50.5203935+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:40.6109793+00:00"
 }

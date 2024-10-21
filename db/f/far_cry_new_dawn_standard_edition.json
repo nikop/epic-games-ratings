@@ -2,7 +2,7 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 338,
   "RatingHistory": [
     {
@@ -1858,6 +1858,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 388
+    },
+    {
+      "Time": "2024-10-21T14:57:51.2879321+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 539,
+      "NumberOfAwardsMax": 388
     }
   ],
   "ReviewsDisabled": false,
@@ -1919,8 +1925,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2024-10-18T02:10:17.0006598+00:00",
+  "LastChanged": "2024-10-21T14:57:51.287932+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:29.5689292+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:16:31.65526+00:00",
+  "LastUpdate_Ratings": "2024-10-21T14:57:51.2879324+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:32.6898834+00:00"
 }

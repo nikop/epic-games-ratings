@@ -13203,11 +13203,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 9835,
       "NumberOfAwardsMax": 1123
+    },
+    {
+      "Time": "2024-10-21T14:57:22.4947406+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 9838,
+      "NumberOfAwardsMax": 1125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9835,
-  "NumberOfAwardsMax": 1123,
+  "NumberOfAwards": 9838,
+  "NumberOfAwardsMax": 1125,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -13250,7 +13256,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1123
+      "Count": 1125
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13268,7 +13274,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 634
+      "Count": 635
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13296,9 +13302,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-10-21T05:57:25.6111177+00:00",
+  "LastChanged": "2024-10-21T14:57:22.4947405+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:48.975259+00:00",
   "LastUpdate_AppInfo": "2024-10-21T11:57:08.2835168+00:00",
-  "LastUpdate_Ratings": "2024-10-21T13:16:13.766227+00:00",
+  "LastUpdate_Ratings": "2024-10-21T14:57:22.4947411+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:48.9752619+00:00"
 }

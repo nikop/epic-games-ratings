@@ -1,7 +1,7 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.87 (Ranked 1,305)  
+Rating: 3.87 (Ranked 1,306)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -344,9 +344,9 @@ Completed: 4 (0.00%) (Ranked 622)
 | 2024-10-09 | 587,424 | 4 |
 | 2024-10-17 | 588,038 | 4 |
 ## Awards
-Max (Great for Beginners): 138  (Ranked 437)  
+Max (Great for Beginners): 138  (Ranked 438)  
 Sum: 409 (Ranked 450)  
-Diff (max vs sum): -13  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 138 |
