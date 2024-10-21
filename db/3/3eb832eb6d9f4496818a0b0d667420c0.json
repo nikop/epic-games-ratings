@@ -2,7 +2,7 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 34,
@@ -3420,10 +3420,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1262,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2024-10-21T17:00:17.3350594+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1263,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1262,
+  "NumberOfAwards": 1263,
   "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3437,7 +3443,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 160
+      "Count": 161
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8487,9 +8493,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-10-21T03:18:20.2800548+00:00",
+  "LastChanged": "2024-10-21T17:00:17.3350593+00:00",
   "LastChanged_Achievements": "2024-10-17T05:11:33.2105295+00:00",
   "LastUpdate_AppInfo": "2024-10-16T14:57:03.5775765+00:00",
-  "LastUpdate_Ratings": "2024-10-21T15:01:14.3496659+00:00",
+  "LastUpdate_Ratings": "2024-10-21T17:00:17.3350599+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:33.2106057+00:00"
 }

@@ -339,13 +339,13 @@ Completed: 6 (0.01%) (Ranked 591)
 | 2024-10-17 | 79,257 | 6 |
 ## Awards
 Max (Great for Quick Sessions): 70  (Ranked 535)  
-Sum: 487 (Ranked 429)  
+Sum: 488 (Ranked 429)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 70 |
 | This game is Great for Beginners | 63 |
-| This game is Highly Recommended | 57 |
+| This game is Highly Recommended | 58 |
 | This game is Extremely Fun | 52 |
 | This game has Beautiful Visuals | 50 |
 | This game has Quickly Understood Controls | 48 |
@@ -592,3 +592,4 @@ Diff (max vs sum): 106
 | 2024-10-17 | 4.67 | - | 67 | 482 |
 | 2024-10-18 | 4.67 | - | 68 | 483 |
 | 2024-10-19 | 4.67 | - | 70 | 487 |
+| 2024-10-21 | 4.67 | - | 70 | 488 |
