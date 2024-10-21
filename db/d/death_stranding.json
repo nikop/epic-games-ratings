@@ -2,7 +2,7 @@
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
   "ProductSlug": "death-stranding",
-  "Ranking_Rating": 137,
+  "Ranking_Rating": 138,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 4,
@@ -15171,10 +15171,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 19450,
       "NumberOfAwardsMax": 13194
+    },
+    {
+      "Time": "2024-10-21T13:58:25.1648777+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 19458,
+      "NumberOfAwardsMax": 13194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19450,
+  "NumberOfAwards": 19458,
   "NumberOfAwardsMax": 13194,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -15188,7 +15194,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 665
+      "Count": 669
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15200,7 +15206,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 668
+      "Count": 670
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15212,7 +15218,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 704
+      "Count": 706
     },
     {
       "Text": "This game is Highly Recommended",
@@ -48406,9 +48412,9 @@
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
-  "LastChanged": "2024-10-21T09:59:29.81451+00:00",
+  "LastChanged": "2024-10-21T13:58:25.1648775+00:00",
   "LastChanged_Achievements": "2024-10-17T05:10:36.6412531+00:00",
   "LastUpdate_AppInfo": "2024-10-21T02:12:14.1546486+00:00",
-  "LastUpdate_Ratings": "2024-10-21T11:58:41.7357521+00:00",
+  "LastUpdate_Ratings": "2024-10-21T13:58:25.1648779+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:36.6414787+00:00"
 }

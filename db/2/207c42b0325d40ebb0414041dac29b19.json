@@ -2,7 +2,7 @@
   "ID": "207c42b0325d40ebb0414041dac29b19",
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
-  "Ranking_Rating": 416,
+  "Ranking_Rating": 415,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 1327,
@@ -10451,10 +10451,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 18886,
       "NumberOfAwardsMax": 5437
+    },
+    {
+      "Time": "2024-10-21T13:57:26.6601071+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 18889,
+      "NumberOfAwardsMax": 5437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18886,
+  "NumberOfAwards": 18889,
   "NumberOfAwardsMax": 5437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10492,7 +10498,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1160
+      "Count": 1163
     },
     {
       "Text": "This game is Relaxing",
@@ -10543,8 +10549,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-10-21T11:57:44.4332147+00:00",
+  "LastChanged": "2024-10-21T13:57:26.6601069+00:00",
   "LastUpdate_AppInfo": "2024-10-18T16:57:32.6511847+00:00",
-  "LastUpdate_Ratings": "2024-10-21T11:57:44.4332157+00:00",
+  "LastUpdate_Ratings": "2024-10-21T13:57:26.6601074+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:59.0926823+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
-  "Ranking_Rating": 1065,
+  "Ranking_Rating": 1074,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "NumberOfRatings": 432,
   "RatingHistory": [
     {
@@ -1207,6 +1207,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-10-21T13:58:24.2943435+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
@@ -1286,8 +1292,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-10-19T13:13:09.4367014+00:00",
+  "LastChanged": "2024-10-21T13:58:24.2943433+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:39.7593195+00:00",
-  "LastUpdate_Ratings": "2024-10-21T11:58:40.8841553+00:00",
+  "LastUpdate_Ratings": "2024-10-21T13:58:24.2943438+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:20.9325313+00:00"
 }
