@@ -10445,10 +10445,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 18879,
       "NumberOfAwardsMax": 5437
+    },
+    {
+      "Time": "2024-10-21T11:57:44.4332149+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 18886,
+      "NumberOfAwardsMax": 5437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18879,
+  "NumberOfAwards": 18886,
   "NumberOfAwardsMax": 5437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10474,7 +10480,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1347
+      "Count": 1354
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10537,8 +10543,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-10-21T07:59:02.9931944+00:00",
+  "LastChanged": "2024-10-21T11:57:44.4332147+00:00",
   "LastUpdate_AppInfo": "2024-10-18T16:57:32.6511847+00:00",
-  "LastUpdate_Ratings": "2024-10-21T09:58:22.6930725+00:00",
+  "LastUpdate_Ratings": "2024-10-21T11:57:44.4332157+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:59.0926823+00:00"
 }

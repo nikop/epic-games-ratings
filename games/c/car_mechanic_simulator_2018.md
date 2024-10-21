@@ -4,9 +4,9 @@
 Rating: 4.49 (Ranked 744)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 2,190  (Ranked 141)  
+Max (Great for Beginners): 2,190  (Ranked 142)  
 Sum: 16,533 (Ranked 95)  
-Diff (max vs sum): 46  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 2,190 |
