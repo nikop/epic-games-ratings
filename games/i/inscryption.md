@@ -4,12 +4,12 @@
 Rating: 4.87 (Ranked 19)  
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 418  (Ranked 293)  
-Sum: 631 (Ranked 401)  
+Max (Challenging Puzzles): 419  (Ranked 293)  
+Sum: 632 (Ranked 401)  
 Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 418 |
+| This game features Challenging Puzzles | 419 |
 | This game has Amazing Storytelling | 31 |
 | This game has Diverse Characters | 27 |
 | This game has Amazing Characters | 23 |
@@ -202,3 +202,4 @@ Diff (max vs sum): -108
 | 2024-10-13 | 4.87 | - | 417 | 629 |
 | 2024-10-16 | 4.87 | - | 417 | 630 |
 | 2024-10-19 | 4.87 | - | 418 | 631 |
+| 2024-10-21 | 4.87 | - | 419 | 632 |

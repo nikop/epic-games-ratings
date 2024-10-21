@@ -4,7 +4,7 @@
   "ProductSlug": "my-pet-hooligan-453949",
   "Ranking_Rating": 610,
   "Ranking_Popularity": 702,
-  "Ranking_PopularitySum": 630,
+  "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -611,10 +611,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-21T09:57:18.341096+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
+  "NumberOfAwards": 73,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -622,7 +628,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -649,8 +655,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T18:57:37.0162399+00:00",
   "FirstSeenRating": "2023-10-13T04:00:02.8847941+00:00",
-  "LastChanged": "2024-10-15T22:58:52.140976+00:00",
+  "LastChanged": "2024-10-21T09:57:18.3410958+00:00",
   "LastUpdate_AppInfo": "2024-10-17T13:14:25.8777989+00:00",
-  "LastUpdate_Ratings": "2024-10-21T07:58:00.0077802+00:00",
+  "LastUpdate_Ratings": "2024-10-21T09:57:18.3410964+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:11.5110067+00:00"
 }
