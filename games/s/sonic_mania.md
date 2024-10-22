@@ -1,15 +1,15 @@
 # Sonic Mania
 [Store](https://store.epicgames.com/en-US/p/sonic-mania)  
 [View Rawdata](../../db/s/sonic_mania.json)  
-Rating: 4.77 (Ranked 138)  
+Rating: 4.76 (Ranked 151)  
 Number of Ratings: 2,185  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,147  (Ranked 193)  
-Sum: 1,982 (Ranked 270)  
+Max (Great Boss Battles): 1,149  (Ranked 193)  
+Sum: 1,984 (Ranked 270)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,147 |
+| This game has Great Boss Battles | 1,149 |
 | This game is Highly Recommended | 96 |
 | This game is Great for Quick Sessions | 92 |
 | This game has Amazing Storytelling | 88 |
@@ -358,3 +358,4 @@ Diff (max vs sum): -77
 | 2024-10-17 | 4.77 | - | 1,143 | 1,971 |
 | 2024-10-19 | 4.77 | - | 1,145 | 1,978 |
 | 2024-10-20 | 4.77 | - | 1,147 | 1,982 |
+| 2024-10-22 | 4.76 | - | 1,149 | 1,984 |

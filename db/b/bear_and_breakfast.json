@@ -4,7 +4,7 @@
   "ProductSlug": "bear-and-breakfast-77c209",
   "Ranking_Rating": 467,
   "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 467,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -504,10 +504,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 373,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-10-22T10:58:13.5215497+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373,
+  "NumberOfAwards": 376,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -557,7 +563,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 27
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -590,8 +596,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2024-10-22T08:59:01.9862429+00:00",
+  "LastChanged": "2024-10-22T10:58:13.5215495+00:00",
   "LastUpdate_AppInfo": "2024-10-21T17:57:19.4742861+00:00",
-  "LastUpdate_Ratings": "2024-10-22T08:59:01.9862434+00:00",
+  "LastUpdate_Ratings": "2024-10-22T10:58:13.52155+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:08:16.3836941+00:00"
 }
