@@ -4,7 +4,7 @@
 Rating: 4.58 (Ranked 544)  
 ## Awards
 Max (Great Boss Battles): 260  (Ranked 345)  
-Sum: 457 (Ranked 439)  
+Sum: 458 (Ranked 439)  
 Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -94
 | This game has Challenging Combat | 27 |
 | This game is Highly Recommended | 27 |
 | This game is Extremely Fun | 26 |
-| This game has Unique Visuals | 24 |
+| This game has Unique Visuals | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -266,3 +266,4 @@ Diff (max vs sum): -94
 | 2024-10-15 | 4.58 | 258 | 455 |
 | 2024-10-18 | 4.58 | 259 | 456 |
 | 2024-10-19 | 4.58 | 260 | 457 |
+| 2024-10-22 | 4.58 | 260 | 458 |

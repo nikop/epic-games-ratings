@@ -3,8 +3,8 @@
   "Name": "Plants vs. Zombies\u2122 Game of the Year Edition",
   "ProductSlug": "plants-vs-zombies-game-of-the-year-edition-e8b166",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 733,
-  "Ranking_PopularitySum": 735,
+  "Ranking_Popularity": 718,
+  "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -192,18 +192,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-10-22T13:15:26.8243318+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 21
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -218,8 +224,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-03T08:57:12.7978211+00:00",
   "FirstSeenRating": "2024-07-27T19:59:42.3963844+00:00",
-  "LastChanged": "2024-10-20T06:58:06.6838399+00:00",
+  "LastChanged": "2024-10-22T13:15:26.8243316+00:00",
   "LastUpdate_AppInfo": "2024-10-18T14:57:07.9026843+00:00",
-  "LastUpdate_Ratings": "2024-10-22T10:58:08.9943616+00:00",
+  "LastUpdate_Ratings": "2024-10-22T13:15:26.824332+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:25.1476049+00:00"
 }

@@ -3,19 +3,19 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.39 (Ranked 933)  
 ## Awards
-Max (Character Customization): 7,384  (Ranked 76)  
-Sum: 22,928 (Ranked 75)  
+Max (Character Customization): 7,394  (Ranked 76)  
+Sum: 22,943 (Ranked 75)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,384 |
+| This game has Inclusive Character Customization | 7,394 |
 | This game is Great for Beginners | 2,962 |
 | This game has Diverse Characters | 2,637 |
 | This game is Highly Recommended | 1,992 |
 | This game has Amazing Characters | 1,775 |
 | This game has Amazing Storytelling | 1,670 |
 | This game is Extremely Fun | 1,625 |
-| This game has Quickly Understood Controls | 1,467 |
+| This game has Quickly Understood Controls | 1,472 |
 | This game is Relaxing | 1,416 |
 | This game has Beautiful Visuals | 42 |
 ## Ratings History
@@ -480,4 +480,4 @@ Diff (max vs sum): 1
 | 2024-10-19 | 4.39 | 7,361 | 22,823 |
 | 2024-10-20 | 4.39 | 7,372 | 22,873 |
 | 2024-10-21 | 4.39 | 7,384 | 22,918 |
-| 2024-10-22 | 4.39 | 7,384 | 22,928 |
+| 2024-10-22 | 4.39 | 7,394 | 22,943 |
