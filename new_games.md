@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [AWAKEN - Astral Blade](games/9/952df933162b4007b4b07d38b1998f3b.md) | 2024-10-22 | - |  | - | - |
+| [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2024-10-22 | - |  | - | 0 |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-10-22 | - |  | - | - |
 | [Legion TD 2](games/5/524c3386e7e6470a8d8400cc51d92296.md) | 2024-10-22 | 78 (1,000 XP) | 2 | - | - |
 | [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | 0 |
@@ -24,7 +26,7 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | 14 (1,000 XP) | 30 | - | 0 |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-11 | - |  | - | - |
 | [Control](games/0/0d36d28dad0942d8be178cb68f6793af.md) | 2024-10-10 | - |  | - | - |
-| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.86 | 24 |
+| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.86 | 29 |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | 0 |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,853 | 4.32 | 51 |

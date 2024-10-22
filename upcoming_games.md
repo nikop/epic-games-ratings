@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2024-10-22 | - |  | - | - |
 | [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-10-22 | - |  | - | - |
 | [Love is All Around: Echoes of Yesterday](games/a/ae351841163c41e1b639fc2a958e72fe.md) | 2024-10-23 | 56 (1,000 XP) | 4 | - | - |
 | [The Exiled](games/a/aa6fb39bea8e41a5abdb3df5bc2d5c9b.md) | 2024-10-23 | - |  | - | - |
@@ -257,7 +256,6 @@
 | [ASURAJANG](games/e/ebb3f03b15314d2fa834c22735fba2cd.md) | 2099-01-01 | - |  | - | - |
 | [Atmospheric Titan](games/b/b674ad6190ed43309c42221fbebed373.md) | 2099-01-01 | - |  | - | - |
 | [Automate It](games/a/a0f980262590468d989261e3c0f291ed.md) | 2099-01-01 | 39 (1,000 XP) | 0 | - | - |
-| [AWAKEN - Astral Blade](games/9/952df933162b4007b4b07d38b1998f3b.md) | 2099-01-01 | - |  | - | - |
 | [Backrooms Lost Dimension](games/e/e01fcd0a8d4d44ca8a7f90021d2ffd88.md) | 2099-01-01 | - |  | - | - |
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
 | [Bandit Trap](games/7/7f438000e27e42409cf87125db2bbed0.md) | 2099-01-01 | - |  | - | - |
