@@ -44,7 +44,7 @@
 | 42 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 15,394 | 4.58 | 544 |
 | 43 | [Maneater](games/m/maneater.md) | 14,660 | 4.49 | 744 |
 | 44 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 14,430 | 4.51 | 699 |
-| 45 | [HITMAN World of Assassination](games/h/hitman_3.md) | 14,343 | 4.76 | 152 |
+| 45 | [HITMAN World of Assassination](games/h/hitman_3.md) | 14,346 | 4.76 | 152 |
 | 46 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 14,113 | 4.57 | 567 |
 | 47 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 13,666 | 4.69 | 273 |
 | 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 13,494 | 4.01 | 1,264 |
@@ -54,7 +54,7 @@
 | 52 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 12,315 | 4.44 | 839 |
 | 53 | [NBA 2K21](games/n/nba_2k21.md) | 11,951 | 4.38 | 952 |
 | 54 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 11,898 | 4.89 | 12 |
-| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 11,647 | 4.68 | 303 |
+| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 11,662 | 4.68 | 303 |
 | 56 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 11,407 | 4.74 | 190 |
 | 57 | [Remnant II®](games/r/remnant_2.md) | 11,123 | 4.70 | 250 |
 | 58 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 10,907 | 4.55 | 610 |
@@ -90,8 +90,8 @@
 | 88 | [Prey](games/p/prey.md) | 6,366 | 4.63 | 416 |
 | 89 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,351 | 4.64 | 393 |
 | 90 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,347 | 4.84 | 50 |
-| 91 | [MultiVersus](games/m/multiversus.md) | 5,883 | 4.54 | 636 |
-| 92 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 5,815 | 4.78 | 128 |
+| 91 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 5,906 | 4.78 | 128 |
+| 92 | [MultiVersus](games/m/multiversus.md) | 5,883 | 4.54 | 636 |
 | 93 | [Days Gone](games/d/days_gone.md) | 5,733 | 4.69 | 273 |
 | 94 | [Shop Titans](games/s/shop_titans.md) | 5,608 | 4.01 | 1,264 |
 | 95 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,512 | 4.70 | 250 |
@@ -121,7 +121,7 @@
 | 119 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 3,231 | 4.79 | 118 |
 | 120 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 3,131 | 4.76 | 152 |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,792 | 4.75 | 168 |
-| 122 | [World of Warships](games/w/world_of_warships.md) | 2,744 | 4.40 | 913 |
+| 122 | [World of Warships](games/w/world_of_warships.md) | 2,748 | 4.40 | 913 |
 | 123 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,714 | 4.81 | 92 |
 | 124 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,688 | 4.62 | 440 |
 | 125 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,607 | 4.56 | 588 |
@@ -132,7 +132,7 @@
 | 130 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,496 | 4.86 | 30 |
 | 131 | [MORDHAU](games/m/mordhau.md) | 2,446 | 4.36 | 974 |
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,437 | 4.69 | 273 |
-| 133 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,412 | 4.41 | 895 |
+| 133 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,413 | 4.41 | 895 |
 | 134 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,384 | 4.63 | 416 |
 | 135 | [Celeste](games/c/celeste.md) | 2,336 | 4.91 | 6 |
 | 136 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,315 | 4.50 | 720 |
@@ -152,7 +152,7 @@
 | 150 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,938 | 4.79 | 118 |
 | 151 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,937 | 4.76 | 152 |
 | 152 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,888 | 4.63 | 416 |
-| 153 | [XCOM® 2](games/x/xcom®_2.md) | 1,845 | 4.55 | 610 |
+| 153 | [XCOM® 2](games/x/xcom®_2.md) | 1,849 | 4.55 | 610 |
 | 154 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 1,841 | 4.52 | 679 |
 | 155 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,797 | 4.76 | 152 |
 | 156 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,777 | 4.62 | 440 |
@@ -284,7 +284,7 @@
 | 282 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 465 | 4.68 | 303 |
 | 283 | [Unreal Tournament](games/u/unreal_tournament.md) | 464 | 4.66 | 342 |
 | 284 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 443 | 4.53 | 656 |
-| 285 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 435 | 4.58 | 544 |
+| 285 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 436 | 4.58 | 544 |
 | 286 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 431 | 4.47 | 789 |
 | 287 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 427 | 4.55 | 610 |
 | 288 | [MudRunner](games/m/mudrunner.md) | 426 | 4.60 | 494 |
@@ -709,7 +709,7 @@
 | 707 | [Ashen](games/a/ashen.md) | 24 | 4.30 | 1,044 |
 | 707 | [Creature in the Well](games/c/creature_in_the_well.md) | 24 | 4.26 | 1,086 |
 | 707 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 24 | 4.08 | 1,238 |
-| 707 | [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 24 | 3.85 | 1,313 |
+| 707 | [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 24 | 3.86 | 1,310 |
 | 707 | [Figment](games/f/figment.md) | 24 | 4.50 | 720 |
 | 707 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 24 | 4.78 | 128 |
 | 707 | [Moving Out](games/m/moving_out.md) | 24 | 4.59 | 520 |
