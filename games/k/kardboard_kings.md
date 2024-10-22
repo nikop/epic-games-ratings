@@ -1,7 +1,7 @@
 # Kardboard Kings
 [Store](https://store.epicgames.com/en-US/p/kardboard-kings-0962f8)  
 [View Rawdata](../../db/k/kardboard_kings.json)  
-Rating: 3.72 (Ranked 1,329)  
+Rating: 3.75 (Ranked 1,326)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -9,3 +9,4 @@ Rating: 3.72 (Ranked 1,329)
 | 2024-10-19 | 3.57 | 0 | 0 |
 | 2024-10-20 | 3.73 | 0 | 0 |
 | 2024-10-21 | 3.73 | 0 | 0 |
+| 2024-10-22 | 3.75 | 0 | 0 |
