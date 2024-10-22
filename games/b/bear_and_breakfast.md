@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 467)  
 ## Awards
 Max (Great for Beginners): 56  (Ranked 570)  
-Sum: 366 (Ranked 470)  
+Sum: 369 (Ranked 470)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): 100
 | This game is Highly Recommended | 30 |
 | This game has Easy Combat | 28 |
 | This game has a Creative Community | 27 |
+| This game has Amazing Storytelling | 25 |
 | This game has Quickly Understood Controls | 23 |
-| This game has Amazing Storytelling | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -52,4 +52,4 @@ Diff (max vs sum): 100
 | 2024-10-19 | 4.61 | 43 | 265 |
 | 2024-10-20 | 4.61 | 43 | 334 |
 | 2024-10-21 | 4.61 | 53 | 363 |
-| 2024-10-22 | 4.61 | 56 | 366 |
+| 2024-10-22 | 4.61 | 56 | 369 |
