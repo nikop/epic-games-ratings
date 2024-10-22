@@ -35,7 +35,7 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | 14 (1,000 XP) | 30 | - | 0 |
 | [Legion TD 2](games/5/524c3386e7e6470a8d8400cc51d92296.md) | 2099-01-01 | 78 (1,000 XP) | 2 | - | - |
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | 14 (1,000 XP) | 2 | - | - |
-| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | - |
+| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | 0 |
 | [Mark of the Deep](games/3/3d6441ab9d4246208bc97d7babf664b5.md) | 2099-01-01 | 10 (1,000 XP) | 3 | - | - |
 | [Paug](games/0/0c7a53f95cef4566b38b667345c437c0.md) | 2024-10-03 | 5 (1,000 XP) | 7 | - | - |
 | [NeuraGun](games/1/14dd4527fdce49f6a7b2911fef500f2c.md) | 2024-10-01 | 5 (1,000 XP) | 24 | - | - |
@@ -682,7 +682,7 @@
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 25 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 37 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,570 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,579 |
 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 2,070 | 4.71 | 50 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 20,367 | 4.70 | 115 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 701 | 4.74 | 0 |

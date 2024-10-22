@@ -47,7 +47,7 @@
 | [Orange Season](games/f/f4a6b55c57fa44a6ad819905f78ec85c.md) | 2024-10-24 | 32 (1,000 XP) | 3 | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-10-23 | 16 (1,000 XP) | 3 | - | - |
 | [Love is All Around: Echoes of Yesterday](games/a/ae351841163c41e1b639fc2a958e72fe.md) | 2024-10-23 | 56 (1,000 XP) | 4 | - | - |
-| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | - |
+| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | 0 |
 | [Bloodhound](games/0/006f821255bb41a0bf7bfdfa942667a8.md) | 2024-10-19 | 102 (1,000 XP) | 1 | - | - |
 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-10-18 | 41 (2,000 XP) | 1 | - | 0 |
 | [Hot Wheels Monster Trucks: Stunt Mayhem™](games/0/05014262081d48fb9eb3e071c97f4969.md) | 2024-10-18 | 19 (1,000 XP) | 0 | - | - |
@@ -632,7 +632,7 @@
 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 2023-10-31 | 14 (1,000 XP) | 26 | - | 0 |
 | [Revans](games/d/dc5c7673e02543d6b57e9579d970702f.md) | 2023-10-31 | 64 (1,000 XP) | 0 | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 14 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,570 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 476,725 | 4.81 | 1,579 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 616 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 181 | - | 0 |
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 197 | - | 0 |
@@ -1095,7 +1095,7 @@
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 5,108 | 4.59 | 0 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,873 | 4.40 | 21 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 3,491 | 4.45 | 0 |
-| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,444,672 | 4.01 | 13,487 |
+| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,444,672 | 4.01 | 13,494 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 680,935 | 4.14 | 904 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 89,132 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 434 | - | 0 |

@@ -92,7 +92,7 @@
 | 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.82 | 0 | 745 |
 | 78 | [TOEM](games/t/toem.md) | 4.82 | 0 | 745 |
 | 92 | [Aground](games/a/aground.md) | 4.81 | 0 | 745 |
-| 92 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,570 | 163 |
+| 92 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,579 | 163 |
 | 92 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,714 | 123 |
 | 92 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.81 | 89 | 505 |
 | 92 | [Coffee Talk](games/c/coffee_talk.md) | 4.81 | 0 | 745 |
@@ -232,7 +232,7 @@
 | 217 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.72 | 0 | 745 |
 | 231 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.71 | 0 | 745 |
 | 231 | [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 4.71 | 0 | 745 |
-| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 780 | 234 |
+| 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 783 | 234 |
 | 231 | [Foretales](games/f/foretales.md) | 4.71 | 0 | 745 |
 | 231 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 20 | 740 |
 | 231 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 0 | 745 |
@@ -672,7 +672,7 @@
 | 656 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 170 | 409 |
 | 656 | [Tavern Master](games/t/tavern_master.md) | 4.53 | 0 | 745 |
 | 656 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,411 | 172 |
-| 656 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.53 | 2,291 | 137 |
+| 656 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.53 | 2,307 | 137 |
 | 656 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 443 | 284 |
 | 656 | [Verdun](games/v/verdun.md) | 4.53 | 130 | 448 |
 | 656 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.53 | 30 | 669 |
@@ -937,7 +937,7 @@
 | 933 | [Biped](games/b/biped.md) | 4.39 | 0 | 745 |
 | 933 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 745 |
 | 933 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 0 | 745 |
-| 933 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 4.39 | 1,501 | 167 |
+| 933 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 4.39 | 1,523 | 167 |
 | 933 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.39 | 49 | 588 |
 | 933 | [Democracy 4](games/d/democracy_4.md) | 4.39 | 0 | 745 |
 | 933 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.39 | 0 | 745 |
@@ -1038,7 +1038,7 @@
 | 1,036 | [ELEX II](games/e/elex_ii.md) | 4.31 | 0 | 745 |
 | 1,036 | [Intonight](games/0/05b4ad092cdc434b8a078c9a645f31a9.md) | 4.31 | 0 | 745 |
 | 1,036 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.31 | 612 | 258 |
-| 1,036 | [Paladins](games/p/paladins.md) | 4.31 | 5,060 | 100 |
+| 1,036 | [Paladins](games/p/paladins.md) | 4.31 | 5,062 | 100 |
 | 1,036 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,036 | 205 |
 | 1,036 | [The Riflemen](games/t/the_riflemen.md) | 4.31 | 0 | 745 |
 | 1,036 | [Vampyr](games/v/vampyr.md) | 4.31 | 653 | 250 |
@@ -1265,7 +1265,7 @@
 | 1,263 | [Potion Permit](games/p/potion_permit.md) | 4.02 | 0 | 745 |
 | 1,264 | [Homeworld 3](games/h/homeworld_3.md) | 4.01 | 0 | 745 |
 | 1,264 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 34 | 644 |
-| 1,264 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 13,487 | 48 |
+| 1,264 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 13,494 | 48 |
 | 1,264 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 4.01 | 0 | 745 |
 | 1,264 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,608 | 94 |
 | 1,269 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 745 |
@@ -1287,7 +1287,7 @@
 | 1,283 | [Sphere 3](games/s/sphere_3.md) | 3.96 | 0 | 745 |
 | 1,283 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 0 | 745 |
 | 1,287 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 48 | 592 |
-| 1,287 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 270 | 338 |
+| 1,287 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 272 | 338 |
 | 1,287 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 745 |
 | 1,287 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 3.95 | 0 | 745 |
 | 1,291 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.94 | 34 | 644 |

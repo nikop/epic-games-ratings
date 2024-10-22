@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | 0 |
 | [Bloodhound](games/0/006f821255bb41a0bf7bfdfa942667a8.md) | 2024-10-19 | 102 (1,000 XP) | 1 | - | - |
 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-10-18 | 41 (2,000 XP) | 1 | - | 0 |
 | [Hot Wheels Monster Trucks: Stunt Mayhem™](games/0/05014262081d48fb9eb3e071c97f4969.md) | 2024-10-18 | 19 (1,000 XP) | 0 | - | - |

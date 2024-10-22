@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | - |
-| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-10-22 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2024-10-22 | - |  | - | - |
 | [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-10-22 | - |  | - | - |
