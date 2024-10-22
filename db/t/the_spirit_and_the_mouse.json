@@ -3,8 +3,8 @@
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 620,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 482,
   "Ranking_EOS_NewPlayers": 82,
@@ -196,18 +196,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 81,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-10-22T09:59:05.6056463+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 81,
-  "NumberOfAwardsMax": 81,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 81
+      "Count": 87
     }
   ],
   "EOS_Progressed": 154965,
@@ -642,9 +648,9 @@
   "FirstSeen": "2022-10-01T10:03:03.0283812+00:00",
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
-  "LastChanged": "2024-10-21T11:01:12.7768968+00:00",
+  "LastChanged": "2024-10-22T09:59:05.6056461+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:10.8297352+00:00",
   "LastUpdate_AppInfo": "2024-10-21T16:57:05.5932929+00:00",
-  "LastUpdate_Ratings": "2024-10-22T07:59:31.02885+00:00",
+  "LastUpdate_Ratings": "2024-10-22T09:59:05.6056466+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:10.8297653+00:00"
 }
