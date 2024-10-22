@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-10-22 | - |  | - | - |
+| [Legion TD 2](games/5/524c3386e7e6470a8d8400cc51d92296.md) | 2024-10-22 | 78 (1,000 XP) | 2 | - | - |
 | [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | 0 |
 | [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | 0 |
 | [StarHeroes](games/1/1b9c3a425989479fb81f9b322c566a91.md) | 2024-10-21 | - |  | - | - |
