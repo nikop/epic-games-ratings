@@ -4,7 +4,7 @@
   "ProductSlug": "hitman/standard-edition",
   "Ranking_Rating": 415,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -3724,10 +3724,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1810,
       "NumberOfAwardsMax": 252
+    },
+    {
+      "Time": "2024-10-21T23:59:05.7175609+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1811,
+      "NumberOfAwardsMax": 252
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1810,
+  "NumberOfAwards": 1811,
   "NumberOfAwardsMax": 252,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3765,7 +3771,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3803,8 +3809,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2024-10-20T05:59:55.7675955+00:00",
+  "LastChanged": "2024-10-21T23:59:05.7175607+00:00",
   "LastUpdate_AppInfo": "2024-10-21T18:57:45.2177122+00:00",
-  "LastUpdate_Ratings": "2024-10-21T22:00:05.4340641+00:00",
+  "LastUpdate_Ratings": "2024-10-21T23:59:05.7175611+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:07:23.898785+00:00"
 }
