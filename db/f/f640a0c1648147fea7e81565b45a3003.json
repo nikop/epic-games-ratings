@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-space-marine-2",
   "Ranking_Rating": 250,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -979,10 +979,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 1264,
       "NumberOfAwardsMax": 716
+    },
+    {
+      "Time": "2024-10-22T06:00:07.6951989+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1266,
+      "NumberOfAwardsMax": 716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1264,
+  "NumberOfAwards": 1266,
   "NumberOfAwardsMax": 716,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1014,7 +1020,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 71
+      "Count": 73
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1484,9 +1490,9 @@
   "FirstSeen": "2024-09-09T17:59:34.2597996+00:00",
   "FirstSeenRating": "2024-09-10T15:57:34.5232299+00:00",
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged": "2024-10-22T03:59:31.3484208+00:00",
+  "LastChanged": "2024-10-22T06:00:07.6951988+00:00",
   "LastChanged_Achievements": "2024-10-17T05:12:14.6665363+00:00",
   "LastUpdate_AppInfo": "2024-10-19T05:57:06.7720064+00:00",
-  "LastUpdate_Ratings": "2024-10-22T03:59:31.3484214+00:00",
+  "LastUpdate_Ratings": "2024-10-22T06:00:07.6951993+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:14.6665843+00:00"
 }
