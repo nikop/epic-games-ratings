@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 952,
   "Ranking_Popularity": 403,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2760,10 +2760,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 1214,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-10-22T03:59:42.7711361+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1216,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1214,
+  "NumberOfAwards": 1216,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2825,7 +2831,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2858,8 +2864,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-10-20T03:58:37.2396913+00:00",
+  "LastChanged": "2024-10-22T03:59:42.771136+00:00",
   "LastUpdate_AppInfo": "2024-10-21T03:17:25.8642903+00:00",
-  "LastUpdate_Ratings": "2024-10-22T03:15:02.028817+00:00",
+  "LastUpdate_Ratings": "2024-10-22T03:59:42.7711367+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:27.3909017+00:00"
 }

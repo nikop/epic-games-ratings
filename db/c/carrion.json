@@ -2,7 +2,7 @@
   "ID": "7c6d889f36124ae4b6269f8e1698a547",
   "Name": "CARRION",
   "ProductSlug": "carrion",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 745,
   "Ranking_PopularitySum": 745,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -293,6 +293,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-22T03:57:59.3334403+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -310,8 +316,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:03.1794316+00:00",
-  "LastChanged": "2024-10-17T03:15:38.7744011+00:00",
+  "LastChanged": "2024-10-22T03:57:59.3334401+00:00",
   "LastUpdate_AppInfo": "2024-10-21T11:57:03.4961949+00:00",
-  "LastUpdate_Ratings": "2024-10-22T02:12:23.643132+00:00",
+  "LastUpdate_Ratings": "2024-10-22T03:57:59.3334408+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:11.4400971+00:00"
 }
