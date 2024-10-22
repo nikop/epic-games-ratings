@@ -3,15 +3,16 @@
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
 Rating: 3.86 (Ranked 1,311)  
 ## Awards
-Max (Relaxing): 24  (Ranked 708)  
-Sum: 89 (Ranked 615)  
-Diff (max vs sum): 93  
+Max (Extremely Fun): 29  (Ranked 674)  
+Sum: 116 (Ranked 589)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
+| This game is Extremely Fun | 29 |
 | This game is Relaxing | 24 |
-| This game is Extremely Fun | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game has a Creative Community | 21 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -26,4 +27,4 @@ Diff (max vs sum): 93
 | 2024-10-19 | 3.82 | 0 | 0 |
 | 2024-10-20 | 3.85 | 22 | 22 |
 | 2024-10-21 | 3.85 | 24 | 88 |
-| 2024-10-22 | 3.86 | 24 | 89 |
+| 2024-10-22 | 3.86 | 29 | 116 |

@@ -3,8 +3,8 @@
   "Name": "Empyrion - Galactic Survival",
   "ProductSlug": "empyrion-galactic-survival-fbd99f",
   "Ranking_Rating": 1311,
-  "Ranking_Popularity": 708,
-  "Ranking_PopularitySum": 615,
+  "Ranking_Popularity": 674,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -288,18 +288,24 @@
       "Rating": 3.86,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-10-22T15:59:27.2845012+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
-  "NumberOfAwardsMax": 24,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 29,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 29
     },
     {
       "Text": "This game has a Creative Community",
@@ -318,6 +324,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -332,8 +344,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-10T17:59:00.9512561+00:00",
   "FirstSeenRating": "2024-10-11T17:59:51.1913523+00:00",
-  "LastChanged": "2024-10-22T08:59:18.2574657+00:00",
+  "LastChanged": "2024-10-22T15:59:27.284501+00:00",
   "LastUpdate_AppInfo": "2024-10-17T15:57:11.7599968+00:00",
-  "LastUpdate_Ratings": "2024-10-22T14:57:08.3863656+00:00",
+  "LastUpdate_Ratings": "2024-10-22T15:59:27.2845014+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:10.8401015+00:00"
 }
