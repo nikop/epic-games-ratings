@@ -2,9 +2,9 @@
   "ID": "edd938a6d7ec4a55ab82bba8f8dd5b22",
   "Name": "Empyrion - Galactic Survival",
   "ProductSlug": "empyrion-galactic-survival-fbd99f",
-  "Ranking_Rating": 1313,
+  "Ranking_Rating": 1310,
   "Ranking_Popularity": 707,
-  "Ranking_PopularitySum": 615,
+  "Ranking_PopularitySum": 613,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2024-10-11T17:59:51.1913525+00:00",
@@ -270,10 +270,16 @@
       "Rating": 3.85,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-10-22T02:12:09.7299568+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 89,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88,
+  "NumberOfAwards": 89,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -287,7 +293,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -314,8 +320,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-10T17:59:00.9512561+00:00",
   "FirstSeenRating": "2024-10-11T17:59:51.1913523+00:00",
-  "LastChanged": "2024-10-21T19:57:52.3570367+00:00",
+  "LastChanged": "2024-10-22T02:12:09.7299566+00:00",
   "LastUpdate_AppInfo": "2024-10-17T15:57:11.7599968+00:00",
-  "LastUpdate_Ratings": "2024-10-21T23:00:27.9863761+00:00",
+  "LastUpdate_Ratings": "2024-10-22T02:12:09.7299571+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:10.8401015+00:00"
 }

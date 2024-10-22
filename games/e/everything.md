@@ -1,7 +1,7 @@
 # Everything
 [Store](https://store.epicgames.com/en-US/p/everything)  
 [View Rawdata](../../db/e/everything.json)  
-Rating: 4.61 (Ranked 468)  
+Rating: 4.61 (Ranked 467)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

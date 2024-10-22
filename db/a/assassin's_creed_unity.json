@@ -2,7 +2,7 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 1327,
@@ -4402,10 +4402,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1855,
       "NumberOfAwardsMax": 1336
+    },
+    {
+      "Time": "2024-10-22T02:11:59.6366372+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1856,
+      "NumberOfAwardsMax": 1336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1855,
+  "NumberOfAwards": 1856,
   "NumberOfAwardsMax": 1336,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4425,7 +4431,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4505,8 +4511,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-10-21T08:58:30.7399207+00:00",
+  "LastChanged": "2024-10-22T02:11:59.6366367+00:00",
   "LastUpdate_AppInfo": "2024-10-21T17:57:21.6620674+00:00",
-  "LastUpdate_Ratings": "2024-10-21T23:00:13.55322+00:00",
+  "LastUpdate_Ratings": "2024-10-22T02:11:59.6366378+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:11:13.9859621+00:00"
 }

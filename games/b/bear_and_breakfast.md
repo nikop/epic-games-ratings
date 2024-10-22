@@ -1,14 +1,14 @@
 # Bear and Breakfast
 [Store](https://store.epicgames.com/en-US/p/bear-and-breakfast-77c209)  
 [View Rawdata](../../db/b/bear_and_breakfast.json)  
-Rating: 4.61 (Ranked 468)  
+Rating: 4.61 (Ranked 467)  
 ## Awards
-Max (Great for Beginners): 53  (Ranked 578)  
-Sum: 363 (Ranked 471)  
-Diff (max vs sum): 107  
+Max (Great for Beginners): 56  (Ranked 570)  
+Sum: 366 (Ranked 470)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 53 |
+| This game is Great for Beginners | 56 |
 | This game has Diverse Characters | 41 |
 | This game has Amazing Characters | 37 |
 | This game is Extremely Fun | 37 |
@@ -52,3 +52,4 @@ Diff (max vs sum): 107
 | 2024-10-19 | 4.61 | 43 | 265 |
 | 2024-10-20 | 4.61 | 43 | 334 |
 | 2024-10-21 | 4.61 | 53 | 363 |
+| 2024-10-22 | 4.61 | 56 | 366 |

@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.75 (Ranked 168)  
+Rating: 4.74 (Ranked 190)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -1016,3 +1016,4 @@ Diff (max vs sum): -17
 | 2024-10-19 | 4.74 | - | 11,380 | 24,040 |
 | 2024-10-20 | 4.74 | - | 11,393 | 24,091 |
 | 2024-10-21 | 4.75 | - | 11,407 | 24,128 |
+| 2024-10-22 | 4.74 | - | 11,407 | 24,128 |

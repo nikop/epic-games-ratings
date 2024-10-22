@@ -1,17 +1,17 @@
 # Empyrion - Galactic Survival
 [Store](https://store.epicgames.com/en-US/p/empyrion-galactic-survival-fbd99f)  
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
-Rating: 3.85 (Ranked 1,313)  
+Rating: 3.86 (Ranked 1,310)  
 ## Awards
 Max (Relaxing): 24  (Ranked 707)  
-Sum: 88 (Ranked 615)  
-Diff (max vs sum): 92  
+Sum: 89 (Ranked 613)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 24 |
 | This game is Extremely Fun | 22 |
 | This game has Amazing Storytelling | 22 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -26,3 +26,4 @@ Diff (max vs sum): 92
 | 2024-10-19 | 3.82 | 0 | 0 |
 | 2024-10-20 | 3.85 | 22 | 22 |
 | 2024-10-21 | 3.85 | 24 | 88 |
+| 2024-10-22 | 3.86 | 24 | 89 |
