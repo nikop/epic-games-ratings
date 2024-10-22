@@ -3,7 +3,7 @@
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
   "Ranking_Rating": 138,
-  "Ranking_Popularity": 390,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -3193,11 +3193,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 1461,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2024-10-22T13:58:10.6036715+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1463,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1461,
-  "NumberOfAwardsMax": 192,
+  "NumberOfAwards": 1463,
+  "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3210,7 +3216,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 192
+      "Count": 194
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3272,8 +3278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2024-10-21T20:58:20.1252401+00:00",
+  "LastChanged": "2024-10-22T13:58:10.6036713+00:00",
   "LastUpdate_AppInfo": "2024-10-21T15:57:19.8269804+00:00",
-  "LastUpdate_Ratings": "2024-10-22T11:58:58.7252483+00:00",
+  "LastUpdate_Ratings": "2024-10-22T13:58:10.6036722+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:47.257463+00:00"
 }

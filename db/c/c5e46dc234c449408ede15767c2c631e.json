@@ -2,9 +2,9 @@
   "ID": "c5e46dc234c449408ede15767c2c631e",
   "Name": "Off The Grid - Early Access",
   "ProductSlug": "off-the-grid-7e3cc5",
-  "Ranking_Rating": 1310,
+  "Ranking_Rating": 1307,
   "Ranking_Popularity": 639,
-  "Ranking_PopularitySum": 526,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.86,
+  "Rating": 3.87,
   "RatingHistory": [
     {
       "Time": "2024-10-08T22:00:55.9352561+00:00",
@@ -294,10 +294,16 @@
       "Rating": 3.86,
       "NumberOfAwards": 234,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-10-22T13:57:26.457532+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 234,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -347,7 +353,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -368,8 +374,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-22T06:01:43.042679+00:00",
+  "LastChanged": "2024-10-22T13:57:26.4575319+00:00",
   "LastUpdate_AppInfo": "2024-10-22T13:15:07.9029912+00:00",
-  "LastUpdate_Ratings": "2024-10-22T11:58:14.5633841+00:00",
+  "LastUpdate_Ratings": "2024-10-22T13:57:26.4575323+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:02.0589873+00:00"
 }

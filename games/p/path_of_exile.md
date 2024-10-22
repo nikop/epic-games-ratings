@@ -1,12 +1,12 @@
 # Path of Exile
 [Store](https://store.epicgames.com/en-US/p/path-of-exile)  
 [View Rawdata](../../db/p/path_of_exile.json)  
-Rating: 4.62 (Ranked 441)  
+Rating: 4.62 (Ranked 440)  
 Number of Ratings: 3,102  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,521  (Ranked 116)  
-Sum: 12,720 (Ranked 110)  
-Diff (max vs sum): 6  
+Sum: 12,720 (Ranked 111)  
+Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,521 |
