@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | - |
+| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | 0 |
 | [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | 0 |
 | [StarHeroes](games/1/1b9c3a425989479fb81f9b322c566a91.md) | 2024-10-21 | - |  | - | - |
 | [Waking Tides](games/b/bd24aa66e5c94365a582439b86df6fd2.md) | 2024-10-21 | - |  | - | - |

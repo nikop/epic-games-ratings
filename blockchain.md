@@ -67,7 +67,7 @@
 | [X-WAR](games/d/d18b872280c94988b11e839c70513ee1.md) | 2024-11-11 | - |  | - | - |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-10-27 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
-| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | - |
+| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2024-10-22 | - |  | - | 0 |
 | [StarHeroes](games/1/1b9c3a425989479fb81f9b322c566a91.md) | 2024-10-21 | - |  | - | - |
 | [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.86 | 35 |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | 0 |
