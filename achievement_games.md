@@ -1350,7 +1350,7 @@
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 108 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,599,646 | 4.48 | 0 |
 | [RAGE 2](games/r/rage_2.md) | 2021-02-18 | 65 (1,435 XP) | 9,845 | 4.26 | 3,542 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 606 (3,030 XP) | 364,702 | 4.07 | 7,102 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 606 (3,030 XP) | 364,702 | 4.07 | 7,104 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,592 | 4.72 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 662,943 | - | 0 |
