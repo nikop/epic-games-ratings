@@ -4,7 +4,7 @@
   "ProductSlug": "lost-castle-abb2e2",
   "Ranking_Rating": 1036,
   "Ranking_Popularity": 258,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1739,10 +1739,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 905,
       "NumberOfAwardsMax": 615
+    },
+    {
+      "Time": "2024-10-22T14:58:31.0336148+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 873,
+      "NumberOfAwardsMax": 615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 905,
+  "NumberOfAwards": 873,
   "NumberOfAwardsMax": 615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2664,9 +2670,9 @@
   "FirstSeen": "2024-02-08T18:59:09.7426423+00:00",
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:13.2759118+00:00",
-  "LastChanged": "2024-10-22T13:17:08.5319936+00:00",
+  "LastChanged": "2024-10-22T14:58:31.0336146+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:01.0541548+00:00",
   "LastUpdate_AppInfo": "2024-10-18T15:57:13.7021139+00:00",
-  "LastUpdate_Ratings": "2024-10-22T13:17:08.531994+00:00",
+  "LastUpdate_Ratings": "2024-10-22T14:58:31.0336152+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:01.0542409+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
 Rating: 3.86 (Ranked 1,311)  
 ## Awards
-Max (Relaxing): 24  (Ranked 707)  
+Max (Relaxing): 24  (Ranked 708)  
 Sum: 89 (Ranked 615)  
-Diff (max vs sum): 92  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 24 |
