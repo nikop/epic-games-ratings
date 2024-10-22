@@ -5,7 +5,7 @@
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | 31 (1,000 XP) | 20 | - | 0 |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | 36 (1,000 XP) | 14 | - | - |
 | [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | 5 (1,000 XP) | 1 | - | - |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | 39 (1,000 XP) | 46,531 | 4.18 | 355 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | 39 (1,000 XP) | 46,531 | 4.18 | 377 |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | 20 (1,000 XP) | 1,387 | 4.33 | 22 |
 | [SeaOrama: World of Shipping](games/b/b78765716f0f4fa0b9940efc0281ea54.md) | 2023-12-14 | 53 (1,000 XP) | 14 | - | 0 |
 | [RAGE 2](games/r/rage_2.md) | 2021-02-18 | 65 (1,435 XP) | 9,845 | 4.26 | 3,542 |
@@ -27,7 +27,7 @@
 | [Battle Bits](games/d/dd2c84892f4945a48cf4213842f57fa0.md) | 2025-04-28 | 82 (1,000 XP) | 0 | - | - |
 | [Two Falls (Nishu Takuatshina)](games/8/864151ebfd544c4fb3f1de25e361713f.md) | 2024-11-08 | 12 (1,000 XP) | 0 | - | - |
 | [The Magical Mixture Mill](games/a/afb1eb5b870649929df0d5cd7a9afb94.md) | 2024-09-26 | 50 (1,000 XP) | 1 | - | 0 |
-| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | 28 (1,000 XP) | 87,281 | 4.39 | 0 |
+| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | 28 (1,000 XP) | 87,281 | 4.40 | 0 |
 | [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-27 | 16 (1,000 XP) | 10 | - | - |
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | 39 (1,000 XP) | 1,348 | - | 0 |
 | [Potion Tycoon](games/b/bb556387682d4fc3b7b4a5c8760a7cca.md) | 2024-10-04 | 39 (1,000 XP) | 6 | - | 0 |
@@ -218,7 +218,7 @@
 | [Nerth Downfall](games/d/dad8521e64e74ece84dafbb0470b8ccf.md) | 2024-06-24 | 11 (1,000 XP) | 1 | - | 0 |
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | 7 (1,000 XP) | 71 | - | 0 |
 | [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-08-05 | 48 (1,000 XP) | 69 | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 120,512 | 4.44 | 212 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 120,512 | 4.43 | 213 |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-12 | 57 (1,000 XP) | 25 | - | 0 |
 | [Flashback 2](games/f/flashback_2.md) | 2024-06-30 | 21 (1,000 XP) | 3 | - | - |
 | [The Oregon Trail](games/1/1d6775ba73a54669817f482fb89f9dae.md) | 2024-07-04 | 26 (1,195 XP) | 221 | - | 0 |
@@ -353,7 +353,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 30 | - | 0 |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | 33 (1,000 XP) | 0 | - | 0 |
 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 2023-10-17 | 7 (1,000 XP) | 10 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 163,707 | 3.77 | 297 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 163,707 | 3.77 | 298 |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 70,215 | 3.82 | 141 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 27 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 52 | - | 0 |
@@ -899,7 +899,7 @@
 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 2023-07-27 | 14 (1,000 XP) | 609 | - | 0 |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 51 | - | 0 |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 16 | - | 0 |
-| [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 48,254 | 3.09 | 0 |
+| [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 48,254 | 3.14 | 0 |
 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 2023-07-05 | 8 (1,000 XP) | 1 | - | 0 |
 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 2023-06-30 | 30 (1,000 XP) | 378 | - | 0 |
 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 2023-06-30 | 13 (1,000 XP) | 395 | - | 0 |
